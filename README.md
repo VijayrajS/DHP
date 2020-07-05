@@ -7,4 +7,5 @@ https://arxiv.org/abs/2004.04225
 
 https://www.english-corpora.org/corona/
 
+https://blog.aylien.com/free-coronavirus-news-dataset/
 
