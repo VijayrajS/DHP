@@ -1,0 +1,41 @@
+ICMR Covid vaccine trial protocol unclear, not enough time, say scientists tasked with job
+New Delhi: It was a WhatsApp forward that alerted one of the principal investigators of the clinical trial for Covaxin, the Covid vaccine India is developing, to the expedited process the Indian Council for Medical Research (ICMR) was authorising.
+The scientist said that before he could check for an email from Dr Balram Bhargav, the ICMR director general, he received the email as a forward on WhatsApp from a friend.
+“It seems like the whole country received the email before us,” he said, both surprised and upset over how the trial has been turned into an eagerly watched race against time.
+ThePrint had Friday reported that Dr Bhargav had written a letter to 12 principal investigators informing them their institutes had been chosen to conduct human trials. The vaccine is being developed by ICMR in collaboration with Bharat Biotech.
+The trial, Bhargav wrote, was of “topmost” priority and clinics were “strictly advised to fast track all approvals related to initiation of clinical trial”. The ICMR said it hoped to “launch the vaccine for public health use latest by 15 August 2020 after completion of all clinical trials.”
+One of the investigators ThePrint spoke to said they hadn’t yet received the email by Friday evening.
+“Our ethics committee has approved the trial, but we haven’t received any email or communication from the ICMR yet,” Dr Sagar Redkar of Redkar Hospital and Research Centre in Goa told ThePrint.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+“Our role is to administer the vaccine, and the monitoring will be done by a central laboratory. We’re still waiting for the number of participants we can recruit and it seems paperwork is still going on, but I’m not sure,” he said.
+ThePrint spoke to six of the 12 principal investigators and found that many of them were concerned about the short time frame, several were yet to get clearances from their ethics committee and others differed on the basic protocol to be followed for the trial.
+ThePrint sent emails to Bharat Biotech and ICMR with queries. Bharat Biotech’s spokesperson referred to a press release that was issued on 29 June, according to which the company completed preclinical trials that were “expedited through national regulatory protocols”. “The results from these studies have been promising and show extensive safety and effective immune responses,” the statement further said. The results of the preclinical trial have not been published yet.
+The ICMR did not respond until the time of publishing this report.
+Also read: No ICMR panel or GoM meetings, no briefings — Modi govt ‘retreats’ even as Covid cases surge
+Normally, trials go through three to four phases over several years. In the preclinical trial phase, the drug is tried first in laboratories and on animals. It then moves to Phase I in which it is administered to a small number of people (about 100). When this phase establishes the safety of the drug, it is cleared for Phase II in which a larger pool of people (about 300) are tested. Phase III establishes efficacy over a sample size of thousands of subjects.
+This process takes an average of 10 years, and has only a 6 per cent probability that a vaccine will be fit to be given approval to be marketed, found a 2013 study published in PLOS One.
+While the scientists agree that a pandemic warrants a faster turnaround time, launching a vaccine in about 40 days of its Phase I and II is unheard of.
+According to Dr Bhargava’s letter, ICMR and Bharat Biotech are jointly working “for the preclinical as well as clinical development of this vaccine”.
+It was only on 9 May that the company received the isolated Covid-19 virus from ICMR’s National Institute of Virology in Pune. At the time, the ICMR spokesperson had told ThePrint that the vaccine would need six months to a year to be developed.
+Also read: From Phase 0 to long-term study, a look at how long it actually takes to develop a vaccine
+Currently, the clinical sites chosen to conduct the trials have permission to administer the vaccine to only 50 first participants at a low dose, examine their blood sample after 28 days for antibodies, send results to the Data Safety Monitoring Committee, and then finally seek approval from the Drug Controller General of India to conduct the trial for the next 50 participants, who will be administered a higher dose.
+“It is a scientific process, it cannot be rushed, you have to wait for 28 days for the antibodies to appear. They [ICMR] are scientific people. I don’t know what pressure they are under to make these statements,” said another principal investigator who did not want to be named.
+The scientist added that any principal investigator would not risk the life of a participant in order to fast track this process.
+According to the trial’s protocol as listed in the Clinical Trial Registry of India (CTRI), Phase II trials can only begin after the Central Drugs Standard Control Organisation (CDSCO) gives approval to the drug based on the assessment of the Phase I results. Only some of the 12 chosen centres, however, have received the protocol for Phase II trials.
+“We have only got the protocol for Phase II, so we will be following that. Phase I is being done elsewhere. We haven’t yet approached our ethics committee, so it will take time,” Dr R. Vasudev, principal investigator from King George Hospital in Visakhapatnam told ThePrint. “We are not even sure what to do right now. If our ethics committee declines, then we can’t do anything.”
+The letter asks that the trials finish recruiting participants no later than 7 July. Dr Venkata Rao, principal investigator at Institute of Medical Sciences and SUM Hospital, Odisha, said this deadline would invariably be delayed.
+“To put it simply, not every centre is going to start the trials at the same time. There will be a lag between the clinics.”
+Also read: Harsh Vardhan asks scientists to hurry up: Deliver Covid-19 weapons before the war is over
+A third principal investigator told ThePrint that he plans to begin recruiting subjects from the next working day, i.e. on Monday, even though the ethics committee has not given its nod yet.
+Ethics committees give their approval for studies taking into consideration risks and benefits of the study and if it follows the national ethical and safety protocols. They also monitor the study after its approval.
+Of the 12 sites, only six have received approval from their ethics committees until now, while the rest are under review.
+“Our primary objective is the safety of the subjects participating in the trial, if something happens to the subjects, the principal investigators are held liable to be prosecuted and punished,” said Dr Prabhakar Reddy, clinical pharmacology, Nizam’s Institute of Medical Sciences, Hyderabad.
+When asked why a Japanese encephalitis vaccine was used as a control arm instead of the standard of care which, in this case, would be no vaccine, placebo or inert substance, Dr Reddy said the guidelines have changed to using a placebo.
+When asked why the changed protocol is not reflected on the CTRI website, he said, “People are so busy, they are doing their work, they don’t even have time to do it.”
+However, other principal investigators seemed unaware of this development.
+Dr Chandrasekhar Gillurkar from Gillukar Multispeciality Hospital in Nagpur said that, originally, the study chose to not administer any vaccine to the control group.
+“Initially, they were going to observe the control group without a vaccine. But then there was a problem, which is why they added the Japanese encephalitis vaccine,” he said, adding he didn’t know why this particular vaccine was chosen.
+“It will have to be discussed with Bharat Biotech.”
+Also read: Covid vaccine could come in a year, but life-as-usual years away, says WHO chief scientist

@@ -1,0 +1,43 @@
+Coronavirus could become resistant to Covid drug remdesivir, study says
+New Delhi: A team of Indian scientists has suggested that the SARS-CoV-2 virus may evolve to develop resistance to remdesivir, one of the few antiviral drugs approved for experimental treatment among Covid-19 patients. 
+The study was conducted by researchers from North-Eastern Hill University, Shillong, Japan’s Center for Biosystems Dynamics Research, RIKEN, and the Solan-based Jaypee University of Information Technology. Posted on the preprint repository bioRxiv on 29 June, it is yet to be peer-reviewed. 
+According to the researchers, mutations in the virus may eventually render remdesivir ineffective against the virus. The findings of the study, the authors said, can be used by structural biologists to better modify drugs “so that we are prepared”.
+The researchers have touted another experimental drug — EIDD-2801 — as a better alternative against drug resistance. EIDD-2801 was the only drug used by researchers to draw a comparison.  
+Speaking to ThePrint, an independent expert said the study was a “good starting point”, but noted that the use of just one drug for comparison limited its scope. 
+A second expert suggested the study might be premature, noting that the use of remdesivir is restricted, which means any mutation in the virus on account of the drug is unlikely to be widely transmitted.
+Also Read: India could be producing over 20,000 vials of Remdesivir per day by month-end: Govt data
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+There is no specific treatment for the novel coronavirus, officially known as SARS-CoV-2, so far. However, remdesivir, manufactured by the US pharma giant Gilead Sciences, has been approved in India for prescription-based emergency use among mild to moderate cases of Covid-19. 
+All microorganisms have a tendency to evolve over time. Regularly switching up the genetic code is an essential part of how a virus evolves. Some viruses, such as the ones that cause influenza, change their genetic code extremely rapidly, which means vaccines have to be regularly updated to keep them effective.
+It’s for this reason that the flu vaccine, recommended especially for older people, needs to be taken annually. 
+The novel coronavirus, which causes Covid-19, changes its genetic code as well, but the process is slower than its other coronavirus cousins. 
+Viruses gaining resistance to drugs that were once very effective is not unheard of. For example, azidothymidine (AZT), which was the first drug approved for HIV treatment, stopped working as the virus gained resistance to the drug. 
+“Similarly, when penicillin was discovered, it was a wonder drug. Any infection was being cleared by penicillin. Now, all the microbes have gained resistance to penicillin,” said Timir Tripathi of North-Eastern Hill University, one of authors of the bioRxiv paper. 
+Also Read: Remdesivir to HCQ: What works against Covid-19, and what doesn’t
+For the study, researchers looked at how the drug remdesivir interacts with SARS-CoV-2. The drug binds to a protein called nsp-12, which is part of the RNA-dependent-RNA-polymerase (RdRp) enzyme that is key to viral replication.  
+“Once remdesivir binds to the nsp-12, the virus cannot replicate,” Timir Tripathi told ThePrint. 
+The researchers looked at the complex formed by remdesivir and nsp-12 to identify the exact remdesivir binding site. 
+“We found 56 amino acid residues in which remdesivir binds,” Tripathi said. Amino acids are compounds that form the building blocks of proteins. Each amino acid comprises an amine (made of one nitrogen and two hydrogen molecules) and a carboxyl group (one carbon, two oxygen and one hydrogen molecule), along with a group of molecules known as the ‘residue’. 
+This residue group is unique in each amino acid and lends the acid its unique properties.
+RNA, or the genetic material inside the virus, is like a set of instructions that determine the synthesis of the amino acids and, thereby, the proteins expressed by the virus. 
+By using supercomputers to simulate the possible genetic mutations that would lead to a change in each of these amino acid residues, the team identified those amino acids that have the strongest potential to undergo changes. Subsequently, they identified those mutations that could decrease the potential of remdesivir to work.
+“There are a number of studies that will tell you that the virus is likely to mutate to become resistant to the drug. But we have identified the locations at which it will mutate,” Tripathi said.
+The study also found that EIDD-2801, an experimental antiviral that is being investigated in clinical trials as a treatment for Covid-19, will be more effective in preventing drug resistance. 
+Even upon certain mutations that are detrimental to remdesivir, EIDD-2801 will bind with nsp-12.
+Also Read: Govt ‘reviewing’ remdesivir use for Covid after hospitals report liver damage in patients
+The findings of the study can be used by structural biologists to better modify drugs so that we are prepared for possible mutations in the virus, Tripathi said. 
+“Drug development is a continuous process. Once you develop a drug against a particular parasite, it will not work after some time,” he said.
+“We already have effective drugs for malaria, but research on new malarial drugs still continues because, after sometime, this drug will not work. Many years back, people would just take chloroquine for malaria, but it does not work anymore,” he added. 
+Experts have urged caution in interpreting the study’s conclusions. 
+“The study is a preliminary step to design questions or hypothesis about remdesevir resistance, that can then be tested in artificial viral culture systems in the lab,” said Subhojit Sen, a researcher at the Mumbai-based Centre for Excellence in Basic Sciences, who was not part of the study. 
+At this point, the study is computational and purely based on theoretical calculations, and has no biological experimental evidence to support its findings, he added.
+Moreover, he said, SARS-CoV-2 mutates slowly — almost 10 times slower than HIV — and, therefore, it will take a much longer time for many of these mutational effects to come into play together to create effective resistance against remdesivir.
+“The paper also does not test how these remdesivir-resistance mutations themselves affect the function of nsp-12, which is critical for viral replication,” he added. If the mutation affects the protein function such that the viral replication is also compromised, the spread of resistance will be curtailed as well, he said. 
+“Even if resistance does occur, the virus will remain in quarantined patients and this mutation should not spread in populations, as against the ‘naturally occurring’ mutations in coronavirus, which are likely to spread outside hospital settings,” Sen said.  
+“Hence, it is unlikely that these mutations will cause havoc unless remdesivir becomes freely available like the antibiotic penicillin, and its large scale off-the-shelf use will create problems. Current use of remdesivir is far from that reality,” he said.
+S. Krishnaswamy, a structural biologist who retired from Madurai Kamaraj University, said the study had a major limitation in that it chose only one drug — EIDD-2801 — to compare with remdesivir.
+“The team should have tested more drug candidates if they wanted to make a genuine comparison,” added Krishnaswamy, who was not part of the research either. 
+He said the data presented is not convincing enough to make the argument that EIDD 2801 will fare better than remdesivir.
+Nevertheless, the paper can be a good starting point for further laboratory studies, he added.

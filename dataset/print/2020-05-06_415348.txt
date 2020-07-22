@@ -1,0 +1,31 @@
+Govt ‘thanks’ French ethical hacker who flagged Aarogya Setu, but dismisses security concern
+New Delhi: The Narendra Modi government Wednesday said no data or security breach has been identified in Aarogya Setu, after an ethical hacker raised concerns about a potential security issue in the app.
+Aarogya Setu is the government’s mobile application, launched last month, to help in contact-tracing Covid-19 cases and disseminating medical advisories to users.
+“Hi @SetuAarogya, A security issue has been found in your app. The privacy of 90 million Indians is at stake. Can you contact me in private? Regards, PS: @RahulGandhi was right,” posted Elliot Alderson, a French hacker and cyber security expert.
+In a series of tweets thereafter, he claimed that the National Informatics Centre (NIC) and the Indian Computer Emergency Response Team (ICERT), both government bodies, had contacted him and he had disclosed the issue to them. However, he said, he was waiting for a fix from their end and would disclose the issue if it was not fixed within a reasonable amount of time. He also posted a screenshot of an error page.
+Is the app working on your side? pic.twitter.com/GH9TKer87B
+— Elliot Alderson (@fs0c131y) May 5, 2020
+Dismissing the claims, the government said “no personal information of any user has been proven to be at risk by this ethical hacker”.
+“We are continuously testing and upgrading our systems. Team Aarogya Setu assures everyone that no data or security breach has been identified,” the government said through the app’s Twitter handle.
+The use of the Aarogya Setu app, designed to warn a user if an infected person is in the vicinity, has been increasingly deployed to help track and limit the spread of Covid-19. The Centre on 4 May mandated that the app be downloaded on the phones of everyone stepping out or returning to offices from this week, while in Noida, not having the app is a punishable offence, with a jail term of up to six months.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Also read: Pakistani operatives create fake Arogya Setu app to ‘steal info’ from Indian defence forces
+In a statement, the Aarogya Setu team released a point-by-point rebuttal to Alderson, who posted the document on his Twitter timeline as well.
+In it, the government addressed concerns over the app fetching user location and privacy risk to user data among other issues. On location data, the statement clarified that it was design and this information is detailed in the app’s privacy policy.
+The app fetches users’ location and stores on the server in a secure, encrypted, anonymised manner — at the time of registration, at the time of self assessment, when users submit their contact tracing data voluntary through the app or when it fetches the contact tracing data of users after they have turned Covid-19 positive, it added.
+Statement from Team #AarogyaSetu on data security of the App. pic.twitter.com/JS9ow82Hom
+— Aarogya Setu (@SetuAarogya) May 5, 2020
+
+On the issue that users can get Covid-19 stats displayed on the home screen by changing the radius and latitude-longitude using a script, Aarogya Setu said all this information is already public for all locations and hence does not compromise on any personal or sensitive data.
+The government underscored that no personal information of any user was at risk and said they were continuously testing and upgrading their systems.
+“We thank the ethical hacker on engaging with us. We encourage any users who identify a vulnerability to inform us immediately…,” it said.
+Responding to Aarogya Setu’s clarification, Alderson tweeted: “Basically, you said ‘nothing to see here’. We will see. I will come back to you tomorrow.”
+Alderson’s tweets created a flutter on Twitter, with several asking him questions about the alleged security issue. One Twitter user asked if Alderson believed the issue was intentional and done by design, to which he replied in the affirmative.
+Do you believe it is intentional and by design?
+— tj (@tjweet) May 5, 2020
+
+On 2 May, Rahul Gandhi had said the app was a sophisticated surveillance system, which has no institutional oversight, as he raised concerns over data security and privacy.
+“Technology can help keep us safe; but fear must not be leveraged to track citizens without their consent,” he posted on Twitter.
+Also read: I downloaded Aarogya Setu app — the twist in season finale of Black Mirror lockdown

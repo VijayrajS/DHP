@@ -1,0 +1,17 @@
+Survey of India’s new app will map geo-tagged Covid-19 data to help fight the pandemic
+New Delhi: The Survey of India has created a new platform to collect geotagged data on infrastructure to help government agencies and healthcare professionals take vital decisions during the Covid-19 outbreak.
+Information regarding biomedical waste disposals, containment areas, available hospitals for Covid-19 cases, ICMR (Indian Council of Medical Research) testing laboratories, and quarantine camps will be integrated on this platform with their latitudinal and longitudinal parametres.
+“We expect volunteers and foot soldiers — the Covid-19 warriors working on the ground, the ASHA and Anganwadi workers to feed information with their locations. It will lead to a good support system for the government and doctors on ground,” Lt. General Girish Kumar, surveyor general of India, told ThePrint.
+To support this platform, a mobile application called SAHYOG has also been created. This app will help collect location specific data with the help of community workers.
+Information parameters required by the government have been incorporated into the SAHYOG app, which will complement the government’s Aarogya Setu app for contact tracing, public awareness, and self-assessment objectives.
+“With SAHYOG, most of the data which is being collected at the state-level will be tagged with the position data,” said Kumar, adding that the Survey of India will also analyse this information once there is a large database.
+“It will help the government improve its response system,” he explained.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Also read: Without mass-testing support, lockdown won’t go a long way in containing Covid
+The new platform is expected to strengthen public health delivery system of the state and central governments by providing necessary information support to workers dealing with the challenges of health, socio-economic distress, and livelihood changes.
+“We already have a lot of geospatial data that would be useful for decision making in the present scenario. We also have detailed data about locations of fire services, banquet halls etc. A lot of this data was not integrated in a single platform. This is a step in that direction,” Pankaj Mishra, deputy surveyor general, told ThePrint.
+He further said that in case the health ministry has specific requirements in future, the Survey of India can also add that to the new platform with the help of SAHYOG.
+“Since no formal land survey can be carried out to make this data quickly available, the mobile app can help crowdsource data,” he said.
+Ashutosh Sharma, secretary, Department of Science and Technology (DST) said, “Integration of demographic information with geospatial data is essential for decision making, governance and development. In the context of Covid-19 spread, this effort will be a special digital enabler for platforms such as Aarogya Setu.”

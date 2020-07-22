@@ -1,0 +1,41 @@
+These 5 anti-viral drugs and therapies could help treat COVID-19
+New Delhi: With the novel coronavirus going from ‘regional crisis’ to ‘pandemic’ status, researchers and pharmaceutical giants are scrambling to find a cure.
+The World Health Organization (WHO) has launched global clinical trials to test possible treatments for COVID-19 across 10 countries as a “solidarity trial”. Some of the treatments to be tested are drugs already being used for other illnesses like HIV, Ebola and malaria.
+Top drugs under trial include anti-malarial medicine chloroquine, anti-viral drug remdesivir, a combination of HIV drugs lopinavir and ritonavir, as well as a combination of the latter two drugs infused with Interferon beta.
+ThePrint lists five medicines and therapies that are being looked at as the possible cure for coronavirus.
+Also read: Vaccine trials to contact tracing app — here are 5 global developments on COVID-19 front
+The popular anti-parasitic medication which treats malaria has been around since the 1940s. US President Donald Trump Thursday called it a “game changer”, and proposed its use for COVID-19 cases.
+However, American drug regulator, Food and Drug Administration (FDA), said “the agency is currently looking at widespread clinical trials of the drug, but it is not yet approved for that use”.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Biotech investor and doctor Mike Pellini was the first to use chloroquine as a possible cure for coronavirus.
+Tech entrepreneur Elon Musk also tweeted that chloroquine was “maybe worth considering” as a potential treatment.
+Chloroquine works by increasing the levels of haem or heme — a substance toxic to the malarial parasite — in the blood. This kills the parasite and stops the infection from spreading.
+According to some earlier studies, “chloroquine has strong antiviral effects on SARS-CoV infection of primate cells”. One study showed that chloroquine interferes with “terminal glycosylation of the cellular receptor, angiotensin-converting enzyme 2”, which may negatively influence the virus-receptor binding and abrogate the infection.
+Chloroquine is widely available in India, and is manufactured by several local companies including Ipca Laboratories, Alembic Pharmaceutricals and Cadila Pharmaceuticals.
+If the drug works as a cure for the novel coronavirus, scaling up production won’t be difficult.
+Foreign drug makers like Abbott, Bayer and Leo Pharmaceuticals also sell this drug in India.
+Also read: 10-year-old US firm with Harvard and MIT brains begins first COVID-19 vaccine trials
+Another drug in the spotlight is remdesivir — an anti-viral developed by drugmaker Gilead, which specialises in manufacturing anti-HIV drugs.
+According to the WHO, remdesivir may have the best shot at treating COVID-19.
+Remdesivir is an investigational broad-spectrum anti-viral drug, which was developed to fight the Ebola virus. It is currently undergoing clinical trials on coronavirus patients in China. WHO expects the trial data to be available within weeks, according to media reports.
+At a press briefing in Beijing, WHO assistant director-general Bruce Aylward said: “There is only one drug right now that we think may have real efficacy, and that’s remdesivir.”
+It was previously tested on humans with the Ebola virus disease, and has shown promise in animal models for treating Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS), which are caused by other coronaviruses.
+Also read: Govt sets up science and tech core team to coordinate efforts against coronavirus
+According to a report in The Guardian which, in turn, quoted a Japanese media report, “medical authorities in China have said a drug used in Japan to treat new strains of influenza appeared to be effective in coronavirus patients”.
+The reports said doctors in Japan are using the drug in clinical studies on COVID-19 patients with mild to moderate symptoms. However, the drug has not shown great results on patients with severe symptoms.
+The reports quoted Zhang Xinmin, an official in China’s science and technology ministry, as saying: “Favipiravir, developed by a subsidiary of Fujifilm with brand name Avigan, had produced encouraging outcomes in clinical trials in Wuhan and Shenzhen involving 340 patients.
+“It has a high degree of safety and is clearly effective in treatment,” Xinmin said.
+The use of favipiravir showed definite improvements in lung condition in 91 per cent of the patients treated with it, compared to 62 per cent of those treated without the drug.
+Also read: One coronavirus patient infects 1.7 people in India, much lower than in China, Italy: Study
+The US FDA is currently evaluating therapies such as convalescent plasma and hyperimmune globulin. These are antibody-rich blood products are taken from the blood donated by people who have recovered from COVID-19. Research is going on to check if these products “could shorten the length, or lessen the severity, of the illness”.
+Japanese drugmaker Takeda Pharmaceutical is also developing a therapy against the coronavirus using blood plasma. Bloomberg reported that with its background in manufacturing immunoglobulin-based products approved by top regulating bodies across the globe, including the US FDA, “the Japanese pharmaceutical company could have an edge because the treatment involves a process that already has approval from regulators”.
+However, Takeda has not yet tested the therapy on any COVID-19 patients.
+Also read: No new cases in China to clean Venice waters — the latest on COVID-19
+Several patients across the globe have reported benefits from treatment with a combination of HIV drugs — lopinavir and ritonavir.
+Lopinavir, which acts against the viral 3CL protease, has modest anti-viral activity against SARS-CoV-2 (the novel coronavirus), according to an study published in The New England Journal of Medicine (NEJM).
+“Together with ritonavir, which increases drug bioavailability, it is in clinical trials, along with the immunomodulator interferon beta-1b, for the treatment of Middle East Respiratory Syndrome (MERS),” the article stated.
+In India, the Union health ministry has also recommended the use of anti-HIV drug combinations for high-risk groups of patients, but there is no current evidence from randomised controlled trials to recommend a specific treatment.
+However, according to another study published in the NEJM, these drugs have failed to cure COVID-19. A clinical trial in Beijing tested the lopinavir-ritonavir combination on people who were severely ill, but the outcomes of 94 people who received them were no different from 100 patients who received standard care, the study stated. However, it drew an open-ended conclusion.
+“In hospitalised adult patients with severe COVID-19, no benefit was observed with lopinavir-ritonavir treatment beyond standard care. Future trials in patients with severe illness may help to confirm or exclude the possibility of a treatment benefit,” the study said.

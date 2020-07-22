@@ -1,0 +1,57 @@
+This is how you can read epidemiological data to understand Covid trends better
+New Delhi/Bengaluru: Over the last few months, epidemiological data to understand and describe coronavirus transmission and Covid-19 disease spread has seen a huge increase. 
+From recovery and death rates to talk about community transmission and mathematical projections, there has been a steady bombardment of complex information.
+Here are some epidemiologists and disease modeling experts making sense of commonly used concepts, and explaining misconceptions we need to be wary of.
+The total number of reported cases in an area doesn’t always reflect the total number of actual infections in a community. For instance, 1.15 lakh cases in Delhi don’t mean the infection spread is limited to this number.
+The reported cases figure in an area is more indicative of the number of tests being conducted in the community, say experts.
+Dr Giridhar R. Babu, professor and head, lifecourse epidemiology, Public Health Foundation of India said, “This disparity between total number of reported cases and total infections is further complicated by variable testing in states. With the current number of variable testing, one cannot conclude parameters such as case fatality rate, cases per million, test positivity rate etc.”
+He added that in order to define the actual total number of cases, a “majority of the people need to get tested in a given state or country”. He also warned that delayed reporting of new cases causes a time lag and results in an “inaccurate estimation”.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+As of Friday, India has recorded 10,03,832 cases and 25,602 deaths, with Maharashtra and Tamil Nadu being the most affected.         
+Asked about misconceptions to be wary about while interpreting Covid data, Dr Tanmay Mahapatra, an epidemiologist and medical doctor working for CARE India in Bihar said, “Owing to several uncertainties in the data, absolute numbers are not always specific.”
+He suggested that ratios, proportions and trends are more accurate for representation of Covid data.
+Also read: Security forces returning from leave bring Covid surge in Nagaland, rest of NE echoes pattern
+Among those who get infected with Covid, the ones who later test negative — not active cases or deceased — are considered to have recovered. The number of recovered cases always lags diagnoses as recovery happens in 14 days after diagnosis on an average.
+The recovery rate is the per cent of people who recover after getting infected. This rate is being widely reported for all the affected regions. India’s recovery rate is currently at 63.3 per cent.
+However, Babu said many factors must be taken into account while analysing this rate. These include number of days taken to recover since the day of confirmation, number of days taken for treatment, comorbidities if any, age of the patient, treatment protocol, health infrastructure being offered by hospitals, and availability of well-trained staff. 
+“Ultimately, most people will recover. The recovery rate will eventually be good. Tracking recovery rate on a day to day basis will not provide additional benefit from the perspective of planning public health actions,” he said.
+“The media obsession with ‘recovery rates’ has always seemed weird to me and it just doesn’t go away, although every epidemiologist has pointed out that it is an imperfect measure, given that more than 98-99 per cent of those infected will not die,” said Gautam Menon, professor of biophysics at Ashoka University and infectious disease modeler at The Institute of Mathematical Sciences, Chennai. 
+A high recovery rate could theoretically indicate high levels of testing as well as good healthcare facilities, depending on the current levels of testing and the stage of the outbreak in an area. But the Indian government as well as ICMR representatives also regularly put forth recovery rate as one of the first few parameters to track in regular Covid press briefings. 
+This parameter is more useful when studying efficacy of drugs or other treatment, when measured against decreasing viral loads and time spent in intensive care. 
+A more accurate epidemiological parameter is the infection fatality rate, which is the number of people succumbing to the disease in the population.
+Also read: India to give 60 of 140 patients for clinical trial of cancer drug Acalabrutinib for Covid
+While there has been an increase in case diagnoses, the death rate, or the percent of people who succumbed to the infection, in the country has remained more or less steady over the past few weeks at 2.55 per cent.
+“With the increase in the number of tests, the detected positive cases are high compared to earlier situations. Therefore, as the denominator (total cases) is large, the death rate could find small variation depending on the number of deaths,” Babu explained.
+Moreover, he said “undercounting deaths” is known to affect the death rate but not to a grave extent.
+The expectation of death rate to go up when testing goes up is an epidemiological data fallacy called the lead time bias.
+THINK LIKE AN EPIDEMIOLOGIST: why are COVID deaths *still* not going up 3 weeks after case counts started increasing? There are many possible explanations, but one I haven’t seen mentioned is the impact of widespread testing on *early detection*.
+A #tweetorial on LEAD TIME BIAS.
+— Ellie Murray (@EpiEllie) July 7, 2020
+
+When mass screening of patients is conducted, cases get diagnosed much earlier in comparison to the time taken for diagnosis without this process. As a result, many more asymptomatic and pre-symptomatic people are registered positive as compared to those who otherwise do after they start to show symptoms. When this happens, severe patients die at the same rate, but others seem to show a lower death rate. 
+“Diagnosis and disease outcome often generate a bias in the apparent higher survival time or slower growth in outcome parameters if the final outcome is not as affected by earlier diagnosis,” Mahapatra said. 
+With mass screenings for Covid ongoing, it is likely that asymptomatic cases are diagnosed earlier, which could increase the case load faster than death or recoveries.
+A sudden spike in cases doesn’t always reflect uncontrolled community transmission, where a very large number of people are infected but the source of the virus can’t be located. 
+For instance, super-spreader events often result in a large number of cases being diagnosed from one source at the same time. Many, if not most, of these have the potential to be contained if traced and isolated quickly.
+Mahapatra said a spike may also be influenced by increasing testing or its criteria, and surveillance based on the type of testing. At this stage in the epidemic, as the number of tests go up or the criteria for testing is expanded, it is likely that the number of cases also go up. 
+“Community transmission is happening anyway, so the debate about whether something is due to community transmission or not is of lesser importance, as opposed to the health system’s preparedness to handle the surge in cases,” he said. 
+According to the Indian government, there is no community transmission in India yet.
+Also read: Indian duo creates index that lists districts by Covid risk, study published in Lancet
+Hospitals and intensive care unit (ICU) beds are not the most “robust indicators” to judge preparedness of healthcare infrastructure, Babu said. 
+He listed the indicators that are appropriate for judging preparedness: Services used to identify, diagnose and treat; infection prevention and control in healthcare setting; number of doctors and nurses available; number of Covid care centers being built; procurement of medical supplies; drugs and equipment for prevention and management of cases; intensified screening for travellers; and number of infections among healthcare workers.
+The fear of running out of healthcare resources, both apparatus and human, is one of the reasons health experts stressed flattening the curve from the early days of the pandemic. A flattened curve would imply a steady inflow and outflow of hospitalised patients without leading to resource starvation. 
+“With the surge in cases, there is an increase in deaths. It is time to review the reasons for the deaths and act on preventing them in the next phase of management,” said Babu. 
+He suggested that oxygen saturation monitoring must be mandatory, adding that preserving oxygenated beds for the deserving could reduce mortality. 
+According to Mahapatra, Covid country-wise comparisons must be made on trends and epidemic curves, but analysing absolute numbers must be avoided. 
+Babu said factors that could be used to compare responses of different countries can include time taken for initial Covid response, which would indicate a country’s preparedness, population density, total deaths per million rather than total number of deaths, total number of tests done, data on demographic structure, and calculation of excess mortality (number of deaths higher than regular non-pandemic death rate) rather than total mortality.
+Projections of cases and mortality tend to cause sensation and panic. However, most of these projections tend to be an extreme case, projected based on recent data trends instead of cumulative trends, and mostly assume no interventions. 
+“In general I would distrust estimates for what might happen with Covid-19 so much into the future,” said Menon, who has been involved in modeling the spread of Covid since the outbreak in India.
+“No model is good enough to do that. Even the early models for Covid-19 spread in India were way off the mark, mainly because they assumed that it would be a ‘business as usual’ scenario,” he said.
+Menon added that one of the popular misinterpretations of projections is the assumption that the numbers would cause panic among citizens. This must be mitigated by conveying the seriousness of the epidemic and the nature of disease modeling to the public.
+“Government and its premier medical research agency, ICMR, should concentrate on clear communication, rather than cutting off sources of information to the public,” he said.
+“Right now, the public at large, and even most scientists, have no idea of the projections that are governing government decision-making. This is not a good situation for a democracy, and especially one that highlights ‘scientific temper’ is its constitution,” added Menon. 
+One of the more accurate ways to model is to design with local data for more precision. “Good models for India must be local models – the course of the pandemic in Chennai is not the same as that in Virar or south Delhi,” he said. “Good models are conscious of their limitations and their authors should place these limitations up front.”
+Also read: Delhi’s Covid infection rate falls below 1, Goa’s tests per million highest in India
+ 

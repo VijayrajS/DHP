@@ -1,0 +1,41 @@
+WFH or Netflix, internet makes it possible. But do you know how it’s still working?
+New Delhi: The world is indoors in a lockdown and the only thing keeping us connected with each other is the internet.
+Born from funding by the US’ defence department, the internet has been keeping the economy alive.
+It has turned out to be one of the most effective tools to survive this pandemic. It has helped people stay home or in isolation while having a perfectly coherent conversation with someone halfway across the world.
+Schools, colleges and government offices have moved group activities online. Curricula are now being converted to online courses while important ministerial meetings happen via video conferencing.
+With billions logged on to work, watch the news, game, binge-watch series on the multiple streaming sites, etc., not to mention scientists working day and night researching for a cure, treatment or vaccine for Covid-19, how does the internet manage to not breakdown?
+Also read: Who goes online to study in Covid times? 12.5% homes of Indian students have internet access
+The internet is a global network of interconnected computers that constantly speak to each other. It was born in the 1980s from a computer network called the Advanced Research Projects Agency Network (ARPANET).
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+ARPANET was funded by the US defence department’s Advanced Research Projects Agency (ARPA), a research arm for developing solutions using emerging technologies.
+ARPA, now called DARPA (the Defense Advanced Research Projects Agency), was set up in response to the Soviet Union’s 1957 launch of the world’s first artificial satellite, Sputnik 1. The US wanted to be “the initiator and not the victim of strategic technological surprises”, the DARPA site says.
+ARPANET was set up during the Cold War because US military commanders wanted a computer communication system with no “central core” so that the entire communication system could not be destroyed by a single attack.
+The internet is similar to ARPANET in that the internet, which spans a large part of the world, cannot be completely destroyed by attacking one part of the network.
+Also read: Covid-19 put brake to academic activity, but digital libraries can ensure continuity
+The internet’s data transmission method is called ‘packet switching’, which makes it ideal for getting messages across in real time even though internet usage has surged.
+Packet switching enables the message to be broken into many parts and to be sent in smaller packets. Each packet will be sent independently and may take different routes (whichever route is fastest) to reach the destination. Equipment like routers help decide which route is best while network switches will transmit packets from one device to another. The message is then reassembled at the final destination for the end-user.
+In this way, packet switching allows multiple available routes to be taken to send the message, making the process faster since the entire data isn’t held up by one route.
+For instance, take a look at data on sites like bgpview.io or PeeringDB.com. These sites provide details of how internet service providers around the world are connected to other networks.
+Bgpview.io shows Bharti Airtel is connected to 1,435 other networks across countries like France, the US, Singapore and Ghana. It is an indication of the numerous possible routes internet traffic may be directed through and gives an inkling of how the internet’s vast, distributed structure keeps it running without breaking.
+Also read: How VSNL launched internet services in India in 1995 when even China hadn’t
+Rajan Mathews, director general for telecom industry body Cellular Operators Association of India (COAI) often says: “God keeps the internet running.”
+Here on Earth, at the medium-sized internet service provider Timbl, managing director Kapil Dev Kumar said the company has a core network team of 20 electronic and communication engineers monitoring the core network equipment the internet traffic goes through 24×7.
+The company has 75–100 employees, mostly technicians, running field operations to manage and maintain the network on the ground, which consists of fibre and radio frequency equipment set up for backhaul communications.
+Kumar’s company requires frequent field visits to inspect the network because most of it is laid overhead and not underground. For every 100 customers the internet network caters to, around 20 field visits are required  per month to maintain the network.
+In contrast, a large internet service provider with most of the network laid underground requires just around 5-7 field visits a month.
+Kumar said it’s not difficult to run an internet service without crashing. Since 2008, Kumar can recall only one time a network went down. He’s been working in the telecom industry for 20 years now, including stints as vice-president at Airtel and senior vice-president at Reliance Jio.
+It’s standard industry practice to have back up equipment on stand-by.
+Also read: The internet should hide your data, not share it
+While the whole internet cannot be destroyed, a network glitch in one area can still affect thousands of users. One major reason for the network to falter may be an unexpectedly high volume of internet users at the same time.
+Good planning prevents internet crashes, according to Mathews. Sounding the alarm bell early rather than later is a part of it.
+Among the first signs of stress on a network is slowing internet speeds.
+In the third week of March (16-22 March), when most of India started working from home, mobile internet speeds slowed down to 7.8 Mbps (megabits per second) while in previous weeks, the internet speed was between 8.5 Mbps and 8.7 Mbps, according to UK-based mobile analytics firm Opensignal.
+Telecos wasted no time sounding alarm bells. By 21 March, COAI sent letters to the government and 11 video streaming platforms asking ads and HD content to be stopped to reduce internet data consumption.
+Mathews said telcos manage internet traffic at 65 per cent of a network’s full capacity, and the danger zone is when it reaches 85 per cent. Since around 18 March, overall mobile data traffic had increased by 20 per cent as compared to mobile traffic for the seven-day period before that, Mathews had told ThePrint earlier.
+Telcos had started noticing increased traffic coming from video streaming platforms and realised early on that consumption was only going to go up.
+In response, most streaming platforms agreed to stop HD content to mobile internet users.
+That early action reduced the stress on the network to manageable proportions.
+The COAI on 1 April said there is a “flattening of traffic demand” on networks. Reducing HD content helped, coupled with local municipalities in Delhi allowing towers sealed by the municipal authorities to be switched on.
+The initial speculation that extra spectrum will be required to transmit the extra internet traffic has been dismissed by COAI because telcos “remain confident” these proactive measures can maintain undisrupted network service.

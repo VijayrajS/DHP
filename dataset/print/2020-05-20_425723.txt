@@ -1,0 +1,27 @@
+Alternating between lockdowns and relaxations could help manage Covid-19, says study
+New Delhi: As the global death toll of the novel coronavirus crosses 3,25,000 — scientists continue their quest to understand the virus better and develop more effective treatment plans.
+Here are some of the latest scientific developments around the novel coronavirus.
+Alternating between 50 days of strict lockdown followed by 30 days of easing restrictions could effectively reduce the number of Covid-19-related deaths and hospitalisation, while also protecting against adverse economic fallout, a study reveals.
+In the absence of effective treatments or vaccines for the disease, countries have focused on minimising the spread of SARS-CoV-2 through measures of social distancing, including strict lockdowns.
+While this has slowed disease spread, it has led to significant job losses, financial insecurity and economic disruption.
+Researchers from University of Cambridge modelled three scenarios across sixteen countries, from Belgium to India, to understand how these issues can be simultaneously addressed.
+The study, published in the European Journal of Epidemiology, shows that a rolling cycle of a strict 50-day lockdown followed by a 30-day period when the restrictions are relaxed, can be effective in lowering the number of deaths significantly for all countries.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Even though such an approach would result in a longer pandemic, lasting beyond 18 months in all countries, the demand for ICUs will not surpass the national capacity of these countries.
+A significantly smaller number of people — just over 1,30,000 across the 16 countries modelled — are predicted to die during this period. In contrast, 7.8 million people would die across the 16 countries if no measures are imposed.
+On the other hand, a continuous, three-month approach of strict lockdown measures, can help most countries reduce new cases to near zero. However, such prolonged lockdowns would be unsustainable in most countries due to the devastating impact on the economy and livelihood.
+Also read: Your pet dog can get Covid-19 from you, study finds. But we don’t know how it affects them
+Prazosin — a drug used to treat high blood pressure — may reduce the risk of death from Covid-19, if administered early enough.
+Scientists at the Johns Hopkins Kimmel Cancer Center report that the drug relaxes blood vessels, and could specifically target the inflammatory process, referred to as cytokine storm syndrome (CSS).
+Cytokine storm, a result of an overactive immune response that leaves toxic proteins in the bloodstream, is associated with disease severity and increased risk of death in the Covid-19 infection.
+Using the drug preemptively has the potential to reduce deaths in the most vulnerable populations, according to the researchers.
+However, the team notes that it would not work in patients with advanced stages of the disease. They also emphasise that controlled clinical trials for this novel use of prazosin are needed before it can be safely recommended.
+On a slightly windy day, keeping a distance of six feet from an infected person may not be enough to prevent the spread of SARS-CoV-2, notes a study.
+In a paper published in the journal Physics of Fluids, researchers reveal that even during a slight breeze of 4 km per hour, saliva travels 18 feet in 5 seconds.
+Many factors affect how saliva droplets travel in the air, such as the size of droplets, how they disperse and evaporate, as well as the humidity and temperature of the surrounding air.
+To study how saliva moves through air, researchers created a computer simulation that examined every saliva droplet moving through the air in front of a coughing person. The simulation considered the effects of humidity, dispersion force, interactions of molecules of saliva and air, and how the droplets change from liquid to vapour and evaporate.
+Also read: Warmer climate does not prevent Covid-19 spread, large number of people still vulnerable
+US-based tissue engineering firm Prellis Biologics states that it has used a novel technology to rapidly develop 300 human antibodies that bind to the spike protein of the SARS-CoV-2, which enables the coronavirus to enter human cells.
+Using their ‘externalized human immune system’ technology, the team produced 960 synthetic human glands. These synthetic glands were exposed to a cocktail of proteins that mimic the novel coronavirus, which led to the generation of a virus-specific antibody.

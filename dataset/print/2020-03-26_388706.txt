@@ -1,0 +1,33 @@
+AI identifies potential drugs and a DNA vaccine in the works — latest on Covid-19
+New Delhi: The novel coronavirus pandemic has claimed more than 21,000 lives globally and several countries are attempting to curb further spread of the infection. Scientists and healthcare workers, especially, are working tirelessly to better understand the virus and arrive at effective treatment plans.
+ThePrint brings you the top research developments on Covid-19 from across the globe.
+An artificial intelligence-driven platform for drug discovery has identified nine potential drugs that can aid against Covid-19 and six of them are already approved in many countries.
+Singapore-based AI company Gero suggests that the urgency of the situation as well as the legal and regulatory status of these agents makes it possible to begin clinical trials of these drugs immediately, possibly within weeks.
+The platform identified molecules with potential effects on the coronavirus replication. The fact that this time the potential treatments were found among existing drugs marks a significant improvement over previous efforts to use AI against Covid-19.
+Some of the drugs have been well known for decades and are approved for human or veterinary use in several countries.
+Also read: 13 flights landed across India’s 5 busiest airports hours after the flying ban
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Entos Pharmaceuticals, a Canadian biotechnology company, is in the process of developing a new DNA vaccine against the novel coronavirus.
+Headed by John Lewis, an oncologist at University of Alberta, the company develops new therapeutic compounds using its proprietary drug-delivery platform and has already begun manufacturing the vaccine candidate.
+These vaccine candidates will soon be tested on animal models before moving onto human trials.
+“Given the urgency of the situation, we can have a lead candidate vaccine within two months. Once we have that it’s a race to get it into clinical trials,” Lewis said.
+Compared to a traditional vaccine, DNA-based vaccines hold several advantages. They recreate pieces of the virus and trick the immune system into mounting a response without the full virus actually being present.
+There are several advantages to this approach — easier large-scale manufacturing, improved vaccine stability, and it works without an infectious agent.
+While the novel coronavirus can itself be deadly, researchers have found that the infection can also cause cardiac injury, raising the risk of death.
+In an observational study of 416 patients in China’s Wuhan, researchers found heart-related injuries in 19.7 per cent of the patients hospitalised. It was an independent risk factor for death, they said.
+Although the exact reason for these cardiac injuries needs to be explored, the findings highlight that doctors need to consider this complication while treating Covid-19.
+This may explain the death of an Italian tourist in India, who died of cardiac arrest after recovering from coronavirus.
+Also read:  Life beyond Netflix — this is how urban India is keeping itself entertained at home
+Clinicians around the world are joining hands to identify genetic errors that make some younger patients especially vulnerable to Covid-19.
+The project, led by Jean-Laurent Casanova at The Rockefeller University in US, will study 500 coronavirus-positive patients who are less than 50 years old, have been admitted to an intensive care unit, and have no serious underlying illnesses, such as diabetes, heart disease, or lung disease.
+By studying these patients’ DNA, scientists could help doctors identify people who are at a higher risk of developing severe infections. The research will also offer clues for scientists searching for new therapeutics.
+For example, if patients’ cells aren’t making enough of a particular molecule, doctors may be able to offer a supplement as treatment.
+While researchers are certain that coronavirus spreads through mucus and droplets expelled by coughing or sneezing, a new study shows that it is unlikely that infected patients are shedding the virus through tears.
+Researchers at the National University Hospital in Singapore collected tear samples from 17 patients with Covid-19 from the time they showed symptoms till they recovered, approximately 20 days later.
+While their noses and throats were teeming with the virus, no virus was detected in the tears through the entire course of the disease.
+However, the team warns that it remains important for people to guard their eyes to slow the spread of respiratory viruses like the coronavirus, as the virus can enter our system through our eyes.
+A person can also infected by touching something that has the virus on it — like a table or doorknob — and then touching their eyes.
+Also read: Old drugs, new trials — hopes pinned on HIV, malaria, ebola, TB vaccines to fight Covid-19
+ 

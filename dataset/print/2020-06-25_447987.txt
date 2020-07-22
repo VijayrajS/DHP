@@ -1,0 +1,47 @@
+Favipiravir, Japanese drug that’s the new Covid treatment hope your chemist will soon stock
+New Delhi: A nearly 30-year-old Japanese drug is set to hit Indian markets for emergency, prescription-based use by mild to moderate coronavirus patients. Favipiravir is being launched by the Mumbai-based Glenmark at Rs 103/tablet, and is expected to be available with chemists by the end of this month.
+However, the drug comes with side-effects such as possible birth defects and liver damage. At a press meet Saturday, Glenmark said the drug can be used in Covid-19 patients with comorbid conditions such as diabetes and heart disease, but added that it is not to be administered to those with severe kidney and liver impairment, or pregnant and lactating women. The drug should also be used with caution in patients with history of abnormalities in metabolism of uric acid or having gout, it added.
+Favipiravir has received regulatory clearance in India and Russia, and it remains a subject of trials across the world, including these two countries. While multiple studies so far have claimed promising outcomes, many of the researchers involved have urged caution in the interpretation of the results. 
+This is because, they say, most mild and moderate Covid-19 patients, at whom the drug is aimed, have been known to recover with standard or supportive therapy that involves, among other things, targeting the symptoms of the disease. They have called for more research before a direct link can be established between favipiravir and Covid-19 treatment.
+ThePrint tells you all about the drug.
+Also Read: Plasma therapy: The experimental Covid therapy Delhi Health Minister Satyendar Jain received
+Favipiravir is a broad-spectrum antiviral drug that was cleared by the Drugs Controller General of India (DCGI) last week for “emergency restricted” use among Covid-19 patients. Glenmark will sell the generic favipiravir under the brand name FabiFlu. 
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Favipiravir was originally developed in the late 1990s by a company that was later purchased by the Japanese firm Fujifilm as part of its transition from the photo business to healthcare.
+After being tested against a range of viruses, the drug was approved in Japan in 2014 for emergency use against flu epidemics or to treat new strains of influenza. 
+Favipiravir inhibits the RNA-dependent RNA polymerase (RdRp) — an enzyme that allows the coronavirus to replicate inside host cells, Ram Vishwakarma, director of the Council of Scientific & Industrial Research’s Indian Institute of Integrative Medicine, Jammu, told ThePrint.  
+Inside the cells, favipiravir is converted to favipiravir ribofuranosyl-5′-triphosphate (favipiravir-RTP) by host cells. This molecule then blocks the RdRp enzyme of SARS-CoV-2, the virus that causes Covid-19.
+The mechanism is similar to that of remdesivir, another drug being explored as a treatment for Covid-19. “The only difference is that favipiravir works for mild to moderate Covid-19 patients, whereas remdesivir works for severe patients,” Vishwakarma said. 
+According to a statement by Glenmark, favipiravir works only during the earlier stages of the disease, when the viral replication is higher, but the body’s immune response has not gone into overdrive. 
+In severely ill patients, the toxic proteins — known as the cytokine storm — produced by the overreaction of the body’s immune system inhibit the activity of the favipiravir-RTP. The drug is ineffective in stopping this cytokine storm from damaging the organs.
+Also Read: Double lung transplant for Covid-19 treatment: US performs surgery in a global ‘first’
+The drug is currently not approved in “any of the highly-regulated markets” like the US and Europe for any indication, said Vishwakarma, adding that it has been approved in China, Russia and Japan for the seasonal viral flu.
+The drug has been a subject of several studies, but researchers have claimed time and again that the research is of a suggestive nature and needs to be followed up with confirmatory trials.
+One of the earliest studies that showed a positive outcome came out of China in February. It was an open-label trial, which means patients knew what drug they were receiving, and was designed to test the efficacy of the drug in comparison to the HIV-treatment drug combination of Lopinavir/Ritonavir (LPV/RTV). 
+The latter is still undergoing trials and has not shown to be conclusively successful against Covid either, but was used as a control in the study. 
+The research suggested that those treated with favipiravir “appeared to have faster viral clearance and better chest imaging change than patients treated with LPV/RTV” but said “further well-designed and large-scale confirmatory trials are warranted… as this is not a randomised, double-blind, parallel trial”.
+The Russian Direct Investment Fund (RDIF), the nation’s sovereign wealth fund, and pharma firm ChemRar announced earlier this month that they had received positive results from a Russian study involving 330 patients.
+The final stage of the trials started 21 May, and remains underway. 
+The Russian Ministry of Health has approved its use for Covid-19, the RDIF and ChemRar said in a press statement issued 3 June. 
+The statement claimed that, in four days, 65 per cent of the 40 patients administered favipiravir tested negative, with the number growing to 90 per cent by Day 10. 
+Called avifavir, the drug is a modified version of favipiravir, and Russia has promised to reveal the formula for the world’s benefit. 
+A Japanese study by Fujifilm on modified favipiravir, branded Avigan, yielded results that evoke concern. 
+While the authors claimed that preliminary findings suggest improvement, there was no control group in the observational study, which means nothing to compare the progress with. 
+Typical controls for testing a drug against a disease for the first time is ‘standard care’ or the standard treatment available. As there is no proven line of treatment for Covid-19, standard care is simply isolation, treatment for symptoms, and breathing support such as oxygen and ventilators, if necessary. 
+Apart from this, a quarter of the 2,158 participants in the Japanese study exhibited adverse effects including skin rashes, elevated uric acid levels, liver damage, kidney injury, gout, and even “worsening of pneumonia”. 
+The researchers involved in the study thus urged that its outcomes be approached with caution. “Given that over 80% or patients have mild disease which often improves by supportive therapy, caution is required in interpreting efficacy of favipiravir based on the data presented here,” they said.
+Fujifilm has clarified that the study will go on into July. 
+Also Read: How Andhra is firmly testing, treating its way out of Covid crisis, but Telangana struggling
+Glenmark started a randomised, multi-centric study involving 150 patients to test favipiravir among Covid-19 patients in India on 20 May. The study was carried out at 11 sites, and the results sought to draw a comparison between treatment with favipiravir and that involving standard care.
+The trial ended on 16 June, but the results have not yet been made public. Glenmark is conducting a second clinical trial that uses favipiravir in combination with umifenovir — another antiviral drug that blocks the entry of SARS-CoV-2 into the human cells. 
+In this trial, about 158 Covid-19 patients will be divided into two groups The team will test the efficacy of the drug combination in comparison to treatment with favipiravir alone in mild to moderate Covid-19 patients. 
+A third trial, which will test the efficacy of favipiravir in mild to moderate patients, has been registered by drug manufacturing company Cipla.
+The multicentre study will evaluate the efficacy and safety of favipiravir along with supportive care in 156 patients with mild to moderate coronavirus infection. Results will be compared against a control group that will only be administered supportive care.
+Also Read: There’s a rush for Covid medical insurance but the cover comes with a catch
+ 
+Subscribe to our channels on YouTube & Telegram 
+News media is in a crisis & only you can fix it
+You are reading this because you value good, intelligent and objective journalism. We thank you for your time and your trust.
+You also know that the news media is facing an unprecedented crisis. It is likely that you are also hearing of the brutal layoffs and pay-cuts hitting the industry. There are many reasons why the media’s economics is broken. But a big one is that good people are not yet paying enough for good journalism.

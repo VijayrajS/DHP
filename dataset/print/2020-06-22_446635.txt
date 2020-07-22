@@ -1,0 +1,34 @@
+Indian scientists find Covid gene in wastewater — a breakthrough in tracking virus outbreak
+New Delhi: Scientists in India have for the first time detected genetic material of the SARS-CoV-2 virus in wastewater, a breakthrough that paves the way for using wastewater-based epidemiology (WBE) for real-time surveillance of COVID-19 in the country.
+The study, led by scientists in IIT-Gandhinagar, found that increased gene copies of the virus in Ahmedabad’s wastewater matched the incidence of the disease in the city. With this, India joins the ranks of a handful of countries doing WBE on COVID-19 , Andrew Singer, an environmental microbiologist at the UK Centre for Ecology & Hydrology, said on Twitter.
+WBE is a promising approach to understand the status of disease outbreak in a certain catchment by monitoring viral load in wastewater.
+Recent studies had reported that the novel coronavirus (SARS-CoV-2) is present in the faeces of infected individuals. Genetic material (RNA) from the virus has been found in sewage entering treatment plants.
+Because treatment plants collect wastewater across large regions, measuring the level of RNA in untreated wastewater may provide a valuable insight into the percentage of people infected within a region, the researchers said.
+In the latest study released on June 18, scientists from the Indian Institute of Technology (IIT) in Gandhinagar collaborated with the Gujarat Biotechnology Research Centre (GBRC) and the Gujarat Pollution Control Board (GPCB). They studied samples of wastewater collected on May 8 and May 27 from the Old Pirana Waste Water Treatment Plant (WWTP) in Ahmedabad.
+The plant receives up to 106 million litres per day (MLD) of influent from the Ahmedabad Civil Hospital which is treating COVID-19 patients, explained Manish Kumar of the Discipline of Earth Sciences, IITGN, who led the research effort.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Also read:First official figures on Covid among healthcare workers in India — 1,073 cases until 23 May
+All the three SARS-CoV-2 genes — ORF1ab, N and S — were found in the wastewater coming into the treatment plant, said the researchers, who have submitted their study for publication in the international journal Science of the Total Environment’.
+They noted that no gene was spotted in the effluent leaving the plant after treatment.
+The scientists said the gene copy loading – the quantity of the genetic material of the virus – detected on May 27 was almost 10 times more than that detected on May 8.
+This corresponded broadly with the trajectory of the incidence of the disease. The number of active COVID-19 patients in the Ahmedabad city was two times higher on May 27 than on May 8, they said.
+According to the scientists, WBE was an effective tool during outbreaks of other viruses such such as poliovirus and hepatitis A.
+The Ahmedabad study aims at assisting concerned authorities and policymakers to formulate or upgrade COVID-19 surveillance to have an explicit picture of the phase of the pandemic, the researchers added.
+Kumar cited reports to say a WBE study has indicated the presence of the coronavirus in Italy in December 2019, way before the first confirmed case in the country.
+Developing an advanced surveillance system for environmental samples using biotechnological approaches is the need of the hour. This can help us track real time situations not only for the current pandemic but also for seasonal epidemics, Madhvi Joshi, joint director of GBRC and one of the authors of the paper, told PTI.
+According to the researchers, the number of gene copies was found comparable to that reported in the untreated wastewaters of Australia, China and Turkey, and lower than that of the US, France and Spain.
+Prosun Bhattacharya of Sweden’s KTH Royal Institute of Technology noted that WBE can be unimaginably impactful in the war against COVID-19 with the right information about the catchment and number of people residing in the vicinity,
+He added that the research by Kumar and his colleagues has put India on the world map pertaining to WBE surveillance.
+Estimates based on European and North American data suggest that each person infected with SARS-CoV-2 will excrete millions if not billions of viral genomes into wastewater per day, they said.
+This translates to between 0.15 and 141.5 million viral genomes per litre of wastewater generated, the researchers said.
+While infectivity of SARS-CoV-2 through wastewater has not yet been reported, the virus potentially enters the wastewater stream from patient excretions and thus can be a great tool for pandemic monitoring, the researchers said.
+Using reverse transcription PCR (RT-qPCR) — a laboratory technique of molecular biology — researchers should be able to detect the novel coronavirus with high sensitivity, Kumar said.
+The findings reported by Kumar and colleagues demonstrate the successful detection of SARS-CoV-2 in wastewater — a highly valuable contribution to global SARS-CoV-2 surveillance research efforts, Kyle Bibby, associate professor and leader of Global Collaboration on WBE, University of Notre Dame in the US, told PTI.
+Bibby heads the WBE global collaboration comprising over 50 institutes and researchers.
+The group is compiling and sharing all the results obtained through WBE surveillance for the global comparison, according to an article published in the journal Environmental Science & Technology.
+I would like to congratulate India as one of the elite nations in world-wide efforts in detecting and quantifying SARS-CoV-2 genetic materials in their sewage samples. Kumar and his colleagues showed the capabilities of wastewater-based epidemiology (WBE) in India, the second most populated nation with rapidly growing numbers of COVID-19 confirmed cases, said Keisuke Kuroda, associate professor in Environmental and Civil Engineering at Toyama Prefectural University, Japan.
+This report will surely facilitate a nationwide initiative for detecting the early warning signals of COVID-19 outbreaks in various communities, Kuroda told PTI.
+Ryo Honda of Japan’s Kanazawa University, who is leading a task force on wastewater surveillance in Japan, said the study is an important step for WBE of COVID-19 in India.
+Also read: Delhi govt to provide pulse oximeters to those in home isolation: Arvind Kejriwal

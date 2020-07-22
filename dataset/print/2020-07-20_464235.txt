@@ -1,0 +1,46 @@
+In Delhi, rapid antigen tests fuel spurt in testing but false negatives a worry
+New Delhi: The rapid antigen test, a quick Covid-19 diagnostic tool, has helped Delhi ramp up its testing rate to four times the national average. The test is cheaper, faster, and can be conducted outside of laboratories, which makes it more accessible. However, its results need to be approached with caution.
+The use of rapid antigen tests is underlined by advisories that call for each negative diagnosis among symptomatic patients to be reaffirmed with RT-PCR tests, the “gold standard” for Covid-19 diagnosis. 
+Delhi government data shows that as much as 18 per cent of negative rapid antigen results sent for follow-up RT-PCR tests came back positive. 
+There is also a vast difference in the sensitivity and specificity rates of antigen tests — while its specificity, i.e. the ability to detect true negatives, ranges from 99.3 to 100 per cent, its sensitivity, the accuracy of a positive test result, ranges from 50.6 per cent to 84 per cent. 
+This suggests there may be more to the steady decline in Delhi’s daily diagnosis numbers — the figure stood at 1,652 on 16 July, as opposed to 3,788 on 24 June — than meets the eye. Delhi is conducting three times as many rapid antigen tests as RT-PCR, CBNAAT and TrueNat put together, an analysis of government data shows.
+Experts claim rapid antigen tests are a key asset in situations that require quicker testing at a greater scale, but advise discretion to avoid being lulled into a false sense of security.
+In an ideal scenario, they say, all negative rapid antigen tests should be followed up with an RT-PCR. But they admit it is untenable on the ground. 
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Also Read: How Lakshadweep has managed to be India’s only territory without coronavirus
+Antigen tests detect the presence of a protein expressed by the coronavirus and can give the result in less than 30 minutes. The commonly used RT-PCR, or real-time polymerase chain reaction, test usually takes about five to six hours for a result. 
+On 14 June, the Indian Council of Medical Research (ICMR) approved rapid antigen tests for containment zones and hospital settings in order to facilitate quick diagnosis. 
+In its guidelines, the ICMR said symptomatic individuals who test negative by rapid antigen exams will have to mandatorily undergo a RT-PCR test to rule out a false negative. 
+On 16 July, ICMR Director General Dr Balram Bhargava sent a letter to all states and union territories reiterating this. He also called for details of rapid antigen tests to be uploaded on the ICMR website in real time.
+In Delhi, rapid antigen tests were adopted on 18 June as the state, struggling against the coronavirus crisis, looked to widen testing following the central government’s intervention.
+Also Read: Low testing, delayed results, opaque data: Noida, Ghaziabad face questions on Covid handling
+In a report submitted to the Delhi High Court Wednesday, the Arvind Kejriwal government revealed that it had conducted a total of 2,81,555 rapid antigen tests until 15 July. 
+Of this, it said, 0.5 per cent required follow-up RT-PCR tests. As many as 17.8 per cent of the follow-up tests yielded a positive result. 
+As of 16 July, Delhi’s testing rate stood at 39,358 tests per million, against the national average of 9,289. Delhi has also more than doubled its testing — by 16 July, it had conducted 7,56,661 tests, according to the daily health bulletin, against 3,04,483 as of 16 June. 
+
+An analysis of government data reveals that rapid antigen tests have been the most widely used diagnostic tool in Delhi since they were allowed.
+In the period between 30 June (from when data on the two kinds of tests were made available in the daily health bulletins) and 15 July, Delhi had conducted a total of 1,31,743 RT-PCR tests, against 1,53,170 rapid antigen tests. Between 14 and 16 July, Delhi conducted almost three times as many rapid antigen tests as CBNAAT, TrueNat and RT-PCR put together. CBNAAT and TrueNat are tuberculosis tests employed for Covid-19 diagnosis since May. 
+According to the Delhi government report submitted in the high court, of the 2,81,555 rapid antigen tests conducted between 18 June and 15 July, 0.5 per cent or 1,386 were sent for follow-up tests. Of these, 17.8 per cent or 243 came out positive after an RT-PCR test. 
+Also Read: Here’s why you can’t get a Covid test in Delhi on a Sunday
+For government officials working on the ground to mitigate the Covid-19 crisis, the rapid antigen tests are a useful tool that has helped them bolster testing.
+South-West Delhi District Magistrate Rahul Singh said the reliability of rapid antigen tests isn’t a cause for concern. “Rather, it affirms the credibility as most of the symptomatic cases test positive, or at least that’s been the trend in my area,” he added. 
+The South-West district has conducted the maximum number of rapid antigen tests within Delhi, according to data accessed by ThePrint. Until 15 July, it had conducted 39,804 rapid antigen tests.
+The South district has conducted the lowest number of rapid antigen tests, 16,421 over the same time period. South Delhi District Magistrate B.M. Mishra told ThePrint that 15-20 per cent of the rapid antigen tests in his district had turned out to be false negatives. 
+“The sensitivity is higher in RT-PCR, no doubt, but it is because of rapid antigen that we are at least being able to double the number of tests, which has been the requirement,” Mishra said. 
+Shahdara, meanwhile, accounts for the highest share of false negatives. Of the 28,009 rapid antigen tests conducted here until 15 July, 2,571 yielded a positive result. Of the 25,438 negatives, 648 were advised follow-up RT-PCR tests, of which 123 emerged as false negatives. 
+An official of the Delhi health department said rapid antigen tests allow aggressive testing. Especially since the government allowed dispensaries and polyclinics to conduct the tests, the official added, people can get tested themselves if they have symptoms. “We are following the ICMR guidelines and we conduct RT-PCR tests if the situation demands it,” the official said.
+Also Read: Delhi, here is what you need to do if you or your family start showing Covid-19 symptoms
+Doctors and experts say heavy reliance on rapid antigen testing alone is not advisable even as they acknowledge the crucial role it plays.
+“It’s not enough to conduct tests but the right testing is the key to winning this war. Ideally, all negatives from rapid antigen tests should be sent for follow-up RT-PCR tests to check the exact prevalence of the disease,” said a senior doctor at Sterlis Accuris Diagnostics, one of the private labs testing Covid-19 samples in Delhi.
+“For contact tracing, only RT-PCR tests should be used, which means all contacts of an individual who has tested positive by a rapid antigen test should definitely undergo an RT-PCR test,” the doctor added. 
+Even in hospital settings, where the use of rapid antigen tests has been allowed, in addition to containment zones, doctors are being cautious. “While it’s a policy decision to use more rapid antigen tests, we are relying more on CT scans and X-rays to detect Covid-19,” said Dr Ritu Saxena, Chief Medical Officer at LNJP Hospital, the nodal Covid facility in the capital. 
+“We did rapid antigen tests on our health workers but we did follow-up RT-PCR tests for all symptomatic individuals who tested negative,” she added. 
+Dr Preeti Kumar, vice-president for health systems support at the Public Health Foundation of India, said “follow-up tests become crucial to avoid being lulled into a false sense of safety”. 
+“But states don’t have infinite resources. When we have infinite resources to test everyone, only then we can conduct RT-PCR tests on all,” she said.
+Despite the prospect of false negatives, doctors say these tests have helped avoid fatalities.  
+“If a heart attack patient comes to the emergency ward or a woman comes for an emergency delivery and I need a Covid test immediately, I cannot wait for an RT-PCR test. Despite the false negatives, it gives an immediate answer, which helps greatly,” said Prof N.N. Mathur, the director of Delhi’s Lady Hardinge Hospital.
+Labs that were overburdened until a month ago from processing RT-PCR results have also hailed the rapid antigen tests. “Rapid antigen testing has been a game-changer in reducing the burden on labs and increasing accessibility. Yes, it yields false negatives, but even the RT-PCR test yields false negatives if the viral load is not enough,” said Dr Arjun Dang, CEO of Dr Dang’s Lab.
+Dr Jugal Kishore, head of community medicine at Safdarjung Hospital, said the government should be more transparent in sharing real-time data on false results with the public. “It is important for epidemiologists to make these decisions instead of it becoming a bureaucratic matter,” he said. “People have a right to know false positive or false negative rate”.
+This report has been updated to reflect the correct definition and range of the sensitivity and specificity rates of antigen tests.

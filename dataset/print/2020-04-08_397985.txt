@@ -1,0 +1,19 @@
+Pune start-up develops portable test that can diagnose Covid-19 in an hour
+New Delhi: A Pune-based startup has developed a portable Covid-19 test kit that can help screen a large number of people in a short span of time. The developers, a two-year-old company called FastSense Diagnostics, claim the kit is so small it can be used for screening and diagnosis at places such as airports and railway stations, with results in just over an hour.
+The company already has a diagnostic platform called “Omni-Sens” for early detection and screening of diseases like cancers, liver ailments and neonatal sepsis etc.
+The prototype CovE-Sens, a diagnostic kit specifically designed for Covid-19, has been developed on similar lines, with the company eyeing a rollout in around two months. 
+“We are trying to address the problem of shortage of trained manpower. So, we are trying to develop a test that can be used by semi-trained personnel as well,”  said Dr Preeti Nigam Joshi, founding director of FastSense Diagnostics
+The company plans to roll out two products as part of the kit — a modified polymerase chain reaction (PCR)-based detection kit and a portable chip-based module for rapid screening. The team will receive funding from the Union government’s Department of Science and Technology.
+The on-chip sensing technology works similar to the glucometers used by diabetics to monitor their blood sugar levels at home. The test will look for disease biomarkers in a drop of blood and can provide on-the-spot results in less than 15 minutes per sample, the developers say. 
+The PCR-based confirmatory analysis can process approximately 50 nasal swab samples in an hour. Together, the two tests can be used to quickly screen and test a large number of people 
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+“No sophisticated instrumentation will be required for either of these tests, so it can be used in any place, including airports, to screen people for the infection,” Joshi told ThePrint.
+“The device is small, and not very bulky, so it can be used anywhere — be it local clinics, airports, railway stations or bus stations,” she added.
+The company is working on the cost to make it more affordable. 
+“We are trying to keep the cost of the screening device under Rs 300. For the confirmatory test we are developing, the cost will be within Rs 1,000,” Joshi said. 
+Also Read: India’s first drive-through Covid-19 test site in Delhi promises more tests and privacy
+A patent has been filed for CovE-Sens, and the company is also in touch with the National Institute of Virology, entrusted with validating new testing mechanisms, for a performance evaluation. 
+“The prototype is already ready with us, and we are planning to deploy it within 8 to 10 weeks,” Joshi said. 
+The chip-based tests can be manufactured by the startup in the initial phase. However, the company is also working with industry partners to scale up production.

@@ -1,0 +1,45 @@
+Inside a Covid-19 test facility — no watches, no room for error and no time for a wedding
+New Delhi: The microbiology department of Delhi’s Lady Hardinge Medical College wore a desolate look Thursday, a government holiday for Ram Navami. Only some muffled noises coming from the second floor of the bright red-coloured building broke the silence — sounds from the virology lab, where samples of suspected Covid-19 patients are being tested.
+
+Lab technicians and scientists could be seen walking around the corridor, while two men in pale blue-and-white hazmat suits stood outside the lab, with a bright yellow pack bearing the biohazard sign lying next to them.
+Dr Manoj B. Jais, director-professor with the microbiology department, told ThePrint: “Our virology lab started conducting Covid-19 tests in the last 15 days. The lab is working day and night, because the sample load is very high, and we need to dispatch reports as early as possible.”
+So far, the lab, which became functional on 18 March, has tested 856 samples, of which 20 have been found positive.
+With 60-80 tests being conducted daily, there hasn’t been a moment’s respite for the 17 scientists and lab technicians working there.
+“We come here in the morning and sometimes stay till very late. We don’t wear watches because we don’t want to keep track of the time. Our main focus is only to finish testing the samples,” said Dr Sanjib Gogoi, associate professor.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Also read: How doctors, health workers are losing the fight against Covid-19 pandemic
+Lady Hardinge Medical College, one of India’s oldest medical colleges, was established in 1916 and became a part of the Delhi University’s Faculty of Medical Sciences in 1950.
+The virology lab is the first of its kind in the institute. The Indian Council of Medical Research (ICMR), the apex body in the field, had approved setting up this lab last May, but the construction had to be expedited in the face of the Covid-19 pandemic spreading in India.
+“The lab was constructed on war footing, within 10 days. There was severe pressure from the ministry because the load of the sample was increasing, and only the National Centre for Disease Control and All India Institute of Medical Sciences labs were working at that time. So, this was the third lab to start functioning (in Delhi),” Dr Jais explained.
+Until about a week ago, the lab was tasked with testing samples from 11 Delhi hospitals. There were also occasional samples from three quarantine facilities at Chhawla, Narela and Dwarka Police Training School. But with the operationalisation of labs at RML Hospital, Institute of Liver and Biliary Sciences and LNJP Hospital, Jais is hopeful this would reduce the pressure on the Lady Hardinge lab.
+From swab collection to analysing the samples, testing for Covid-19 is a long-drawn and delicate process. The virus belongs to the family of coronaviruses whose key macro-molecule is the ribonucleic acid or RNA. Since the RNA is unstable, it has to be transported and kept in very cold temperatures.
+Designated personnel like Sandeep Ameta of GTB Hospital, who was waiting outside the lab when ThePrint visited, are assigned to transport swabs from hospitals to various testing facilities. The swabs are collected by doctors and dispersed in a “viral medium” (a liquid inside a test tube) before they are handed to Ameta.
+“We keep the sample in a triple-layer-locking zip-lock packing, which is kept in a thermocol box with ice-packs to maintain the cold-chain. The sample is then transported after being sealed in a bag,” said Ameta from under his hazmat suit.
+Also read: Millions of jobs have been destroyed around the world as Covid-19 sparks recession
+The lab at Lady Hardinge Medical College is demarcated into three zones — the first for collecting the samples, the second for extracting the RNA, and the third for “amplifying” and analysing it.
+It’s here that the samples undergo an RT-PCR or real-time polymerase chain reaction test, which involves the identification of a specific gene which would only be found in the Covid-19 virus.
+When ThePrint visited the lab, two technicians were removing and verifying the samples they had just received. The technicians were covered from head-to-toe in blue hazmat suits, surgical gloves, masks and goggles.
+“Upon receiving the samples, we have to go through the patient’s details,” Dr Sanjib Gogoi said, pointing to a zip-lock bag with documents.
+The samples are then taken for processing in the adjacent room.
+“Extraction means you have to get that RNA out from the sample. The process, a manual one, takes a long time — about three to four hours,” he said, referring to the centrifugation of the sample, until all that remains is a ‘pellet’ of RNA matter.
+Once the RNA is extracted, it’s sent to a third room for a final round of processing. Inside the room are two PCR workstations, where the RNA is amplified. The PCR workstation is enclosed on all three sides to prevent further contamination.
+At the work stations, the technicians add an enzyme (the RT enzyme) to convert the one-stranded RNA to DNA. The reaction requires a ‘master mix’ of reagents, which include nucleotides, taq DNA polymerase (a type of enzyme), PCR buffer, magnesium salts and PCR primers.
+This master mix is then placed in machines called thermalcyclers, where the RNA-turned-DNA is further replicated. Parts of the DNA are then amplified, to detect specific sequences.
+Two tests are conducted before the sample is judged to be positive or negative. The first screening test targets the ‘e gene’, which finds if the material belongs to the coronavirus family. The second test, a confirmatory test, conducted after the screening test, targets genes that are only found in Covid-19 virus, explained Dr Jais.
+The entire test takes around five to six hours, and reports are dispatched to the concerned nodal officer. “Our main aim is to dispatch the report within 24 hours. We don’t want to hold up the samples. The more we test, the more contacts we can trace, and contain the infection,” Jais said.
+Also read: Yogi govt orders manufacturing of 66 crore triple-layer khadi masks amid Covid-19 outbreak
+For the duration of the test, the technicians have to wear several layers of protective equipment — a gown, a surgical mask, surgical gloves, an N95 mask, shoe covers and goggles. It’s constricting to wear these for such long hours, Jais said, as the technicians standing alongside him nodded in agreement.
+But the risk is huge — so far, nearly 50 healthcare professionals across India have tested positive for Covid-19. In Italy, frontline workers have accounted for 8.5 per cent of the total number of fatalities. And thus, the technicians understand that despite these hassles, it’s this personal protective equipment (PPE) that keeps the infection at bay.
+Yet, the problem remains the inadequate availability of PPE kits, Lady Hardinge director Dr N.N. Mathur told ThePrint.
+“PPE is required in large numbers and we are struggling every day. The government has been making different organisations responsible, but they haven’t been able to meet the requirements,” he said.
+
+Also read: The four stages of Covid-19 transmission & why India maintains it is not yet in stage 3
+The RT-PCR test is a laborious and delicate process, which requires the handling of microscopic material. A single misstep could render a false negative or a false positive. “It requires a lot of concentration,” Dr Gogoi said.
+The technicians work in shifts of about seven hours, but work now goes on until late because of the increasing number of samples.
+“In the current situation, we are working from morning to evening, even till late night. We try to catch some rest whenever possible,” technician Aadesh Kumar told ThePrint.
+The technicians have even fashioned a makeshift “resting area” in the room opposite the laboratory.
+Moreover, those living with their families, like senior resident Dr Aditi, also worry about transmitting the infection. “We wash our hands, constantly, and when we can’t wash our hands, we use a sanitiser. Some people take even more precautions. They don’t go home at all. And when they do go home, they try to isolate themselves,” she said.
+Needless to say, for now, the personal lives of these scientists and technicians have taken a backseat. This is especially true for Dr Gogoi, whose wedding was postponed because of the Covid-19 outbreak.
+“I was supposed to get married in April. My fiancée is also working at a coronavirus lab at PGIMER in Chandigarh. Seeing the condition of our country and our work, we decided to postpone our wedding. But we are not sad about it. This is our job and we are very privileged to do it,” he said.

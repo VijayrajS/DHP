@@ -1,0 +1,20 @@
+Delhi teens invent robot to help medical workers & Covid-19 patients reduce contact
+New Delhi: Amid growing concerns over the spread of the novel coronavirus among medical professionals, a group of three teenaged students in the national capital has invented a robot that could help reduce contact between healthcare workers and Covid-19 patients.
+The students — Nishant Chandna (15), Saurav Maheshkar (16) and Aditya Dubey (17) —conceptualised, designed and built the robot after the Narendra Modi government announced a nationwide lockdown in an attempt to curb the spread of the virus.
+“About 50 to 52 cases of coronavirus in India are of doctors who were infected while treating patients. We wanted to design something that would help protect those at the frontline battling this illness, so we put our heads together and designed this robot,” Chandna told ThePrint.
+Called ‘Prithvi’, the robot is designed to dispense food and medicine to patients, and is controlled remotely through an app downloaded on a smartphone. A smart tablet can also be attached to the robot, enabling video conferencing between doctors and patients.
+“We’re also considering adding an additional feature, in the form of a temperature gun. That way patients can check their own temperature, minimising the risk to doctors and nurses,” said Chandna.
+Also read: Mumbai start-up builds AI-based X-ray technology to help track Covid-19 progression
+The prototype of ‘Prithvi’ is made of cardboard, a programmable board and basic motors, and cost less than Rs 5,000 to build. However, if it does get made on a mass scale, it would require a sturdier build.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Dubey conceptualised the robot, Chandna built it, and Maheshkar contributed to its software development.
+“While we were conceptualising it, we came across the Italian robot ‘Tommy’, and liked the way it was designed. We’re hoping a firm sees value in ‘Prithvi’ and decides to take the prototype forward,” said Dubey, a student of Modern School, Barakhamba Road, who describes himself as an “environmentalist with an interest in robotics”.
+Chandna and Maheshkar are students of KIIT World School in Pitampura, which is home to an Atal Tinkering Lab (ATL), a NITI Aayog initiative to innovation, where they learnt robotics.
+“We were encouraged by our teachers and principal to design this robot,” said Maheshkar, adding that the project took less than two weeks from start to finish.
+Apart from Italy, China also employed telemedicine and robots to help combat the virus and flatten the curve.
+At Lady Hardinge Medical College and Hospital, where suspected Covid-19 patients are being sent for testing, doctors feel technology that could help social distancing is the need of the hour.
+“Such a robot would be of immense benefit to doctors and other healthcare workers who come into contact with coronavirus patients — suspected or positive,” N.N. Mathur, director of Lady Hardinge Hospital, told ThePrint.
+Mathur added: “Doctors would need to conduct a swab test, but if medication and food could be delivered, it would reduce contact only to when it is essential. If there’s a cost-effective way to bring this into hospitals, it’s the best use of technology and robotics.”
+Also read: How Google is working with researchers to trace coronavirus cases in Europe

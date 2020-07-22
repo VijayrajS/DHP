@@ -1,0 +1,18 @@
+India’s Covid-19 R0 down to 1.36 now, 25,000 cases by April-end at this rate: IMS scientist
+New Delhi: India’s battle against Covid-19 has shown some ray of hope.
+The R0 value for Covid-19, which is a key parameter to describe the rate of infection of coronavirus, has further reduced this week to 1.36 — from 1.55 on 11 April.
+R0 is the basic reproduction number of a disease and indicates the number of people a patient can directly infect in a healthy population.
+The metric has been estimated by scientists at the Institute of Mathematical Sciences (IMS) in Chennai. 
+“Starting from 13 April, the data shows a further reduced rate of increase of the number of active cases, corresponding to an effective reproduction number of 1.36,” Sitabhra Sinha, a scientist at the IMS, told ThePrint. 
+The value was as high as 1.83 on 6 April. 
+As of Tuesday afternoon, India reported 14,759 active coronavirus cases — with  590 deaths.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Also read: One coronavirus patient infects 1.7 people in India, much lower than in China, Italy: Study
+The decreasing R0 indicates that the restrictions imposed under the three-week lockdown is helping India in containing the spread of the highly infectious Covid-19 disease.
+A logarithmic plot for the number of active cases with time shows a deviation from the original growth trend that was observed from 4 March — which corresponded to a basic reproduction number of 1.83. 
+Sinha said that while going at the original rate of growth (1.83), India would have hit 1 lakh active cases by 27 April.
+“If the present rate continues unaltered, we’ll have around 25,000 active cases by that same date (27 April), which means a reduction to a quarter of the number expected,” he added.
+“Had we continued with the reduced trend that we had noticed from 6 April (1.55), we would have had just a bit less than 40,000 cases by 28 April,” Sinha said.
+Sinha also said the growth rate in Maharashtra is showing signs of slowing down since 16 April although the actual rate of growth cannot be estimated yet because the data points are currently too less for statistical analysis.

@@ -1,0 +1,25 @@
+Anti-malaria, antibiotic combo dangerous for heart to AI prediction — latest on Covid-19
+New Delhi: The novel coronavirus pandemic has claimed more than 53,000 lives globally. Researchers across the world are now in a race to understand this new virus and find a cure for Covid-19 illness.
+ThePrint brings you the top five research developments on Covid-19 from across the globe.
+Cardiologists have warned that a combination of hydroxychloroquine (anti-malaria drug) and azithromycin — which is being used to treat coronavirus in many countries, including India — can increase the risk for abnormal heart rhythms.
+There are hundreds of drugs that can increase the risk of a cardiac arrest, but using these two medicines together in patients who are already at risk or critically ill could particularly raise that risk further, said experts.
+]There is still very little data regarding hydroxychloroquine and azithromycin’s effectiveness as a treatment for Covid-19, the researchers added. Until there is some clinical outcome data supporting the benefits or harm of these medications, doctors should use caution in using the combination.
+Also read: Social stigma towards mental health should not bother you in lockdown. Solution’s online
+An experimental drug, APN01, tested against lung disease could potentially inhibit Covid-19 by reducing coronavirus load entering the organ.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+A study, published in the journal Cell, conducted in human cell cultures and organoids has shown that the drug could be promising for treatment of Covid-19 patients in their early stages of infection.
+According to researchers at the Karolinska Institutet in Sweden and the University of British Columbia (UBC) in Canada, APN01 has already been tested against lung disease in a clinical phase II study.
+Biotech company Aperion Biologics, which has been developing APN01 with the active substance, is planning to conduct a clinical pilot study on infected Covid-19 patients in China.
+Scientists at the University of Copenhagen are developing an artificial intelligence system that can predict if a patient suffering from Covid-19 will need a ventilator or intensive care.
+With this system, hospitals will be able to know what percentage of their patients shall require a ventilator within one week, allowing them to plan and deploy their resources in the best possible way.
+The system can also help scientists identify patterns from patient data and help them understand why some of the younger Covid-19 patients need ventilators, while some older people recover without needing one.
+Also read: Airbnb may become obsolete depending on recovery of tourism after Covid-19 crisis
+An app called PanicMechanic, developed by researchers at the University of Vermont, may help people who suffer from panic attacks manage their anxiety.
+The app, meant to be used as a supplement to professional clinical care, uses the camera on cell phones to measure a body’s panic response. It is based on decades of research showing that enabling panic sufferers to observe their body’s reaction to stress reduces panic.
+The app is effective because it gives a sufferer something to do during an episode of attack, researchers said. The PanicMechanic, which is available at the Apple App store, uses machine learning to predict how long a panic attack will last, based on past records.
+Researchers at McGill University have developed 3D-printed face shields to protect healthcare workers treating Covid-19 patients.
+Partnering with Montreal-based 3D printing company AON3D, the team has donated hundreds of units to four hospitals in Montreal. They have plans to deliver 10,000 more in the coming week.
+The face shields are specially designed for the needs of medical staff during high-risk procedures such as intubations, while still providing them with the mobility and visibility required to do their jobs.
+The design files have been made openly available and can be used by anyone with 3D printers to develop these masks.

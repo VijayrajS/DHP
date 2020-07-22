@@ -1,0 +1,16 @@
+India’s ‘R’ value falls to 1.22, but active Covid-19 cases could reach 1 lakh by 30 May
+New Delhi: The effective reproduction number ‘R’ for Covid-19, a key parameter to measure the rate of infection, has reduced this week to 1.22, after holding steady at 1.29 for about two weeks.
+According to Sitabhra Sinha, researcher at the Institute of Mathematical Sciences (IMS) in Chennai, this would possibly result in just under 1 lakh active cases by 30 May.
+As of Thursday, 21 May, India has 63,624 active cases. The total number of cases recorded so far stands at 1,12,359, which includes 45,300 patients who have recovered and 3,435 deaths.
+Also read: R0: There is maths to how scientists judge the intensity of outbreaks like coronavirus
+‘R’ is different to the basic reproduction number ‘R0’, though both denote the number of people one person can infect.
+R0 is calculated at the beginning of the epidemic, when the entire population is assumed to be susceptible to the disease.
+R, which changes with time, takes into account that some individuals are protected from the disease, either because they have developed immunity or because of social distancing and other measures, Sinha told ThePrint.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Without lockdown measures, Sinha had estimated the basic reproduction number (R0) of Covid-19 in India to be 1.83, a value that was relatively lower than other regions where there have been major outbreaks.
+An R0 of 1.83 would have translated to 1 lakh active cases by 27 April, Sinha had told ThePrint in an earlier interview.
+An R of 1.29, as it had been for a couple of weeks, would have ensured that by 30 May, the number of active cases may have gone as high as 1.5 lakh.
+“However, over the past few days (16-19 May) there appears to be a further reduction in R to 1.22. This would possibly result in just under 1,00,000 (active) cases by 30 May,” Sinha said.
+However, Sinha pointed out that R must be driven below 1 to completely arrest the epidemic, and “as the value of R remains higher than 1, this suggests that in the absence of other containment measures, the epidemic may begin to grow again once stringent restrictions on the movement of people are removed”.

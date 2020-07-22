@@ -1,0 +1,88 @@
+How to slow down COVID-19 — this is the only way to ‘flatten the curve’ of coronavirus spread
+Bengaluru: The average person reading this article is likely to get COVID-19. Various experts currently estimate that 60 to 70 per cent of the human population could get infected by the highly communicable coronavirus disease, which spreads through human contact.
+In just four months of its life among the human population, the virus, scientifically known as SARS-CoV-2, has infected 200,000 people. India has registered 150 cases and three deaths in just two weeks, with big cities shutting down public spaces and corporate offices asking employees to work from home.
+Getting COVID-19 is not the problem public health officials worry about. Most people who get it display a manageable version of the symptoms until their body fights off the disease in a few days.
+However, as the disease spreads, more and more people are going to start coming in for screening and testing. As more get diagnosed, hospital wards will be taken up and there will be crowding.
+Eventually, there will be a severe shortage of testing and support resources globally as there will be more people than hospitals can hold. As a result, the immunologically weak and the elderly, who are more prone to the disease, will be at a higher risk of death, because they won’t get the required treatment.
+This point of strain on the health system is what public health experts are now trying to avoid. The key is not to stop the disease, but to slow down its spread.
+Also read: Vaccine trials to contact tracing app — here are 5 global developments on COVID-19 front
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+A phrase that is being used often nowadays is ‘flattening the curve’. This curve refers to the shape of the graph of the spread of pandemics like COVID-19.
+Our #FlattenTheCurve graphic is now up on @Wikipedia with proper attribution & a CC-BY-SA licence.  Please share far & wide and translate it into any language you can! Details in the thread below. #Covid_19 #COVID2019 #COVID19 #coronavirus  Thanks to @XTOTL & @TheSpinoffTV pic.twitter.com/BQop7yWu1Q
+— Dr Siouxsie Wiles (@SiouxsieW) March 10, 2020
+
+The graph demonstrates the difference preventive measures can make in handling an epidemic. When people don’t take enough precautions, there is a huge spike in a very short time, resulting in a large number of infected cases. This leads to a sudden demand for testing kits, hospital admissions, ICU admissions, and quarantine wards, requiring medical supplies, oxygen cylinders, masks, and individual attention.
+Each new person admitted takes up time and resources, and the war-like triage criteria for administering medical attention become more and more stringent, endangering lives. It is not that the health systems are not equipped; it is that they are simply not built to handle these many numbers at the same time.
+But if people adopt preventive measures like washing hands and avoiding public places, the spread of the virus slows down. Then, the number of people admitted to hospitals remains steady or stretchable, preventing collapse of public health systems and saving lives.
+This process is called flattening the curve. The phrase first appeared in a 2007 American paper called ‘Interim pre-pandemic planning guidance: community strategy for pandemic influenza mitigation in the United States: early, targeted, layered use of nonpharmaceutical interventions’, a study by the US government’s Centers for Disease Control and Prevention (CDC), to prepare for a pandemic just like COVID-19.
+The paper suggested measures like keeping children home from schools and avoiding public gatherings to ensure healthcare systems can keep up.
+A graphic illustrating flattening the curve appeared here first, before being popularised by The Economist’s Rosamund Pearce.
+Another original variation of the graph came from Drew Harris of the Thomas Jefferson University College of Population Health, who added the ‘healthcare system capacity’ line to the graph in his work a decade ago as a pandemic preparedness trainer.
+Important to remember that #Covid-19 epidemic control measures may only delay cases, not prevent. However, this helps limit surge and gives hospitals time to prepare and manage. It's the difference between finding an ICU bed & ventilator or being treated in the parking lot tent. pic.twitter.com/VOyfBcLMus
+— Drew A. Harris, DPM, MPH (@drewaharris) February 28, 2020
+
+Harris’ tweet led to the internet being flooded by memes based on the phrase ‘flattening the curve’.
+The execution, though, is another matter. It is done through primarily one thing: Social distancing.
+Also read: Students keep distance, teachers wear masks — CBSE’s COVID-19 advisory for exam centres
+COVID-19 infects exponentially. A single infected patient can infect more than one other person, spreading the disease rapidly. There is a number to calculate exactly this — how many other individuals does one sick individual infect?
+This number is the ‘basic reproduction number’ and is designated by R0 (pronounced ‘R-naught’). Epidemiologists currently put the number between 2 and 2.5. A study of the outbreak on the cruise ship ‘Diamond Princess’ seemed to confirm patterns consistent with the number.
+R0 is also an indicator of the stage at which any virus spreads. A lower R0 means that the outbreak is slowing down, while a higher one means that it is infecting more.
+While’s China’s R0 is finally on a slowdown, India’s is expected to climb steeply.
+But a falling R0 isn’t indicative of the disease itself disappearing. It simply means that a person spreads the disease to a fewer number of people. Thus, even though a large population might ultimately get the disease over a period of time, the disease has slowed down enough to not be a threat to the public health system. Attaining this flattening is now the objective with COVID-19 around the world.
+The only way this can be achieved is through social distancing — keeping all non-essential social contact to a minimum, even when there have been no confirmed cases of COVID-19 in a neighbourhood or a city. Reducing the chances of the spread of the virus enables that transmission stays clustered in pockets — called ‘local transmission’, or Stage 2 of the Coronavirus pandemic.
+In local transmission, each case can be traced back to its origin and all people who might have come in contact with someone infected can be tracked and isolated, preventing the spread of the disease from beyond individuals in these pockets.
+Not practicing social distancing enables people to contract the disease in a public place, without the ability to trace the individual from whom the virus was received. This is called community transmission, or Stage 3, which can snowball rapidly, overburdening every medical facility.
+Also read: Army reports first coronavirus case, cancels training and events to prevent outbreak
+Government-mandated shutting down of public places where crowds gather seems to show benefits the earlier it is done.
+A month ago, there were no coronavirus troubles in Italy. Today, it has the highest number of deaths and cases outside of China, numbering more than Iran and South Korea put together.
+The town of Lodi in northern Italy has become something of a case study for relatively efficient containment of the disease, as compared to the rest of the ageing country.
+In Italy, testing was not yet widely available in the early days of the disease. The northern region made testing widely available two weeks before the southern region did. The difference it made later was stark.
+Incredible example of #flatteningthecurve. Lodi had Italy's first case of #Covid19 and they shutdown on 23 Feb, while Bergamo waited till 8 March. https://t.co/Bo69ENeVSV
+Via @donmoyn @drjenndowd, @melindacmills pic.twitter.com/SJSgZGyK4W
+— Nikhil നിഖിൽ 🇮🇳 (@nikhilnarayanan) March 16, 2020
+
+Cases of large community transmissions illustrate perfectly the need for social distancing.
+Patient 31, a ‘super-spreader’ in South Korea, came in contact with 1,200 people between the time her sample was taken for testing, and when the result came back positive. The 60-year-old woman got admitted to the hospital with high fever, and after her samples were submitted, stepped out on four public occasions, including twice to church. Around 9,300 churchgoers and associated persons were screened, and 1,261 of them exhibited symptoms. A thousand churchgoers were quarantined.
+But, most surprisingly, ‘Patient 31’ had no travel history to any of the infected countries. She was simply a person who was very social and had caught it through community transmission — and unwittingly helped spread it.
+Public health experts in India too have spoken out about the methods that need to be adopted to flatten the curve, the most important of which is social distancing and avoiding non-essential contact.
+Social distancing is important even among younger people who don’t show many symptoms, as they could put at risk their parents and grandparents at home, or any other immuno-compromised members of society they come in contact with. This is the main reason even schools have shut down, despite the fact that there have barely been any cases among children.
+Also read: UP to AP, what’s stopping India’s temples and mosques from closing down due to COVID-19
+Most people under the age of 50 who get infected with COVID-19 exhibit “mild symptoms”. These are stronger than regular flu symptoms, and are usually severe fever, body aches, and dry cough.
+When such symptoms manifest among this age group, the right protocol is self-quarantine and to not step out of the house, so that the body builds up immunity over a couple of weeks and fights the virus off. In effect, quarantine will prevent the spread of the virus from the infected person.
+Younger ages don’t even display the full symptoms. Studies have shown that infected children display low to no symptoms while still being tested positive and spreading the disease.
+The coronavirus is most lethal in the age group 50 years and above. Numbers from everywhere show that older people are more prone to getting the virus, thanks to their weakened immune system. Those with further weakened immunity thanks to existing lifestyle diseases such as diabetes and hypertension seem to be at a higher risk of getting the virus.
+Among those in this age group that get it, the chances of succumbing to COVID-19 are also higher as the age goes up. Until 50 years of age, the death rate is 0.2 per cent to 0.4 per cent of those who get it, but for the age group of 50-60 years, it goes up to 1.3 per cent. For every subsequent decade, it climbs: 3.6 per cent for those aged 60-70, and 8 per cent for the 70-80 age group.
+People over the age of 80 and those with chronic diseases are the most vulnerable to the disease, with nearly 15 per cent of those diagnosed in this age group dying.
+In older people, a phenomenon called cytokine storm syndrome might be occurring. This happens when the body can’t turn off its immune response to the virus after it has kicked in, and then needs to tone it down. As a result, the body’s own immune system attacks healthy cells in the lungs, causing infected patients to further fall sick and eventually die.
+The good news is that cytokine storm is now treatable.
+In Europe, Italy is the worst-affected country because it has the highest ageing population. Data from this population points out the patterns within the elderly as well.
+The numbers are similar for those with chronic diseases: Those with heart disease are at a 10.5 per cent increased risk, followed by those with diabetes, respiratory diseases, hypertension, and cancer.
+The fatality rate at the moment seems to be at around 3.4 per cent, but the number is likely to come down by a large margin as more and more mild cases are diagnosed. It is currently 10 times the death rate of regular seasonal influenza.
+Also read: Govt allows private labs to test for COVID-19, but its appeal for free tests has few takers
+A seasonal flu can be treated with the flu vaccine, as can most diseases which have vaccines. There’s no vaccine yet for COVID-19.
+With the territory of vaccines and immunity comes the phrase ‘herd immunity’. Very simply, it means that when enough people in the population have immunity against a virus, the virus runs out of new people to bounce to, and dies.
+Herd immunity or group immunity even protects the immunologically weak — the elderly, those too young to vaccinate, those too immuno-compromised to vaccinate, and those with a generally weak immune system. The ideal defence against any disease within a population is herd immunity.
+This is what the British government was going for when it recently announced its health plan for COVID-19: Instead of insisting on social distancing and shutting down public gatherings, it will only quarantine those who’ve tested positive, allowing the disease to spread. As it spreads through the population, most will fight it off in a few days and develop either a permanent or seasonal immunity to it.
+Studies do seem to confirm that recovered patients do not get the disease again
+immediately. But experts were quick to criticise the health response. Not enforcing social isolation would mean hundreds of thousands of unnecessary deaths, which can easily be avoided through quarantine.
+Recipe for failure and a lot of deaths. Herd immunity is a concept based on immunisation not novel epidemics https://t.co/MwOW46Eiw9
+— Norman Swan (@normanswan) March 17, 2020
+
+Suggestions for efficient combating of the disease were made by an investigative report, which said that COVID-19 response requires “a combination of social distancing of the entire population, home isolation of cases and household quarantine of their family members”, and “may need to be supplemented by school and university closures”.
+An “intensive intervention package” will have to be “maintained until a vaccine becomes available (potentially 18 months or more)”, it added.
+Further investigation into the UK strategy found that “mitigation is unlikely to be feasible without emergency surge capacity limits of the UK and US healthcare systems being exceeded many times over”.
+Also read: Swiss firm Roche gets COVID-19 test license, India’s Mylab and Trivitron await govt nod
+Medical systems around the world are failing to catch up with the rapidly spreading virus, with testing and screening still lagging behind. India’s systems are in stark contrast with smaller countries that stepped up swiftly and urgently.
+South Korea had perhaps one of the most efficient responses to the disease. COVID-19 hit the country in mid-February, and with the rapid involvement of the private sector, the government scaled up testing for its citizens.
+Of over 8,000 confirmed cases, fewer than 100 have died, keeping the fatality much lower than the global 3 per cent.
+Over 250,000 people have been tested for the virus in the country of just over 50 million. Samples are transported to one of the 118 labs in airtight, temperature-controlled vans. Around 1,200 people perform analysis on them. With the new drive-through testing sites peppered around the country at 633 locations, South Korea can now test up to 20,000 people per day.
+India’s 1.3 billion people are currently served by 51 testing labs. The National Institute of Virology (NIV) is the nodal reference laboratory for testing in India. But it’s still currently unclear what each lab’s capacity and turnaround time is. Even tens of numbers matter at such a crucial time in an outbreak, to rapidly isolate each individual who brings the virus in.
+The problem isn’t unique to India — throughout the globe, countries need to churn out rapid responses to tests to be able to efficiently isolate large numbers of people.
+India’s first fatality, the Kalaburgi patient, had his sample collected on 9 March but results only became available two days later, by which time the patient had come in contact with nearly 80 others.
+Also read: Coronavirus inspires zero contact, only delivery from Swiggy, Zomato, Domino’s, McDonald’s
+There has been some promising news in the form of the vaccine trials in the US, but even if these trials are successful, a commercially available vaccine is at least a year away, according to experts.
+Meanwhile, even high-income countries like the US and Italy have revealed the glaring gaps in healthcare systems’ responses and the incredible human costs that accompany them.
+The Italian region of Lombardy, one of the wealthiest in Europe, set record numbers with an overnight death spike of 252 people last Sunday. The region is now lacking in good quality masks, pulmonary respirators, and ICU beds. In the US, there are cases now in every single state and the government has declared a national emergency.
+India has a long way to go before drive-through testing can become a reality, but if the growth numbers of the Italy and US are anything to go by, India should practice safe social distancing and brace itself for the upcoming storm.

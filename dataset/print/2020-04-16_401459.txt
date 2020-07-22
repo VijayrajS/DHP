@@ -1,0 +1,56 @@
+India is using at least 19 apps to track and trace Covid-19, including Aarogya Setu
+New Delhi: “GOI recommends use of Aarogya Setu app to fight against COVID19.”
+Almost everyone has seen versions of this message for the app created by the IT ministry that is being heavily promoted — either through text messages, Prime Minister Narendra Modi talking about it, or WhatsApp forwards.
+Aarogya Setu is an app that warns a user if they come in proximity of someone who has tested positive for Covid-19, and also provides tips on prevention.
+The app primarily uses location data generated via GPS, bluetooth and a user’s phone number to trace the places the user has been to. This information is then cross-referenced with the Indian Council of Medical Research (ICMR) database where positive cases have been reported. Whenever there’s a match in location data, the user gets a prompt.
+The app has been downloaded over 10 million times from Google Play store since it was launched 2 April.
+The Aarogya Setu, though, is just the tip of the app iceberg. There are at least 19 conoravirus-related apps with an estimated 10 million users that are in use in India.
+Also read: During Covid-19 lockdown, everything is digital — even adultery
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+At a time industries have come to a grinding halt and economies face recession, companies like Innefu have been able to find business opportunities through their tech offerings to handle the pandemic.
+Most apps are being used by the central government and various state authorities to track and tackle the spread of the Covid-19 infection.
+For a country that has for years churned out IT graduates, making an app is hardly a rocket science. It takes about 15 days to design such an app and another 10 days to test it, according to Tarun Wig, cofounder of Innefu Labs in Delhi, which has made such a tracking app.
+The Delhi Police had used Innefu’s facial recognition software during the protests against the Citizenship Amendment Act to find the miscreants behind the violence.
+Innefu’s app is available for sale in the US, the UK, the UAE, Bahrain, Kenya, Nigeria, Turkey, and Spain through a Bulgaria-based company, Cyborg Systems and Solutions. Of these countries, the US, Spain and the UK account for the world’s highest figures of coronavirus cases.
+Also read: Will know impact of 21-day lockdown this week or next, says top govt panel expert
+The police in Kerala’s Kasaragod district, a Covid-19 hotspot, has been using Innefu’s Unmaze app to track quarantined individuals.
+The Kasaragod police, who call it the ‘Covid Safety App’, had been using it since 25 March and keep tabs on about 20,000 people in quarantine who have also dowloaded the application.
+The app sends the location data of users to servers set up by the Kasaragod police. Inspector General of Police and Commissioner, Kochi, Vijay Sakhare said the app has helped them catch 3,000 people violating quarantine. Of these, nearly 200 have been arrested. Those violating home quarantine are sent to government quarantine centres.
+Apart from Kerala, two other state law enforcement agencies are also testing the app, according to Wig.
+Sakhare said the biggest challenge the police faced was getting people to comply with the lockdown rules, resulting in the police enforcing them “mercilessly or ruthlessly”.
+“When we started (the lockdown)… they were not willing to comply,” he said, adding things became easier as awareness spread.
+The Kerala government has been using ‘GoK Direct – Kerala‘, made by Kozhikode-based Qkopy, to provide the latest health updates.
+Also read: Without mass-testing support, lockdown won’t go a long way in containing Covid
+The IT ministry has also launched the ‘Covid-19 Feedback’ app and uses it like a survey tool to gather information from users about any treatment or tests they may have gone through. This helps the government to identify areas to improve testing and treatment processes.
+Similarly, the Survey of India has created an app called SAHYOG, which will complement Aarogya Setu for contact-tracing, public awareness, and self-assessment objectives.
+SAHYOG will collate data collected at the state-level and geo-tag it so the Survey of India can analyse this information as the database grows. The objective is to help the government improve its response system.
+In Chhattisgarh, the government uses ‘CG Covid-19 ePass’ to streamline the application process of vehicle ePasses for movement between and within districts. The app has been downloaded over 50,000 times on Google Play.
+Karnataka’s revenue department has developed ‘Quarantine Watch’ that is mandatory for people in home quarantine who use it to send across their details, including a selfie every hour except between 10 pm and 7 am. The app has been downloaded over 10,000 times on Google Play.
+Similarly, the Surat Municipal Corporation in Gujarat developed the ‘SMC COVID-19 Tracker’ to monitor those under home quarantine. This app also requires submission of selfies. Users are also expected to tap a button on the app every hour to notify their location.
+In Maharashtra, the government uses ‘Mahakavach’ to monitor those quarantined and gather data for contact-tracing.
+Also read: Apple & Google unveil Covid-19 contact-tracing software
+The Karnataka State Remote Sensing Applications Centre (KSRSAC) has an app, called the Corona Watch, that shows the location and travel history of patients registered with it. The app has been downloaded over 100,000 times.
+Himachal Pradesh uses ‘Corona Mukt Himachal’ to monitor home quarantined people.
+Other apps that collect a user’s location data include the Tamil Nadu government’s ‘COVID-19 Quarantine Monitor Tamil Nadu’. It was developed by Chennai-based Pixxon AI Solutions, a private firm.
+On 21 March, Tamil Nadu Health Minister C Vijayabaskar launched an app for doctors to give medical advice to those quarantined, reported Deccan Herald. The app was developed by a team headed by Kovai Sathyan, a member of the ruling AIADMK party’s IT unit.
+Tamil Nadu also uses CoBuddy, which relies on facial recognition to monitor home quarantined people. The app further allows users to get essential goods delivered and send SOS messages.
+On 11 April, the Telangana Minister for IT and Industries K.T. Rama Rao launched ‘T COVID 19’ in collaboration with Amazon Web Services, Cisco and Hyderabad-based startup Quantela. The app gives updates on active cases in the state.
+In Odisha, the public can find information about the coronavirus and report violations of social distancing rules on the ‘COVID-19 Odisha’ app operated by the government.
+The Amarinder Singh government uses ‘COVA Punjab’ to provide statistics and advisories related to the situation in Punjab.
+Apart from tracking cases, an app to carry out a self assessment has also been developed. Innovaccer, which created the app, has customised it for the governments of Goa and Puducherry.
+Also read: Incentives and infrastructure — what govt can do to boost data centres in India
+The Aarogya Setu requires a user to provide access to location data at all times and also asks for a user’s name, gender, profession, and countries visited in the last 30 days.
+This is an “excessive collection and use of sensitive personal data”, according to Delhi-based Software Freedom Law Center, which works on ensuring digital rights.
+In addition to those details, the app also asks whether one is a smoker and the user’s current medical condition.
+Internet Freedom Foundation (IFF), another Delhi-based organisation which focuses on protecting fundamental rights like privacy in the digital age, holds that such apps increase the risk for “institutionalisation of mass surveillance”.
+In a blog post, the IFF says, “most apps which are purported as ‘contact tracing’ technologies, often devolve into systems of movement control and lockdown enforcement”.
+The government, however, allayed the concerns.
+“There are no privacy concerns. The data collected from Aarogya Setu app is only used to respond to COVID-19. The app is not used for surveillance and is only used to track COVID patients,” IT ministry spokesperson Rajeev Jain told ThePrint.
+The IT ministry statement on the launch of the app had said, “The App’s design ensures privacy-first. The personal data collected by the App is encrypted using state-of-the-art technology and stays secure on the phone till it is needed for facilitating medical intervention.”
+In a tweet, the PIB had earlier done a “fact check” on the privacy concerns and called them “baseless”. “The App does not link user location & data with any sensitive personal data. Also, it does not make users vulnerable to hacking,” it posted.
+Srinivas Kodali, an independent data researcher, meanwhile said while there is no harm in using apps to respond to the pandemic, the problem is the lack of involvement of epidemiologists in such technological initiatives or in the development of such apps.
+“I wonder how the governments (state and Centre) have enough resources to spend on apps while there is a lack of PPE and healthcare facilities,” he said.
+Also read: A unique SuperCloud is taking shape above coronavirus-hit India. It is unlike US and China
+ 

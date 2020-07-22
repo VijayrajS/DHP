@@ -1,0 +1,31 @@
+Study that scared world into lockdown may be flawed & why Telangana needs to test more
+New Delhi: A study conducted by renowned epidemiologist Neil Ferguson at Imperial College London, that had wide-ranging implications across the world, predicted that without a lockdown, Covid-19 could infect 80 per cent of the American population and lead to the deaths of 2.2 million people — which is 0.9 per cent of the total population.
+Similarly, the study also stated that unless countries actively intervened to arrest the spread of the virus, 90 million people in the entire world could die, including 5,10,000 people in UK.
+It had indicated that mitigation, like isolation of confirmed and suspected cases, and suppression of the virus, like closing schools and colleges, can reduce the spread of the virus to thousands.
+In the early days of the coronavirus outbreak, UK was trying to attain herd immunity, but after the study’s publication, Prime Minister Boris Johnson lost his nerve and imposed the lockdown.
+On the other hand, Sweden has continued herd immunity strategy since the beginning and ignored the Imperial College study. While the study predicted 20,000 deaths due to Covid-19 in Sweden, not even 3,000 died. On the other hand, nearly 35,000 have died in the UK even after imposing a lockdown.
+Study author Neil Ferguson himself violated the lockdown by meeting his lover. He then resigned from the Scientific Advisory Group for Emergencies (SAGE), the apex group against Covid-19 in UK, which led to further controversies around the study.
+Now, David Richards, founder and chief executive of WANdisco, a global leader in Big Data software and Dr Konstantin ‘Cos’ Boudnik, vice-president of architecture at WANdisco, have written an article in the Telegraph criticising the code used in the study. 
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+They said the code doesn’t follow standard coding practices and also uses Fortran, a coding  language from the 1970s. They have called Imperial College’s software mistake the worst in human history.
+Also read: ICMR revises testing guidelines; asymptomatic, high risk to be tested between 5-10 days
+Revising its strategy for Covid-19 testing, the Indian Council of Medical Research (ICMR) said Monday that returnees and migrants who show symptoms for influenza-like illness will be tested for coronavirus infection within seven days of ailment and stressed that no emergency clinical procedure, including deliveries, should be delayed for lack of testing.
+ICMR in its revised strategy for coronavirus testing in India also added that all hospitalised patients who develop symptoms for influenza-like illness and frontline workers involved in containment and mitigation of Covid-19 having such signs will also be tested for coronavirus infection through the RT-PCR test.
+Direct and high-risk asymptomatic contacts of a confirmed case are to be tested once between day five and day 10 of coming in contact. Before this, asymptomatic contacts of a confirmed case were being tested once between day five and day 14.
+Also read: Modi govt pulls up KCR-led Telangana for low testing numbers, says need to chase virus
+When Shekhar Gupta pointed out that Telangana’s testing record is much lesser than the national average and it is a disgrace, Telangana Health Minister Eatala Rajender said Telangana was following ICMR guidelines. 
+The Narendra Modi government has now pulled up the K. Chandrashekhar Rao administration in Telangana for its low testing numbers, saying the “lack of proactive testing” will not help the state contain the Covid-19 pandemic, ThePrint has learnt.
+Not only is Telangana behind the rest of India in testing, it even lags behind Andhra Pradesh, from which it was carved out in 2014. A health ministry official said that while Andhra Pradesh conducts 9,000 tests per day on average, Telangana’s total is just over 200.
+While the all-India testing average was 1,025 per million population, the figure for Telangana was only 546. 
+Watch the latest episode of CTC here:
+
+Subscribe to our channels on YouTube & Telegram 
+News media is in a crisis & only you can fix it
+You are reading this because you value good, intelligent and objective journalism. We thank you for your time and your trust.
+You also know that the news media is facing an unprecedented crisis. It is likely that you are also hearing of the brutal layoffs and pay-cuts hitting the industry. There are many reasons why the media’s economics is broken. But a big one is that good people are not yet paying enough for good journalism.
+We have a newsroom filled with talented young reporters. We also have the country’s most robust editing and fact-checking team, finest news photographers and video professionals. We are building India’s most ambitious and energetic news platform. And we aren’t even three yet. 
+ At ThePrint, we invest in quality journalists. We pay them fairly and on time even in this difficult period. As you may have noticed, we do not flinch from spending 		whatever it takes to make sure our reporters reach where the story is. Our stellar coronavirus coverage is a good example. You can check some of it here.
+This comes with a sizable cost. For us to continue bringing quality journalism, we need readers like you to pay for it. Because the advertising market is broken too.
+If you think we deserve your support, do join us in this endeavour to strengthen fair, free, courageous, and questioning journalism, please click on the link below.   Your support will define our journalism, and ThePrint’s future. It will take just a few seconds of your time.

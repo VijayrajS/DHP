@@ -1,0 +1,26 @@
+Researchers see weekly fluctuation in Covid infection & death rates, but can’t explain reason
+New Delhi: A peculiar weekly trend of highs and lows in coronavirus infection and death rates has left researchers perplexed.
+In a preprint paper posted on medRxiv, C.S. Unnikrishnan, a professor at the Tata Institute of Fundamental Research (TIFR), described how after the initial phase where the new coronavirus cases increase exponentially, there is a weekly periodic trend of a dip in cases that cannot be explained based on existing epidemiological understanding.
+Plotting the rolling three-day average of deaths shows that the graph rises and falls every week. This trend is consistent across different countries and is more pronounced in regions where the number of cases and deaths are high.
+According to the paper, the most important aspect of this weekly modulation is its global nature — the frequency of the weekly troughs and peaks match almost all over the globe, regardless of the geographical location.
+The exceptions are Russia and many countries in Asia and Africa, where the scale of the deaths from the pandemic relative to the population has been small so far, Unnikrishnan wrote in the paper, which has not been peer-reviewed.
+The peaks and troughs modulate by as much as 30 per cent, which is significant, Unnikrishnan stated in his paper.
+However, whether the trend has anything to do with any characteristic of the virus or the virus-host (human) interaction can only be answered by those who conduct studies on the biological and medical aspects, he said.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Also read: Covid slowing in Maharashtra and MP, shows infection rate analysis of govt data
+As a physics expert, Unnikrishnan does not wish to speculate on the reasons behind this trend.
+“I just wanted to point it out properly in case others find it useful,” he told ThePrint.
+However, the TIFR researcher is not the first to have pointed out this trend.
+A team from Tel Aviv University in Israel also pointed out a similar trend in a preprint posted in May. They had also found a seven-day cycle in Covid-19 infection and mortality rates.
+Similarly, a researcher from the National Institute of Oceanography and Applied Geophysics pointed out this cyclic trend, with infections and death rates peaking and dipping once every seven days.
+Commenting on Unnikrishnan’s paper, David W. Dowdy, an associate professor of epidemiology at Johns Hopkins, told ThePrint: “My strong belief about this periodicity is that it reflects reporting patterns, in that many reporting agencies don’t work on the weekends and then have a backlog to fill on Monday.”
+He added, “This has nothing to do with the virus, is simply an artefact of how the data is reported by public health authorities and the fact that human beings around the world take weekends off.”
+However, Unnikrishnan said the infection rates are in fact at their maximum near the weekends, and so this trend may not be due to under-reporting during weekends.
+The researchers from Israel hypothesised that over the weekends there is an “increase in intergenerational social interactions”, which causes the transfer of Covid-19 from younger people to older vulnerable individuals.
+“These and additional infected older people account for most recognized Covid-19 cases and deaths, which may occur at regular time intervals, specifically in this vulnerable population,” the researchers wrote.
+T. Jacob John, a leading epidemiologist, told ThePrint that this apparent synchronicity across geographies is “surprising”, but he could not think of any biological factors to explain it. John was formerly the head of the Indian Council for Medical Research’s Centre for Advanced Research in Virology.
+Unnikrishnan said he hopes epidemiologists researching the coronavirus will be able to explain this global trend through further research.
+Also read: Covid test positivity rates, rising deaths indicate that India isn’t seeing the full picture
+ 

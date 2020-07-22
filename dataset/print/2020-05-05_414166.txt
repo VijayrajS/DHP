@@ -1,0 +1,48 @@
+Slowing infection, better recovery but mixed bag in states: What India gained from lockdown
+New Delhi: India entered the third phase of its nationwide Covid-19 lockdown Monday, with the restrictions likely to be in place until 17 May.
+While the latest phase of the lockdown ushers in a series of relaxations, the restrictions in place until 4 May meant a near-complete shutdown with just a few exceptions for essential services.
+The unprecedented lockdown over the past 41 days may have exacted a heavy toll on the economy, but it seems to have strengthened India’s fight against Covid-19. By Monday, India had recorded approximately 42,533 Covid-19 cases, which is less than half of the gloomiest outlook put forth by experts for the last week of April.
+ThePrint analyses the impact of the lockdown on different parameters.
+Also Read: Coronavirus lockdown has given us a blank slate. We can write a new world when it lifts
+India reported its first coronavirus case on 30 January, in Kerala. By the time the first phase of the nationwide lockdown was announced on 24 March, the country had recorded 557 confirmed coronavirus cases and 10 deaths.
+One week into the lockdown, the country saw a steep rise in infections, with the number of cases growing to 2,547 and deaths to 62.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+The total number of cases crossed the 40,000-mark Sunday (including recoveries and deaths), but experts claim the number of active infections alone could have surpassed 1 lakh in the absence of a lockdown. 
+The R0 — a measure of how infectious a disease is, pronounced “R-naught” — was estimated at 1.83 roughly 10 days into the lockdown, on 6 April. Two weeks in, on 11 April, it was registered at 1.55, and it has been steadily decreasing since.  
+According to Sitabhra Sinha, a professor at the Institute of Mathematical Sciences (IMS), Chennai, India’s R0 for Covid-19 stood at 1.29 last week. 
+Any perceptible changes in the R0 becomes apparent only after a delay of 10 days to 2 weeks, Sinha said.  
+Sinha told ThePrint that if the R0 had not come down from 1.83, India would have recorded up to 1 lakh active cases by 27 April. In contrast, active cases stood at over 21,416 on the date. 
+An analysis by Shamika Ravi, a former member of the PM’s economic advisory council (EAC), reiterated the finding, showing that the nationwide lockdown helped flatten the epidemic curve in India. 
+According to the health ministry, while the number of confirmed cases was doubling every three days initially, the rate was 11 days as of last Thursday. 
+However, the curve is yet to dip. This will happen when the number of active cases starts decreasing. Sinha said Covid-19 will cease to be an epidemic once the R0 drops below 1.
+Despite having lower populations than India’s, countries like the US, Spain and Italy have seen a much higher number of cases as well as deaths.
+Over 67,448 people have died in the US, while the toll is over 25,000 and 28,000 in Spain and Italy, respectively. 
+South Africa, which implemented stringent lockdown measures to contain the spread of Covid-19 around the same time as India, has reported far fewer daily cases. As of Sunday, South Africa had reported just over 6,300 cases and 123 deaths. 
+However, the rate of infection appears to be slower in India — it is currently reporting 29 cases per million people, while the rate is 107 for South Africa.
+Also Read: India lost more jobs due to coronavirus lockdown than US did during Depression
+India, which has previously been criticised for having low testing rates, has made amends on this front. India completed 10 lakh or 1 million tests Saturday, the 39th day of the lockdown, by when it had recorded 39,980 confirmed cases.
+In contrast, Spain had over 2 lakh cases, and the US, over 1.65 lakh cases, when they completed 1 million tests.
+By 24 March, India had performed about 22,694 tests. The number increased to 2.75 lakh by 15 April. According to Worldometer, a reference website, India’s present testing rate stands at 802 tests per million, as compared to 19 tests per million people towards the end of March.
+A report in Business Today Sunday quoted Indian health officials as saying the current testing rates currently stand at 70,000-75,000 daily.
+However, India still has one of the lowest testing rates among Asian countries. Pakistan is reportedly conducting 962 tests per million people, while Nepal is carrying out 2,166 and Sri Lanka, 1,254.
+Also Read: Modi got all the credit for lockdown. Now, he wants states to share risk of unlocking India
+Among India’s Covid-19 deaths, 65 per cent have been males and 35 per cent females. 
+India’s Covid-19 fatality rate, according to the Union health ministry, currently stands at 3.2 per cent. The death rate is less than 14 per cent in people aged below 45, and 34.8 per cent among those in the 45-60 age group. Most importantly, comorbidities have been found in 78 per cent of the Covid-19 deaths so far. 
+While the toll has increased over the past month, the recovery statistics also tells an interesting story.
+By 24 March, 40 of the total confirmed cases (557, a recovery rate of approx. 7.3 per cent) had recovered from the coronavirus infection. With increased testing and hospitalisation over the next few weeks, 1,344 confirmed Covid-19 (out of 11,933 cases, recovery rate of 11.3 per cent) patients had recovered by 15 April — when the second lockdown was announced.
+As of Monday, 11,706 patients (out of 42,533) have recovered from coronavirus, which translates to a recovery rate of 27.52 per cent, according to the Union health ministry. Just about two weeks ago, this figure was recorded at 13 per cent.
+Also Read: Flattening the curve, R0, pool testing: Terms that will dominate India’s Covid-19 discourse
+The case and death tally from states suggests the lockdown has played out differently across India.
+With over 12,974 confirmed cases (over 8,000 in Mumbai alone) and 548 deaths as on Monday, Maharashtra is currently the state worst affected by Covid-19. 
+In neighbouring Gujarat, the first case was detected on 30 March, but the number of cases had risen to 4,392 within a month. 
+In the initial days of the pandemic, Kerala emerged as the worst-faring state. On 30 March, it became the first to cross 200 confirmed cases. At the time, Maharashtra had 198 cases. However, by 5 April, when Kerala had crossed the 300 mark, Maharashtra had 490 confirmed cases — indicating that Kerala was able to quickly slow its rate of infection. 
+On 1 May, the state recorded just one new case of Covid-19. 
+Madhya Pradesh, which had 2,846 confirmed cases Monday, had recorded over 200 confirmed cases by 7 April. In just three weeks, the number of cases increased by over 10 times. 
+There has been a steep rise in Bihar too. The state reported its first case on 22 March. As of 30 April, it had 277 cases. While the number is lower than that for many other states, Sinha said Bihar’s R0 was estimated at 2 — which is close to what was reported from Wuhan when coronavirus was first detected.  
+In Jharkhand, the R0 is 1.87 (as of last week), followed by Maharashtra (1.50) and West Bengal (1.52). The R0 for Rajasthan, Gujarat and Andhra Pradesh has been estimated at 1.44, 1.38 and 1.27, respectively.
+The R0 is likely to change if the lockdown is lifted, Sinha told ThePrint, but any change will only become apparent after a period of 10 to 14 days.
+Meanwhile, states like Goa, Manipur, Mizoram, Arunachal Pradesh and Tripura still have numbers in single digits. 
+Manipur has not reported any new case since 3 April, and both its Covid-19 patients have recovered. Mizoram reported one case on 25 March, and has had no new cases since then.    
+Goa reported its last new case on 4 April, while Tripura and Arunachal Pradesh have not reported new infections since 11 April and 10 April, respectively. 

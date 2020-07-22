@@ -1,0 +1,37 @@
+India’s Covid deaths rise steadily but infection rate fluctuates in states: Data experts
+Bengaluru: India has seen a steady increase in the number of deaths from Covid-19 while the rate of new infections has been fluctuating from state to state, according to data analyses by experts Shamika Ravi and Mudit Kapoor.
+For instance, in Maharashtra and Gujarat, they say containment measures have not been able to effectively control the spread of the coronavirus.
+A former member of the Prime Minister’s Economic Advisory Council and an economist, Ravi has been sharing her analyses of how India is doing in terms of Covid-19 numbers everyday in the form of pictorial graphs on social media.
+Ravi is also a senior fellow at the Brookings Institution and is a professor at the Indian School of Business.
+Along with colleague Mudit Kapoor from Delhi’s Indian Statistical Institute, Ravi has been studying data collated from official sources as well as unofficial ones to better understand India’s Covis-19 trajectory.
+Also read: Is India’s Covid-19 curve flattening? Cases now double every 10 days, from 3 before lockdown
+Ravi calculates how well states are doing during the time of lockdown by calculating a five-day moving average of new cases, i.e., the average is determined from data of only the past five days. As such, it is constantly changing. Such an analysis is useful for determining short-term growth patterns.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+#DailyUpdate #Covid19India #StateHealth 5Day Moving Average of new cases:Containment not working effectively in Maharashtra and Gujarat. pic.twitter.com/LDTOYlA7pZ
+— Prof Shamika Ravi (@ShamikaRavi) April 20, 2020
+
+“Five-day moving median is less noisy than tracking (the) daily number,” Ravi told ThePrint. “It smooths daily fluctuations, and get broad trends. It is better than daily log trends.”
+The median is the middle value in a data set that is arranged from lowest to highest value, and is a kind of statistical average.
+Ravi and Kapoor’s graphs for 20 April show that states like Maharashtra, Gujarat, and Uttar Pradesh are not doing well in terms of containment, with the moving average climbing steadily, indicating a steady growth in numbers.
+For states such as Tamil Nadu, the number is currently high, but has been going up and down the past few days. States such as Madhya Pradesh and Karnataka have recorded low five-day moving average now, but have been growing in the past few weeks.
+Ravi and Kapoor have also plotted the death rate per million population in states with over 150 existing cases.
+COVID death rate per million people across states of India. pic.twitter.com/kMhyt9z9tw
+— Prof Shamika Ravi (@ShamikaRavi) April 20, 2020
+
+What this shows is that India as a whole has 0.43 deaths per million as of 20 April, while states like Delhi (2.04) and Maharashtra (1.82) have much higher rates. Delhi and Mumbai have seen a really high spike in numbers in the recent days. Kerala has the least number of deaths, at 0.06 per million. As of Tuesday, India’s death toll from the virus is 603.
+Also read: Many deaths are ‘missing’, perhaps 28,000 of them, from official Covid-19 toll across world
+Ravi and Kapoor also applied the moving average calculation to daily new cases and deaths.
+1) The 5 Day Moving Median of New Confirmed cases: steady.2) The 5 Day Moving Median of Daily COVID deaths: steady. pic.twitter.com/wwqoGI03Zz
+— Prof Shamika Ravi (@ShamikaRavi) April 21, 2020
+
+Their calculations showed that the number for daily new cases has been climbing steadily, as is its five-day moving median. Deaths, which typically occur 14 to 17 days after the onset of symptoms, saw a brief drop and plateau before starting to climb again.
+The cases being recorded each day in the country continue on an upward trajectory, as the total number of active cases climb.
+#DailyUpdate #Covid19India The total count of Confirmed cases continue to rise in India, but at lower rate. Active cases growing at 7.2% – so doubling every 10 days. pic.twitter.com/x10WlhoTb1
+— Prof Shamika Ravi (@ShamikaRavi) April 21, 2020
+
+According to Ravi’s analysis, there were three notable milestones here: On 23 March, there was a dip in the growth rate where cases started doubling every five days instead of three. On 29 March, the growth rate spiked and cases doubled every four days instead of five. And, finally, on 6 April, the growth rate slowed to cases doubling every six days instead of every four.
+“Given the narrow testing protocol that was followed for several weeks, where symptomatic people were tested, it is difficult to assess the true extent of the infection spread,” explained Ravi. “It is difficult to measure case fatality ratio. The case growth is therefore for reported cases.”
+Currently, as of 21 April, the numbers climb at a pace of 7.2 per cent, doubling India’s confirmed cases every 10 days or so.
+According to the Union health ministry, India’s doubling rate was 7.5 days based on data from last week.

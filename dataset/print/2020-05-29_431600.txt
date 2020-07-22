@@ -1,0 +1,19 @@
+India’s ‘R’ value steady at 1.23 despite easing of lockdown restrictions
+New Delhi: The effective reproduction number ‘R’ for Covid-19 in India, a key parameter that indicates how fast an infection spreads in a population, is 1.23, changing very little from last week.
+According to Sitabhra Sinha, a researcher at the Institute of Mathematical Sciences (IMSc) in Chennai, this would still possibly result in just under 1 lakh active cases by 30 May. Last week, the ‘R’ value had gone down to 1.22 after holding steady at 1.29 for about two weeks.
+Even though there was an increase in interstate travel after passenger trains began partial operations on 12 May and domestic flights resumed on 25 May, it has not led to an increase in ‘R’.
+‘R’ is different to the basic reproduction number ‘R0’, though both denote the number of people one person can infect.
+R0 is calculated at the beginning of the epidemic, when the entire population is assumed to be susceptible to the disease.
+R, which changes with time, takes into account that some individuals are protected from the disease, either because they have developed immunity or because of social distancing and other measures, Sinha told ThePrint.
+It takes about 10 days to two weeks for these changing trends to reflect in the Covid-19 curve of a country.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Sinha had earlier told ThePrint that as long as the value of ‘R’ remains higher than 1, the epidemic may begin to grow again once stringent restrictions on the movement of people are removed.
+Also read: Reproduction rate is the coronavirus number that is worth watching
+Without lockdown measures, Sinha had estimated the basic reproduction number (R0) of Covid-19 in India to be 1.83, a value that was relatively lower than other regions where there have been major outbreaks.
+With an ‘R0’ of 1.83, India could have had 1 lakh active cases by 27 April.
+However, after the nationwide lockdown was imposed, the ‘R’ reduced to 1.29 by the end of April. At that rate, India would have had as many as 1.5 lakh active cases by 30 May.
+Since May 16, there appeared to be a further reduction in ‘R’ to 1.22, Sinha told ThePrint. This week it was calculated to be 1.23 with an error margin of 0.01.
+However, ‘R’ must be driven below 1 to completely arrest the epidemic. As long as it remains above 1, the number of active cases will continue to increase.
+As of Friday, India has 89,987 active cases of Covid-19. The total number of cases recorded so far stands at 1,65,798, of which 71,105 people have recovered while 4,706 have died.

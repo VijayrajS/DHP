@@ -1,0 +1,16 @@
+Scientist says anti-epilepsy drug can be repurposed for Covid-19, writes to ICMR to test it
+New Delhi: A leading scientist at the International Centre for Genetic Engineering and Biotechnology (ICGEB) in New Delhi has found that valproic acid, an anti-epilepsy drug, can be repurposed and used for acute cases of Covid-19.
+The scientist, Neel Sarovar Bhavesh, has written to the director general of the Indian Council of Medical Research (ICMR), the apex body in the field, to test valproic acid at the National Institute of Virology in Pune or any ICMR lab to find a quick solution to the coronavirus crisis.
+The ICGEB is part of the research consortium working to find a cure and vaccine for Covid-19.
+Valproic acid is an approved drug, whose patent expired recently. It is sold under brand names such as Depacon and Stavzor to treat epilepsy. The University of California has also validated the ICGEB’s research findings — it lists valproic acid as one of the molecules for repurposing and testing for use against the Covid-19 virus.
+Also read: AI identifies potential drugs and a DNA vaccine in the works — latest on Covid-19
+Bhavesh, the head of transcriptional regulation at ICGEB, told ThePrint: “We have performed high-throughput virtual screening (HTVS) of 1.2 million small molecules from the four databases, and later performed Energy calculation and molecular binding simulation. We found that valproic acid CoA may be repurposed to inhibit the RNA-dependent RNA polymerase of the virus.
+“We have written to the DG ICMR to test this molecule on cell culture and animal testing facilities, in combination with potent binding blocking molecules. Currently no one in India outside the NIV and ICMR has access to the Covid-19 virus,” Bhavesh said.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+“About 1,100 strains of the novel coronavirus have been sequenced from around the world. We (in India) have around 700 confirmed positive cases, but only two virus sequences are available at the NIV. These sequences are different from each other,” he explained.
+Bhavesh revealed that after the publication of the ICGEB research, multinational pharmaceutical company GlaxoSmithKline contacted them.
+However, Bhavesh said there’s an urgent need for cooperation from government bodies like the ICMR and the NIV in terms of giving researchers access to the virus strains in India to test on.
+“There should be synchronisation in testing and developing. If NIV or any another research institution finds success, lots of patients can be cured and saved. The need of the hour is to find the solution. The NIV must cooperate with other institutions more generously,” he said.
+A day before, Union Biotechnology Secretary Renu Swarup also said in an interview that early solutions for the novel coronavirus can be found from repurposed drugs, and that developing new drugs would take time.

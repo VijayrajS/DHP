@@ -1,0 +1,27 @@
+Clinical trial to test if HCQ, HIV drug can prevent infection in Covid-19 ‘contact persons’
+New Delhi: Even as the global death toll continues to rise, scientists around the world are racing to develop solutions to fight the coronavirus pandemic.
+Here are some of the latest research developments from across the world on the Covid-19 front.
+Researchers in Switzerland have launched a clinical trial to test whether antimalarial drug hydroxychloroquine and the HIV drug combination of lopinavir and ritonavir can help prevent Covid-19 in those people who were in close contact with newly confirmed patients.
+Treating contact-persons of a patient preventively is called post-exposure ring chemoprophylaxis.
+India has also been advising high-risk individuals — heath workers and contacts of Covid-19 patients — to take HCQ as precaution. However, since the drug has side-effects, it should only be taken with a doctor’s prescription.
+The COVID-19 Post-Exposure Prophylaxis (COPEP) project is a collaboration between the University Hospitals Geneva, the University Hospital in Basel, and the Swiss Tropical and Public Health Institute (Swiss TPH).
+The study will assess the efficacy of the two drugs by enrolling more than 400 people who were in close contact with newly diagnosed Covid-19 patients.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+The participants will be randomly divided into three groups. In the first group, study participants will be administered a single-dose of the antimalarial drug hydroxychloroquine. Participants in the second group will receive the anti-HIV drug combination lopinavir/ritonavir for five days.
+Participants in the third group will not be administered any of these two repurposed drugs. All study participants will be monitored on a daily basis for Covid-19 symptoms.
+Three weeks after enrolment, investigators will check if the participants develop the infection.
+Also read: Remdesivir fails to treat Covid in China trial, drug maker says too soon to draw conclusion
+Researchers have developed an electronic stocking to prevent muscle loss in Covid-19 patients who are bed-ridden.
+Muscle loss is a major problem for intensive-care patients, who are totally inactive in hospital beds for long periods of time. As much as 10-20 per cent of the muscle mass in the legs can be lost in just 5-10 days.
+Many patients afflicted with the novel coronavirus may remain in hospital for several weeks, which poses additional health concerns.
+The team from Aarhus University in Denmark has developed a special biocompatible electrode that can be integrated and 3D-printed onto compression stockings.
+Biocompatible electrodes do not irritate the skin and can remain in contact with the skin for days or even weeks. They stimulate the muscles through the stocking. In the coming months, the stocking will be tested on Covid-19 patients in intensive care units in Denmark.
+A team of scientists at the Icahn School of Medicine at Mount Sinai in New York are developing a synthetic antibody will block the SARS-CoV-2 from entering human lung cells and can be another potential treatment option for Covid-19.
+All coronaviruses, including Covid-19, have protein ‘spikes’ protruding from their outer surface. These spikes help the virus bind to a molecule called ACE2, which is found on the surface of many human cells. This is the entry point through which the virus infects a person.
+Researchers hope that creating an antibody that binds to the spike protein will interfere with, and thereby block, the virus and prevent its entry into human cells.
+This antibody could then be given to people with Covid-19 to stop the virus from infecting additional cells. This is similar to what doctors are already doing with natural antibodies harvested from people who have survived Covid-19, in what is known as convalescent plasma therapy.
+Also read: One in five New York City residents tests positive for coronavirus antibody, shows survey
+Testing sewage samples to monitor the novel coronavirus can help estimate the spread of the virus at a local as well as global level, researchers suggest.
+The approach known as wastewater-based epidemiology (WBE) holds the promise of near, real-time monitoring of disease outbreaks, resistant microbes and levels of drug use in a population.

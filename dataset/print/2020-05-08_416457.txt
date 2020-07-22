@@ -1,0 +1,42 @@
+World’s most accurate antibody test has arrived. Or has it?
+Bengaluru: While the world continues looking for a treatment or vaccine for Covid-19, medical scientists are still perfecting the science of testing for the disease. So far, the RT-PCR (reverse transcription-polymerase chain reaction) test remains the most reliable.
+Although RT-PCR tests are crucial to determine if a patient is infected with the SARS-CoV-2 virus, antibody tests are more useful for surveillance and to determine how many have been infected in a population.
+Many antibody tests appeared in the market, and since the results take just a few minutes, many countries, including India, started to stock them. However, they have proven to be not very reliable.
+Earlier this week, the US drug regulator approved an antibody test developed by Roche Holding AG. According to the Swiss company, the test has the highest accuracy rate in the market today, and takes only 18 minutes to confirm whether a person is Covid-19 positive. If proven true, this could see countries significantly scale up testing as world economies itch to spring back to life.
+ThePrint explains the science behind antibody tests and why they’ve been wrong so far.
+Also read: Modi govt tells states not to buy Covid-19 rapid antibody test kits from 2 Chinese firms
+Antibody tests are used to detect if a person has antibodies to a disease. These are antibodies produced by our own immune system when it kicks into action to fight a disease.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+The presence of antibodies typically reveals two important things ⁠— that a person has already had the disease, and they are likely to have immunity to the disease because the body now recognises the virus.
+There are five kinds of antibodies that our bodies produce, also called immunoglobulins (Ig), in response to bacteria, viruses, fungi, cancer, or allergens. These Y-shaped antibodies work by attaching themselves to the foreign substance (called antigen), preventing movement and causing them to attach to each other in a process called agglutination.
+For Covid-19, the test looks for the IgM and IgG antibodies.
+Also read:Israel develops key Covid antibody that ‘attacks and neutralises’ the virus in patient’s body
+IgM antibodies, found in the blood and lymph fluid, are the first kind of antibodies that we produce when faced with an infection that is new to our body. They are the largest antibodies we produce and make up the primary immune response. They eventually disappear and are replaced by IgG antibodies as the infection progresses.
+IgG antibodies are the most common type of antibodies found in our bodies, and they are the smallest in size. They are detected in blood and other body fluids, and take time to form after an infection begins. This is the secondary immune response stage.
+Hence, they are usually detected after recovery, and are typically responsible for ’neutralising’ foreign particles and providing long-term immunity. They are also the only antibody that can cross the placenta in a pregnant mammal and protect the foetus.
+Also read: What is rapid antibody test that India has cleared for Covid-19 and how it will help
+Antibodies work through two main mechanisms ⁠— neutralisation and opsonisation.
+Neutralisation is when the antibody attaches itself to the proteins on which foreign particles piggyback on to enter into cells. This way, it prevents it from damaging the cells or multiplying.
+Opsonisation is the mechanism in which the antibodies recruit our immune system’s phagocyte cells, which engulf and kill the foreign particle.
+Sometimes, our bodies make antibodies that act on healthy cells. This is what causes autoimmune diseases. Sometime, the immune system overreacts and kills healthy cells along with the virus, resulting in a phenomenon called cytokine storm. It is this process that seems to result in deaths among older people infected with Covid-19.
+In context of the Covid-19 disease, the detection of IgM antibodies indicate that a person has contracted the infection, while the detection of IgG indicates they’ve recovered and have developed an immunity. The levels of each can help deduce the spread of the infection and how the body is faring in fighting it off.
+Also read: Think you had Covid-19 in past? This is the ‘condition’ it could have been
+An antibody test, also called a serological test, collects a few drops of fresh blood, serum, or plasma, to be placed in a sample container, called a cassette or a cartridge. The cassette already contains the SARS-CoV-2 antigen. If the blood samples contain antibodies, they will immediately bind to the virus. If either antibody is detected and agglutination occurs, forming a ‘complex’, the result is positive for Covid-19 antibodies.
+The positive result is indicated in the form of lines, like a home pregnancy test. There are separate lines for IgM and IgG, and there is also a third line for control, which simply indicates that the test is functioning as expected. For any working test, the control line is always positive, irrespective of whether the test comes out positive or negative.
+We are unsure as of yet how long immunity to Covid-19 (and thus antibodies) last. So a negative result simply indicates that the person has not been recently exposed. Antibodies to other coronaviruses, like the four strains that regularly cause common cold-like illnesses, provide protection for just about a year.
+If the result of a test is IgM positive, it is likely the person is in the early stages of the disease. For positive IgG lines, a patient has either recovered or is in the last stage of recovery. If both are positive, the patient is likely in the middle stage of the infection.
+Antibody tests are not the best way to determine if a person is infected, because it takes a few days for our immune system to produce antibodies. So a person might be currently in the early stages of infection, but still test negative for IgM. Thus, RT-PCR gene testing, which is the regular nasal swab test that detects the SARS-CoV-2 virus through polymerase chain reaction, is also necessary.
+Antibody tests for Covid-19 typically take 10 minutes to process.
+Also read: How use of Chinese rapid testing Covid-19 kits created panic in a Kashmir village
+There are two aspects of antibody tests that tell us how accurate they can be ⁠— their sensitivity and specificity.
+Sensitivity is when a test is strong enough to pick up the presence of antibodies, and specificity is when it can identify the right kind of antibodies.
+Some tests tend to pick up antibodies to other kinds of coronaviruses, thus lowering specificity and increasing the rate of false positives. A false positive is when a person actually doesn’t have antibodies to the SARS-CoV-2 virus but a test comes back positive.
+Some tests are incapable of picking up antibodies at all, due to low sensitivity, and thus produce a false negative, i.e., a person actually does have antibodies but the test comes back negative.
+Most tests on the market today are categorised by their sensitivity and specificity, and nearly all of them have a high degree of error. The most accurate test presently available, the Roche test, is manufactured by the Swiss firm Roche, the world’s biggest biotech company.
+Roche claims that its test has 100 per cent sensitivity and 99.8 per cent specificity. In comparison, other tests available today have much lower values. Premier Biotech’s test has 80.3 per cent sensitivity and 99.5 per cent specificity while Cellex’s test has 93.8 per cent sensitivity and 95.6 per cent specificity.
+That being said, whether the test is as accurate as the company claims can be determined only after a comparable volume of tests have been done using it.
+While the differences between the tests appear negligible, the numbers of false positives and false negatives can be in the thousands, creating rampant confusion. Most tests tend to be about 50 per cent accurate overall, while the Roche test is thought to be up to 96 per cent accurate.
+However, the Roche test also has its limitations; it works only if blood is drawn at least 14 days after infection.
+Scientists have not yet established if infected people have long-term immunity to the SARS-CoV-2 virus.

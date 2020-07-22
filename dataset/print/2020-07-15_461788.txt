@@ -1,0 +1,86 @@
+Bihar has lowest Covid tests per million in India, Maharashtra’s positivity rate the highest
+New Delhi: Starting today, ThePrint will bring you a daily tracker of the state of the Indian states on Covid-19 — a comprehensive look at how much they are testing and how fast the infection is spreading, and whether the former is keeping pace with the latter.
+For this analysis, we use three parameters:
+‘R’ value, also known as the reproduction number, represents the number of new infections estimated to emerge from a single case. An R value of less than 1 indicates that the outbreak of infection is slow since each infected patient will infect less than one other person. ‘Rt’ is the ‘effective’ version of the ‘R’ number, and it indicates the transmission rate of the virus in time ‘t’.
+Positivity rate is the number of people that are found to be infected with the virus out of those who are being tested. This indicates how widespread the disease is.
+Tests per million are indicative of the amount of testing being conducted in relation to the population of that particular area.
+The states and union territories have been arranged in ascending order of tests per million. All data is sourced from covidtoday.in.
+Also read: 582 deaths, 63.24% recoveries, Gujarat mortality rate highest at 4.74% — India’s Covid data
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+
+Bihar has recorded an Rt value of 1.31 and has a positivity rate of 10.73 per cent. The state has conducted the lowest number of tests per million in the country — 2,637.
+Bihar Deputy CM Sushil Kumar Modi has announced that a total lockdown will be imposed in the state from 16 July to 31 July. The total number of cases in the state reached 18,853 with a record 1,432 new cases.
+
+Jharkhand recorded the third highest Rt value in the country, at 1.42. The positivity rate in the state was recorded at 4.74 per cent. The tests-per-million figure stands at 4,919. The state saw a total of 4,000 Covid-19 cases Tuesday, of which 66 were police personnel.
+
+Telangana recorded an Rt value of 1.07 and the second highest positivity rate in India, after Maharashtra, at 17.55 per cent. Hospital workers in Telangana have reportedly claimed that Covid-19 deaths are being under-reported in the state. It has conducted only 4,954 tests per million, which is the third lowest in the country.
+
+Uttar Pradesh has recorded an Rt value of 1.24, a positivity rate of 3.84 per cent. It has conducted only 4,981 tests per million so far. The UP government on Tuesday issued a directive detailing a weekend lockdown. On Wednesday, the state recorded 1,656 new cases, taking its total tally to 40,000.
+
+Madhya Pradesh has recorded an Rt value of 1.25, a positivity rate of 3.50 per cent, and 6,111 tests per million. The state has witnessed an alarming spike, with 5,000 new cases being reported in the past 15 days.
+
+West Bengal has an Rt value of 1.30,  a relatively high positivity rate of 11.32 per cent, relatively low testing at 6,410 tests per million. On Tuesday, the state government decided to extend the lockdown in containment zones till 19 July. With 1,435 new cases, the infection tally in the state has touched 31,448 cases.
+
+Meghalaya has recorded the highest Rt value in the country, at 2.37. This is more than double the average all-India Rt value of 1.15. Meghalaya recorded a test positivity rate of 7.31 per cent and conducted 7,282 tests per million. The state government Wednesday decided to close its borders form 21 July to 31 July. Forty-six people have recovered from the disease and two have died.
+
+Chhattisgarh has an Rt value of 1.24, same as Uttar Pradesh. It has recorded a positivity rate of 3.72 per cent and has conducted 7,386 tests per million so far. The state government on Tuesday issued a list of red, orange and green zones across 112 blocks in 25 districts to combat the spike in cases.
+
+Gujarat has the highest case fatality rate in the country, at 6.18 per cent, almost double the country’s average case fatality rate of 3.86 per cent. The state has recorded an Rt value of 1.14, conducted 7,489 tests per million, and its high positivity rate is a high 11.48 per cent.
+Also read: IIT-Delhi’s RT-PCR kit, with base price of Rs 399, opens new avenue for cheaper Covid tests
+
+Odisha has recorded an Rt value of 1.27, a positivity rate of 9.48 per cent, and conducted 7,490 tests per million so far. On 15 July, it recorded the highest single day spike in capital Bhubaneswar — 90 cases.
+
+The union territory of Chandigarh has an Rt value of 1.38, a positivity rate of 8.67 per cent, and has conducted 8,488 tests per million. On Tuesday, twelve new cases of Covid-19 took the total tally to 600.
+
+Uttarakhand has a low positivity rate, 2.96 per cent, an Rt value of 1.11 and has conducted 8,788 tests per million. The state also opened its borders for tourists on 5 July 2020 and many professionals working from home in Delhi and NCR have reportedly shifted to the hills.
+
+Maharashtra has the highest positivity rate in India at 23.11 per cent. Mumbai recorded a dip in new cases Tuesday with 954, but is expected to cross over one lakh cases at the end of this week. It was recently overtaken by Delhi in the number of cases. Overall, Maharashtra is conducting 11,175 tests per million and has recorded an Rt value of 1.14.
+
+Nagaland has an Rt value of 1.13 and a positivity rate of 4.41 per cent. It has conducted 11,969 cases per million so far. On 14 July, the state recorded its highest single-day spike with 71 cases.
+
+Kerala recorded an Rt value of 1.39 and the second lowest positivity rate in the country — 1.95 per cent — after Himachal Pradesh. It has conducted 12,186 cases per million. It recorded 608 new Covid-19 cases Tuesday. Even though the state was able to contain the virus in the initial stages, recently, the number of cases of local transmission has surged.
+
+Karnataka has a high Rt value of 1.29 and has the third highest positivity rate in the country of 11.66 per cent. The state has conducted 13,022 tests per million so far. On Tuesday, Karnataka overtook Gujarat to become the state with fourth highest caseload of Covid-19 infections.
+
+Rajasthan reported 635 new cases of Covid-19 Tuesday. With an Rt value of 1.20, the state has also recorded a low positivity rate of 2.81 per cent. It has conducted 13,533 tests per million.
+
+Punjab has recorded an Rt value of 1.18. The state has a relatively low positivity rate of 3.16 per cent and has conducted 13,590 tests per million. Punjab was the first state in India to impose a Covid-related curfew on 23 March 2020.
+
+Mizoram has an Rt value of 1.39 and a relatively low positivity rate of 3.25 per cent. The state has conducted 13,648 cases per million. On Wednesday, the state reported five new cases taking the total tally to 238.
+
+Haryana Health Minister Anil Vij had said Tuesday that the state government was contemplating imposing restrictions in districts bordering Delhi. The state has an Rt value of 1.14, same as Maharashtra and Gujarat. It has a positivity rate of 7.24 per cent, and has conducted 13,783 tests per million.
+
+Himachal Pradesh has reopened its borders to tourists, and on 13 July, over 700 tourists reportedly visited state. The state has an Rt value of 1.06 and has recorded the lowest positivity rate in the country, at 1.82 per cent. It is conducting 13,891 tests per million.
+
+Assam has recorded an Rt value of 1.15. The recent surge in cases has been led by Kamrup district, which has seen infections increased by 26 per cent in the last two days. The overall positivity rate in Assam is 5.32 per cent, while conducting 16,172 tests per million so far.
+
+Sikkim has India’s second highest Rt value, at 1.49. The state’s test positivity rate stands at 4.62 per cent, and it has conducted 18,745 tests per million. A total of 198 Covid-19 cases have been reported in the state since Tuesday, of which 112 are active cases.
+
+Puducherry has recorded an Rt value of 1.23 and a relatively high positivity rate of 9.12 per cent. It has conducted 19,262 tests per million. Sixty-seven new cases were reported Wednesday, taking the total tally to 1,596.
+
+With an Rt value of 1.14, Manipur has recorded a positivity rate of 3.42 per cent. The state reported 17 new Covid-19 cases Tuesday. It has conducted 20,550 tests per million so far.
+
+Tripura’s Rt value was recorded at 1.31 and positivity rate at 3.43 per cent. It has carried out 21,266 tests per million. The state Tuesday announced a total lockdown in areas bordering Bangladesh, after that country witnessed a spike in cases.
+
+Arunachal Pradesh’s Covid-19 tally has touched 359 cases with 19 new infections as of Monday. With am Rt value of 1.15, the state has recorded a positivity rate of 3.67 per cent, and has conducted 21,526 tests per million.
+
+The number of people cured of Covid-19 in Tamil Nadu inched a little closer to the one lakh mark Tuesday. But Wednesday recorded the highest single-day spike with 4,526 fresh cases. The Rt value in the state was recorded at 1.04, the positivity rate at 10.10 per cent and the number of tests conducted per million is 21,779.
+
+Andhra Pradesh’s Rt value is 1.34 and positivity rate is 7.92 per cent. The state Wednesday recorded its highest single-day spike of 2,432 cases, taking the total past the 35,000 mark. It has conducted 22,183 tests per million so far.
+
+Jammu and Kashmir has an Rt value of 1.25 and a positivity rate of 4.22 per cent. It has conducted a relatively high 34,273 tests per million. The UT is open for tourists, but only air travellers are allowed so far.
+
+Delhi Tuesday reported 1,606 new infections. The Rt value for the national capital remains low at 0.92 in comparison to other states with hotspots. It has recorded a positivity rate of 8.71 per cent, and conducted over 38,154 tests per million.
+
+The Andaman and Nicobar Islands have recorded the third lowest Rt value in the country at 0.93. With 44,622 tests conducted per million, the positivity rate is also the third lowest at 2.47 per cent. The UT had enjoyed an infection-free month after all 33 patients tested negative on 10 May. But it recorded a new case in the second week of June.
+
+Ladakh recorded the highest recovery rate in India on 13 July with 85.45 per cent, and its Rt value is a little above 1, at 1.03. With 53,985 tests per million, the UT has recorded a high positivity rate of 11.47 per cent.
+
+ 
+The union territories of Dadra and Nagar Haveli and Daman and Diu have recorded the lowest Rt value in India, at 0.89. Their combined positivity rate stands at 6.21 per cent and the tests-per-million figure is 59,476. The total number of cases recorded in the union territories are 520, of which 209 are active.
+
+Goa CM Pramod Sawant Wednesday announced that the state will observe a complete lockdown from 17 July to 19 July. The state has an Rt value of 1.16 and a positivity rate of 4.93 per cent. Its 60,956 tests per million are the highest in the country.
+Lakshadweep is the only territory in India that has not recorded any cases of Covid-19 so far.
+Also read: Immunologists must drive the Covid-19 discussion, not headline-hunting epidemiologists

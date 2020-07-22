@@ -1,0 +1,64 @@
+Is India’s Covid-19 curve flattening? Cases now double every 10 days, from 3 before lockdown
+New Delhi: India is entering its fourth week of a nationwide lockdown, aimed at curbing the spread of the Covid-19 infection that has no cure yet, but new infections continue to be reported. In the past 24 hours, around 1,300 new cases were recorded, taking the total number of active cases to 12,974 as of Sunday morning.
+However, there is a silver lining.
+The number of cases have been doubling every 10 days instead of every three days — which was the situation before the lockdown, according to Shamika Ravi, senior fellow at Brookings Institute, India centre, and a former member of the Prime Minister’s Economic Advisory Council.
+Ravi has been posting daily updates on the rate of Covid-19 infection in India, and her analysis over the weeks has shown several trends.
+Also read: It took India 74 days to cross 10,000 Covid-19 cases — much slower than US, UK
+Before we call the lockdown a complete success, India needs to stop seeing fresh cases of Covid-19 for at least 15 days given that the virus has an approximately two-week incubation period.
+The data, at present, shows that the curve may be beginning to flatten.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+#DailyUpdate #Covid19India While the total number of confirmed cases are growing, the rate of growth of active cases is now 7.1%. So these are doubling every 10 days. Good! pic.twitter.com/KisQi1qrjX
+— Prof Shamika Ravi (@ShamikaRavi) April 18, 2020
+
+“In the beginning, of course, there was a very rapid growth — numbers doubling every three days, but the curve had first begun to flatten around 23 March,” Ravi told ThePrint.
+The number of cases went from doubling every three days to every five on 23 March, just two days before the lockdown was imposed. The total number of cases in India was 987 at the time.
+This decline was attributed to a 13 March decision to ban travel to certain countries, and to shut schools and colleges. Since coronavirus symptoms take about 14 days to manifest, the effect of mitigation measures on case numbers began to show only after two weeks.
+#DailyUpdate #Covid19India The growth rate of Active cases in last 5 days: 9.8% …. still doubling at 7 days. pic.twitter.com/9gsiNv5Nvp
+— Prof Shamika Ravi (@ShamikaRavi) April 16, 2020
+
+“It (the growth rate) began to pick up again around 29 March — that’s when all the cases from the Tablighi congregation came to light. Then we see a considerable escalation for the next 10-12 days. That is when the growth rate began to increase again at a very rapid rate,” Ravi told ThePrint.
+Around April 2, cases began to double every four days.
+#DailyUpdate #Covid19India A clear and significant rise in the growth rate of confirmed cases in India. We are now doubling every 4 days. #Nizamuddin effect begins to emerge from March 29th (approx 2 weeks from congregation). Violations in #SocialDistancing have real impact! pic.twitter.com/J7Xfe5C8Za
+— Prof Shamika Ravi (@ShamikaRavi) April 2, 2020
+
+Just a day after, the rate of growth increased further — with the number of cases doubling every three days.
+#DailyUpdate #Covid19India
+The initial gains in #flatteningthecurve have been reversed. From the last five days, India is back to a growth rate where confirmed cases double every 3 days. pic.twitter.com/7LMgtieVBs
+— Prof Shamika Ravi (@ShamikaRavi) April 3, 2020
+
+The sudden spike in new cases was attributed to the Tablighi Jamaat religious congregation that took place in Delhi’s Nizamuddin Markaz Mosque in March. Despite a government ban on religious gatherings, over 2,000 people attended the event on 13 March.
+It was only on 24 March, after six people had tested positive for Covid-19, that authorities were made aware of the spread of the disease among the attendees of the congregation. By then, participants of the event had travelled back to different states — further spreading the disease.
+As of 6 April, there were a total 4,067 cases reported, of which over 1,400 were linked to the event.
+Also read: Tablighi Jamaat chief Saad charged with culpable homicide for spread of Covid-19
+The next change in trend happens around 6 April, Ravi said.
+The rate of growth of new cases was at 16 per cent, which meant the number of cases were now doubling every four days instead of three. At this point, the total number of cases in India was 4,778.
+#DailyUpdate #Covid19India Grim situation. Rate of growth of confirmed cases rose sharply yesterday. pic.twitter.com/2SbUH4TKLh
+— Prof Shamika Ravi (@ShamikaRavi) April 7, 2020
+
+However, on 10 April — 16 days since the lockdown began — the growth rate of infection began to decline again, with cases doubling every six days. India’s death toll due to the coronavirus however had crossed 300 by now.
+#DailyUpdate #Covid19India
+The total number of confirmed cases are rising, but the growth rate has slowed. India now doubling every six days (but remember the base is large too!) pic.twitter.com/aZEPkG7joC
+— Prof Shamika Ravi (@ShamikaRavi) April 11, 2020
+
+By this time, India had negated the spike that happened when cases were doubling every three days, Ravi said.
+In the next four days, the growth rate declined further to 10 per cent, meaning that the number of cases were doubling every seven days.
+#DailyUpdate #Covid19India At a growth rate lower than before, the total confirmed cases are rising steadily in India. The active cases have a growth rate of 10% in last 5 days – so these are doubling every 7 days. pic.twitter.com/kMBfU5mQCI
+— Prof Shamika Ravi (@ShamikaRavi) April 14, 2020
+
+Ravi’s estimate of the growth rate indicates that the lockdown is having a desired effect on flattening the curve. And it isn’t the only parameter that says so.
+An estimate of the R0 value (read R-Naught, and indicates the infectiousness of a disease), went down to 1.55 from 1.8, according to Sitabhra Sinha, a researcher at The Institute of Mathematical Sciences in Chennai.
+R0 is the basic reproduction number of a disease, and indicates the number of people a patient can directly infect in a healthy population.
+His plot of the active cases in India shows a significant deviation from the trend.
+While any lapses in the ability to curb the spread will only show up about two weeks later, for now, numbers indicate that the stringent lockdown is taking the curve in the desirable direction.
+“Right now what we are seeing is an outcome of measures we took as a country two weeks back, which was one week into the lockdown … Remember at the time there was a lot of movement of migrants, but since then the lockdown only got more intensified. People have been taking precautions themselves and even states began to impose restrictions more strictly,” Ravi said.
+So there is good reason to believe that in the next two weeks the numbers will keep decreasing further, she added.
+There is a fear that the growth rate of cases will again rise when the lockdown is lifted, but Ravi believes that this increase will not be anywhere close to the spikes we have seen in the past weeks.
+This is because the fear of infection will make people take precautions, she said.
+Also read: If you have flu symptoms, tell us — new health ministry advice to detect more Covid-19 cases
+ 
+Subscribe to our channels on YouTube & Telegram 
+News media is in a crisis & only you can fix it
+You are reading this because you value good, intelligent and objective journalism. We thank you for your time and your trust.
+You also know that the news media is facing an unprecedented crisis. It is likely that you are also hearing of the brutal layoffs and pay-cuts hitting the industry. There are many reasons why the media’s economics is broken. But a big one is that good people are not yet paying enough for good journalism.

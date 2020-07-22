@@ -1,0 +1,40 @@
+Why Delhi’s falling Covid positivity rate may not be good news just yet
+New Delhi: Delhi is detecting more Covid-19 cases because it is conducting more tests, the Arvind Kejriwal government said this week. Delhi recorded 3,460 fresh cases Friday and conducted 21,144 tests in the same 24-hour period. This suggests a positivity rate of 16.4 per cent, which means 16.4 of every 100 people tested are being diagnosed with Covid-19. 
+This positivity rate is the lowest recorded by Delhi in a week and follows the capital’s worrying brush with figures over 30 per cent earlier this month. The new positivity rate appears to be a milestone in Delhi’s struggle against Covid-19 amid ramped-up testing, but it does not explain the whole story. 
+Delhi has not been forthcoming about how many of its tests are by the less-sensitive rapid antigen tests, the pregnancy-test-like quick diagnostic tool whose results are based on the presence of proteins present within or on the Covid-19 virus. The tests were made a part of the government’s testing efforts last week as the Kejriwal administration worked to ramp up testing following consultations with the central government.
+While the Delhi health bulletin doesn’t give the exact break-up, the capital said in the Delhi High Court this week that as many as 62 per cent of all tests being conducted are the rapid antigen kind.
+They are quite useful, but experts say the tests serve more of an indicative purpose.
+For a symptomatic person, a negative diagnosis by rapid tests would entail a confirmatory test through the RT-PCR kits, the gold standard for Covid-19 diagnosis, as the ICMR said in fresh guidelines issued Tuesday (earlier guidelines only called for “suspected individuals” to be tested again by RT-PCR).
+However, interviews with Delhi officials and hospitals suggest this may not be happening. All symptomatic patients tested negative are asked to come for a follow-up test, they say, but many don’t, seemingly assured by the rapid antigen test results. This means many of Delhi’s Covid-19 patients, also carriers, may be slipping through the cracks, constituting a potential challenge to the capital’s efforts to counter the pandemic. ThePrint reached Padmini Singhla, Delhi’s health secretary, and Vikram Dev Dutt, Delhi’s principal health secretary, for a comment but calls went unanswered.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Also Read: 40 lakh households, 10 days, much confusion — inside Delhi’s mammoth Covid screening drive
+In the health bulletin issued Friday, Delhi’s total tally so far was pegged at 77,240 Covid-19 cases, including 27,657 active ones and 2,492 deaths. A day before, Delhi had overtaken Mumbai to become the city with the highest Covid-19 burden.
+At a virtual press conference the same day, Delhi Chief Minister Arvind Kejriwal sought to justify the capital’s high positive diagnoses.
+“We were conducting only 5,000-6,000 tests everyday and we were detecting 2,000-2,500 new coronavirus cases,” he said. “Now we are conducting three times more tests, about 18,000-20,000, every day and detecting only 3,000-3,500 cases,” he said.
+Watch LIVE: CM Shri @ArvindKejriwal addresses the people on the fight against Corona. He is making an important announcement. #DelhiFightsCorona https://t.co/V9WcK0otCe
+— CMO Delhi (@CMODelhi) June 26, 2020
+
+Testing numbers in the capital received a boost after a series of high-level meetings last week between Kejriwal and Union Home Minister Amit Shah, who said testing in Delhi would increase three times in six days.
+Symptomatic patients who test negative through rapid antigen tests, which experts say have “moderate sensitivity but high specificity”, need confirmation by RT-PCR before infection can conclusively be ruled out.
+Delhi’s test positivity rate, the proportion of positive samples among the total number of tests conducted, has fallen from an average of 31 per cent (10-17 June) to an average of 22 per cent (18-25 June).
+Rapid antigen tests were made a part of the government testing drive in light of the strengthened efforts following the central government’s intervention.
+While RT-PCR tests take four hours to be processed in labs, and upto 24 hours from collection to results reaching patients, rapid antigen tests can be conducted at the field-level by trained healthcare workers and yield results in half an hour.
+“It is not possible for the state to ramp up its capacity in such a short period of time, the increase in the tests is because of antigen tests,” said a doctor, a microbiology specialist at a government hospital. 
+Before the rapid antigen tests were introduced in the government drive, laboratories, both public and private, conducting RT-PCR tests were overwhelmed, which is why most people were struggling to get tested, the doctor said. 
+Delhi has started rapid antigen testing in containment zones and hospital settings at 193 centres across the city. 
+According to officials in the Delhi government, it was offered to anyone walking into dispensaries. Since 23 June, even accredited laboratories and hospitals have been allowed to conduct rapid antigen tests. 
+However, the daily Delhi health bulletin doesn’t specify how many of the tests conducted are rapid antigen tests. 
+The Delhi government told the Delhi High Court Thursday that out of 1,09,196 tests conducted between 18 and 23 June, 68,041 or 62 per cent were by rapid antigen tests while the rest, 41,155, were RT-PCR tests. This means the average number of RT-PCR tests were 6,859 per day, about the same as before 18 June.
+Also Read: How big city Bengaluru managed to beat coronavirus while Mumbai, Delhi, Chennai struggle
+Talking about the new ICMR guidelines with respect to rapid antigen testing, Dr Srinath Reddy, president of the Public Health Foundation of India and member of the central government’s Covid-19 taskforce, said retesting only symptomatic patients “makes sense as there is a higher probability of initial infection”. 
+“On the other hand a negative test in an asymptomatic person is more reassuring, as the lack of symptoms suggests a lower initial probability of infection and there is less worry about missing out an infection,” he added. “Any test has to take into account not only the test result but also the pre-test probability,” he added.
+The process of retesting an asymptomatic Covid-19-negative patient involves a 30-minute wait for the antigen test, and then getting a slip for RT-PCR tests, which would require turning in a separate sample. 
+However, it is not clear so far how many of those who tested negative were followed up with RT-PCR. 
+“Anyone can come to the dispensary and get tested by an antigen test kit, we ask those who are symptomatic to get tested again with RT-PCR if they test negative,” said a chief district medical officer, adding that this would mean the patient getting registered again and giving another sample for testing. 
+“We cannot force someone to get tested again, it is already difficult to get people tested as they are afraid of the stigma,” he added. 
+“The first two days were very chaotic,” said a senior staff member of a South Delhi hospital, which had set up three counters for antigen tests but found that, out of 200 people tested, many left after testing negative. Symptomatic patients had to be called again the next day for RT-PCR tests, but some never came back, the staff member added. 
+While they may not be conclusive, the doctor mentioned above said it doesn’t mean rapid antigen tests are not useful. 
+“The test is extremely useful as a screening test and helps us isolate the positive patients and send them to healthcare facilities who treat Covid cases,” said the doctor. “It is also extremely useful for healthcare workers who are heavily exposed to the virus and need to know whether they are infected,” the doctor added.
+This report has been updated to make a correction in the description of antigen tests

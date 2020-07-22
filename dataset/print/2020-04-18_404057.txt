@@ -1,0 +1,35 @@
+Satyajit Ray’s ‘Feluda’ will soon detect coronavirus in minutes, thanks to CSIR scientists
+New Delhi: Feluda will now detect if you are infected with Covid-19. Or, to be precise, a new paper-based test strip named after the beloved detective character created by Bengali filmmaker-author Satyajit Ray will soon be able to find the novel coronavirus in just a few minutes.
+The ‘Feluda’ test strip has been invented by a team led by two Bengali-origin scientists — Dr Souvik Maiti and Dr Debojyoti Chakraborty — at the Council of Scientific & Industrial Research’s Institute of Genomics and Integrative Biology (CSIR-IGIB) in New Delhi.
+The simple paper-based test strip could also reduce Covid-19 testing costs — the real-time polymerase chain reaction test (RT-PCR) used currently requires machinery worth lakhs of rupees and its price is capped at Rs 4,500 in private labs, but the ‘Feluda’ test could cost as little as Rs 500. It can be used in a way similar to pregnancy test strips widely available over the counter.
+“This strip will be similar to a pregnancy test strip, and will not require any specialised skill and machines to perform, as is the case with other PCR-based tests. This strip will just change colour, and can be used in a simple pathological lab. The most important part is it will be 100 per cent accurate,” CSIR Director-General Shekhar C. Mande told ThePrint.
+“Normally, scientists take two to three years to develop this type of kits, but we are among the three or four countries leading the way in developing it, alongside Stanford University and Massachusetts Institute of Technology (MIT) in the US,” said Mande, head of India’s largest umbrella organisation for scientific research.
+Also read: Harsh Vardhan asks scientists to hurry up: Deliver Covid-19 weapons before the war is over
+Dr Chakraborty of IGIB explained how his team had developed the kit.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+“We were experimenting on sickle cell anaemia for the last two years. When Covid-19 cases rose in China, we started to experiment to see how mutations take place in the coronavirus. For the last two months, we have been working 20 hours a day to develop it,” he told ThePrint.
+Asked why they named it after Ray’s fictional detective, Chakraborty said: “It will detect the presence of a virus in a just few minutes, like Feluda.”
+The team is currently testing the sensitivity of the ‘Feluda’ strip. “Now, we are at a stage where we can say it will be a major breakthrough for testing in a short time. Regulatory validation is in process, and we hope we will be ready for technology transfer in few weeks. We are in touch with several manufacturers for the technology transfer,” Chakraborty said.
+Mande added that the strip has been tested on the samples with CSIR, and is now being tested on samples from elsewhere to find out its sensitivity.
+Also read: FDA has approved saliva test to detect Covid-19 that lowers infection risk for health staff
+Mande and Chakraborty said their test kit uses CRISPR gene-editing technology to get results, though the difference to the kits being developed at Stanford and MIT is in the proteins used.
+CRISPR technology recognises specific genetic sequences and cuts them in short time. The CRISPR reaction is specific, and can be done in 5-10 minutes. It is a powerful technique that worked in detecting the Zika virus too.
+“(Our strip) uses cutting-edge gene-editing CRISPR-CAS-9 technology to target and identify genomic sequence of the novel coronavirus in suspected individuals. No other laboratory in India is developing test kit using CRISPR technology,” Mande said.
+Chakraborty added: “Unlike Stanford and MIT, which use CAS-12 and CAS-13 proteins to detect the presence of the novel coronavirus, our kit uses CAS-9 protein technology. And unlike the PCR test, there is no need for probes.”
+Anurag Agrawal, director of CSIR-IGIB, explained the difference between the ‘Feluda’ paper strip test and others being carried out around the world.
+“A few other labs have been developing test kits, but they are largely based on PCR technology. The problem with PCR is that it is costly — one machine costs Rs 14-15 lakh, and imported probes have to be used, of which there is a shortage. It takes several hours,” Agrawal said.
+“Our paper strip does not require any ‘level 2’ or ‘level 3’ lab to test, unlike most PCR-based tests. This can be done in any simple pathological lab. We have imported serological rapid test kits, but this paper test technology is different,” Agrawal added.
+Also read: US begins clinical trial of an artificial antibody for Covid-19 treatment
+ 
+Subscribe to our channels on YouTube & Telegram 
+News media is in a crisis & only you can fix it
+You are reading this because you value good, intelligent and objective journalism. We thank you for your time and your trust.
+You also know that the news media is facing an unprecedented crisis. It is likely that you are also hearing of the brutal layoffs and pay-cuts hitting the industry. There are many reasons why the media’s economics is broken. But a big one is that good people are not yet paying enough for good journalism.
+We have a newsroom filled with talented young reporters. We also have the country’s most robust editing and fact-checking team, finest news photographers and video professionals. We are building India’s most ambitious and energetic news platform. And we aren’t even three yet. 
+ At ThePrint, we invest in quality journalists. We pay them fairly and on time even in this difficult period. As you may have noticed, we do not flinch from spending 		whatever it takes to make sure our reporters reach where the story is. Our stellar coronavirus coverage is a good example. You can check some of it here.
+This comes with a sizable cost. For us to continue bringing quality journalism, we need readers like you to pay for it. Because the advertising market is broken too.
+If you think we deserve your support, do join us in this endeavour to strengthen fair, free, courageous, and questioning journalism, please click on the link below.   Your support will define our journalism, and ThePrint’s future. It will take just a few seconds of your time.
+Support Our Journalism 
+Mande is dishonest. This test is not new, nor novel. Broad Inst already developed this test and made blueprints available for anyone to replicate. And they called it Sherlock. The Indian team and Msnde should have had the courage to admit they copied, and the honesty to credit Broad. But we will continue to be a nation of copycats.

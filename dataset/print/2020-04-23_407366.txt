@@ -1,0 +1,28 @@
+Pakistan-linked hackers pose as Indian govt, carry out cyberattacks under Covid-19 cover
+New Delhi: Hackers linked to Pakistan have been posing as the Indian government to send emails containing malware to victims, mostly Indians.
+The emails typically contain bogus health advisories on coronavirus. Victims who click on the attached document activate a malware that gives the hacker access to sensitive and important information like passwords, credit card information and location data stored on a user’s browser.
+The malware, CRIMSON RAT, was used in 2016 by the same group to hack Indian diplomats. The group is believed to be backed by the state.
+US-based anti-malware software developer Malwarebytes reported the attack on 16 March. The software developer found a ‘gov.in’ email URL — email.gov.in.maildrive[.]email/?att=1579160420 — which made it look authentic.
+The email had a document attached which discussed about foreign trainees coming to India and the safety precautions required to stop the spread of coronavirus at these training facilities (screenshot below).
+Indian firm Subex, which monitors cyber threats, had also intercepted malicious emails from the state-backed hacker group, the last time being 9 April, according to the firm’s Internet of Things marketing head Prayukth K.V.
+Subex intercepted a suspicious email, discussing an emergency response plan to the pandemic, which showed the email was sent from ‘home.min@gov.in’. However, home ministry email addresses end in ‘mha.gov.in’ or ‘nic.in’.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Prayukth said his team received the email sample a few days ago and is in the process of analysing it to confirm how it affects a victim’s computer.
+Also read: How hackers are using coronavirus panic to target India through WhatsApp and email
+Cybersecurity researchers designate hacker groups as state sponsored depending on factors like quality of the malware used, and the kinds of victims they target.
+The group in question is linked to Pakistan and is recognised by several names in the cybersecurity community — Operation Transparent Tribe, ProjectM, Mythic Leopard and TEMP.Lapis.
+The cybersecurity community has officially named it APT36, wherein APT stands for Advanced Persistent Threat.
+In 2016, APT36 targeted Indian embassy diplomats in Saudi Arabia and Kazakhstan as well as Indian military officials to steal information, according to research from US-based cybersecurity firm Proofpoint.
+Proofpoint had found links between the attacks and Pakistan-based IP addresses, which are numerical labels assigned to electronic devices connected to an internet network.
+Also, the malware used in 2016 is the same as what is being deployed now in the latest coronavirus-themed attack identified by Malwarebytes. It is called ‘Crimson RAT’.
+Also read: Spying or hacking — nothing is hurting WhatsApp’s status as India’s top messaging app
+RAT in Crimson RAT stands for Remote Administration Tool, a type of software that gives a person full remote access to a device even if the person is in another country.
+RAT software can be used for legitimate purposes like technical support, but is often used by hackers to gain unauthorised access.
+In addition to collecting confidential information, Crimson RAT can also collect emails, capture screenshots, and collect information about what antivirus software the targeted computer has.
+The US-based MITRE Corporation, which maintains cyber security databases, identifies Crimson RAT as a malware that is only used by Transparent Tribe.
+MITRE Corporation is funded by the U.S. Department of Homeland Security.
+India’s CERT-In (Indian Computer Emergency Response Team) had on 23 March posted a warning for public on its website about Crimson RAT being used in cyberattacks during the coronavirus pandemic.
+When asked about Pakistan-linked hackers posing as the Indian government, India’s cybersecurity chief, National Cyber Security Coordinator Lt Gen Rajesh Pant said, “Masquerading as official government sites and luring unsuspecting users to click on links containing malware is an expected outcome in any emergency situation like Covid-19.”
+Dr. Sanjay Bahl, director general, CERT-In, did not respond to an email asking what connections his agency has observed between Crimson RAT malware and Pakistan-based hackers.

@@ -1,0 +1,20 @@
+Mumbai start-up builds AI-based X-ray technology to help track Covid-19 progression
+New Delhi: As the world races to find solutions against the coronavirus pandemic, an Indian start-up has developed X-ray technology to track the progression of Covid-19 in the lungs, using artificial intelligence.
+The technology is developed by Mumbai-based Qure.ai, which was previously featured in the reputed medical journal Nature for its technology to read chest X-rays for tuberculosis detection. It has now tweaked the same product to track Covid-19.
+The start-up — which is backed by Sequoia Capital — operates in 20 countries around the globe. It develops an array of deep learning technology that provides an automated interpretation of radiology exams like X-rays, CT scans and MRIs.
+Also read: ICMR to expand Covid-19 testing, antibody tests being developed in Indian labs
+The X-ray technology uses AI to detect findings indicative of Covid-19, along with quantifying the proportion of lungs affected due to the lesions.
+The technology automatically generates chest X-ray interpretation reports, which can detect tuberculosis, chronic obstructive pulmonary diseases, lung malignancies and medical emergencies like lung collapses and cardiac disorders.
+“In this case, it will automatically detect radiological findings indicative of Covid-19 in seconds, enabling physicians and radiologists to more effectively triage Covid-19 cases, especially in an emergency environment,” Prashant Warier, CEO of Qure.ai told ThePrint.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+“The technology looks for opaque regions, called pulmonary opacity, on the lungs, which at times is also an indication of viral pneumonia or tuberculosis. However, in Covid-19, it is found in both lungs, and towards the periphery of the lung,” Warier explained.
+“Due to the lack of enough test kits for Covid-19, this product can be used as a first step for determining who’s most likely to test positive for coronavirus. Accordingly, the swab-based PCR test can be done for confirmation,” Warier said.
+Qure.ai says it is working with several state governments in India to install the technology at government hospitals. “Apart from the Indian government, we are also working with hospitals in Italy and the United States,” Warier said.
+However, experts insist that the only sure-shot way of testing for Covid-19 is the swab-based PCR test.
+Also read: India’s long TB battle has 3 key lessons for fighting the coronavirus
+Qure.ai has also developed an application, qSCOUT, for frontline healthcare providers. It can be used for contact tracing and remote triaging of Covid19 patients.
+Health workers can use this platform on smartphones or computers connected through the internet. The platform will also interact with the at-risk contacts using a WhatsApp like chat-bot remotely monitoring their symptoms regularly and making sure that they are tested for Covid-19, or even admitted to the hospital for treatment if required.
+This ensures that these contacts can self-isolate at home and maintain social distancing to reduce the risk of spread of the disease.
+Also read: India’s healthcare delivery can improve if frontline workers are held accountable: Study

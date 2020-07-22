@@ -1,0 +1,47 @@
+There’s a zoonotic viral disease in south India and it peaks every summer
+Kochi: The coronavirus onslaught has presented an unprecedented challenge for India in scale and expanse, but there are other viral diseases that the country battles year to year. 
+One such disease is the monkey fever, which originated in Karnataka and peaks as the summer begins. It is a zoonosis like the novel coronavirus, which means it reached humans via an animal carrier.
+While there is no evidence so far that the disease is transmitted from humans to humans, it can be fatal. 
+Now, new research has shed further light on its nature, confirming its widening expanse through a genetic study and presenting its growing footprints in the context of human activity like forest loss, among other factors. 
+Also Read: Coronavirus has challenged & changed how world’s top scientists work to find a cure
+Monkey fever is officially known as the Kyasanur Forest Disease (KFD), named after a forest in Karnataka where it was first detected.
+An estimated 500 cases of KFD are reported in India every year. 
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Early symptoms of the disease manifest in three to eight days, and can be detected by blood tests. It has a fatality rate of up to 10 per cent (i.e. 10 of 1oo KFD-diagnosed patients face the risk of death).
+There is no specific treatment for KFD, only early hospitalisation and supportive therapy, says the website of the Centers for Disease Control and Prevention. A vaccine exists, but isn’t always effective.
+The disease caught researchers’ attention in the 1950s, when the region’s wild monkeys began dying of what was then a mysterious illness. 
+Around the same time, some local residents also began to succumb to a haemorrhagic fever that set in with chills and nose bleeds and could progress to neurological issues such as severe headaches and vision defects. 
+In 1957, scientists isolated a virus from the infected primates: A flavivirus (belonging to the same family as the mosquito-borne dengue virus) they had never seen before. The Kyasanur Forest Disease virus now had a name.
+Later surveys showed that ticks – tiny, blood-sucking insects (mostly those belonging to the family Haemaphysalis), common in the area – carry the virus. Through ticks, the virus reaches birds and mammals, including cattle. These animals only carry or host the virus. 
+For wild monkeys (bonnet macaques and grey langurs), however, the virus is fatal. Ticks that tuck into the blood of infected monkeys also become carriers. 
+The virus is classified as a biosafety class-4 pathogen (a virus that can cause a fatal disease in people), but there have been no records to date of the disease being transmitted from one human being to another.
+But with virus spillover – from ticks into people – came the spread. The disease began popping up in places it had never been reported before. In the late 1950s, the KFD occurred in only two taluks of Shivamogga, but other districts – Dakshina Kannada, Uttara Kannada, Chikkamagalore and Udupi – soon began reporting cases too. 
+Since 2012, Maharashtra, Goa, Tamil Nadu and Kerala have recorded KFD cases too. In the over 60 years since it was discovered, the virus has infected over 9,500 people in 16 districts.
+A team from the Indian Council of Medical Research’s National Institute of Virology (ICMR-NIV), Pune, studied the dispersal of the KFD. They isolated the virus from old and new samples (between 1957 and 2017) across states, and from several sources (ticks, monkeys and people) to obtain whole genome sequences. 
+Forty-eight genomes and 76 sequences of the KFD virus envelope gene (which codes for one of the several proteins that make up the virus) obtained from multiple sources revealed that a 1972 KFD strain from Karnataka was distinct from other strains and shared a common ancestor with new ones (2006–2017). 
+The team dated these dispersal events and found that the spillover of the virus from Karnataka into other states had occurred after the 1980s.
+“In the recent past, the KFD virus (KFDV) had diversified into four sub-lineages that corresponded to the evolution of the virus in four states,” wrote the study’s senior author Dr Sarah Cherian, scientist at the ICMR-NIV Bioinformatics Group, in an email to ThePrint.
+While they found that the virus had reached Goa from Karnataka, some samples from the former traced their origin to Maharashtra. The latter could represent “a new source for transmission of KFDV”, the study says, hinting at a possible exchange of viruses between neighbouring states, probably caused by the movement of tick-carrying animals. 
+“Intense surveillance activities” are crucial to control such transmissions, the authors add in their paper, published in Scientific Reports on 6 February.
+The “limited efficacy of vaccination” and the occurrence of “possibly significant mutations in the virus strains” could be possible causes for an upsurge in KFD incidence, said Cherian.
+Other causes that studies, including Cherian’s, hint at are human encroachment into forests that bring people into contact with infected animals, among others. One such study was published this month. 
+Also Read: How 5 of the worst-hit countries around the world are responding to coronavirus outbreak
+The second study concluded that landscapes containing plantations bordering forests and a high density of indigenous cattle (cattle are among the hosts of the virus) face a high risk of occurrence.
+It was conducted by researchers affiliated to a global project called ‘One Health’, which seeks to promote the idea that the health of wild lands, wildlife, people and domestic animals is all interconnected. Under this initiative, members of different fields – public health, epidemiology, microbiology, ecology and more – collaborate to better understand health concerns (including zoonoses) for improved and more efficient public health outcomes. 
+The KFD study involved researchers associated with the One Health Indo-UK partnership, who studied and modelled the various factors that can help predict areas with a high risk of incidence in Shivamogga. 
+The team first conducted a meeting, where they identified factors that should be explored. The list included ecological factors such as forest loss and land-use patterns as well as social ones such as access to public healthcare. 
+The team incorporated these factors in spatial models and mapped local KFD outbreaks over the years. Their models reveal that areas with high cattle densities, low cover of dry deciduous forests and landscapes with forest-plantation mosaics – such as areca estates that border forests – are likely to witness new KFD outbreaks. 
+These models successfully predicted cases of KFD in Shivamogga’s Sagara and Thirthahalli taluks in 2019, the authors wrote in their study, which was published in PloS Neglected Tropical Diseases on 7 April.
+Shivamogga’s many areca plantations are adjacent to forest areas, study co-author Dr Prashanth Srinivas, a faculty member and Wellcome Trust-DBT India Alliance fellow at the Institute of Public Health, Bengaluru, told ThePrint. 
+It is at such interfaces — plantations made by clearing forests, which see frequent human activity — that outbreaks are likely to occur, he added.
+“The study could work as a template that other districts can emulate for predictive power at a finer scale,” said Srinivas. “We also need to set up multiple ‘One Health’ surveillance sites for rigorous, long-term monitoring of not just KFD but other zoonoses too. This is even more relevant now, during Covid-19.”
+The study’s model of “co-production” involving various stakeholders, including public health officials, is important, said Mridula Paul, a senior policy analyst at Bengaluru’s Ashoka Trust for Research in Ecology and Environment who was not involved in the research. “Although we talk about such multidisciplinarity in academia, we don’t often see it happen.”
+According to Paul, while the different factors at play and possible solutions could be case-specific in many districts and landscapes, this is definitely an “operationalisable model of study”. 
+“The study reminds us that we cannot think of zoonoses in the reductionist way as in the case of Covid-19, where wet markets were claimed to be the only cause of the pandemic,” she added. 
+Human actions, including encroachment into wild habitats, matter, she said, noting that, just last week, the Ministry (of Environment, Forests and Climate Change) cleared several developmental projects in the Western Ghats.
+“We’re operating in silos. That is something we need to address,” she said.
+Aathira Perinchery is a Kochi-based wildlife biologist-turned-science writer who loves reading and writing about wildlife science, ecology, communities and conservation in India.
+Also Read: In fight against coronavirus, India has age on its side. Numbers show
+ 

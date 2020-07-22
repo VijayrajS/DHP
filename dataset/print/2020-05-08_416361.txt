@@ -1,0 +1,45 @@
+How well has Modi govt’s Covid strategy worked? Answer lies in 1 million+ tests done so far
+New Delhi: India finished conducting 1 million Covid-19 tests this weekend, joining a club of only 10 countries in the world to have crossed that milestone. Of these countries, India had the least number of reported cases when it tested its one millionth sample.
+With over 15,260 recoveries of the 52,952 cases so far, India has improved its recovery rate steadily to 28 per cent ⁠— this means more than a quarter of all cases have been recovering from the disease.
+Here’s a quick reckoner of the key numbers.
+India’s positivity rate, i.e. the number of cases that test positive in every 100, fell to 3.8 per cent on 5 May from 4.4 per cent on 23 April. The lower the number, the lesser is the count of positive tests.
+Of India’s 736 districts, only 130 (17 per cent) are in the red zone, i.e., have a high number of active transmissions in the last 21 days. There are 284 districts (38 per cent) in the orange zone, which means cases have been reported but there hasn’t been a considerable increase, and 319 districts (43 per cent) are in the green zone, area with no new cases in the last 21 days.
+India’s doubling rate ⁠— time in which current number of cases double ⁠— has increased from 3.4 days from before lockdown to 12 days now, which means the infection is spreading more slowly. At this rate, India will report 1.86 lakh cases by the end of May.
+At this juncture, the Narendra Modi government has begun a staggered lifting of the lockdown, with regular activities being allowed in many parts of the country based on which zone they fall under.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+However, there are large variations from state to states, and even within states, from district to district.
+Tanmay Mahapatra, an epidemiologist currently working with CARE India, a non-profit organisation assisting Bihar in its Covid response, said taking the zone as an absolute verdict would be a mistake and even green zones cannot let their guard down.
+If these zones do not keep up their surveillance, the number of cases and infections are likely to shoot up.
+Also read: India’s Covid curve hasn’t ‘relatively flattened’. I compared govt data with other nations
+Delhi, which has all its districts in the red zone, shows the highest case positivity rate. This is the ratio of confirmed cases to number of samples tested.
+For every 100 tests, 7.81 are positive on an average. This is followed by Maharashtra at 7.71 and Gujarat at 6.78.
+The average case positivity rate for India is about 3.84.
+Fourteen of Maharashtra’s 36 districts are in the red zone, while Gujarat has nine red zones, 19 orange zones and five green zones.
+Maharashtra, Gujarat and Delhi also have the highest numbers of confirmed cases.
+Two regions, which have the highest testing rates, are Ladakh and Andaman and Nicobar Islands. These, incidentally, also have low case positivity rates of 1.68 and 0.88 respectively.
+T. Jacob John, former head of the Indian Council for Medical Research’s (ICMR) Centre for Advanced Research in Virology, explains that this indicates the strategy of contact testing is working best in areas that have a very high frequency of disease cases.
+But in states where cases are very low, simple contact tracing may not be enough to identify all the cases, he added.
+Since it is still unclear what percentage of the population is actually infected, the case positivity rate indicates how many more people need to be tested.
+John also said given India is mostly testing people who are assumed to be at high risk of contracting the virus, the case positivity rate should be much higher than the current 3.84. 
+Also read: Infection rate in 18 states offers hope but MP, Rajasthan, Bengal, Maharashtra are worries
+If you mapped India’s districts, the green zones fall on the eastern side of the country. Also, almost all the Northeast states are in the green zone. Among the larger states, Chhattisgarh, Odisha and Jharkhand have more than 50 per cent of their districts in green zones.
+Other states that currently have a high number of green zone districts are Himachal Pradesh and Uttarakhand and Goa.
+An analysis of all states shows the Northeast states have a positivity rate of 0-0.55 per cent. This is much lower than the national figure of 3.84.
+Northeast’s Assam, Tripura, Meghalaya, Arunachal Pradesh, Manipur, Mizoram and Nagaland have together tested about 20,000 samples till date, with the maximum in Assam — over 11,000.
+So far, districts have been categorised into red, orange and green zones on the basis of the confirmed cases, which mostly account for symptomatic patients. Now, they should include asymptomatic cases, i.e., infected people showing no symptoms.
+To improve India’s response to the pandemic, the government had planned to use rapid antibody testing to scale up screening at a community level. However, this could not be rolled out due to unreliable antibody kits.
+The government will now need to design a strategy to test individuals through the RT-PCR test (real time reverse transcription polymerase chain reaction) that gives confirmatory test for Covid-19, said Mahapatra.
+“There needs to be a sampling design based on epidemiological strategy to conduct routine surveillance among asymptomatic individuals in order to know the actual prevalence of the virus in the population,” he said.
+This would mean testing people with high risk of exposure, such as healthcare workers, police personnel and those in transport and sanitation work, he added.
+Also read: India’s high number of asymptomatic cases worrying, and herd immunity is far off
+With over 8,005,589 tests conducted so far, the US has conducted more tests than any other country. It also has the highest confirmed coronavirus cases and the infection has left 74,809 dead.
+The other countries who crossed the milestone are France (1,100,228), Turkey (1,234,724), UAE (1,200,000) and the UK (1,448,010).
+Barring UAE, which has over 16,240 confirmed cases, all other countries have already more than 100,000 confirmed cases.
+However, India has the lowest tests per million people among the 10 countries who have crossed the 1 million tests mark.
+As of 7 May, India conducted over 984 tests per million people. In contrast, Spain conducted over 41,000 tests per million people and Italy 36,000 tests per million people.
+Also read: Singapore and Qatar, the two rich countries which have kept Covid death toll below 0.1%
+ 
+Subscribe to our channels on YouTube & Telegram 
+News media is in a crisis & only you can fix it

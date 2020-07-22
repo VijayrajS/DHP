@@ -1,0 +1,23 @@
+ICMR to conduct community-based survey in 69 districts to assess Covid exposure
+New Delhi: The Indian Council of Medical Research (ICMR), the country’s apex medical research body, announced Tuesday that it will be conducting a community-based sero-survey to “estimate the prevalence of the SARS-Cov-2” infection in the country.
+Sero-surveys involve testing the blood serums of a group of individuals. According to a statement issued by the ICMR, the survey will be conducted in 69 districts across 21 states in collaboration with the health ministry, the National Centre for Disease Control (NCDC), state health departments and other “key stakeholders” like the World Health Organization.
+“This household survey will cover 24,000 adults distributed equally across four strata of districts categorized on the basis of reported cases of COVID-19,” read the statement.
+Dr Rajnikant Srivastava, ICMR’s head of Department of Research Management, Policy Planning and Communication in Delhi and Director of Regional Medical Research Centre, Gorakhpur, said the survey cannot be used to check for community transmission of Covid-19 as it will only study antibodies found in individuals after they have recovered from the infection.
+“This is a cross-sectional study based on the epidemiology and the incidence of the disease to find out how much is the exposure in the community,” he told ThePrint.
+Also read: Large number of Covid patients obese, need urgent study to understand link: Delhi doctors
+The list of 69 “randomly selected” districts, where the sero-survey will be conducted, includes 16 red zone districts, 31 orange zone districts and 22 green zone districts. Kolkata, Chennai and Gautam Buddh Nagar are part of this list.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+‘Red zones’ are high-risk zones with fresh cases being reported, ‘orange zones’ are places where no new cases have been reported in 14 days, and ‘green zones’ are those where no new cases have been reported in 21 days, or there are no cases at all.
+“Based on the sample size (of the people being tested) and the prevalence of the infection we have chosen certain districts,” said Srivastava.
+This survey will use the new indigenous Enzyme-Linked Immunosorbent Assay (ELISA) testing kits that are being developed by the National Institute of Virology in Pune.
+The ELISA tests can only detect immunoglobulin G (IgG) antibodies, which are found in an individual’s blood circulation in the recovery phase of the infection. Therefore, a person found to be IgG positive is either fully or almost cured of the infection.
+“There are many asymptomatic patients — those who never had any symptoms. It is quite possible that they had this disease [but were never tested]. This antibody test will give you an indication about the exposure. This is not for diagnosis,” Srivastava added.
+Also read: Remdesivir to be made in India as 3 firms get nod from US drug-maker for generic version
+Since the ELISA test can only detect the antibodies produced in those who’ve recovered from the infection, it cannot be a measure of where and how community transmission of Covid-19 is taking place..
+However, according to Dr T. Jacob John, former head of ICMR’s Centre for Advanced Research in Virology, the IgG tests will be crucial to lifting the lockdown.
+“So IgG positive means that the person was infected in the past, he is not a risk to anybody and he can’t transmit this to anybody else. So he can get back into economic activity… so this is a way out for releasing people into economic activity,” he said.
+The “scientific value” of the test, according to John, is that it would help in identifying how widely the infection has circulated because normal-looking people may be IgG positive, which means that they were infected by the virus in the past.
+The health ministry had announced Monday that the ICMR along with the NCDC will conduct surveillance in all districts of the country in addition to the routine tests. According to the ministry’s statement, a sero-survey will also be conducted on “high-risk and low-risk groups”.
+However, Dr Manoj Murhekhar, director of ICMR’s National Institute of Epidemiology, clarified that these are two different surveys.

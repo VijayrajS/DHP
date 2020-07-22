@@ -1,0 +1,52 @@
+WHO says Covid transmission through asymptomatic patients ‘very rare’, experts disagree
+New Delhi: It is “very rare” for an asymptomatic person with Covid-19 to infect another person, a top World Health Organization (WHO) official said during a press briefing Monday, adding that following symptomatic patients alone can drastically reduce the spread of the disease.
+Maria Van Kerkhove, WHO technical lead for Covid-19, said data from a number of countries show transmission of the infection through asymptomatic people — those who have the infection but show no symptoms — is rare.
+“We have a number of reports from countries who are doing very detailed contact tracing. They’re following asymptomatic cases, they’re following contacts, and they’re not finding secondary transmission,” Van Kerkhove said during the online briefing. “It still appears to be rare that an asymptomatic individual actually transmits onward.”
+However, she added that much of this information is not published in scientific literature.
+Van Kerkhove said the focus should remain on following symptomatic cases. “If we followed all of the symptomatic cases, isolated those cases, follow the contact and quarantine those contacts, we would drastically reduce transmission.”
+The WHO statement, however, invited criticism from experts all over the world who said it was confusing and not backed by enough evidence.
+Andrew M. Slavitt, a health expert from the US, called the statement “irresponsible.”
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+NEW: The WHO made a surprising announcement that asymptomatic people w COVID rarely spread it.
+I’ve talked to 4 reputable scientists, the White House, and the WHO.
+I believe this was an irresponsible statement even though it was based on legitimate observations. Thread here.1/
+— Andy Slavitt @ 🏡 (@ASlavitt) June 8, 2020
+
+Posting a thread on microblogging site Twitter, Harvard Global Health Institute’s Ashish K. Jha explained why the comment was confusing, and said such statements should be accompanied by adequate data.
+This from @WHO is getting a lot of attention and creating confusion.
+I want to quickly share what I understand about this. 
+Bottom line question: 
+Are infected people without symptoms an important cause of spread? 
+My best guess: yes.  
+A thread https://t.co/NnLpf7kTVh
+— Ashish K. Jha (@ashishkjha) June 8, 2020
+
+From existing data, both pre-symptomatic and asymptomatic people are important factors to consider while attempting to contain the disease, Jha said. Pre-symptomatic people are those who do not show symptoms but may develop them a few days after testing positive.
+Also read: Researchers see weekly fluctuation in Covid infection & death rates, but can’t explain reason
+After the press briefing ignited a debate, Van Kerkhove tweeted saying WHO has published a summary of Covid-19 transmission, which includes a breakdown of transmission through symptomatic, pre-symptomatic and asymptomatic patients. She noted in her tweets that there is a need to distinguish between pre-symptomatic and asymptomatic people.
+1/2@WHO recently published a summary of transmission of #COVID19, incl. symptomatic, pre-symptomatic and asymptomatic transmission
+See page 2 of👇https://t.co/2OJ2pLT5Iu
+In this summary, we state: "Comprehensive studies…
+— Maria Van Kerkhove (@mvankerkhove) June 8, 2020
+
+The WHO document, published on 5 June, states, “Viable virus has been isolated from specimens of pre-symptomatic and asymptomatic individuals, suggesting, therefore, that people who do not have symptoms may be able transmit the virus to others.”
+The document also adds that there is the possibility of transmission from pre-symptomatic people.
+A systematic review of literature from last month claimed the proportion of asymptomatic individuals ranged from 4 to 41 per cent.
+The WHO has quoted several published studies in its document, one of which found that among 63 asymptomatic patients studied in China, only nine individuals (14 per cent) infected others. In another study, the researchers found no secondary transmission in 9 out of 91 asymptomatic cases while a third study found 6.4 per cent of cases were transmitted by pre-symptomatic cases.
+“Comprehensive studies on transmission from asymptomatic individuals are difficult to conduct, but the available evidence from contact tracing reported by Member States suggests that asymptomatically-infected individuals are much less likely to transmit the virus than those who develop symptoms,” the document adds.
+Also read: India records nearly 10,000 new Covid cases for second day in a row
+Eric Topol, a professor of molecular medicine and founder and director of the Scripps Research Translational Institute, pointed out that it is difficult to determine at the time of contact whether the person is in the pre-symptomatic or asymptomatic stage. To find any meaningful data on the magnitude of transmission, one would need contact-tracing, culture of the virus and genomic sequence to define its route.
+Unfortunately, as an outgrowth of a @WHO statement and @CNBC coverage today there is still significant confusion about the asymptomatic story. Conflation with pre-symptomatic status.Let's first define these 2 groups pic.twitter.com/R52dsNSHB0
+— Eric Topol (@EricTopol) June 9, 2020
+
+Shahid Jameel, virologist and chief executive of Wellcome Trust-DBT India Alliance, told ThePrint that it is “a case of poor communication on WHO’s part”.
+The distinction between pre-symptomatic and asymptomatic was not clear in Kerkhove’s statement and doesn’t correspond with the existing evidence on the spread of the pandemic, Jameel said.
+If the transmission was predominantly spread by symptomatic patients, it doesn’t explain the spread of the outbreak that has infected 7 million and caused over 400,000 deaths globally as compared to SARS outbreak that was spread during the symptomatic phase but only infected 8,000 and killed about 700 people worldwide, suggested Jameel.
+It could be that the asymptomatic people are shedding lower levels of virus than symptomatic people, but to say that asymptomatic patients are less likely to transmit the disease is sending the “wrong signal”.
+“It will send a wrong signal to people who will start flocking to malls, restaurants, religious places especially in a country like India where cases are still rising,” Jameel said.
+There is evidence that pre-symptomatic infections spread the disease — according to a study in Wuhan as much as 44 per cent of cases of secondary infections were spread by cases in their pre-symptomatic stage.
+In India, 28 per cent of those tested for Covid-19 till 30 April were asymptomatic. However, the government does not know how 44 per cent of those who tested positive were infected, according to a study published in Indian Journal of Medical Research on 30 May.
+Kolkata-based epidemiologist and public health specialist Aritra Das told ThePrint that it is difficult to prove the source of an infection at this stage of the pandemic with high number of cases and limited surveillance in the absence of genetic studies, especially in India.
+“I am only worried that it will make us complacent at individual and administrative level that may further increase the slope of the epidemic curve,” said Das.

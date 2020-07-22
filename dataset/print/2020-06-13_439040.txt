@@ -1,0 +1,44 @@
+India has at least 62 apps to deal with Covid, but they all do the same job mostly
+New Delhi: If you want to know who might have Covid-19 around you, open the Aarogya Setu app. Or if you’re in Karnataka, the Corona Watch app will tell you locations where Covid patients had travelled to, so you can avoid them.
+Want details on hospitals and bed availability? The Delhi government’s Delhi Corona app will list out Covid-19 designated hospitals, though you might not manage to catch one in time since it’s not updated real-time.
+For information on essential services, you will need the COVA Punjab app in Punjab, while those in Haryana need to download Jan Sahayak — HelpMe App.
+In the more than two months that the nationwide lockdown has been in place, India has dished out at least 62 apps that help users with a range of Covid requirements. Nearly all of these have been launched by official bodies — the central government, state governments, government-run health agencies, municipal authorities, and police, and have been mostly developed by little known private IT firms.
+But why not develop one centralised app, either at the central or the state level? Apar Gupta, executive director, Internet Freedom Foundation, said this could be due to the varying administrative bodies that are involved in responding to the pandemic.
+“A possible reason for multiple apps to be used for the same function could be that health is a state subject and that each state, police authority and local municipal authority may have their own approach to monitoring and dealing with the Covid-19 spread,” he explained.
+Also read: These 7 states make up 80% of India’s Covid cases and deaths, govt study finds
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+With every state coming up with its own app, and sometimes even districts launching their mobile applications, it’s mostly some obscure, or almost unheard of tech companies that have come to the fore.
+Take the Ayush Kavach app for instance. Launched by Uttar Pradesh Chief Minister Yogi Adityanath on 5 May, it was developed by Stucare Technologies Pvt Ltd.
+A Google search for the company name shows up another similar name — Stucare Solutions Pvt Ltd. The two firms share the same web address (stucare.com) though, which lists offices in Delhi, Agra, Lucknow and Indore.
+If one keyed in the Indore branch address in Google Maps, it’ll take you all the way to Australia, to Sherwood Road in Queensland.
+ThePrint sent an email to the contact listed online but didn’t receive a response till the time of publishing this report.
+The COVID CARE app for contact tracing and quarantine monitoring launched by the Arunachal Pradesh government was built by Atsuya Technologies Pvt Ltd, a company based in Chennai.
+The most downloaded app, the Narendra Modi government’s contact tracing app Aarogya Setu, was developed in “public-private partnership” by the IT ministry.
+“We don’t even know which city they are in … we have not seen their faces. We don’t know who they are,” IT Secretary Ajay Prakash Sawhney had earlier said about the developers.
+The app has been downloaded an estimated 120 million times until now. This includes a brief period when the home affairs ministry had made it mandatory for people stepping out to go back to work to download the app.
+Besides Aarogya Setu, the central government launched two other covid apps — COVID19 Feedback, to collect feedback on testing and treatment, and the Ayush Sanjivani, to survey users of Ayush practices adopted to deal with the infection. Both apps have over 1 lakh downloads on Google Play Store, and were developed by the IT ministry.
+Also read: 40 Covid apps across India: Lack of coordination or needed for micro-management?
+Whether you are looking for Ayurvedic remedies to boost your immunity (Ayush Kavach by UP government) or applying for an e-pass (RajCop Citizen by Rajasthan Police), there’s a host of options to choose from.
+Ayush Kavach, RajCop Citizen and Punjab government’s COVA Punjab are all in the over-one-million downloads club.
+However, most of these apps provide one or two basic functions such as updates on Covid-19 and details on where one can order essentials from.
+The fact that multiple apps out there have the same features shows there is a lack of coordination between government authorities and is a waste of resources, say private sector app developers.
+Pratik Babasaheb Thorat, who has developed Fight Covid app for Maharashtra’s Sangamner municipal authority, said, “There have been so many Covid-19 related apps coming up because there is little cooperation between government bodies… so each government body is using a different app.”
+The Sangamner app is used to track quarantined individuals.
+Thorat, who developed it for free, said an independent developer would charge around Rs 1 lakh to Rs 2 lakh for such an app while a larger company could charge more. Making these apps could take up anything between a week and three months.
+Intugine Technologies Pvt. Ltd. in Bengaluru built the Covid Locator app for the Goa government to monitor home quarantined individuals. Intugine cofounder Mrinal Rai said, “Yes, actually it’s a lot of effort being wasted as multiple apps are being created with exactly the same use case functionalities.”
+“Authorities have limited information about vendors providing such solutions … so they are availing the services from their immediate connections. Thus, everyone is developing a new app,” Rai added.
+While a simpler app, which just gives information on hospitals etc., might cost about Rs 1 lakh to build, the more complex the app, the pricier it is, going up to about Rs 4 lakh, Rai said.
+Bhuvan Gupta, CTO of Gurugram-based OfBusiness, which built the Jan Sahayak — HelpMe app for the Haryana government, said such app would cost around Rs 50 lakh to develop.
+The app is for people to request essentials like groceries.
+Gupta said there was a clear lack of a centralised effort to create such applications. However, like Internet Freedom Foundation’s Apar Gupta, he noted that each state has its own protocol and information system, which could be why authorities feel a tailor-made application makes more sense than one application for everyone.
+Also read: Australia is having hard time convincing citizens to download its Covid tracing app
+In many cases, government officials are not even aware that apps already exist for a requirement they have.
+However, another reason is the autonomy creating a tailor-made app gives the authority deploying it.
+A West Bengal official said the state government was within its powers to launch an app that fits their needs. The Bengal government has two apps — one to pool donations to help fight Covid (the West Bengal Emergency Fund app), the other to monitor quarantined individuals (the COVID-19 West Bengal Government app).
+The West Bengal officer added that the app to raise donations was designed so users could choose between donating on a desktop web application or through the mobile app since more people donate via web.
+Rajasthan Police’s Sharat Kaviraj, Deputy Inspector General, State Crime Records Bureau, said a state-level policy is better suited to deal with the pandemic and lockdown, rather than a centralised approach — which means a state-specific app would be more suited for administrations.
+For instance, he said, there is currently no mechanism to make a single repository from which police officers across states can access information on specifics like curfew areas.
+Vikas Jondhale, engineer with the Sangamner Municipal Council, said when the civic body launched Fight Covid, no other apps were being used by authorities.
+The Sangamner municipality had started using Fight Covid on 22 March, weeks before the Centre launched Aarogya Setu. Most apps were launched in April and May.

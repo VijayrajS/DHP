@@ -1,0 +1,767 @@
+{
+    "generic": [{
+            "ID": 468261,
+            "post_author": "12170",
+            "post_date": "2020-07-22 11:30:49",
+            "post_date_gmt": "2020-07-22 06:00:49",
+            "post_title": "Telangana, Karnataka Opposition Use AP\u2019s Measures to Prove COVID Mishandling in Own States",
+            "post_excerpt": "Andhra Pradesh\u2019s action plan is \u2018exemplary\u2019, says Congress, points out that other chief ministers should learn from Jaganmohan Reddy.",
+            "post_status": "publish",
+            "post_name": "telangana-karnataka-opposition-use-aps-measures-to-prove-covid-mishandling-in-own-states",
+            "post_parent": 0,
+            "guid": "https:\/\/thewire.in\/?p=468261",
+            "post_type": "post",
+            "post_author_name": [{
+                "author_name": "Gali Nagaraja",
+                "author_slug": "gali-nagaraja",
+                "author_avatar": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2019\/06\/03184530\/gali-nagaraja.jpeg"
+            }],
+            "featured_image": {
+                "media_details": {
+                    "width": 691,
+                    "height": 377,
+                    "file": "2020\/04\/jagan.png",
+                    "sizes": {
+                        "medium": {
+                            "file": "jagan-300x164.png",
+                            "width": 300,
+                            "height": 164,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/04\/11194044\/jagan-300x164.png"
+                        },
+                        "thumbnail": {
+                            "file": "jagan-150x150.png",
+                            "width": 150,
+                            "height": 150,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/04\/11194044\/jagan-150x150.png"
+                        },
+                        "web-spot-small": {
+                            "file": "jagan-300x200.png",
+                            "width": 300,
+                            "height": 200,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/04\/11194044\/jagan-300x200.png"
+                        },
+                        "web-horz-small": {
+                            "file": "jagan-425x250.png",
+                            "width": 425,
+                            "height": 250,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/04\/11194044\/jagan-425x250.png"
+                        },
+                        "web-horz-medium": {
+                            "file": "jagan-410x325.png",
+                            "width": 410,
+                            "height": 325,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/04\/11194044\/jagan-410x325.png"
+                        },
+                        "web-tall": {
+                            "file": "jagan-425x377.png",
+                            "width": 425,
+                            "height": 377,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/04\/11194044\/jagan-425x377.png"
+                        }
+                    },
+                    "image_meta": {
+                        "aperture": "0",
+                        "credit": "",
+                        "camera": "",
+                        "caption": "",
+                        "created_timestamp": "0",
+                        "copyright": "",
+                        "focal_length": "0",
+                        "iso": "0",
+                        "shutter_speed": "0",
+                        "title": "",
+                        "orientation": "0",
+                        "keywords": [
+
+                        ]
+                    }
+                },
+                "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/04\/11194044\/jagan.png"
+            },
+            "hero_image": [
+                "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/04\/11194044\/jagan.png",
+                691,
+                377,
+                false
+            ],
+            "categories": [{
+                    "name": "Government",
+                    "slug": "government"
+                },
+                {
+                    "name": "Health",
+                    "slug": "health"
+                },
+                {
+                    "name": "Politics",
+                    "slug": "politics"
+                }
+            ],
+            "prime_category": [{
+                "name": "Politics",
+                "slug": "politics"
+            }],
+            "tags": [
+                "Andhra Pradesh",
+                "Congress",
+                "coronavirus",
+                "coronavirus news",
+                "coronavirus updates",
+                "covid",
+                "covid 19",
+                "covid 19 india",
+                "jagan",
+                "Jagan Reddy",
+                "Jaganmohan Reddy",
+                "K Chandrasekhar Rao",
+                "Karnataka",
+                "KCR",
+                "Latest headlines",
+                "latest news",
+                "News",
+                "Siddaramaiah",
+                "Telangana",
+                "top headlines",
+                "Top News",
+                "top stories",
+                "Y.S. Jaganmohan Reddy"
+            ],
+            "date_time_display": "1 hour ago",
+            "storytype": [
+                "analysis",
+                "home-analysis",
+                "home-highlights",
+                "home-trending"
+            ],
+            "storytype_display": "",
+            "userbookmarked": false,
+            "view_count": "420"
+        },
+        {
+            "ID": 468232,
+            "post_author": "3794",
+            "post_date": "2020-07-21 21:31:23",
+            "post_date_gmt": "2020-07-21 16:01:23",
+            "post_title": "NIA Opposes Varavara Rao's Bail, Says He Is Taking 'Undue Benefit' of COVID-19\u00a0",
+            "post_excerpt": "The 79-year-old poet is severely ill, has several neurological issues and has been in hospital since the end of May.\u00a0",
+            "post_status": "publish",
+            "post_name": "varavara-rao-bail-nia-covid-19-bhima-koregaon",
+            "post_parent": 0,
+            "guid": "https:\/\/thewire.in\/?p=468232",
+            "post_type": "post",
+            "post_author_name": [{
+                "author_name": "Sukanya Shantha",
+                "author_slug": "sukanya-shantha",
+                "author_avatar": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2019\/02\/13133503\/img_20180405_042228.jpg"
+            }],
+            "featured_image": {
+                "media_details": {
+                    "width": 859,
+                    "height": 397,
+                    "file": "2020\/07\/Screen-Shot-2020-07-16-at-8.02.33-PM.png",
+                    "sizes": {
+                        "medium": {
+                            "file": "Screen-Shot-2020-07-16-at-8.02.33-PM-300x139.png",
+                            "width": 300,
+                            "height": 139,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/16200249\/Screen-Shot-2020-07-16-at-8.02.33-PM-300x139.png"
+                        },
+                        "thumbnail": {
+                            "file": "Screen-Shot-2020-07-16-at-8.02.33-PM-150x150.png",
+                            "width": 150,
+                            "height": 150,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/16200249\/Screen-Shot-2020-07-16-at-8.02.33-PM-150x150.png"
+                        },
+                        "web-spot-small": {
+                            "file": "Screen-Shot-2020-07-16-at-8.02.33-PM-300x200.png",
+                            "width": 300,
+                            "height": 200,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/16200249\/Screen-Shot-2020-07-16-at-8.02.33-PM-300x200.png"
+                        },
+                        "web-horz-small": {
+                            "file": "Screen-Shot-2020-07-16-at-8.02.33-PM-425x250.png",
+                            "width": 425,
+                            "height": 250,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/16200249\/Screen-Shot-2020-07-16-at-8.02.33-PM-425x250.png"
+                        },
+                        "web-horz-medium": {
+                            "file": "Screen-Shot-2020-07-16-at-8.02.33-PM-410x325.png",
+                            "width": 410,
+                            "height": 325,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/16200249\/Screen-Shot-2020-07-16-at-8.02.33-PM-410x325.png"
+                        },
+                        "web-tall": {
+                            "file": "Screen-Shot-2020-07-16-at-8.02.33-PM-425x397.png",
+                            "width": 425,
+                            "height": 397,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/16200249\/Screen-Shot-2020-07-16-at-8.02.33-PM-425x397.png"
+                        },
+                        "web-featured": {
+                            "file": "Screen-Shot-2020-07-16-at-8.02.33-PM-800x397.png",
+                            "width": 800,
+                            "height": 397,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/16200249\/Screen-Shot-2020-07-16-at-8.02.33-PM-800x397.png"
+                        }
+                    },
+                    "image_meta": {
+                        "aperture": "0",
+                        "credit": "",
+                        "camera": "",
+                        "caption": "",
+                        "created_timestamp": "0",
+                        "copyright": "",
+                        "focal_length": "0",
+                        "iso": "0",
+                        "shutter_speed": "0",
+                        "title": "",
+                        "orientation": "0",
+                        "keywords": [
+
+                        ]
+                    }
+                },
+                "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/16200249\/Screen-Shot-2020-07-16-at-8.02.33-PM.png"
+            },
+            "hero_image": [
+                "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/16200249\/Screen-Shot-2020-07-16-at-8.02.33-PM.png",
+                859,
+                397,
+                false
+            ],
+            "categories": [{
+                    "name": "Government",
+                    "slug": "government"
+                },
+                {
+                    "name": "Rights",
+                    "slug": "rights"
+                }
+            ],
+            "prime_category": [{
+                "name": "Rights",
+                "slug": "rights"
+            }],
+            "tags": [
+                "Bhima Koregaon",
+                "Bombay High Court",
+                "Elgar Parishad",
+                "JJ hospital varavara rao",
+                "Latest headlines",
+                "latest news",
+                "News",
+                "NIA Varavara Rao",
+                "NIA varavara rao bail",
+                "NIA varavara rao undue benefit",
+                "Prashanto Bose",
+                "top headlines",
+                "Top News",
+                "top stories",
+                "Urban Naxal",
+                "Varavara Rao",
+                "varavara rao bail",
+                "varavara rao health",
+                "where is varavara rao"
+            ],
+            "date_time_display": "today",
+            "storytype": [
+                "home-editors-pick",
+                "home-highlights",
+                "home-trending"
+            ],
+            "storytype_display": "",
+            "userbookmarked": false,
+            "view_count": "4685"
+        },
+        {
+            "ID": 468214,
+            "post_author": "15942",
+            "post_date": "2020-07-21 20:20:16",
+            "post_date_gmt": "2020-07-21 14:50:16",
+            "post_title": "'Bengal Won't Be Ruled by Outsiders': Eye on BJP, Mamata Banerjee Sets Tone for 2021 Poll Campaign",
+            "post_excerpt": "In her widely televised Trinamool Congress Martyrs' Day speech, the Bengal chief minister made the BJP the central focus of her address. Conspicuously missing were the issues of unemployment and corruption.",
+            "post_status": "publish",
+            "post_name": "mamata-banerjee-trinamool-congress-martyrs-day-2021-polls-speech-bjp",
+            "post_parent": 0,
+            "guid": "https:\/\/thewire.in\/?p=468214",
+            "post_type": "post",
+            "post_author_name": [{
+                "author_name": "Snigdhendu Bhattacharya",
+                "author_slug": "snigdhendu-bhattacharya",
+                "author_avatar": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/06093212\/IMG_20200704_030921.jpg"
+            }],
+            "featured_image": {
+                "media_details": {
+                    "width": 1009,
+                    "height": 591,
+                    "file": "2020\/07\/Screen-Shot-2020-07-21-at-7.08.25-PM.png",
+                    "sizes": {
+                        "medium": {
+                            "file": "Screen-Shot-2020-07-21-at-7.08.25-PM-300x176.png",
+                            "width": 300,
+                            "height": 176,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21190850\/Screen-Shot-2020-07-21-at-7.08.25-PM-300x176.png"
+                        },
+                        "thumbnail": {
+                            "file": "Screen-Shot-2020-07-21-at-7.08.25-PM-150x150.png",
+                            "width": 150,
+                            "height": 150,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21190850\/Screen-Shot-2020-07-21-at-7.08.25-PM-150x150.png"
+                        },
+                        "web-spot-small": {
+                            "file": "Screen-Shot-2020-07-21-at-7.08.25-PM-300x200.png",
+                            "width": 300,
+                            "height": 200,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21190850\/Screen-Shot-2020-07-21-at-7.08.25-PM-300x200.png"
+                        },
+                        "web-horz-small": {
+                            "file": "Screen-Shot-2020-07-21-at-7.08.25-PM-425x250.png",
+                            "width": 425,
+                            "height": 250,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21190850\/Screen-Shot-2020-07-21-at-7.08.25-PM-425x250.png"
+                        },
+                        "web-horz-medium": {
+                            "file": "Screen-Shot-2020-07-21-at-7.08.25-PM-410x325.png",
+                            "width": 410,
+                            "height": 325,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21190850\/Screen-Shot-2020-07-21-at-7.08.25-PM-410x325.png"
+                        },
+                        "web-tall": {
+                            "file": "Screen-Shot-2020-07-21-at-7.08.25-PM-425x500.png",
+                            "width": 425,
+                            "height": 500,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21190850\/Screen-Shot-2020-07-21-at-7.08.25-PM-425x500.png"
+                        },
+                        "web-featured": {
+                            "file": "Screen-Shot-2020-07-21-at-7.08.25-PM-800x400.png",
+                            "width": 800,
+                            "height": 400,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21190850\/Screen-Shot-2020-07-21-at-7.08.25-PM-800x400.png"
+                        }
+                    },
+                    "image_meta": {
+                        "aperture": "0",
+                        "credit": "",
+                        "camera": "",
+                        "caption": "",
+                        "created_timestamp": "0",
+                        "copyright": "",
+                        "focal_length": "0",
+                        "iso": "0",
+                        "shutter_speed": "0",
+                        "title": "",
+                        "orientation": "0",
+                        "keywords": [
+
+                        ]
+                    }
+                },
+                "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21190850\/Screen-Shot-2020-07-21-at-7.08.25-PM.png"
+            },
+            "hero_image": [
+                "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21190850\/Screen-Shot-2020-07-21-at-7.08.25-PM.png",
+                1009,
+                591,
+                false
+            ],
+            "categories": [{
+                "name": "Politics",
+                "slug": "politics"
+            }],
+            "prime_category": [{
+                "name": "Politics",
+                "slug": "politics"
+            }],
+            "tags": [
+                "bengal assembly election",
+                "Bengal chief minister Mamata Banerjee",
+                "bengal election 2021",
+                "bengal election 2022",
+                "BJP leader killed",
+                "BJP Mamata Banerjee",
+                "bjp mla murder",
+                "centre vs mamata banerjee",
+                "Chief Minister Mamata Banerjee",
+                "cpm mla debendranath ray",
+                "cpm mla murdered",
+                "Dilip Ghosh",
+                "Jagdeep Dhankar",
+                "JP Nadda",
+                "kolkata mamata banerjee",
+                "Mamata Banerjee",
+                "mamata banerjee bjp",
+                "Mamata Banerjee latest news",
+                "Mamata Banerjee news",
+                "Mamata Banerjee politics",
+                "mamata banerjee west bengal",
+                "mamata martyrs day rally",
+                "mamata martyrs day speech"
+            ],
+            "date_time_display": "today",
+            "storytype": [
+                "home-highlights",
+                "home-trending"
+            ],
+            "storytype_display": "",
+            "userbookmarked": false,
+            "view_count": "4701"
+        },
+        {
+            "ID": 468196,
+            "post_author": "16031",
+            "post_date": "2020-07-21 19:00:29",
+            "post_date_gmt": "2020-07-21 13:30:29",
+            "post_title": "It Is Time to Accept How Badly India Misread Chinese Intentions in 1962 \u2013 and 2020",
+            "post_excerpt": "China has changed the rules of the game unilaterally and given a go-by to all the agreements and protocols that have existed.",
+            "post_status": "publish",
+            "post_name": "india-china-xi-jinping-lac-border-modi-1962-war",
+            "post_parent": 0,
+            "guid": "https:\/\/thewire.in\/?p=468196",
+            "post_type": "post",
+            "post_author_name": [{
+                "author_name": "P.J.S. Sandhu",
+                "author_slug": "p-j-s-sandhu",
+                "author_avatar": ""
+            }],
+            "featured_image": {
+                "media_details": {
+                    "width": 858,
+                    "height": 366,
+                    "file": "2020\/07\/Screen-Shot-2020-07-21-at-6.46.55-PM.png",
+                    "sizes": {
+                        "medium": {
+                            "file": "Screen-Shot-2020-07-21-at-6.46.55-PM-300x128.png",
+                            "width": 300,
+                            "height": 128,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21184715\/Screen-Shot-2020-07-21-at-6.46.55-PM-300x128.png"
+                        },
+                        "thumbnail": {
+                            "file": "Screen-Shot-2020-07-21-at-6.46.55-PM-150x150.png",
+                            "width": 150,
+                            "height": 150,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21184715\/Screen-Shot-2020-07-21-at-6.46.55-PM-150x150.png"
+                        },
+                        "web-spot-small": {
+                            "file": "Screen-Shot-2020-07-21-at-6.46.55-PM-300x200.png",
+                            "width": 300,
+                            "height": 200,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21184715\/Screen-Shot-2020-07-21-at-6.46.55-PM-300x200.png"
+                        },
+                        "web-horz-small": {
+                            "file": "Screen-Shot-2020-07-21-at-6.46.55-PM-425x250.png",
+                            "width": 425,
+                            "height": 250,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21184715\/Screen-Shot-2020-07-21-at-6.46.55-PM-425x250.png"
+                        },
+                        "web-horz-medium": {
+                            "file": "Screen-Shot-2020-07-21-at-6.46.55-PM-410x325.png",
+                            "width": 410,
+                            "height": 325,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21184715\/Screen-Shot-2020-07-21-at-6.46.55-PM-410x325.png"
+                        },
+                        "web-tall": {
+                            "file": "Screen-Shot-2020-07-21-at-6.46.55-PM-425x366.png",
+                            "width": 425,
+                            "height": 366,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21184715\/Screen-Shot-2020-07-21-at-6.46.55-PM-425x366.png"
+                        },
+                        "web-featured": {
+                            "file": "Screen-Shot-2020-07-21-at-6.46.55-PM-800x366.png",
+                            "width": 800,
+                            "height": 366,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21184715\/Screen-Shot-2020-07-21-at-6.46.55-PM-800x366.png"
+                        }
+                    },
+                    "image_meta": {
+                        "aperture": "0",
+                        "credit": "",
+                        "camera": "",
+                        "caption": "",
+                        "created_timestamp": "0",
+                        "copyright": "",
+                        "focal_length": "0",
+                        "iso": "0",
+                        "shutter_speed": "0",
+                        "title": "",
+                        "orientation": "0",
+                        "keywords": [
+
+                        ]
+                    }
+                },
+                "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21184715\/Screen-Shot-2020-07-21-at-6.46.55-PM.png"
+            },
+            "hero_image": [
+                "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21184715\/Screen-Shot-2020-07-21-at-6.46.55-PM.png",
+                858,
+                366,
+                false
+            ],
+            "categories": [{
+                    "name": "Diplomacy",
+                    "slug": "diplomacy"
+                },
+                {
+                    "name": "External Affairs",
+                    "slug": "external-affairs"
+                },
+                {
+                    "name": "Government",
+                    "slug": "government"
+                },
+                {
+                    "name": "History",
+                    "slug": "history"
+                },
+                {
+                    "name": "Security",
+                    "slug": "security"
+                },
+                {
+                    "name": "Security",
+                    "slug": "security-security"
+                }
+            ],
+            "prime_category": [{
+                "name": "Security",
+                "slug": "security"
+            }],
+            "tags": [
+                "14 J&amp;K Militia",
+                "5 JAT",
+                "BRICS Summit",
+                "Chang La",
+                "chinese claim line",
+                "Chinese claim line 1960",
+                "Chushul",
+                "Daulat Beg Oldie",
+                "Demchok",
+                "Depsang Plain",
+                "Galwan Post",
+                "Galwan river",
+                "Gurung Hill",
+                "India China border dispute",
+                "india china border tensions",
+                "india forward policy",
+                "Indo-China 1962 war",
+                "Karakoram Pass",
+                "Ladakh",
+                "Latest headlines",
+                "latest news",
+                "Mamallapuram",
+                "maxwell",
+                "mcmhaon line",
+                "Narendra Modi",
+                "Nehru",
+                "nehru indo china war",
+                "Red Top Hill",
+                "Rezangla",
+                "xi modi"
+            ],
+            "date_time_display": "today",
+            "storytype": [
+                "analysis",
+                "home-editors-pick",
+                "home-external-affairs",
+                "home-highlights"
+            ],
+            "storytype_display": "",
+            "userbookmarked": false,
+            "view_count": "5774"
+        },
+        {
+            "ID": 468169,
+            "post_author": "16028",
+            "post_date": "2020-07-21 18:00:59",
+            "post_date_gmt": "2020-07-21 12:30:59",
+            "post_title": "Communalism and COVID-19 Have Changed the Classroom for Indian Muslim Children",
+            "post_excerpt": "Once school reopens teachers will have to learn to examine their own cultural biases before any intervention can be successful. ",
+            "post_status": "publish",
+            "post_name": "covid-19-communalism-caa-anti-muslim-school-reopen",
+            "post_parent": 0,
+            "guid": "https:\/\/thewire.in\/?p=468169",
+            "post_type": "post",
+            "post_author_name": [{
+                "author_name": "Azra Razzack and Muzna F. Alvi",
+                "author_slug": "azra-razzack",
+                "author_avatar": ""
+            }],
+            "featured_image": {
+                "media_details": {
+                    "width": 730,
+                    "height": 449,
+                    "file": "2020\/07\/Screen-Shot-2020-07-21-at-4.56.39-PM.png",
+                    "sizes": {
+                        "medium": {
+                            "file": "Screen-Shot-2020-07-21-at-4.56.39-PM-300x185.png",
+                            "width": 300,
+                            "height": 185,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21165655\/Screen-Shot-2020-07-21-at-4.56.39-PM-300x185.png"
+                        },
+                        "thumbnail": {
+                            "file": "Screen-Shot-2020-07-21-at-4.56.39-PM-150x150.png",
+                            "width": 150,
+                            "height": 150,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21165655\/Screen-Shot-2020-07-21-at-4.56.39-PM-150x150.png"
+                        },
+                        "web-spot-small": {
+                            "file": "Screen-Shot-2020-07-21-at-4.56.39-PM-300x200.png",
+                            "width": 300,
+                            "height": 200,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21165655\/Screen-Shot-2020-07-21-at-4.56.39-PM-300x200.png"
+                        },
+                        "web-horz-small": {
+                            "file": "Screen-Shot-2020-07-21-at-4.56.39-PM-425x250.png",
+                            "width": 425,
+                            "height": 250,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21165655\/Screen-Shot-2020-07-21-at-4.56.39-PM-425x250.png"
+                        },
+                        "web-horz-medium": {
+                            "file": "Screen-Shot-2020-07-21-at-4.56.39-PM-410x325.png",
+                            "width": 410,
+                            "height": 325,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21165655\/Screen-Shot-2020-07-21-at-4.56.39-PM-410x325.png"
+                        },
+                        "web-tall": {
+                            "file": "Screen-Shot-2020-07-21-at-4.56.39-PM-425x449.png",
+                            "width": 425,
+                            "height": 449,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21165655\/Screen-Shot-2020-07-21-at-4.56.39-PM-425x449.png"
+                        },
+                        "web-featured": {
+                            "file": "Screen-Shot-2020-07-21-at-4.56.39-PM-730x400.png",
+                            "width": 730,
+                            "height": 400,
+                            "mime-type": "image\/png",
+                            "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21165655\/Screen-Shot-2020-07-21-at-4.56.39-PM-730x400.png"
+                        }
+                    },
+                    "image_meta": {
+                        "aperture": "0",
+                        "credit": "",
+                        "camera": "",
+                        "caption": "",
+                        "created_timestamp": "0",
+                        "copyright": "",
+                        "focal_length": "0",
+                        "iso": "0",
+                        "shutter_speed": "0",
+                        "title": "",
+                        "orientation": "0",
+                        "keywords": [
+
+                        ]
+                    }
+                },
+                "source_url": "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21165655\/Screen-Shot-2020-07-21-at-4.56.39-PM.png"
+            },
+            "hero_image": [
+                "https:\/\/cdn.thewire.in\/wp-content\/uploads\/2020\/07\/21165655\/Screen-Shot-2020-07-21-at-4.56.39-PM.png",
+                730,
+                449,
+                false
+            ],
+            "categories": [{
+                    "name": "Communalism",
+                    "slug": "communalism"
+                },
+                {
+                    "name": "Education",
+                    "slug": "education"
+                }
+            ],
+            "prime_category": [{
+                "name": "Education",
+                "slug": "education"
+            }],
+            "tags": [
+                "anti-caa protests",
+                "anti-Muslim",
+                "CAA protests",
+                "communal parents",
+                "communalism in schools",
+                "communalism in the media",
+                "corona in delhi",
+                "coronavirus news",
+                "coronavirus news Delhi",
+                "coronavirus update",
+                "covid 19 muslims",
+                "Delhi Police",
+                "delhi police chargesheet",
+                "delhi police tablighi jamaat",
+                "Growing up Muslim",
+                "Hindutva",
+                "Islamophobia",
+                "Jamaat",
+                "Latest headlines",
+                "latest news",
+                "Markaz",
+                "markaz congregation",
+                "Maulana Saad",
+                "News",
+                "nizamuddin",
+                "shaheen bagh",
+                "tablighi",
+                "Tablighi Jama\u2019at",
+                "tablighi jamaat congregation",
+                "tablighi jamaat coronavirus",
+                "teaching religious tolerance",
+                "top headlines",
+                "Top News",
+                "top stories"
+            ],
+            "date_time_display": "today",
+            "storytype": [
+                "home-highlights",
+                "home-opinion",
+                "opinion"
+            ],
+            "storytype_display": "",
+            "userbookmarked": false,
+            "view_count": "5428"
+        }
+    ],
+    "header-image": null,
+    "scrolled": false,
+    "seo-tags": {
+        "pagename": "search",
+        "title": "Search results for Coronavirus india  | Live News Online - The Wire",
+        "description": "Read The Wire news, latest news from India and World including current news headlines on politics, business, science,culture and more only on Thewire.in.",
+        "keywords": "Latest News, India News , The Wire News, Current News Headlines, World News, India News, Online News, Politics News, Science News,Business News, World News, Culture News, Exclusive News",
+        "canonical": "",
+        "pageurl": "",
+        "imageurl": ""
+    }
+}

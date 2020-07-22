@@ -1,0 +1,49 @@
+How do you test for coronavirus? All you want to know about testing kits, process, results
+New Delhi/Bengaluru: Is India testing enough and adequately — this question has time and again cropped up as the country deals with the coronavirus crisis which saw the number of active cases cross 440 and spread to nearly all states by Tuesday morning.
+With the infection showing no signs of slowing down and no cure available, most states have implemented lockdowns and issued advisories on exercising social distancing.
+Despite these measures to control the virus’ transmission, the debate over the government’s testing process has barely abated.
+Several experts have pointed out that India has one of the lowest rates of testing in the world and the protocols are too stringent.
+In response to calls for more testing centres, the Indian Council of Medical Research (ICMR), India’s apex medical research body, last week revised its guidelines allowing private laboratories to screen for the novel coronavirus. According to the rules, labs can only use commercial kits, which are either approved by the Food and Drug Administration (FDA), America’s regulatory authority, and/or meet the European certification standard.
+Also read: DRDO starts detection tests for COVID-19, producing hand sanitisers in small quantities
+ThePrint spoke to an ICMR official who asked not to be named, and Guruprasad Medigeshi, a professor with the Translational Health Science and Technology Institute, to understand what the test entails and how it’s done.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+COVID-19 is a respiratory disease that infects the upper and lower respiratory tracts of a person through the nasal pathways. So swabs are first collected from a patient’s throat and/or nose as a part of nasopharyngeal sampling. Sometimes, blood can be taken too, depending on the lab that tests it.
+There are several ways that samples can be collected.
+A simple swab test is done with a sample taken from inside the throat or nose. Samples from the air passageways can be taken through the nose or mouth, by either injecting salt water into the nose or using a tube called a bronchoscope, which collects a sample from the lung.
+Coughed-up septum is also used as a source for studying mucus tissue from the lungs. If needed, a blood sample may be collected.
+The samples are then transported to qualified labs.
+Also read: R0 to zoonoses — decoding coronavirus jargon to help you understand the news better
+The virus is highly contagious, and hence only labs that are equipped to contain and work with the virus are allowed to test it. This is the main reason there are so few labs that can perform coronavirus tests across the world in each country, taking longer for a diagnosis, which costs precious time.
+The samples are studied for the virus through two ways — either through a larger test which simply looks for the presence of all coronaviruses (including the ones that give us common cold) or through gene sequencing that finds the genetic marker indicating the presence of SARS-CoV-2.
+The genetic test is often also referred to as the polymerase chain reaction (PCR) test.
+
+Coronaviruses are viruses with RNA or Ribonucleic acid as their genetic material. Unlike the DNA, it is a single-stranded molecule.
+To test SARS-CoV-2, researchers have to pick out specific areas in the genome that don’t rapidly change in the virus’ evolution but still have a “distinctive signature”. These are repeatedly copied and amplified in a process called the polymerase chain reaction, or PCR, which forms the basis of the coronavirus test and lends its name to it.
+The PCR test occurs in five stages:
+1. Swabs from suspected cases are collected and kept in a “virus transport medium”, in order to protect the delicate RNA matter. They are then brought to a laboratory for testing.
+2. In the laboratory, the swab is mixed in a liquid in which the viral matter gets dispersed. Medigeshi explains that the liquid is then subjected to centrifugation, a process used to separate the liquid from the viral matter through rapid rotation, like that of a washing machine. What remains is only a “pellet” of the viral cells, as the liquid gets flung out.
+3. This pellet is now processed in order to separate the RNA matter. “Coronavirus only has RNA, which is detected in these steps and isolated using the commercial kits,” Medigeshi said. The RNA samples from patients, however, yield only a tiny quantity which is not adequate for the testing process.
+4. To solve this problem, the RNA is converted to a two-stranded DNA using an enzyme. Regions of the DNA or the cDNA (a copy) needs to be copied repeatedly, in a process called amplification, for it to be detected by the PCR.
+5. Now comes the determining test. Primers, which are small pieces of DNA designed only to bind to specific DNA sequences, are used to bind to SARS-CoV-2’s viral genome and thus detect the presence of COVID-19 in a person’s samples. The primers along with the probe, a fluorescent dye, are put in a small reaction tube and then into a PCR machine where the “binding” process takes place.
+“If you consider the DNA as a small scale, the first primer binds to the left end of the scale and the right primer binds to the right end of the scale. The probe is bound to the middle of the scale. The left and right primers will keep moving towards the middle. When they come near the probe, a quencher releases the fluorescent dye and a signal is emitted,” Medigeshi said.
+It is this fluorescent signal which marks the presence of the virus.
+This process takes place in about 40 cycles. In one cycle, the machine raises the temperature for the DNA to separate after which it cools down, allowing the primers to bind with the genome.
+The time duration for the testing process is around eight hours, but results arrive a day or two later because of how long it takes to transport samples to labs.
+Also read: ‘Indians not taking the virus seriously’ — Microbiologists Society urges PM Modi to extend Janata Curfew
+In India, testing is done twice back-to-back before a person is declared as a positive or negative case of coronavirus. According to the ICMR official who spoke ThePrint, the RNA extraction may take between two to three hours while the subsequent PCR process takes from three to four hours.
+“So ultimately, we’re talking about eight to 10 hours if everything goes well,” he said. This same process is once again repeated for a “confirmation” test.
+Although the official didn’t explain why a two-step verification was necessary, Megdeshi said that it made sense so that false positives don’t end up burdening the health system.
+“As of now, we don’t know about (the accuracy of the tests) … These kits haven’t been validated in India and there is no published data on them,” he said, adding, “Eventually once we have validated tests and people start using them, then the government will take a call whether we need this two-step process or not.”
+These days, there are also increased delays in the process of testing itself. As the infection spreads, hospital systems are being burdened beyond their maximum capacity, and there aren’t enough people or equipment to run more tests.
+In several countries, there are acute shortages of reagents, which are chemicals used to isolate the virus’s RNA during testing. These reagents, which are used every day in labs around the world, are usually available in large quantities all the time. However, the scale of the pandemic has resulted in a shortage.
+Demand for the reagent led workers in multiple sites of nearly every manufacturer working more shifts, more days of the week to increase production. The FDA even posted alternatives that could be used in their FAQ page.
+In India, currently, only 72 government laboratories can test for COVID-19.
+The good news is that faster and cheaper tests are coming, and soon. Entrepreneurs and private players in multiple countries have started to come out with their own versions of commercial testing kits that can provide results much faster.
+There is now not just regular PCR testing done by private companies, but also CRISPR testing, at-home testing kits, and 45-minute kits being developed in many parts of the world.
+India too, opened up its doors to allow for private testing last week, allowing for “high quality” accredited partners to conduct tests.
+As of 23 March, ICMR has recommended two RT-PCR (reverse transcription polymerase chain reaction) test kits for use in labs after evaluation of several others.
+Also read: WHO megatrials and chest CTs for asymptomatic people — top 5 developments on COVID-19
+ 
+Subscribe to our channels on YouTube & Telegram 

@@ -1,0 +1,38 @@
+India ranks low on Covid testing but has done well on number of infections and deaths
+New Delhi: Nearly 60 days since the lockdown began, India continues to rank low in the list of coronavirus-hit countries in terms of the number of tests done per million population. This is despite the government’s efforts to ramp up testing and disease surveillance.
+So far, over 25 lakh tests have been conducted, according to Indian Council of Medical Research (ICMR), the country’s apex research body that has been coordinating the massive disease surveillance exercise.
+ThePrint went through the testing data from state bulletins until 19 May and found that India’s tests per million population was just over the 1,700-mark, which corroborated with Our World in Data, an Oxford University and Global Change Data Lab initiative. According to the website, the corresponding figures for the US stood at 36,961, Italy was at 51,347, the UK stood at 29,412 (until 18 May) and Russia was at 50,381.
+Despite the low testing rates, the number of cases in India crossed 1 lakh this week.
+As of Thursday morning, according to the health ministry’s data, India recorded 1,12,359 cases in total and 3,435 deaths. However, the ministry, in its press briefing Wednesday, didn’t remark on the growing number of cases or the state of testing, and only highlighted that the country fared better than other countries when it came to cases and deaths per lakh population.
+“Despite similar population, total cases of Covid-19 in top 15 countries is 34 times that of India and despite similar population, total deaths due to Covid-19 in top 15 countries is 83 times that of India,” joint secretary in the health ministry, Lav Agarwal said.
+ThePrint analysed the number of cases, the mortality, recovery and testing rates across states to understand how they fared. Here’s what we found.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Also read: ICMR’s random sample-based Covid survey a step in right direction: Harvard expert
+The government’s plan to arrest the spread of coronavirus has primarily been to test, trace and contain — a strategy that is being followed by countries the world over. The tests per million population figure has emerged as the primary parameter to compare countries and states on their testing capacity.
+ThePrint found that among the states which saw the largest outbreak, tests per million population was the highest in Delhi (8340.3) followed by Tamil Nadu (4675.9) and Rajasthan (3492.7). Meanwhile, West Bengal (1024.3), Uttar Pradesh (875.5), and Bihar (452.7) recorded the lowest rates among the major states.
+Maharashtra, Gujarat and Madhya Pradesh made it to the middle of the list of states as these figures were recorded at 2513.4, 2464.6 and 1545.1 tests per million population respectively.
+Among the lowest was Telangana (649.03), which has mired the state government in controversy for keeping their testing data shrouded in secrecy. Last week, the state health department released figures according to which only 22,842 tests had been conducted until 14 May.
+In a letter dated 7 May to Telangana chief secretary Somesh Kumar, the Union health secretary Preeti Sudan said: “We need to chase the virus rather than the virus chase us [sic].”
+Earlier this week, the ICMR revised the testing strategy, mandating that states will have to additionally test all hospitalised patients who develop influenza-like illness, migrants with symptoms, and symptomatic frontline workers. Only direct and high-risk contacts of a confirmed case will be tested even if they are asymptomatic.
+The earlier strategy involved testing symptomatic international travellers, contacts of positive cases, front line workers and patients with Severe Acute Respiratory Illness, asymptomatic contacts of confirmed cases and symptomatic individuals living in hotspots.
+As the nodal body in this crisis, the ICMR has played a pivotal role in ramping up India’s testing facilities. In January, there was only one laboratory for testing Covid-19 samples — the National Institute of Virology at Pune. Currently, 569 government and private laboratories can test samples for coronavirus.
+Also read: India’s testing strategy is right, we have increased the numbers significantly: AIIMS chief
+Of the total tally of over 1.1 lakh cases, 76,113 cases were reported in just four states. Maharashtra, Tamil Nadu, Gujarat and Delhi cumulatively contribute to 67 per cent of all cases, including active and recovered cases. The four states have consistently recorded a high number of cases since April.
+Maharashtra, Gujarat and Delhi also stood on top when it came to the positivity rate i.e. the proportion of people who had tested positive of all those tested. Maharashtra had the highest (13.07 per cent) while Gujarat (7.89 per cent) and Delhi (7.2 per cent) share a narrow margin.
+On 5 May, the health ministry had announced that India’s overall positivity rate stood at 3.8 per cent.
+The highest deaths were recorded in Maharashtra (1,390 ), Gujarat (749), Madhya Pradesh (267) and West Bengal (253). In fact, the four states contributed to 77.4 per cent of the overall death toll.
+The state with the highest mortality rate is West Bengal (8.1 per cent).
+An Inter-Ministerial Central Team (IMCT) — a five-member team sent by the Centre to review the situation in West Bengal in April — pulled up the Mamata Banerjee government over the high mortality rate, calling it a “clear indication of low testing and weak surveillance and tracking”.
+West Bengal is followed by Meghalaya (7.1 per cent) which recorded one death in a total of 14 cases. With 749 deaths, Gujarat’s fatality rate is nearly 6 per cent was the third-highest, followed by Madhya Pradesh (267 deaths among 5735 cases i.e. 4.7 per cent).
+Among the 10 states with the highest recorded cases, the highest recovery rates were recorded in Punjab (nearly 90 per cent) followed by Andhra Pradesh (63 per cent).
+To better ascertain the prevalence of the infection in India, which would account for asymptomatic carriers, the ICMR launched a sero-survey this week.
+This survey is designed to detect IgG antibodies that develop in the human body after a person recovers from the infection.
+Also read: How well has Modi govt’s Covid strategy worked? Answer lies in 1 million+ tests done so far
+ 
+Subscribe to our channels on YouTube & Telegram 
+News media is in a crisis & only you can fix it
+You are reading this because you value good, intelligent and objective journalism. We thank you for your time and your trust.
+You also know that the news media is facing an unprecedented crisis. It is likely that you are also hearing of the brutal layoffs and pay-cuts hitting the industry. There are many reasons why the media’s economics is broken. But a big one is that good people are not yet paying enough for good journalism.
+We have a newsroom filled with talented young reporters. We also have the country’s most robust editing and fact-checking team, finest news photographers and video professionals. We are building India’s most ambitious and energetic news platform. And we aren’t even three yet. 

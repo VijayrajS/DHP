@@ -1,0 +1,34 @@
+Peer-reviewed JNU study among 2 that link BCG & Covid again, but some experts not convinced
+Bengaluru: Two studies released this week, one led by Indian researchers from JNU, brought back a theory that first emerged in the early days of the pandemic — that BCG vaccination may be linked to reduced Covid-19 transmission and mortality.  
+One of them, published in the journal Cell Death and Disease on 8 July, was carried out by an international team of researchers. It was led by researchers from the JNU School of Computer and System Sciences, in collaboration with colleagues from the university’s Special Centre for Molecular Medicine and School of Computational and Integrative Sciences, besides those from Italy, China and the US.
+The second study, published in PNAS on 9 July, was carried out by American researchers.
+The first study involved an assessment of a possible correlation between Covid-19 incidence and mortality with the BCG vaccine, which is primarily targeted at tuberculosis. It also sought to examine the preventive use of chloroquine, an antimalarial drug that has been touted as a potential coronavirus prophylactic and treatment. 
+While it found a potential correlation between a nation’s BCG policy and lowered disease incidence/mortality, it failed to find a statistically significant correlation with chloroquine.
+The American study also found a potential correlation between BCG vaccination rates and Covid mortality, but the authors suggested further research into the subject.
+Both journals are peer-reviewed, but PNAS allows authors to pick reviewers. The studies were both observational assessments based on existing data and not based on clinical trials. The authors themselves acknowledge certain limitations and experts have called for more research before a conclusive link can be proved.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Also Read: Can BCG vaccine protect against Covid-19? Here’s why the excitement needs to be tempered
+The BCG vaccine has been in use since 1921, but works only for an average of 60 per cent of the population. Its use has reduced drastically after decades of vaccination drives the world over, including in the Indian subcontinent. 
+Today, it is proving inefficient against lung TB, the most common form of the disease in India, but there are studies underway to find a replacement.
+But there is some evidence that BCG offers protection to some unrelated viruses like influenza. 
+The Cell authors classified countries into three groups on the basis of their BCG policy: Countries that never adopted universal BCG vaccination, ones that did but subsequently discontinued it, and ones that currently exercise it. 
+The authors reportedly found that the number of cases across different age groups was always higher for countries without a BCG policy. For adults aged over 45, vaccinated groups had significantly lower case rates. Vaccination rates did not seem to matter in children under 15 since disease incidence in this group was found to be low.
+The PNAS study, too, noted that countries with no vaccination policy had a higher rate of deaths than those that did. Both studies claim that the case load was marginally lower even in countries with interrupted or irregular BCG drives.
+The Cell team further speculates that the type of BCG vaccine strain used also plays a role, citing high prevalence despite vaccination in Brazil and Russia.
+Many countries, including Germany, the Netherlands, Australia, and the US, have initiated trials of BCG vaccines aimed at controlling Covid-19. Immunologist Gobardhan Das, who participated in the Cell study, claims to be working on developing a revamped BCG vaccine for Covid-19. 
+Also Read: We need to take a break from real-time updates on the Covid vaccine trials. BCG is a far cry
+Many observational studies have suggested a link between BCG and Covid-19, but experts in immunology and BCG have called for more research.
+“It is true that India has had several decades of safe experience with BCG, which has a proven safety record, is inexpensive, and easily available,” said Dr S.P. Kalantri, an epidemiologist and medical superintendent at Kasturba Hospital in Wardha, Maharashtra. “But using only observational ecological studies to find a pattern with BCG is problematic.”
+Ecological studies are observational assessments where existing data is analysed, retrospectively, based on geography, and conclusions drawn from them usually form the basis for further studies.
+“Intuitively, it seems natural that there is a cause and effect relationship, but what holds true for a country does not hold true for communities or individuals,” Kalantri said. In epidemiology, he added, this is called an ecological fallacy.
+Kalantri said there are other factors that could contribute to Covid-19 data being the way it is, the most important of which is the average age of the population. The average age of most BCG countries, he added, is lower than that of non-BCG nations.
+“We know that incidence and mortality is age-specific. As age advances, prevalence and mortality also goes up. In the face of such factors, we shouldn’t fall into the trap of concluding that the disease pattern is because of BCG’s effects,” he added. “We need proper randomised controlled trials to show statistical significance,” he said. 
+Said Madhukar Pai, epidemiologist at McGill University, Canada, “Several countries now have rapidly escalating Covid-19 outbreaks, including Brazil, India, Russia, Mexico, Peru, Chile. And they all routinely give BCG at birth. So, it is dangerous to make conclusions in such a dynamic situation. We simply cannot act on these ecologic correlations and must wait for randomised trials on BCG and Covid-19.” 
+Since the BCG correlations are ⬆️again, I want to use @MaxCRoser's list of worrisome countries to point out that except USA, every country listed gives BCG routinely at birth! So, dangerous to make conclusions from ecologic studies! We need RCTs to show BCG can work for #COVID19! https://t.co/0m6WLRuiID
+— Madhu Pai (@paimadhu) July 11, 2020
+
+The study authors also noted their own limitations.
+The Cell study only included data from middle- and high-income countries. 
+The PNAS study stated that the data is difficult to review because of “broad differences between countries” in socioeconomic status, demographic structure, rural vs urban settings, time of arrival of the pandemic, number of tests and criteria, etc.

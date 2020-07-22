@@ -1,0 +1,50 @@
+How many Covid cases in Maharashtra? State govt and civic bodies can’t make up their minds
+Mumbai: Maharashtra has the highest Covid-19 incidence among all Indian states, with 1,80,298 cases recorded as of 2 July, according to state government statistics. However, there appear to be several discrepancies between the numbers issued by the state government and those released by individual civic agencies in Mumbai and its satellite towns. 
+ThePrint analysed the data for seven municipal corporations, all in the Mumbai Metropolitan Region, where the number of cases is snowballing and the gap between the state’s and the civic body’s data is wider than 250 cases. 
+These are the municipal corporations of Mumbai, Thane, Navi Mumbai, Kalyan-Dombivli, Mira-Bhayander, Vasai-Virar and Panvel. For all seven, as of 2 July, the Maharashtra government data shows a higher number of cases than the figures compiled by civic bodies. 
+In the case of Kalyan-Dombivli and Navi Mumbai, the difference was as stark as 4,744 and 1,509, respectively. 
+Approached for comment, Pradeep Vyas, principal secretary of the Maharashtra health department, said, “Reports are compiled at different points of time so (there is) minor variation in day to day reports, in the end all data is reconciled.” 
+However, a state government official, speaking off the record, said the vast discrepancies should be looked into. 
+The civic agencies, meanwhile, defended their data. They said the differences in numbers could be attributed to duplication at the state level, adding that the discrepancies may also be a result of jurisdictional issues. 
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Also Read: Inside Navi Mumbai’s ‘Covid war room’, data and logistics lead the fight against the virus
+The Maharashtra government’s daily Covid-19 bulletin presents a district-wise as well as a civic-agency-wise break-up of cases.
+According to the aforementioned state government official, the Maharashtra health bulletin is based on data “from the Indian Council of Medical Research (ICMR) Covid analytics portal”. 
+
+“Sometimes this data has duplicates, as the same person may have been tested more than once, so we check it for duplication, run it through the state’s software and validate the deduplication with civic bodies,” the official added. 
+Officials from the seven civic bodies also said that they take their master data from the same portal. 
+Dr Daksha Shah, deputy health officer at the Brihanmumbai Municipal Corporation (BMC), said, “We take our data from the ICMR portal. We also deduplicate it first.” 
+For Mumbai, as of 2 July, there was a difference of 437 cases — while state government data pegged the number at 79,145, the civic agency’s bulletin listed 78,708 cases. 
+The state government official said minor differences could be due to the time at which the state records its daily data as against the time at which civic bodies record theirs. “But a difference of hundreds and thousands of cases should not occur. It needs to be looked into,” he said. 
+Officials from the seven civic bodies said the statistics maintained by the municipal corporations are more authentic, and the state government’s data may contain duplicates. 
+At times, they added, the state data includes those patients who don’t live in the cities and towns under the jurisdiction of these civic bodies. 
+“Sometimes, the same person gets tested four to five times. The state adds up all that data, which leads to duplication and inflated numbers,” said an official from the Navi Mumbai Municipal Corporation (NMMC). 
+According to the state government, the Navi Mumbai Municipal Corporation area had 8,114 Covid-19 cases as of 2 July, while the civic agency’s numbers show 6,605 cases.
+The Navi Mumbai official said, “We have details of all the positive patients along with their addresses and phone numbers. We compile this data after going through the records of each patient and we remove the names that are occurring twice. Hence, the difference.” 
+In Kalyan-Dombivli, where the discrepancy is the highest, state data estimates 7,970 Covid-19 cases as of 2 July, while the civic agency pegs the figure at 3,226. 
+Dr Vijay Suryawanshi, municipal commissioner for the Kalyan-Dombivli Municipal Corporation, said, “There was a lag because of a technical glitch. We have 4,268 cases and the data will be updated soon. The discrepancy with the state data is because they also include people who live on the borders of Dombivli, areas that are not under this corporation.” 
+Also Read: Filthy community toilets, ‘shoddy’ screening: How Thane Covid cases nearly tripled in June
+Dr Seema Waghmare, an official from the health department of the Vasai-Virar Municipal Corporation, said, “Sometimes, the Aadhaar card of a person who has tested positive may have one address, but the place of residence could be different, it could even be another state. Even if the address on the Aadhaar card is of Vasai-Virar, if a Covid-positive person is not a resident, we don’t count him or her in our tally.”
+As of 2 July, the Vasai-Virar Municipal Corporation had recorded 4,312 Covid cases. The state government’s figure was higher by 602, at 4,914. 
+“We have already informed the state government about the discrepancy. We have sent the state government a list of people who are not residents of areas under our jurisdiction, but have been added to the total number,” said Waghmare. “State government officials have said they will rectify the data soon.” 
+Sandeep Malvi, deputy commissioner of the Thane Municipal Corporation, said the civic agency’s data only comprises residents of Thane, while the state numbers may also include outsiders who have tested positive in a local hospital. 
+“Some people come to Thane to get tested, but are not residents. When the state compiles the data, they do not check if a person is a resident of Thane or not. This leads to a mismatch,” Malvi said. 
+As of 2 July, there was a discrepancy of 1,194 in the number of Covid-19 cases outlined by the state government for Thane, and the numbers maintained by the civic agency. 
+Sambhaji Waghmare, deputy municipal commissioner at the Mira-Bhayander Municipal Corporation, also said the corporation verifies every positive case in their jurisdiction. 
+“The state government does not verify every case. Moreover, sometimes, phone numbers are incorrect, addresses are incorrect. That adds to the confusion,” he added. 
+According to the Mira-Bhayander municipal corporation data, the town had 3,438 Covid-19 cases as of 2 July, while the state government tallied this number at 3,739, a variation of 301.
+Health department principal secretary Vyas said Maharashtra has “a peculiar situation as nowhere else in country is there more than one municipal corporation in one district”. 
+“We have six in Thane district, the government of India-ICMR portal, from where the list of positive cases is taken, has only district-wise data… It is bifurcated at the corporation, based on the address given by patients in the sample collection form… Sometimes address is incomplete, then it is reconciled over the phone, it is regular exercise, the difference as on date will not be more than 2 to 3 per cent of cases in 2 to 3 corporations,” he added.
+Until midnight on 6 June, he said, the data for all positive cases had been reconciled.  
+Also Read: Spitting, no masks, vegetables dragged through urinal — inside a Navi Mumbai Covid hotspot
+Between the civic agencies’ data and that maintained by the state government, there are differences in the fatality figures too. 
+For instance, for Thane town, state data had recorded 361 deaths until 2 July, while the municipal corporation numbers stated 322 fatalities, a difference of 39.
+For Mira-Bhayander, state data pegged the total number of Covid-19 deaths at 158 as of 2 July, against 145 by civic agency numbers.  
+Similarly, for the Kalyan-Dombivli Municipal Corporation, the civic agency data recorded the total deaths at 83, against 94 by state government records. 
+Civic agency officials said this difference again can be boiled down to lags in data processing at the two levels. 
+“The state may have a higher number because they do not wait for the death report and update the figures as soon as they are informed by the hospitals. The corporation, however, waits for the report, the death summary and then updates that figure,” Malvi said. 
+For Navi Mumbai, Vasai-Virar and Panvel, the number of deaths listed by the corporations is higher than the figures recorded by the state. 
+For instance, for Vasai-Virar, civic agency data pegged fatalities at 119 deaths, while the state government figure was 96. “We send the data and the state verifies it before updating figures, so there could be a lag,” Dr Seema Waghmare said. 
+Also Read: How big city Bengaluru managed to beat coronavirus while Mumbai, Delhi, Chennai struggle

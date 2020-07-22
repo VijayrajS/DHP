@@ -1,0 +1,41 @@
+Old drugs, new trials — hopes pinned on HIV, malaria, ebola, TB vaccines to fight Covid-19
+New Delhi: In their race against the novel coronavirus that has now infected 4.3 lakh people across the planet and brought the whole world to a standstill, scientists are finding allies in drugs and vaccines that are already in use for other diseases — tuberculosis, malaria and human immunodeficiency virus (HIV) for example.
+With millions of lives at stake, spending months to identify and develop a new drug from scratch is not feasible. As the emerging understanding of how SARS-CoV-2 affects our body improves by the day, the medical community is trying to use the existing arsenal of approved antivirals to treat Covid-19 patients.
+As the pandemic spreads faster and wider, claiming victims even in India, ThePrint looks at the ongoing trials and experiments on the most promising drugs.
+Also read: More financial services, manufacturing units exempted from coronavirus lockdown
+The BCG vaccine, used to treat tuberculosis, is named after French microbiologists Albert Calmette and Camille Guérin, who developed it almost exactly a hundred years ago, in 1919, to fight the highly contagious respiratory illness.
+The vaccine was first used on humans in 1921, and is typically given to children under the age of one year. Studies have shown it can offer immunity for up to 15 years.
+The vaccine used to be moderately effective, offering immunity to about 60 per cent of the children vaccinated. However, recently, it is increasingly proving ineffective against lung tuberculosis, the most common form of the disease in India. As a result, work is under way in find alternatives.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+One such alternative, called the VPM1002, which was developed from the original BCG vaccine, is set to undergo clinical trials as a potential immunity booster against Covid-19.
+The studies are to begin this week, starting in Netherlands, and followed by Germany, UK, Spain, India, and other countries.
+The reason for using this vaccine is that BCG has demonstrated the ability to lower mortality, potentially protect against other lung infections, and provide “trained immunity”, a way for the body to not only improve immunity against tuberculosis and similar lung infections, but also from other viruses and pathogens.
+Also read: India begins work on 100-day emergency plan to fight Covid-19
+Gilead Sciences’ remdesivir, an experimental drug that was engineered to be a general anti-viral drug, was tested on various diseases through the past few years to see where it would bind and work. It had its breakout moment during the ebola outbreak of 2014 but was quickly shunned in favour of other treatments.
+Scientists have continued to experiment with it and saw some success with two other coronaviruses — SARS and MERS. So, it is now being tested in five Covid-19 trials, promising to offer a potential treatment. The studies will measure things like how the drug affects oxygen levels in a patient, etc.
+It was used to treat the first victim in the US, and has continued to be used since. Many people have reportedly been cured of Covid-19 through remdesivir. The first trials are set to begin next month but Gilead, the manufacturer, has run into supply issues and is restricting new orders with emergency exceptions.
+However, it is still too soon to say if remdesivir works against the novel coronavirus.
+Another drug that has shown promise is the combination of lopinavir and ritonavir. Despite having failed a round of trials in China, this combination is being considered worth investigating in across the world.
+Lopinavir and ritonavir is a second line of HIV drugs in India, but the first line in the US. India used this combination to treat two Italian tourists with Covid-19 earlier this month. While both reportedly recovered from the infection, one of the patients — a 79-year-old man — later died due to a cardiac arrest.
+But the Indian Council of Medical Research (ICMR) has approved the use of this drug to treat severe cases. Russia has approved the drug for mild cases, and despite the results of the Chinese trials, scientists believe it holds promise.
+This is because while the study didn’t show better outcomes for patients on lopinavir and ritonavir from those receiving standard care, the drug combo did reduce the overall time spent in intensive care. This may be a crucial factor during epidemics when intensive care units (ICU) beds are limited. In such times, moving patients out of ICUs and making them available for others can end up saving more lives.
+The trial also had a limitation as it recruited patients who were severely ill and had a higher risk of death. The overall mortality of the patients in the trial, irrespective of what treatment they were given, was higher than what was observed throughout the world.
+This means the treatment needs to be further investigated among patients who are not already ‘too sick’.
+Also read: US, UK, Germany, France scramble to fly out their citizens as India enters lockdown mode
+The hydroxychloroquine drug has got many governments excited. Quoting its success in a recently published French study, US President Donald Trump said combined with azithromycin, the drug has a “chance to be one of the biggest game-changers in the history of medicine”.
+On Tuesday, India banned the export of this drug as demand for this anti-malarial drug surged.
+The ICMR has also approved the use of this drug as a preventive measure for those who have come in contact with Covid-19 patients. This means healthcare staff as well as family members of coronavirus patients can now be prescribed this drug even before they develop any symptoms of this disease. The ICMR has, however, called the usage of the drug as “experimental”, and said it should not be taken without supervision of the doctor.
+Experts are alarmed over the hasty approval of the drug that is known to cause adverse side-effects. The French study that got Trump excited is not a randomised or controlled clinical trial.
+Moreover, one of the researchers involved in the study is the editor-in-chief of the journal in which the research was published. A peer review of such studies typically takes four-five weeks, but this paper was reviewed in less than a day, raising questions about quality.
+In a separate article, Chinese researchers also found that hydroxychloroquine can effectively inhibit SARS-CoV-2, or Covid-19, infection. However, they noted that prolonged and over use of the drug can still cause poisoning, and further trials are required to achieve efficient and safe control of the infection.
+Apart from anti-viral effects, hydroxychloroquine is an anti-inflammatory agent. It is known to be able to decrease a storm of signalling proteins known as ‘cytokines’ — which are found in high concentration in the plasma of Covid-19 patients.
+If this drug were to prove effective against the coronavirus, the global fight against the pandemic would become much easier owing to its cheap cost and easy availability.
+However, there is a need to wait for scientific consensus on the subject before the government begins to call it a treatment. Larger trials can bring more clarity on whether the drug will work.
+Also read: Hoarding chloroquine won’t cure coronavirus
+ 
+Subscribe to our channels on YouTube & Telegram 
+News media is in a crisis & only you can fix it
+You are reading this because you value good, intelligent and objective journalism. We thank you for your time and your trust.
+You also know that the news media is facing an unprecedented crisis. It is likely that you are also hearing of the brutal layoffs and pay-cuts hitting the industry. There are many reasons why the media’s economics is broken. But a big one is that good people are not yet paying enough for good journalism.

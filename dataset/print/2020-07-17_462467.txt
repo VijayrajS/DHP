@@ -1,0 +1,29 @@
+Indian duo creates index that lists districts by Covid risk, study published in Lancet
+New Delhi: Indian researchers have created an index to help identify the districts that are most vulnerable to a Covid-19 outbreak, a tool they say can guide local authorities to take timely preventive or mitigative action. 
+The system has been created by Rajib Acharya and Akash Porwal of the Delhi-based research organisation Population Council. Their research was published in the Lancet Global Health journal Friday. 
+“The vulnerability index presented in this paper identified a number of vulnerable districts in India, which currently do not have large numbers of Covid-19 cases but could be strongly impacted by the epidemic,” the researchers said. 
+“Our index aims to help planners and policy-makers effectively prioritise regions for resource allocation and adopt risk-mitigation strategies for better preparedness and responses to the Covid-19 epidemic,” they added. 
+According to the duo’s findings, Madhya Pradesh has the highest overall vulnerability to Covid-19, followed by Bihar and Telangana.
+Of the top five most vulnerable districts, four are in Bihar — Darbhanga, Samastipur, Saran and Sheohar. UP’s Sitapur is ranked second in this list. 
+“Although our intention was not to predict the risk of infection for a district or a state, we observed similarities between vulnerability and the current concentration of Covid-19 cases at the state level,”  the researchers wrote in the study. 
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+A number of districts in nine large states — Bihar, Madhya Pradesh, Telangana, Jharkhand, Uttar Pradesh, Maharashtra, West Bengal, Odisha, and Gujarat — were found to have high overall vulnerability to Covid-19. 
+Also Read: Disruption in healthcare services due to Covid may increase HIV, TB deaths, says Lancet study
+The researchers used 15 indicators across five categories of parameters — socioeconomic, demographic, housing and hygiene, epidemiological, and health system — to compute a composite index of vulnerability at the state and district levels. 
+They have explained the choice of categories in their study. 
+“The poor are less likely to have resources to prepare for or mitigate or recover after an epidemic. Similarly, presence of socially marginalised groups in a population often make the community more vulnerable than others at different stages of a disaster,” they said in the study. 
+Socially marginalised groups are also likely to lack enough information about the epidemic or may have a lower degree of education to understand the information provided to them, they added.
+Demographic vulnerability takes into account factors like the share of population aged above 60, urbanisation, and population density
+Vulnerability due to housing and hygiene conditions has been computed on the basis of factors like the average number of people living in a house, and access to toilets, water and soap. 
+“It is now well-known that housing condition, particularly intra-household crowding, use of shared toilet facility, and poor hand and respiratory hygiene are crucial factors that determine spread of the virus and pace of spread,” the researchers wrote in the study.
+To calculate vulnerability on account of non-availability of healthcare, the team collected data on the percentage of households with health insurance, number of public hospitals per 1,00,000 population, and number of hospital beds per 1,000 population.
+Epidemiological vulnerability has been calculated by looking at data on comorbidities such as diabetes, heart disease or respiratory issues —  all of which have been known to increase the risk of death from Covid-19 infection. 
+The data for all of these factors were collected from government surveys, the researchers said. 
+Also Read: The Lancet, world’s most credible medical journal whose trust has been hit by HCQ scandal
+Speaking to ThePrint, Rajib Acharya said the authorities could focus on each of the domains separately and “work on improving those domains in particular to reduce the Covid-19 vulnerability” of a certain district.
+“If you look at Maharashtra, it is particularly (vulnerable) in terms of demographic and non-availability of healthcare,” Acharya added.
+“I had expected that Delhi, too, would be high on the vulnerability index, but that does not seem to be the case,” he said. The higher number of Covid-19 cases in Delhi, he added, could be explained by the fact that it is a transport hub. 
+Acharya said the index also indicates which districts are performing better than others. Such a system, he added, can help administrators better decide how to prioritise resource allocation. 
+“Moving forward, we are planning to turn this data into an interactive map that can be easily used by government authorities,” he added.

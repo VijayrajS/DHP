@@ -1,0 +1,17 @@
+India’s ‘R’ dips to 1.13, active Covid cases could now be 2.5 lakh instead of 3.5 lakh by 4 July
+New Delhi: The effective reproduction number ‘R’ for Covid-19 — a key parameter to measure the rate of infection — has reduced this week to 1.13 after holding steady at 1.22 for about a month.
+Sitabhra Sinha, a researcher at the Institute of Mathematical Sciences (IMSc) in Chennai, said at this rate of growth, India is likely to have 2.5 lakh active cases by 4 July.
+An ‘R’ of 1.22 would have translated to 3.5 lakh active cases by 4 July. ‘R’ must be driven below 1 to arrest the epidemic.
+As of Saturday, India has 1,68,269 active cases. The total number of cases recorded so far stands at 3,95,048, which include 2,13,830 patients, who have recovered, and 12,948 deaths.
+Sinha told ThePrint the ‘R’ value is currently in the middle of transition. A re-estimation in a few days will provide a more accurate figure, he said.
+Also read: Covid lockdowns may be causing another virus wave — dengue fever
+‘R’ is different to the basic reproduction number ‘R0’, though both denote the number of people one person can infect.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+R0 is calculated at the beginning of the epidemic, when the entire population is assumed to be susceptible to the disease.
+‘R’, which changes with time, takes into account that some individuals are protected from the disease either because they have developed immunity or because of social distancing and other measures, Sinha told ThePrint.
+Without lockdown measures, Sinha had estimated the basic reproduction number (R0) of Covid-19 in India to be 1.83, a value that was relatively lower than other regions where there have been major outbreaks.
+‘R’ is a product of three factors — the probability of infection when a susceptible person comes in contact with an infected individual, the average rate of contact between susceptible and infected individuals, and the duration during which an individual spreads the infection.
+It is calculated through mathematical epidemiological models that compute how fast the virus spreads in the population.
+Also read: India’s Covid fatality rate goes up as 2,003 deaths get added in a day following audit

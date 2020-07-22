@@ -1,0 +1,24 @@
+European registry of patients to contact tracing app — 5 global developments on COVID-19
+New Delhi: As the coronavirus pandemic spreads rapidly, scientists across the world are racing against the clock to develop a vaccine for it, gain new insights into the deadly virus and find treatment for those infected with it.
+In India, 271 people have so far tested positive for COVID-19.
+ThePrint brings you the top research developments that have been taking place globally.
+A new mobile application launched in Singapore alerts people who may have been exposed to the virus, and support ongoing contact tracing efforts amid the COVID-19 pandemic. 
+The app, called TraceTogether, is exchanging short-distance Bluetooth signals between phones to detect other users of the app who are in close proximity. Records of such encounters are stored locally on each user’s phone. 
+Currently, contact tracing relies on the recall and memory of interviewees. The new app, developed by the Government Technology Agency (GovTech) in collaboration with the Singapore’s Ministry of Health, will have this record ready for reference.
+Also read: Journalism in the time of corona: This is the biggest story of our lives
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+A new study, published in the journal Health Security, outlines how to determine the need for allocating ventilators during a severe pandemic. 
+Strategies to help state and local planners in allocating stockpiled ventilators to healthcare facilities is outlined in this paper by researchers from US Centers for Disease Control and Prevention. 
+Prior to a pandemic, planners should determine existing inventories and facilities’ ability to make use of additional ventilators in the event of a public health emergency. This information needs to be updated at the time of a pandemic. 
+Determining where to allocate stockpiled ventilators should be based on an assessment of the need, the consideration of ethical principles discussed in the article, the ability of facilities to absorb additional ventilators, and the ability to ensure access to ventilators for vulnerable or high-risk populations.
+Scientists at Helmholtz-Zentrum Berlin in Germany have used high-intensity X-ray light to decode the 3D architecture of a special protein responsible for the reproduction of the coronavirus. 
+The analysis of the viral main protease (Mpro or also 3CLpro) will help teams around the world to develop drugs against SARS-CoV-2.
+The function of a protein is closely related to its 3D architecture. If this 3D architecture is known, it is possible to identify specific points of attack for active substances, the researchers said in a statement.
+To cater to the urgent need for scientists and doctors to refer to reliable clinical data, and find answers to many questions about coronavirus, the German Society of Infectious Diseases is establishing a European case registry to collect clinical data of patients with SARS-CoV-2 infection.
+The new registry, Lean European Open Survey for SARS-CoV-2 Infected Patients, or LEOSS, will make all the data collected available to the scientific community for use in collaborative analyses.
+A team of scientists at the University of California San Diego is partnering with five leading diagnostics manufacturers to increase testing for COVID-19.
+The team projects a capacity to complete 1,000 to 1,500 tests per day within two to three weeks. The partnerships are with Thermo Fisher Scientific, Roche Diagnostics, GenMark Diagnostics, Luminex Corporation and Abbott Diagnostics.
+Due to shortages of required chemicals and materials, testing has been limited to only people meeting the strict diagnostic criteria, such as clear symptoms of disease or known exposure to the virus.
+However, the new partnerships will use multiple testing platforms with different material requirements and supply chains to overcome the issues of supply and demand, the university said in a statement.

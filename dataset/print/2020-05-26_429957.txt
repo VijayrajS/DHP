@@ -1,0 +1,18 @@
+Govt opens source code of Aarogya Setu, announces reward for finding security flaws
+New Delhi: The government on Tuesday announced opening the source code of its coronavirus tracking app, Aarogya Setu, for scrutiny by the developer community to address privacy concerns and launching a bug bounty programme for finding security flaws.
+NITI Aayog CEO Amitabh Kant asserted that no other government in the world has been open source at this scale.
+The government has opened the source code to address concerns around privacy of data being collected by the contact tracing app.
+“Transparency, privacy and security have been the core design principle of Aarogya Setu. Opening the source code to developer community signifies Government of India continuing principal to these commitments. No other government anywhere in the world has been open source at this scale,” Kant said.
+Meity Secretary Ajay Prakash Sawhney said that nothing that is done by human being can be perfect by definition but several developers volunteered for the app and made it close to a perfect product.
+He said the e-commerce and other companies are using this app as a precaution and get alerted about exposure to coronavirus.
+National Informatics Centre Director General Neeta Verma said that there will be four categories of rewards for people who find a bug in the app and come up with a suggestion to improve the programming of the app.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+“There are three categories of securities vulnerability for which Rs 1 lakh be given in each of the categories. Then there is Rs 1 lakh prize for code improvement bounty,” Verma said.
+The app was launched on April 2 and has around 11.5 crore users at present.
+“The source code of Aarogya Setu will be available at Github after 12 am-midnight,” Verma said.
+Advocacy groups have alleged that the government is using Aarogya Setu for mass surveillance especially in the absence of any legislation around privacy. A cybersecurity expert also made similar allegations that there are loopholes in the app.
+Following allegations and concern, the government on May 11 issued a set of guidelines for data processing of Aarogya Setu app users and added a few clauses that may lead to imprisonment of persons found guilty of violating certain norms.
+The new rules prohibit the storage of data beyond 180 days and enable individuals to seek deletion of their data from the government’s Aarogya Setu related record within 30 days of raising the request.
+The new norms allow the collection of only demographic, contact, self-assessment and location data of persons infected by the coronavirus or those who come in contact with the infected person.

@@ -1,0 +1,83 @@
+How the novel coronavirus is mutating, and if you should be concerned
+Bengaluru/New Delhi: As the coronavirus outbreak continues to spread across the world, the cyberspace has been abuzz with claims that the Covid-19 strain in India is a less virulent mutation than the one travelling abroad. BJP leader and Rajya Sabha MP Subramanian Swamy and gastroenterologist D. Nageshwar Reddy are among those who have made such claims.
+While Swamy quoted an “American friend” in a tweet last week to say the Covid-19 “strain in India” can be “defeated more effectively by our body’s natural defense mechanism than the strains abroad”, Reddy in an interview floated similar claims without quoting any research.
+My US based friend,a scientist Ramesh Swamy informs me that a US researcher has found: “the #COVID19 strain in India is a less virulent mutation. Uniquely it is able to be targetted and defeated more effectively by our body’s natural defensive mechanism than the strains abroad.”
+— Subramanian Swamy (@Swamy39) March 24, 2020
+
+ 
+Some users responded to Swamy’s tweet posting a link to a study that they claimed supported his notion. But this study, which is yet to be peer reviewed, has faults of its own, including use of limited data.
+A number of experts in the field have termed such assertions baseless. Dr Gagandeep Kang, executive director at the Translational Health Science & Technology Institute in Faridabad, called Reddy’s comments “appalling & misleading”.
+This is appalling & misleading (unless I missed something). The 2 *shared* Indian sequences are from 2 Wuhan returnees end-Jan. They are near identical to sequenced strains from Wuhan. Nothing special here, move on. Trust the right scientists.  @PriyankaPulla @ShekharGupta https://t.co/M4cFaz8g9n
+— G Kang (@GKangInd) March 30, 2020
+
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+As such claims circulate online, ThePrint highlights the science of virus mutation and whether you should be worried.
+Also read: WHO says coronavirus outbreak in Europe could be approaching peak
+The overarching problem is the use of the term ‘Indian SARS-CoV-2 strain’ that is in itself misleading.
+A ’strain’ is a sub-type of a virus, characterised by different cell surface proteins, eliciting a different immune response from other strains. A mutation, however, is very minor genetic errors in genome sequences made during replication that doesn’t fundamentally change the nature or behaviour of the virus.
+So far, only two isolates from India have been genetically sequenced. Both are from coronavirus patients in Kerala who had arrived from China’s Wuhan in late January. The strains are nearly identical to the ones sequenced in Wuhan and cannot be identified as a separate “Indian strain”.
+Anu Raghunathan, a scientist at the Council of Scientific and Industrial Research’s (CSIR) National Chemical Laboratory in Pune, told ThePrint that the researchers of the aforementioned study used computational biology to analyse the genomic data from different strains around the world.
+The initial attempt of the team from the International Centre for Genetic Engineering and Biology, New Delhi, at analysing the virus strain is not sufficient to conclude that all Indian strains would have only “one unique mutation”, said Raghunathan.
+The mutations themselves are composed of changes in base pairs.
+The novel coronavirus’s genome is made up of 30,000 base pairs, while a human genome contains over 3 billion. The small numbers make it easy for scientists to track changes and new lineages as they evolve.
+To understand what these mutations mean for India, the country will have to sequence a much larger set of the viral isolates from the patients here.
+Rakesh K. Mishra, director of CSIR’s Centre for Cellular and Molecular Biology in Hyderabad, told ThePrint that his institute has the capacity to run the genome sequencing of the isolates from at least 500 people within a couple of weeks. This can help scientists decide the correct course of action for treating the disease.
+For example, if a virus mutates too fast, vaccines being developed now will potentially become useless, and pharmaceuticals will have to constantly keep up with the mutations by developing new vaccines all the time, a financially unviable prospect.
+Also read: China now wants people to shop, eat out while rest of the world locks down
+Regularly switching up the genetic code is an essential part of how a virus evolves. Some viruses, such as the coronaviruses that cause flu, change their genetic code extremely rapidly. This is the main reason why it’s so difficult to find a vaccine for coronaviruses. They evolve quickly, making vaccines defunct.
+The flu vaccine, now available and recommended especially for older people, needs to be taken annually for this reason. By the time the next season comes along, the vaccine is no longer effective on the circulating form of the virus.
+Coronaviruses are ribonucleic acid (RNA) viruses, containing just RNA strands (single or double) as its genetic material. They have about 26,000 to 32,000 bases or RNA “letters” in their length.
+RNA viruses mutate continuously. Such a mutation is what made SARS-CoV-2’s jump from animals to humans possible.
+The virus multiplies inside living organism’s cells by creating copies for the RNA. However, the process it uses to make these copies is not perfect, and often introduces tiny errors in the sequence of ‘letters’ — much like a game of Chinese whispers.
+The errors that do not help the survival of the virus eventually get eliminated, while other mutations get embedded. It is these mistakes that help scientists track how the virus travelled around different geographic locations.
+For example, by genetically sequencing over 2,000 isolates of samples from different countries, scientists tracked how the novel coronavirus spread to different countries, and how the virus evolved and geographically mutated in different areas.
+The word ‘mutations’ often conjures images of humans with superpowers — thanks to Hollywood movies — but it doesn’t mean the virus acquires superpowers. The genetic changes are normal in the evolution of the virus. In some cases, the changes are extremely rapid because the replication is not rigorous or thorough.
+The only problem with mutations is the problem of development of vaccines, which would require constant upgrade.
+Also read: Why asymptomatic coronavirus carriers aren’t as contagious but still a big danger
+The novel coronavirus, unlike its cousins, mutates slowly. It seems to have a proofreading mechanism in place that reduces the error rate and slows down the speed of mutation. But the mutations are completely random.
+“One mutation that supports the virus replication and transmission from human to human or any other host sustains whereas the virus that cannot infect many eventually dies out,” explained Shweta Chelluboina, clinical virologist at the Interactive Research School for Health Affairs in Pune.
+“These are random events and such a phenomenon has caused the outbreak in the first place. The new coronavirus had mutated successfully enough that it jumped from animal to human, allowing it to infect many with still no containment in sight,” said Chelluboina.
+There were reports earlier about how the novel coronavirus has mutated into two strains so far — the original S-type which originated in Wuhan, and the subsequent L-type that evolved from the S-type and is more prevalent in countries like the US. Scientists at the Peking University’s School of Life Sciences and the Institut Pasteur of Shanghai announced these findings.
+The L-type is the more “aggressive” one, and spreads rapidly but is no more or less virulent than the S-type. The researchers urged everyone to take preventive measures because the mutation indicates that more could be coming.
+But these aren’t really two ‘strains’ as such. A strain is a genetic variant characterised by different forms of surface proteins. But the L-type and the S-type are not quite different enough to call them strains just yet. They are just mutations, referred to as types, according to the study.
+To explain the lower population of S-type, the authors of the study suggested that human-adopted measures of curbing contact contained the S-type to the Wuhan region, and allowed the L-type to spread elsewhere uncontained. While the S-type emerged around the time the virus jumped from animals to humans, the L-type emerged soon after that within humans, the team suggested.
+Experts think there is also a definite sampling bias for the L-type, which was just sampled more, and uniformly, resulting in higher representation. The mutations were discovered in a preliminary study, as cautioned by the authors as well, and was performed on a limited population of 103 samples.
+A recent paper claims that #SARSCoV2 split into L and S strains with L leading to more severe #COVID19. This is most likely a statistical artifact due to intense early sampling of the "L" group in Wuhan, resulting in higher apparent CFR in this group. [1/3]
+— Richard Neher (@richardneher) March 4, 2020
+
+The study is not peer-reviewed yet, and as most Covid-related studies are under the open community, is a pre-print for now. It was uploaded on 4 March.
+“These findings strongly support an urgent need for further immediate, comprehensive studies that combine genomic data, epidemiological data, and chart records of the clinical symptoms of patients with coronavirus disease 2019 (Covid-19),” said the study.
+The science is evolving rapidly, as more and more genome data is collected from around the world.
+Newer research data gathered from genetic sequences uploaded to open source website NextStrain.org indicate that anywhere from eight to 18 different sequences of the coronavirus are making their way around the globe, according to researchers who have genetically sequenced over 1,400 isolates from around the world. These are extremely tiny differences within the viruses in their nucleotide sequences, and none of the sequenced groups seem to be growing any more or less lethal than others.
+Thanks to #opendata sharing on  @GISAID, https://t.co/SDPCOcsnMX is updated with 10 new #COVID19 #SARSCoV2 seqs!– Wisconsin (1)– Spain (2)– Vietnam (2)– Belgium (1)– Italy (1)– 3 first seqs from Greece!
+(1/2) pic.twitter.com/2qxbJjI8dj
+— Nextstrain (@nextstrain) March 30, 2020
+
+Most importantly, none of them are new ‘strains’ despite their coverage as such in the media and subsequent clarifications by Nextstrain, who have the data for 2,243 SARS-CoV-2 genomes, of which 1,150 have minor mutations.
+This article by @USATODAY misleadingly states that there are "8 strains of coronavirus" circulating. Because of this our @nextstrain inbox is today full of questions like "if you get one strain of Covid-19 and recover, do you have immunity to the other seven?". 1/13 pic.twitter.com/y9OW8Mdnsd
+— Trevor Bedford (@trvrb) March 30, 2020
+
+On Nextstrain, nearly every virus reveals a slightly different genome. But there are very few mutations and none are strong or vital enough to affect the way the virus spreads, attacks, or lives. The sequences are all named by location where they were first sequenced. 
+“It is very common that during an outbreak, especially during a global pandemic, the genome sequence of earlier isolates from one particular geographical location will differ from that of the later isolates collected elsewhere,” said Sreejith Rajasekharan, virologist and post doc at the International Center for Genetic Engineering and Biotechnology (ICGEB) in Trieste, Italy, over an email.
+“This is what is observed in the current pandemic as well. The first sequence collected from positive patients in Rome, Italy was from a Chinese tourist. This and the one collected after, from an Italian citizen returning from China resemble those that were isolated in China,” said Rajasekharan.
+“However, the ones isolated later in Lombardia and Friuli Venezia Giulia regions (in Italy) match the European clad and not the one from China.”
+The mutations in the virus are like moving targets, which can’t be hit because they keep changing their genetic sequence.
+“Genome sequencing on a large scale can tell us whether viral isolates are different in different countries from what we saw from China. So this will help us decide whether the treatments being contemplated in those places will be applicable for our strains or not,” Rakesh Mishra said.
+It will also help decide if the different strains vary so much that developing vaccines may not be viable, Mishra said.
+“Some behaviours are unique in different strains like how we know that aged people are at high risk but we saw in India young people have also died,” said Chelluboina. “Some variations in the virus cause the virus to behave in a certain way.”
+The sequencing will provide a fundamental understanding of how to address the problem — without it, the treatments are based on what is known of other viruses — which may or may not work for the novel coronavirus, and also likely take up a long time.
+“That is why it is important to understand the sequence of the virus in local infections to know which countries have a similar virus, so that we can attempt to better predict the outcome,” added Chelluboina.
+However, Rajasekharan added, “The general public needs not be concerned in this regard as the genome of SARS-CoV-2 is quite stable, and therefore the rate of mutation is low.”
+The novel coronavirus will continue to mutate and pose a challenge to researchers developing a vaccine. Nonetheless, the idea of viruses mutating is not something that needs to worry people in terms of their health when it comes to Covid-19.
+Also read: Seasonal flu far more common than coronavirus, but its vaccine is not popular in India
+ 
+Subscribe to our channels on YouTube & Telegram 
+News media is in a crisis & only you can fix it
+You are reading this because you value good, intelligent and objective journalism. We thank you for your time and your trust.
+You also know that the news media is facing an unprecedented crisis. It is likely that you are also hearing of the brutal layoffs and pay-cuts hitting the industry. There are many reasons why the media’s economics is broken. But a big one is that good people are not yet paying enough for good journalism.
+We have a newsroom filled with talented young reporters. We also have the country’s most robust editing and fact-checking team, finest news photographers and video professionals. We are building India’s most ambitious and energetic news platform. And we aren’t even three yet. 
+ At ThePrint, we invest in quality journalists. We pay them fairly and on time even in this difficult period. As you may have noticed, we do not flinch from spending 		whatever it takes to make sure our reporters reach where the story is. Our stellar coronavirus coverage is a good example. You can check some of it here.
+This comes with a sizable cost. For us to continue bringing quality journalism, we need readers like you to pay for it. Because the advertising market is broken too.
+If you think we deserve your support, do join us in this endeavour to strengthen fair, free, courageous, and questioning journalism, please click on the link below.   Your support will define our journalism, and ThePrint’s future. It will take just a few seconds of your time.

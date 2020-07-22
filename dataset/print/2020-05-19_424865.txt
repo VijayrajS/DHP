@@ -1,0 +1,24 @@
+Oxford’s Covid vaccine, being tested on humans in UK, fails to prevent infection in monkeys
+New Delhi: A high-profile vaccine candidate developed by the Oxford University has failed to prevent Covid-19 infection in animal trials. Based on the team’s earlier claims of promising results in monkeys, the vaccine was among the quickest to have moved on to human trials.
+Researchers testing the vaccine in rhesus macaque monkeys have found that animals exposed to the virus were infected. The team, however, found that it protected the simians from developing viral pneumonia.
+Researchers at Oxford had begun testing the vaccine on human volunteers in April. Scientists from Oxford and the National Institutes of Health’s Rocky Mountain Laboratory had released a statement in the last week of April saying the vaccine had shown promise in monkeys.
+Based on these statements, Pune-based Serum Institute had also announced plans of mass producing the vaccine in India.
+However, results from the Oxford University study, now published in the pre-print server bioRxiv has shown that the vaccine has failed to prevent infection in animals, and it does not stop them from spreading the infection to others either.
+Also read: French drugmaker Sanofi sparks outrage after CEO says US could be first to get vaccine
+Six rhesus macaque monkeys were given doses of ChAdOx1 nCoV-19 for the trial and they were exposed to the novel coronavirus 28 days later. For comparison, the researchers also infected three non-vaccinated monkeys.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+All the animals were monitored for seven days to check if they developed Covid-19. The researchers found that though the vaccinated animals developed virus-specific neutralising antibodies, they all had SARS-CoV-19 in their respiratory tracts.
+Moreover, the levels of virus shed by all the monkeys were similar, which indicates even vaccinated animals can spread the infection to others.
+The team, however, noted that vaccinated monkeys had lower viral load than those that did not receive the dosage. Moreover, autopsies of the animals have shown no evidence of viral pneumonia nor any inflammatory disease in their lung tissues.
+“We showed that a single vaccination with ChAdOx1 nCoV-19 is effective in preventing damage to the lungs upon high dose challenge with SARS-CoV-2,” the authors have written in their study.
+“These data informed the start of the phase 1 clinical trial with ChAdOx1 nCoV-19 on 23 April 2020. As of 13 May 2020, more than 1,000 volunteers have participated in the clinical trials,” they added.
+Commenting on the findings, Jonathan Ball, a professor of molecular virology, from the University of Nottingham, said the fact that this vaccine prevented pneumonia in all animals was encouraging.
+“However, the amount of virus genome detected in the noses of the vaccinated and unvaccinated monkeys was the same and this is concerning. If this represents infectious virus and a similar thing occurs in humans, then vaccinated people can still be infected, shed large amounts of virus which could potentially spread to others in the community,” Ball further noted.
+Eleanor Riley, professor at the University of Edinburgh who was not involved in the study, said while the vaccine induced neutralising antibodies, the levels of these were low and insufficient to prevent infection.
+“If similar results were obtained in humans, the vaccine would likely provide partial protection against disease in the vaccine recipient but would be unlikely to reduce transmission in the wider community,” Riley added.
+Also read: India to develop ‘fully indigenous’ Covid vaccine as ICMR partners with Bharat Biotech
+ 
+Subscribe to our channels on YouTube & Telegram 
+News media is in a crisis & only you can fix it

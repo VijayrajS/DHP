@@ -1,0 +1,30 @@
+ICMR advises ‘pool testing’ in low-infection areas to increase number of Covid-19 tests
+New Delhi: As India’s Covid-19 cases count crossed 9,300 Monday, the Indian Council of Medical Research (ICMR) issued an advisory to begin “pool testing” of samples to increase the number of tests.
+The process involves testing upto five samples in a single test. So far, one sample is being tested at a time.
+In just the last 24 hours, the number of cases in India has risen by around 1,000.
+“Number of Covid-19 cases in India is rising exponentially. In view of this, it is critical to increase the numbers of tests conducted by laboratories. Positivity rate in cases is still low. Hence, it may help to use the pooled samples for screening,” said the advisory.
+The ICMR advisory added that the pool testing algorithm involves the Polymerase Chain Reaction (RT-PCR) screening of a specimen pool, comprising multiple samples. In case a pool tests positive, then each sample will be individually tested.
+The RT-PCR test is used to determine whether an individual has contracted Covid-19, caused by the SARS-CoV-2 virus.
+The test is only prescribed to be used in areas with low prevalence of the infection, i.e., with a positivity rate of less than 2 per cent.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+This means that of 1,000 samples in an area, if less than 20 have tested positive for Covid-19, the area is said to have a low positivity rate, and will qualify for pool testing.
+Also read: India’s first drive-through Covid-19 test site in Delhi promises more tests and privacy
+“This method is effective in two ways. First, it increases the capacity of testing and (second) it saves a lot of resources — time, cost and manpower,” Nivedita Gupta, senior scientist at ICMR, told ThePrint.
+She added that pool testing is useful when a country has a lower number of positive cases. In case a pool tests negative, all individual samples within the pool are considered to be healthy and not infected by Covid-19.
+“When the disease progresses and probability of positives goes up, the usefulness of the test comes down. One needs to repeat the tests, and conduct all tests individually, if the result is positive,” she explained.
+The Andaman and Nicobar administration has been pool testing samples to reduce the number of test kits used, as the country faces an acute shortage.
+The objective of pool testing is to increase the capacity of laboratories to screen more samples in the same amount of time without doubling the resources needed.
+A feasibility study was conducted at ICMR’s Virus Research & Diagnostic Laboratory (VRDL) at King George’s Medical University (KGMU), Lucknow.
+The study demonstrated that performing real-time PCR testing for Covid-19 with multiple samples (upto five) is feasible when the prevalence rates of infection are low.
+“Deconvoluted testing (testing individual samples) is recommended if any of the pool is positive. Pooling of more than five samples is not recommended to avoid the effect of dilution leading to false negatives,” ICMR said in the advisory.
+It further said the preferable number of samples to be pooled is five, but as few as two samples can be pooled. Considering that there is a higher probability of missing a positive sample which has a low viral load, ICMR strongly discouraged pooling more than five samples together, except during research.
+Also read: India is testing for Covid-19 antibodies, but unlikely to let recovered patients move freely
+Apart from areas with a low prevalence of Covid-19, which will be initially decided based on existing data, the advisory suggests pool testing in areas with positivity of 2-5 per cent.
+Pooling of samples is not recommended in areas or populations with positivity rates of greater than 5 per cent.
+It may also be used for “community survey or surveillance among asymptomatic individuals”, but is strictly prohibited in cases of “individuals with known contact with confirmed cases” and healthcare workers (in direct contact with care of Covid-19 patients).
+The ICMR highlights that the samples of such high-risk individuals should be “directly tested without pooling”.
+It is unclear, though, whether pool testing will be used only in areas where tests have already been conducted.
+Also read: ICMR lays out fresh protocol for rapid antibody-based blood test in Covid-19 hotspots
+ 

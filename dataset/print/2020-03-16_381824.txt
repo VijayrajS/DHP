@@ -1,0 +1,25 @@
+New paper-based test developed by MIT researchers claims to detect coronavirus in 30 mins
+New Delhi: Researchers at the Massachusetts Institute of Technology (MIT) have developed a paper-based test that can detect within half an hour if a person has coronavirus.
+The diagnostic technology developed by an MIT start-up named E25Bio has not been tested on patient samples yet. 
+The researchers, an MIT statement said, will now submit the test to the US Food and Drug Administration (FDA) for “emergency use authorisation”, which is a temporary approval to use the test for public health emergencies.
+The technology behind the test was developed by Lee Gehrke, a professor at the MIT, along with other members of his lab.
+As COVID-19 cases continue to emerge from around the world, medical experts have felt the need for fast diagnostic tests. 
+So far, over 1,70,000 people have been infected with the novel coronavirus across the globe and hundreds of new cases continue to be reported every day.
+As of today, 110 people in India have been diagnosed with the coronavirus. 
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+As of 15 March, health ministry officials told ThePrint, 49,461 people with recent travel histories are being monitored, while as many as 5,649 samples have been collected for lab tests.
+All these are being done under the government’s Integrated Disease Surveillance Programme.
+Also read: Older people most at risk from COVID-19. This is what you can do to help
+For the past several years, the researchers at MIT, who developed the paper-based test, have been working on diagnostic devices that work similar to a pregnancy test but can identify viral proteins from patient samples.
+To create the paper-based coronavirus test, they have used a technology called the ‘lateral flow technology’. The same technology had been used by the researchers to develop tests for Ebola, dengue fever and Zika virus, among other infectious diseases.
+“Our hope is that, similar to other tests that we’ve developed, this will be usable on the day that symptoms develop. We don’t have to wait for antibodies to the virus to come up,” Gehrke said in a statement.
+Paper tests can be easily and inexpensively manufactured in large quantities, he added.
+The tests are conducted using strips of paper that are coated with antibodies that bind to a specific viral protein. A second antibody is attached to gold nano-particles and the patient’s sample is added to a solution of those particles.
+The test strip is then dipped in this solution. If the viral protein is present, it attaches to the antibodies on the paper strip as well as the nano-particle-bound antibodies, and a coloured spot appears on the strip within 20 minutes.
+The start-up now needs the US FDA’s emergency authorisation to start using the test on patient samples. 
+“If those are successful, then the next step would be to talk about using it for actual clinical diagnosis,” Gehrke said.
+Currently, there are two primary types of COVID-19 tests. 
+One test screens a patient’s blood samples for antibodies against the virus. However, antibodies are often not detectable until a few days after symptoms begin. 
+The second test looks for viral DNA in mouth or nasal swabs. While these can detect the virus earlier, they take several hours to perform.

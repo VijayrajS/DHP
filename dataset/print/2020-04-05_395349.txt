@@ -1,0 +1,63 @@
+The four stages of Covid-19 transmission & why India maintains it is not yet in stage 3
+Bengaluru: The Indian authorities continue to maintain that the country still has not reached stage 3 or community transmission phase of the novel coronavirus, despite a steady climb in the numbers of positive cases. 
+On Friday, Tamil Nadu officials also reiterated that there is no evidence of community transmission in the state. 
+Community transmission occurs when the disease is contracted from the community and the virus has spread so much that the source is untraceable. The evidence for community transmission is found through testing patients, who are admitted for respiratory issues and not Covid-19 directly. 
+Such cases are often those people, who have been admitted or diagnosed with influenza-like illnesses (ILI) or severe acute respiratory illnesses (SARI). 
+Samples from patients admitted for both these cases have been tested for community transmission and numbers remain low enough for authorities to assert that India is still not at Stage-3.
+In the wake of the Tablighi Jamaat congregation-related cases exploding, ICMR Saturday released new containment guidelines, acknowledging and preparing for a potential community spread. In their strategy for tackling the disease, the document lays out five steps, adding an intermediate stage between local and community transmission that they call “large outbreaks amenable to containment.”
+Speaking about a spread of disease among humans, the term transmission refers to the transmission of microorganisms from one infected individual to another uninfected person, either through direct contact, through droplets, or through indirect contact such as surface contamination.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+The novel coronavirus has four stages of transmission — in line with other infectious diseases. 
+Stage 1 is the first appearance of the disease through people with a travel history, with everyone contained, their sources traced, and no local spread from those affected. The number of those infected would be quite low at this stage.
+Stage 2 is local transmission, when those who were infected and have a travel history spread the virus to close friends or family. At this stage, every person who came in contact with the infected can be traced and isolated.
+Stage 3 is community transmission, when infections happen in public and a source for the virus cannot be traced. At this stage, large geographical lockdowns become important as random members of the community start developing the disease. 
+Stage 4 is when the disease actually becomes an epidemic in a country, such as it was in China, with large numbers of infections and a growing number of deaths with no end in sight. It is then considered to be endemic or now prevalent in the region.
+One of the most recent community events through which transmission took place was the Tablighi Jamaat congregation in Delhi, with the total number of infected from this event at over 600 so far, across 14 states in just two days. 
+Authorities continue to aggressively trace everyone who attended the event or came in contact with attendees.
+
+Many areas are seeing a steady growth in cases, and a cluster containment strategy has now been drawn up for large local outbreaks. Hotspots of Covid-19 will be identified, disease surveillance will be conducted, all suspect cases — including SARI — will be tested, additional healthcare facilities will be provided and geographic quarantine will be enforced with strict perimeter control. This will include a ‘quarantine zone’, surrounded by a ‘buffer zone’ to prevent further transmission.
+Also read: Modi’s India isn’t Mao’s China. Silly forecasts assume we’ll let corona kill millions of us
+Routes of transmission are important in determining how far or wide the disease has spread. 
+Diseases that are transmitted through vectors, such as malaria by mosquito, remain concentrated in areas where the vectors are found. However, contagious diseases like Covid-19 have nothing barring them from jumping from individual to individual except for a lack of individuals. 
+The intricacies of Covid-19 transmission are being fine-tuned and nuanced around the world by scientists. 
+It is known the disease spreads by droplets, which pass from person to person or person to surface when an infected person coughs or sneezes or even laughs. 
+It is also known that the virus is shed in fecal matter for several weeks, but this is likely a non-replicating form of the virus, according to some studies.
+But the novel coronavirus has also been considered airborne by some. 
+‘Airborne’ particles are those that spread by air and cough droplets can do so under certain conditions, such as strong air currents. Droplets can also be expelled beyond one metre when the face of expulsion is larger. 
+The World Health Organisation (WHO) has been criticised for downplaying the dangers of SARS-CoV-2 and its transmission. 
+The organisation initially said that droplets don’t seem to linger in air or spread beyond 3 feet, but now it has said airborne transmission is possible “in specific circumstances and settings in which procedures that generate aerosols are performed”.
+Anything over five micrometers are considered a droplet that needs to be contained to prevent the spread of the novel coronavirus, but new findings have showed that SARS-CoV-2 has been found even in particles that are less than 4 micrometers in size, and are classified as ‘aerosols’ as opposed to droplets.
+These differences come into play with regard to questions about masks — do homemade masks help keep the virus in? The answer is yes, by helping keep droplets in, and only when washed and cleaned regularly. 
+Can homemade masks help keep the virus out? Not if they’re used alone, especially since now we think the virus spreads through merely breathing and talking.
+The subject of masks is seemingly still up for debate, but the transmission of virus beyond just droplets indicates it is highly likely that it already spread in India undetected. 
+This feels especially ominous considering many people — especially those who are younger with no co-morbidities and test positive — do not show any symptoms. 
+Iceland’s nationwide testing process revealed that almost 50 per cent of those who tested positive showed no symptoms at the time of the test — sometimes developing symptoms later.
+No person, who comes in contact with the SARS-CoV-2 virus, can fight it off without getting infected. Since this is the virus’s first appearance among humans, our bodies have no immunity or resistance to it. 
+Also read: This is how my team isolated the new coronavirus to fight the global pandemic
+Tracking the spread of the disease by tracing individuals is called sieges surveillance and is conducted by public health agencies. But tracking cases through traditional methods is slow and resource-consuming. So often proxies are used, and testing ILI or SARI are examples of proxies for the community spread of Covid-19. 
+If the disease spreads through a community undetected and symptoms manifest, the ones that will cause undiagnosed Covid-19 patients to be hospitalised would be breathing difficulties or influenza-like symptoms. Testing among people recently admitted to hospitals for ILI or SARI can, in turn, offer a peek into whether there is rampant community transmission. 
+Many of the tested and some, who succumbed, were a part of different clusters but the source of their infection could not be traced. As many as 18 of the first 35 victims didn’t have travel history or contact with anyone who traveled.
+Additionally, about 10 per cent of SARI patients tested positive for Covid-19.
+Testing for community transmission began on 15 March, with 65 ICMR labs testing anyone displaying ILI and SARI symptoms. The government has now designated 126 government labs and 51 private labs for Covid-19 testing. But even within the country, testing varies by large margins across states. 
+On Friday, as many as 12 deaths were reported in just 24 hours. 
+While India took quick steps to curb travel and put the country on lockdown, it has been criticised since the beginning of the outbreak for testing too few patients. 
+Low rates of testing increases the risk of spread of SARS-CoV-2 in tightly packed communities. 
+A prime example is Asia’s largest slum, Dharavi, in Mumbai, which has now registered its third positive case, including a 35-year-old doctor, who practiced in the neighborhood, and a man in his 50s. 
+In such tight communities and in a country like India, it is quite difficult to ascertain that there is no evidence of community transmission at all without a much larger and broader process of testing individuals, For now, officials state they are confident that the Nizamuddin congregation-related outbreaks can be contained. The new testing and containment guidelines are expected to provide some relief to the potential overburdening of hospitals. 
+There are still many unclear questions, which have been compiled by some journalists and posed to ICMR (Indian Council of Medical Research), the country’s apex medical research body. 
+These include crucial details required to make sense of the disease and comparison with other countries, such as, how many individuals have had multiple rounds of tests over a period of days and what were their results, how many ILI and SARI patients have been admitted to hospitals, how many healthcare workers have tested positive, how the quality of personal protection equipment (PPE) for healthcare workers is tested, among others. 
+According to the ICMR, as of the 3 April, 69,245 samples have been tested. 
+As more questions remain unanswered and more numbers become available, the true spread of the novel coronavirus can only be determined in the coming days, just as hospitals and healthcare facilities face the looming threat of getting overburdened with patients.
+Also read: India isn’t on top of list for coronavirus test kits suppliers
+ 
+Subscribe to our channels on YouTube & Telegram 
+News media is in a crisis & only you can fix it
+You are reading this because you value good, intelligent and objective journalism. We thank you for your time and your trust.
+You also know that the news media is facing an unprecedented crisis. It is likely that you are also hearing of the brutal layoffs and pay-cuts hitting the industry. There are many reasons why the media’s economics is broken. But a big one is that good people are not yet paying enough for good journalism.
+We have a newsroom filled with talented young reporters. We also have the country’s most robust editing and fact-checking team, finest news photographers and video professionals. We are building India’s most ambitious and energetic news platform. And we aren’t even three yet. 
+ At ThePrint, we invest in quality journalists. We pay them fairly and on time even in this difficult period. As you may have noticed, we do not flinch from spending 		whatever it takes to make sure our reporters reach where the story is. Our stellar coronavirus coverage is a good example. You can check some of it here.
+This comes with a sizable cost. For us to continue bringing quality journalism, we need readers like you to pay for it. Because the advertising market is broken too.
+If you think we deserve your support, do join us in this endeavour to strengthen fair, free, courageous, and questioning journalism, please click on the link below.   Your support will define our journalism, and ThePrint’s future. It will take just a few seconds of your time.
+Support Our Journalism 

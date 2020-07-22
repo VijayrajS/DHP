@@ -1,0 +1,94 @@
+Coronavirus: Latest updates on cases in India, all you need to know about COVID-19
+(This copy was last updated on 21 July. The reported number of coronavirus cases is according to the Union Ministry of Health & Family Welfare.)
+New Delhi: More than 11,55,191 cases have been reported in India, with 4,02,529 active novel coronavirus cases.
+So far, 28,084 people have died, while 7,24,577 have recovered since the first case was recorded in Kerala in January. One Covid-19 patient has been recorded as a migrated case, according to the Union health ministry.
+The government began its phased ‘unlockdown’ from 8 June, with extensive relaxations including opening of religious places, shopping malls and restaurants. Public transport, except metro services, have also resumed operations.
+While experimental treatments have shown some promise, the world is focused on the results of vaccine trials being conducted in several countries. In India, the ICMR is also working on a human trial for the vaccine it is developing with Bharat Biotech, called Covaxin.
+Here is a quick reckoner of the pandemic — from information about the virus to safety measures and FAQs.
+The Ministry of Health has set up a telephone and email helpline for any queries and emergencies related to coronavirus.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Number: +91-11-2397 8046
+Email: ncov2019@gmail.com
+For a list of helpline numbers of States & Union Territories, click here.
+Total number of active cases: 4,02,529
+Number of patients who recovered: 7,24,577
+Number of deaths: 28,084
+As confirmed by the Union Ministry of Health & Family Welfare on 21 July, 8 AM.
+
+
+The symptoms of coronavirus are similar to flu, and can often go undetected for days. Typically look out for fever, common cold and other respiratory illnesses: dry cough, exhaustion, fatigue, breathing difficulty. The symptoms are generic, with nothing identifiable as being specific to COVID-19.
+The virus usually incubates for 2-14 days.
+Also read: In 8 images, a guide on how coronavirus spreads
+Also read: Will India’s experience with previous outbreaks help it tackle coronavirus better?
+Coronaviruses are a group of viruses that we have known about since the 1930s. They were first found in humans in the ’60s. Two or three of these viruses are in constant circulation among human populations, causing common cold and other related illnesses. The latest pandemic is due to the spread of a new virus strain, thus called ‘novel coronavirus’. It is similar to SARS (also a type of coronavirus), and is called SARS-CoV-2 (formerly 2019-nCoV). The illness it causes is referred to as COVID-19.
+The coronavirus is suspected to have come to the human population from animals, most likely from bats.
+The novel coronavirus spreads from human to human, though cough droplets. These can also remain on surfaces. This is why it is essential to maintain personal hygiene by washing hands, especially after going to public or crowded places.
+R0 (pronounced R-naught) is the basic reproduction number that indicates how many other people an infected person can spread it to. It varies with time and human efforts, and is currently between 1 and 2. The lower it is, the better. Once it falls below one, the disease is no longer progressing like an epidemic and will naturally die out if the same measures are sustained.
+Upon displaying symptoms, it is advised to get an RT-PCR test to determine if a person is Covid-19 positive. If they are and the person has no comorbidities, i.e., underlying conditions such as diabetes, hypertension, cardiac disease and especially breathing-related illnesses, home quarantine is advised and all contacts are to be tested. Testing might require a doctor’s referral in some states.
+COVID-19 is a respiratory disease and its focus of attack is usually the lungs. It seems to be very similar to SARS in how it infects and spreads.
+There are two kinds of lung cells — mucus cells that protect our passageways and cilia cells, which are hair-like structures that beat around the mucus to clear out dust and pollen. Just like SARS, Covid-19 seems to be killing the cilia cells, which end up filling a patient’s airways with debris.
+Our immune system then kicks in, flooding the lungs with immune cells to repair lung tissue. When done optimally, the immune response helps. But often, the immune system goes into overdrive and can kill in a cytokine storm or cause permanent lung damage.
+Inflammation also enables the absorption of fluid into lungs, causing pneumonia. This in turn leads to shortness of breath and painful coughing, and can progress to Acute Respiratory Distress Syndrome (ARDS), and can sometimes lead to death.
+Covid-19 patients have also experienced multiple organ failures, thickening of blood, or blueing of toes during infection, and long-lasting lung damage after recovery.
+Also read: The next pandemic will come. Here’s how to prepare
+According to WHO, people will mild symptoms are expected to recover within 2-3 weeks while more severe cases can take up to 6 weeks.
+The rate is currently thought to be around 3 per cent, but varies by region and human behaviour. An accurate number can be determined only much later.
+No. There are no medicines or remedies that can help prevent or treat Covid-19 yet, although there are many promising trials that have been designed to identify potential drugs.
+It is advisable to curtail all non-essential travel, both within cities/towns and to other cities. Employers are advised to allow employees to work from home as much as possible.
+The virus will continue to spread until a sufficient threshold of the population has immunity, either from recovery or from vaccination. This is called herd immunity and can be achieved safely by avoiding lakhs of preventable deaths only through a vaccination drive.
+Functional vaccines could take up to a year to be developed, and a drive that can immunise populations across multiple countries could take another year after that, say experts.
+Subscribe to our channels on YouTube & Telegram 
+News media is in a crisis & only you can fix it
+You are reading this because you value good, intelligent and objective journalism. We thank you for your time and your trust.
+You also know that the news media is facing an unprecedented crisis. It is likely that you are also hearing of the brutal layoffs and pay-cuts hitting the industry. There are many reasons why the media’s economics is broken. But a big one is that good people are not yet paying enough for good journalism.
+We have a newsroom filled with talented young reporters. We also have the country’s most robust editing and fact-checking team, finest news photographers and video professionals. We are building India’s most ambitious and energetic news platform. And we aren’t even three yet. 
+ At ThePrint, we invest in quality journalists. We pay them fairly and on time even in this difficult period. As you may have noticed, we do not flinch from spending 		whatever it takes to make sure our reporters reach where the story is. Our stellar coronavirus coverage is a good example. You can check some of it here.
+This comes with a sizable cost. For us to continue bringing quality journalism, we need readers like you to pay for it. Because the advertising market is broken too.
+If you think we deserve your support, do join us in this endeavour to strengthen fair, free, courageous, and questioning journalism, please click on the link below.   Your support will define our journalism, and ThePrint’s future. It will take just a few seconds of your time.
+Support Our Journalism 
+The table has a problem: the ‘active’ and ‘critical’ columns are identical.
+Otherwise, thank goodness “community transmission” was not mentioned – I would love to know what the government imagines this term actually means. Also, “peak”. How can one know when and at what number peak is going to be if the numbers are increasing and show no sign of flattening?
+Exactly. I was about to write this comment. Even as on 8th July, all active cases are shown as critical, even though very few die and most are recovering. Recovery numbers are going up.
+I would like to suggest that the chart may be even more helpful if there was a column showing the popultaion of different countries too. Then it is easier to make an informed comparison of the numbers.
+The most frightening figure I saw on the chart was India’s Serious/critical cases are more than double the number of deaths & second only to USA (half of USA numbers with less than 5% of the testing rate of USA)
+As the Covid-19 defeated the superpowers of the world, means to fight the virus differently. One Almighty God wants all the people in the world start worshiping only One God. As majority of the people in this age of knowledge explosion still worship more than One God and joined partners to Him. All the holy scriptures say to worship only One God, but many people worship idols, humans, demigods, trinity and many gods, and refuse to obey own holy scriptures simply to avoid coming closer to Islam as only Muslims worship only One God and  preaches the same, as all the scriptures say the same, “There is only One God, worship Him, Ekam Evadvitiyam, He is One only without a Second. There is no deity but God. LORD our God is One”. As the truth revealed to all, the days of ignorance are over as One Almighty God wants all the Hindus, Christians, Muslims, Jews, Sikhs as children of Adam (Pbuh) follow their religious scriptures honestly to worship only One God, so this Virus can be eradicated soon. So it is time to stop dialing the wrong numbers and beating around the bush but time for all to Call for help to Almighty God by worshiping Him alone.
+Government should setup full fledge feto maternal center where they can take utmost care in maternity, fetal medicine and everything related to pregnancy care. In Kannur, Kerala there are quite lot of covid19 cases in all multispecialty hospitals but the dedicated maternity hospital like fathima hospital in kannur is much more safer than any other multi-specialty hospitals during this uncertain pandemic time. Be prepared but not scared about the virus.
+Are we under reporting our cases:
+Following is a case in point
+Sad demise of SHib Shankar Mukherjee , ECE, 77, IIT KGP. It’s a tale of Kolkata now. Please read below
+….
+*Details as received in my alumni WhatsApp  group *
+My experience with my Brother in law.
+Dr. S. S. Mukherjee .
+Died without any treatment.
+Corona Virus.
+We tried for Admission at Apollo, AMRI, Both centers,
+Desun, Medica , Fortis, R.N.Tagore, Ruby, Peerless, Calcutta Hosp .
+All refused admission.
+I use to know all the Hospital, as I am in the Medical trade.
+Even they said, at 2 places, i.e. Apollo & AMRI salt lake.
+As I know, they are doing R.T. P.C.R. as the machines were placed by me . Qiagen. Germany.
+Reason of refusal.
+Ordered by Govt of West Bengal government.
+All places had common Dialogue .
+We shall take admission, if it’s written by Beleghata I.D. or M.R.Bangur.
+After the struggle all through out the night, the next day he was admitted at M.R.Bangur.
+Time – 5 .pm. Yesterday Tuesday.
+He was under Dr. S.R.Paul.
+Whom we never saw him, even after several requests.
+Shifted to Bangur Quarantine Hall .
+Where there was no medical apparatus.
+Only a Hall, with 40 beds.
+No stand for Saline, no medicines , not even a single Fan .
+5 to 6 patients, awaiting death.
+And my brother in law expired, within 30 minutes.
+That’s how our state of Bengal is.
+We shouted for Lasix,as His Son is a Doctor, doing his M.D. when we found him shrinking, but there was no helping Doctors or any assistance.
+That’s the state we are living in .
+The Death Certificate was given without delay, of Cardiac failure.
+We had to pay, 5 times for the cremation  .
+What a life, we are having in West Bengal.
+A holy person and my best friend and Guide is no more.
+This is for your information.

@@ -1,0 +1,30 @@
+Antibody from llamas could help block coronavirus entry into cells, say researchers
+New Delhi: Many countries have been forced to enforce lockdowns in order to curb the spread of the highly infectious novel coronavirus. The virus has also pushed scientists to look for potential solutions to battle Covid-19 nearly everywhere — from existing drugs to antibodies in llamas.
+Here are some of the top research from across the world on the Covid-19 front.
+Scientists have found an improbable ally in their hunt for an effective treatment for Covid-19 — antibodies from llamas.
+A team comprising of researchers from The University of Texas at Austin, the National Institutes of Health in the US and Ghent University in Belgium have reported their findings about a potential avenue for a coronavirus treatment involving llamas in the journal called Cell.
+The researchers have linked two copies of a special kind of antibody produced by llamas to create a new antibody that binds tightly to the spike protein on the coronavirus which causes Covid-19. This protein allows the virus to break into host cells.
+Initial tests have shown that the new antibody blocks this spike protein in cells cultured in the lab.
+The team is now preparing to conduct pre-clinical studies in animals such as hamsters or nonhuman primates, with the hope that they will be able to test it on humans soon. The goal is to develop a treatment that would help people infected with the virus.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Also read: India to test Japanese flu drug favipiravir on Covid patients, Glenmark first to start trials
+Scientists have developed a wearable smart band that can monitor body temperatures and alert users when they are standing too close to another person.
+The prototype, called iFeel-You, developed by researchers at IIT-Istituto Italiano di Tecnologia in Italy has been designed to find a practical and cost effective solution to help people respect social distancing during work and other activities, especially when lockdown restrictions are lifted in countries.
+The smart band was initially developed for monitoring human body parameters in human-robot collaboration scenarios. It uses algorithms and technologies that researchers introduced in a suit that can detect and measure the whole human body posture.
+This smart band releases radio signals that can detect another band which is in close proximity. The two bands then vibrate, emitting an alert signal that helps people respect social distancing.
+The device can be used where smartphones and thermal cameras are not viable solutions, such as tourist villages, resorts, sporting club, or amusement parks.
+US-based biopharmaceutical company has developed a potential vaccine for Covid-19 that can be delivered through a painless skin patch.
+Verndari’s VaxiPatch is a single-dose vaccination kit that uses a patch with a metal microneedle array to deliver vaccines. The technology eliminates the need for refrigeration, facilitates high-volume, automated manufacturing of vaccines and can be self-administered.
+The company, in collaboration with the University of California, Davis, is planning to carry out pre-clinical tests for the vaccine in mice.
+If the pre-clinical testing meets safety and efficacy goals, phase 1 human clinical trials could begin.
+The amount of virus present in a throat swab sample can predict the severity of Covid-19 in a patient.
+According to a study published in the Viral Immunology, the higher the viral load in a sample, the greater the organ damage and the longer it would take for a patient to recover.
+For the study, researchers from the First Affiliated Hospital of Nanchang University in China collected nasopharyngeal samples from patients with mild and severe Covid-19 illness.
+They measured the level of viral RNA in the sample, also known as the viral load. Viral load correlated positively with the severity of disease symptoms and increased inflammatory factors.
+Scientists in the US have launched a phase III clinical trial to assess whether tocilizumab — a medication used to treat rheumatoid arthritis and other inflammatory disorders — may help treat Covid-19 patients at risk of developing serious lung damage.
+Tocilizumab is a monoclonal antibody-based therapy that works by blocking cellular receptors for interleukin-6 (IL-6), a small protein or cytokine that plays an important role in triggering inflammation as an early immune response to disease.
+In some Covid-19 patients, the immune response runs amok generating a “cytokine storm,” which can lead to potentially life-threatening damage to lungs and other organs.
+The mechanism of tocilizumab suggests a way to dampen and halt that inflammatory response, which might reduce the need for more extreme medical interventions such as mechanical ventilation and greater risk of chronic injury and death, researchers have said.
+Also read: What a second wave of Covid-19 could look like

@@ -1,0 +1,24 @@
+Facebook wrongly blocks coronavirus news as spam but it’s not the first time
+New Delhi: Facebook has blamed an ‘anti-spam bug’ in response to complaints that links to legitimate news stories about the coronavirus pandemic were being wrongly removed.
+On Tuesday night, users posted complaints on Twitter, saying they couldn’t share articles from reputed news sites like BBC, Axios and The Atlantic because they were being marked as spam according to Facebook’s community guidelines.
+However, most of the posts were about the coronavirus pandemic, closure of schools, information from sources such as the Centers for Disease Control and Prevention, the Canadian government and even articles on actor Tom Hanks and his wife who recently tested positive. One Indian user also said that his post linking Swarajya magazine’s article on India’s response to coronavirus was deemed spam.
+This is not good: #Coronavirus information from credible sources like the CDC and Canadian government is getting flagged as spam and removed from Facebook due to an apparent glitch in the system. 
+I will update as new information becomes available:https://t.co/PIqPjfPr9M
+— Caroline Orr (@RVAwonk) March 18, 2020
+
+This was a day after the tech giant, along with Google, Microsoft Corp, Twitter Inc and Reddit pledged to provide accurate information about the COVID-19 pandemic.
+“Something really weird is happening on @Facebook. A bunch of coronavirus posts from good sources like Atlantic and Politico are being flagged as spam. Happening to me and others. I’m the moderator of a huge community group, vetting medical info 15 hours a day. FB, don’t do this!” said American writer, Steve Silberman.
+Early Wednesday morning, Guy Rosen, Facebook’s Vice President of Integrity, responded by saying, “We’re on this — this is a bug in an anti-spam system, unrelated to any changes in our content moderator workforce. We’re in the process of fixing and bringing all these posts back. More soon.”
+Facebook has since restored all posts that were “incorrectly removed”.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Also read: Google is scrubbing coronavirus misinformation on search and YouTube
+In August 2018, similar complaints arose from across the world when Facebook’s algorithm went “rogue” and users reported that their posts were wrongly flagged as spam.
+In India, an India Today article about how a government website removed a report on higher GDP growth during the Manmohan Singh era was marked as spam on Facebook. So was a user’s post seeking donations for those affected by the Kerala floods in 2018 that killed 483 people.
+A UK user had reported that a post on the “BBC reporting the pass mark for GCSE Maths as low as 21 per cent” was also marked as spam, while a California user was unable to share two articles — one on election security in the US and another on US President Donald Trump. Complaints also came from Russia and Italy that articles about the Ukraine cyberattacks and Pink Floyd were deemed spam.
+Facebook marking people's post as spam is happening to people across  the globe, every single minute. Not limited to India or an ideology. Seems like @facebook has run into some  sort of glitch. Let's watch and watch. pic.twitter.com/Kpliv9Ljd1
+— Pratik Sinha (@free_thinker) August 23, 2018
+
+In that year, too, Facebook apologised, attributed the incidents to a “bug” and restored all posts. “Yesterday we fixed a bug that caused some posts to be incorrectly marked as spam. We’ve restored the posts that were affected and are very sorry this happened,” it said in a tweet.
+Three months prior, Facebook had announced that it had deleted 865 million posts that were mostly spam, but did not provide details on the content removal procedure.

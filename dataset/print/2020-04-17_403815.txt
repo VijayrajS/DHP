@@ -1,0 +1,36 @@
+Does India need more Covid-19 testing or is it an uninformed argument?
+Congress leader Rahul Gandhi Thursday joined a battery of health experts who have said that India’s testing rate was very low, urging the Modi government to increase it. The ICMR was quick to refute the claims arguing that “not everyone is vulnerable”. The health ministry also endorsed ICMR’s view, saying that data can be interpreted in many ways and the government is ensuring not a single positive case is missed out.
+ThePrint asks: Does India need more Covid-19 testing or is it an uninformed argument?
+Radha Rangarajan
+Chief Scientific Officer, HealthCubed
+There is a need for India to do more Covid-19 testing. So far, testing has been greatly restricted but as we emerge from the lockdown, there will be an increased need to test more and more people. It is amply clear that the current test — RT-PCR — will not scale for India’s needs, given the complexity of this test, need for sophisticated equipment and poor availability of kits. Hence, we need to rethink the testing strategy.
+Specifically, we need to identify people at greatest risk, making no assumptions about community transmission, and prioritise them for the test. The data from China and other parts of the world identify a number of factors that put people at risk for this severe disease, including age, gender, comorbidities, biomarkers and specific blood parameters.
+These data taken together with clinical signs and symptoms can provide an accurate assessment of risk relatively quickly. Those at moderate to high risk can be prioritised for testing and follow-up care. This type of screening system can scale easily and be deployed rapidly. Of course, we will still need to ramp up the production of the RT-PCR tests and enhance laboratory capacity but a tiered approach will help rationally narrow the funnel.
+Dr. Ashok Seth
+Chairman, Fortis Escorts Heart Institute
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+The real question is how much Covid-19 testing does India need and for what purpose? First, we don’t need to chase testing numbers of South Korea or Germany as ‘the gold standard’ because for our 1.3 billion population that would translate to more than one crore tests which strategically, financially and logistically could be a detrimental exercise.
+Second, the lockdown has largely helped to contain the Covid-19 infection. It’s not only helped utilise our limited testing resources judiciously but also preserved and even expanded them for now when more testing is needed .
+Third. The tests are not foolproof and expanding testing when disease prevalence is low in community gives increased number of false positives which can overburden the healthcare system unnecessarily.
+As we plan towards a graded lifting of the lockdown along with the availability of rapid testing and indigenously-manufactured kits, performing more random, suspect and pooled testing in communities would help more accurately map the prevalence of Covid-19. This can lead to better containment measures.
+India has ramped up its testing in the last 10 days and the increase in new cases seems to be flattening as a percentage of tested or total cases. I can confidently state that these numbers seem to be correct and the situation still remains under control. So clearly, unlike the West, a strategy of pre-emptive and strict lockdown with limited testing, followed now by an increased testing to strategise release of lockdown seems to be working in India.
+Dr. T Jacob John
+Former head, ICMR in Virology
+India needs more Covid-19 testing. Our population-based testing average is one of the lowest among affected countries. It has been argued that we have the slowest increase in the number of positive Covid-19 cases. But the problem is that if you test less, you will detect less. Since we do not know the true infection prevalence, this line of argument takes us nowhere.
+The strike rate in India is one positive among 24 tested, whereas in other countries the rate is higher — such as one Covid positive per 12 or even 10 tests. This means that our strategy must be fine-tuned to look at areas where the detection rate is better. Currently, the emphasis is on finding contacts of those with travel-associated risks and contacts of infected persons detected so far. The purpose is to quarantine and protect the uninfected. That is “public health testing”. And so the strike rate is low.
+As we detect more and more positive Covid-19 cases, we will know that transmission is slipping through the public health testing net; hence we must ramp up “healthcare testing” and prevent transmission among healthcare personnel and their contacts.
+Healthcare testing will help prevent hospitals from becoming hotspots. Every clinically suspected Covid-19 case confirmed by lab test will also achieve the public health goal of preventing further transmission more efficiently. Then the strike rate will also be higher.
+Indranil Mukhopadhyay
+Associate Professor, OP Jindal Global University and member, Jan Swasthya Abhiyan
+Overall there are fewer Covid-19 tests being conducted than required. According to ICMR’s revised guidelines, clusters, containment zones or places with large migrant population are vulnerable to the coronavirus and people with influenza-type symptoms should be tested with rapid antibody tests. All those who are under isolation should be tested.
+Another factor is that rapid antibody tests sometimes produce false negatives, which means a person may not show positive results but is infected. In this case, a test must be repeated in 5-10 days. For people who continue to experience influenza-type symptoms during self-quarantine, RT-PCR test must be done. This shows that testing is not always quick and easy – cases require various degrees of testing, resources and time.
+Also, the assertion that India has a shortage of testing kits is untrue. Lakhs of rapid antibody test kits are available. National Institute of Cholera and Enteric Diseases has about 42,000 testing kits and works as the nodal-testing lab for eastern region but still, in those regions just a few thousand tests have been conducted. All severe acute respiratory infections (SARI) cases should be tested too.
+Finally, a more structured and targeted strategy is required in India. Contact tracing, as done in Kerala, should also be considered during this exercise. All people in contact with positive cases should be tested and brought under isolation.
+The lockdown is becoming a major humanitarian crisis. If we do not track all the cases, trace all the contacts, test and isolate them, the benefits of the lockdown would not fructify and the outbreak would take the form of an epidemic in India.
+Also read: Is forcing private labs to make Covid-19 tests free the only way to stop spread of infection?
+By Pia Krishnankutty, journalist at ThePrint
+Subscribe to our channels on YouTube & Telegram 
+News media is in a crisis & only you can fix it
+You are reading this because you value good, intelligent and objective journalism. We thank you for your time and your trust.

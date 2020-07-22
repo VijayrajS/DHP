@@ -1,0 +1,34 @@
+Study suggests HCQ does not significantly reduce risk of severe infection in Covid patients
+New Delhi: As the global death toll of the novel coronavirus crosses 3,00,000 — scientists continue to work towards improving their understanding of the virus and discovering more effective treatment plans against the virus.
+Here are some of the latest scientific developments around the novel coronavirus.
+The anti-malarial drug hydroxychloroquine does not significantly reduce the need for intensive care or result in faster recovery of those hospitalised with Covid-19, a study published in the journal The BMJ shows.
+Researchers from China assessed the effectiveness and safety of hydroxychloroquine compared with standard care in 150 adults hospitalised with mainly mild or moderate Covid-19.
+Patients were randomly split into two groups. Half received hydroxychloroquine in addition to standard care and the others received standard care only.
+After 28 days, the team found that those who received HCQ did not recover faster than those who received standard care.
+In fact, adverse events — such as problems with heart rhythm — were higher in those who received the drug.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+HCQ is already part of the Chinese guidelines highlighting the best way to manage the disease and has also received emergency use authorisation from the US Food and Drug Administration (FDA).
+India, too, is using the drug to treat patients and as a preventive measure among health workers.
+Also read: India screened only 19% of inbound passengers for Covid until 23 March, RTI reply reveals
+Chest X-rays performed on young and middle-aged adults with Covid-19 can help doctors predict who is at higher risk of severe illness and will need critical care in future.
+The study, published in the journal Radiology, reveals that doctors can determine which Covid patients may need to be hospitalised and intubated based on the severity of coronavirus patterns in the lungs seen in the X-rays, using a unique scoring system to evaluate severity.
+The results could help physicians identify and treat the virus more quickly in high-risk patients.
+The team analysed records of 338 Covid-19-positive patients between 10 March and 26 March. Patients were between the ages of 21 and 50 (average age 39) and 62 per cent of them were men.
+Researchers had access to personal and medical information including race and pre-existing conditions such as asthma, diabetes, hypertension, HIV and obesity.
+The team focused on every patient’s chest X-ray to examine patterns of coronavirus in their lungs. Researchers developed a scoring system from zero to six to quantify severity, based on the patterns they observed.
+A small study of eight patients in Greece found that the clinically approved drug anakinra, used to treat rheumatoid arthritis, improved respiratory function in patients with severe Covid-19.
+The patients also had a condition called secondary hemophagocytic lymphohistiocytosis (sHLH), which is characterised by an overactive immune system and organ failure.
+One patient, who did not require mechanical ventilation, improved rapidly after starting treatment with the drug and was discharged from the hospital nine days later.
+However, three out of seven patients on ventilators died. The report, published in the journal Cell Host & Microbe, does not make it clear whether the drug can reduce risk of death.
+In the study, the researchers tested whether anakinra could effectively treat severely ill Covid-19 patients with pneumonia and sHLH. Seven of the eight patients were males who had respiratory failure, were on ventilators in ICUs and had serious underlying conditions such as heart disease and high blood pressure.
+They were treated with anakinra intravenously — 200 mg every eight hours for seven days. They also received treatment with the anti-malarial drug hydroxychloroquine and broad-spectrum antibiotics. The researchers monitored their outcomes over the course of 4 weeks.
+Anakinra treatment improved the majority of laboratory findings and decreased signs of sHLH in the ICU patients. All of them showed improved respiratory function.
+Moreover, six patients needed a lower dose of drugs that increase blood pressure.
+Although three of the ICU patients died, researchers say that the death rate was less than what is usual for patients with sHLH.
+Also read: We can eradicate novel coronavirus with a vaccine, as we did with smallpox
+The official Covid-19 death toll in Italy is likely to be a substantial underestimation, according to a study published in The BMJ.
+The study is based on findings from Nembro, an Italian city severely affected by the Covid-19 pandemic.
+More residents died in Nembro in March 2020 than in 2019 or in any single year since 2012, but only half of these deaths, which occurred during the recent outbreak, were reported as confirmed Covid-19 deaths.
+The researchers state that counting deaths from all causes would yield a more complete picture of the pandemic’s effects on population health.

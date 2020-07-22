@@ -1,0 +1,31 @@
+How hackers are using coronavirus panic to target India through WhatsApp and email
+New Delhi: COVID-19 is spreading more than just one kind of virus.
+While WHO officially declared the situation a pandemic Wednesday, panic about contracting the infection has been hanging in the air for months now. This has presented hackers with the opportunity to spam people with messages/emails that under the guise of health information target sensitive data.
+Hackers have been luring Indians and users in other countries with WhatsApp and email messages that have malicious malware embedded in it. Once clicked on, the malware gets on a victim’s computer/phone and gives hackers access to information such as passwords, bank details, credit card numbers, etc. One such malware has been linked to hackers backed by North Korea.
+According to a study by Subex, a Bengaluru-based telecom analytics firm, hackers have also targeted organisations in manufacturing and the power sector.
+Also read: New ransomware ‘Snake’ linked to Iran, Israeli firm says it targets industrial systems
+Subex tracked down a malicious email dated 11 March that was sent to India. According to firm’s IoT marketing head Prayukth KV, the email contained a variant of the ransomware called Locky.
+Ransomware encrypts documents and information on a victim’s system, so the victim cannot read or access the documents anymore. The hacker offers a key to decrypt the information only after a ransom is paid.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+The email looks like it’s from the WHO, sent by a Tim Hardley, principal healthcare officer from WHO’s regional office for the Americas. A Google search throws up no results for such a WHO official.
+
+The email accurately cites Tedros Adhanom, the WHO director general (a fact that will hold up in a basic Google check), and asks users to download the attached document. The document is supposed to be signed and sent back in 15 hours so WHO can purportedly provide healthcare support, including a free healthcare kit.
+However, the email address does look suspicious — who_int@protonmail.ch. Authentic WHO email addresses mentioned on the organisation’s website typically end with ‘who.int’.
+Subex has found suspicious documents in other emails with names such as ‘Corona_health_update.pdf’ (attributed to centers for disease control), ‘Origin-of-corona_cnn.mp4’, ‘Covid19_Mandatory_work_from_measures.pdf’ (spread using instant messaging platforms), ‘Corona_safety_alert.docx’ and ‘Secondary_corona_infections.pdf’.
+Subex also tracked down WhatsApp messages infected with malware that include content on coronavirus.
+Prayukth shared details of one particular WhatsApp, which was sent twice (at 2.11 pm, 2.16 pm) to a potential victim on 3 March.
+The message reads, “All IT employees to have paid mandatory leave to avoid the spread of the COVID-19 novel coronavirus starting from March 5, 2020…Read the government order here.”
+
+The hyperlink, at first glance, looks like it will lead to the social media site reddit.com. However, it contains malware, though Subex has not been able to ascertain what kind of malware.
+According to another cybersecurity firm, which chose to not be identified, one of the malwares used to target India is made by North Korea’s hacker unit, Bureau 121.
+Since 12 February, Subex has noticed an increase in such mass-scale cyber-attacks through malicious email campaigns in India.
+The firm does not as yet have a clear number for how many Indian devices may have been infected but has been detecting cases through its clients and business partners, which include telecom service providers.
+Without naming which clients or business partners sent the most reports of suspicious messages, Prayukth said Subex received 21 emails with suspicious links. Of these, six are from clients and business partners based in US, five from India, four each from South East Asia and Western Europe including Italy, and two from Mexico.
+Also read: Spying or hacking — nothing is hurting WhatsApp’s status as India’s top messaging app
+Other hackers have set up ‘coronavirus map’ websites containing malware to steal information from victims. US-based cybersecurity firm Reason Cyber Security identified a website named ‘Corona-Virus-Map.com’.
+The website has an interactive world map showing the areas with the most COVID-19 cases and even mentions these are cases listed by “John Hopkins” — an effort to make it look like it is affiliated to the Johns Hopkins University.
+However, the site contains malware, and users trying to access the map will end up loading it onto their systems. The malware is a variant of AZORult, a malicious software “commonly sold on Russian underground forums for the purpose of collecting sensitive data”, says the cybersecurity firm’s blog.
+Satnam Narang, principal research engineer at Tenable, a US-based cybersecurity risk analysing firm, agrees there’s a rise in malicious messages discussing coronavirus.
+“Coronavirus-themed malicious emails targeting users in Japan, Italy, and other parts of the world have been spreading a variety of malware, from the Emotet, AZORult, and Trickbot trojans, to the Nanocore and Remcos Remote Access trojans … We encourage everyone to remain vigilant and exercise caution in handling any email with a COVID-19-related subject line, attachment, or hyperlink, and be wary of social media please,” Narang said.

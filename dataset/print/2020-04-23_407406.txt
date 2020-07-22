@@ -1,0 +1,31 @@
+Tweaking patient’s immune cells to target the virus could be potential therapy: Scientists
+New Delhi: With more than 26 lakh cases and over 1,84,000 deaths, scientists across the world are looking for new weapons everywhere — from our immune cells to viruses that infect plants — to kill the coronavirus.
+Here are some of the latest research developments from around the world on the Covid-19 front.
+Tweaking a patient’s immune cells to target the SARS-CoV-2 can be a potential therapy for controlling the virus, according to researchers at the Duke-NUS Medical School in Singapore.
+The therapy, which involves engineering specific receptors onto a patient’s immune cells, has also been used in the treatment of other infectious diseases such as Hepatitis B virus (HBV).
+The therapy involves extracting immune cells called T lymphocytes, from a patient’s bloodstream and engineering one of two types of receptors onto them: Chimeric antigen receptors (CAR) or T cell receptors (TCR).
+TCRs are naturally found on the surfaces of T lymphocytes while CARs are artificial T cell receptors that are generated in the laboratory. These receptors allow the engineered T lymphocytes to recognise virus-infected cells.
+The research on this potential therapy has started in Singapore.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Also read: India’s Covid deaths rise steadily but infection rate fluctuates in states: Data experts
+Scientists at MIT and Harvard in US have identified specific types of cells in the lungs, the nasal passages, and the intestine that are more susceptible to Covid-19.
+By using existing data on the RNA found in different types of cells, the researchers were able to search for cells that contain two proteins that help the virus enter human cells.
+In the nasal passages, the researchers found that goblet secretory cells, which produce mucus, express RNAs for both of the proteins that SARS-CoV-2 uses to infect cells.
+In the lungs, RNAs for these proteins were found mainly in cells called type II pneumocytes. These cells line the air sacs of the lungs and are responsible for keeping them open.
+In the intestine, they found that cells called absorptive enterocytes, which are responsible for the absorption of some nutrients, express the RNAs for these two proteins more than any other intestinal cell type.
+The findings may help scientists develop new drug treatments for Covid-19
+Scientists at the University of Utah in US have found no evidence of Covid-19 in the semen or testes of the infected men.
+While the study was not comprehensive enough to fully rule out the possibility that the disease could be sexually transmitted, the researchers say that their findings indicate that the chances of transmission through semen is remote.
+The researchers collected semen samples from 34 Chinese men, who were diagnosed with mild to moderate cases of Covid-19, for the study published in the journal Fertility & Sterility.
+Laboratory tests did not detect SARS-CoV-2 in any of the semen samples.
+Also read: Covid-19 fight is a Test match, not a T20. Here’s what India needs to do to win
+Researchers from Saint Petersburg State University in Russia have found that high levels of a protein called ferritin in the body can indicate an increased risk of complications and death.
+Ferritin is a major intracellular iron storage protein in all organisms. It neutralises the toxic properties of iron and increases its solubility in the body. In the soluble form, the body is able to expend iron when needed.
+In 50 per cent cases, the team said, those who died of the novel coronavirus had exceptionally high ferritin levels.
+Low ferritin levels result in lower iron concentrations and iron deficiency anaemia. Elevated levels of ferritin, or hyperferritinemia, indicate the presence of viruses and bacteria in the body.
+Scientists at the University of California San Diego are working on creating a stable, easy-to-manufacture Covid-19 vaccine using plant viruses.
+With a grant from the US National Science Foundation, the team aims to develop a vaccine that can be self-administered painlessly in a single dose.
+It will be packaged in slow-release microneedle patches that patients can wear on the arm.
+The team is using a plant virus that infects legumes and engineering it to look like the SARS-CoV-2. This can stimulate an immune response in the body.

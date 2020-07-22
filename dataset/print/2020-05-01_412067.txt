@@ -1,0 +1,36 @@
+User data in Aarogya Setu fully secure, app won’t share personal details: MyGovIndia CEO
+New Delhi: The Aarogya Setu mobile application was not launched to “steal” people’s data and labelling such allegations during a pandemic is “extremely pointless”, said Abhishek Singh, CEO of MyGovIndia, which has developed the app.
+MyGovIndia is an online platform that aims to connect citizens to the government.
+The Aarogya Setu app was designed by MyGovIndia with an objective to collect data on people’s location and cross-refer it with the Indian Council of Medical Research’s database of Covid-19 tests to warn a user if an infected person is in the vicinity. The app was launched on 2 April.
+While the Narendra Modi government has been pushing for aggressive adoption of Aarogya Setu, the app has also invited criticism over privacy standards as it asks a user to provide access to location data at all times and also asks for the user’s name, gender, profession, and countries visited in the last 30 days.
+In an exclusive interview to ThePrint, Singh, however, said, “The Government of India will use the users’ data only for certain critical purposes such as medical emergencies. This apart, the data will not be used for any other work.” 
+He added, “The app will not reveal anyone’s personal details. Information of any Covid-19 patient will not be shared with anyone. User’s data in the app is completely secure. In case of normal people, we delete the data from the server after 30 days. In case of a corona-infected patient, the limit to remove the data is 60 days.” 
+Explaining how the application works, Singh said: “As soon as a user enters into any of the coronavirus-affected zones or comes in contact with a coronavirus-infected person, he will receive a notification.”
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+He said the location data of a user is only used to track the person’s movement so that he/she can be alerted. “Apart from this, the location data would not be used anywhere else,” Singh said.
+He further said the app would work efficiently only if a user submits all the right information. 
+Speaking about the benefits of downloading the app, Singh said: “Those who get symptoms similar to coronavirus will get a phone call. They are also connected to the doctors. Suggestions are given to people like what is better for their health and what steps they should take.”
+Besides the controversy over privacy issues, there have also been concerns that the app could be misused by Pakistan intelligence operatives. ThePrint reported earlier how the Pakistan operatives created a fake Aarogya Setu app to extract sensitive information about India’s defence forces. 
+But all these concerns doesn’t seem to have affect the popularity of the app. It has seen 8.2 crore downloads across the country so far, said Singh.
+Also read: Coronavirus has brought India’s almighty Centre back, and Modi’s unlikely to give up control
+Singh said they are asking state governments to motivate more and more people to download the app.
+Among the states, Uttar Pradesh has seen the highest number of downloads at 1.25 crore, followed by Maharashtra at 95 lakh and Gujarat at 52.44 lakh.
+As many as 1,200 people have downloaded it so far in Lakshadweep, Singh said.
+“Our effort is to ensure that maximum number of people download this app. It will work more efficiently and accurately only when a large number of people download it. Our aim is to ensure that every person using a smartphone downloads it,” he added.
+The app’s reach is, however, low among the elderly.
+“The app is being downloaded by the young people. We have conducted a telephonic survey to know about those who are not downloading this app. It revealed that even though the older generation is more than willing to download the app, there is no one to guide them. They are not being able to comprehend its installation process,” he said.
+Asked what they could do to fix this, Singh said they are running a special campaign through which young people are being requested to help the older generation in their family to download the app.
+“Apart from this, the central government has prepared short videos on how to install the app. Also, there are 3 lakh common service centers across the country that have been directed to help the elderly in this regard. So far, these service centers have helped 1.5 crore elderly people in downloading the app,” he said.
+To popularise the app in villages and remote areas, a campaign featuring celebrities has been launched.
+Also read: Covid hasn’t gone viral in India yet, but some in the world & at home can’t accept the truth
+Singh said the Aarogya Setu app was developed within 15 days. 
+“It was a result of a combined effort by government officials and some from the private sector, who have a know-how about new technology. It is inspired from a similar app, which was previously created in Singapore called ‘Trace Together’ app,” he said. 
+Singh also said it is a misconception that the app consumes too much battery. 
+“…it is a very light-weight app and uses the same amount of battery as Facebook, WhatsApp and other social media apps do. The data consumption is also free. It continues to function even in the battery-saving mode.”
+A large number of people continuously monitor this app, he added.
+“The PMO, the home ministry and several other ministries get all the updates related to the app,” Singh said.
+The government official also said people will soon be able to contact doctors via the app.
+He said those who don’t have smartphones will be reached out through an IVRS (Interactive Voice Response System) module.
+“They will be contacted via a dedicated IVRS number 1921. People will be asked about their health and accordingly advice would be given. Medical examination will be conducted if needed. This facility is expected to start in one or two days,” said Singh.

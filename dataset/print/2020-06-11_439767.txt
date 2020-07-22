@@ -1,0 +1,35 @@
+India’s R value holds steady at 1.22 in 12th week of lockdown, but Delhi still a red flag
+New Delhi: The overall Covid-19 reproduction value, denoted as R, for India has been holding steady at 1.22 since 21 May, but the R for Delhi has increased to 1.41, raising some concern.
+The R denotes the number of people an infected person can spread the disease to, and is an important indicator of how quickly the infection is spreading.
+The national capital, which currently has 19,581 active cases, has been seeing a large number of new cases on a daily basis.
+Though both R and the basic reproduction number ‘R0’ (pronounced R naught) denote the number of people one person can infect, the two are different.
+On the one hand, R0 is calculated at the beginning of the epidemic when the entire population is assumed to be susceptible to the disease. On the other hand, R changes with time and takes into account that some individuals are protected from the disease, either from having developed the immunity or adhering to preventive measures such as social distancing.
+Sitabhra Sinha, a researcher at the Institute of Mathematical Sciences in Chennai, had projected that without lockdown measures, the basic reproduction number (R0) of Covid-19 in India would have been 1.83, which would have translated to 1 lakh active cases by 27 April.
+An R of 1.29, as it had been between April 13 to May 14, would have meant that the number of active cases would have hit 1.5 lakh by May 30. Currently, India has 1,37,448 cases.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Between 29 May and 4 June, the R value further reduced to 1.22, from around 1.23 (estimated in the second half of May).
+Also read: India’s Covid recoveries continue to outnumber active infections for a second day
+Among states with the highest number of coronavirus cases, several, including Maharashtra, Tamil Nadu and Madhya Pradesh, have shown a decline in the rate of growth of new cases.
+In contrast, Delhi’s R value went from 1.2 between 20-25 May to 1.4 between 26 May and 4 June.
+The national capital’s R value has been consistently erratic. At the start of May, the R rose to 1.53 from 1.15 (estimated between April 15-18). Subsequently, this value reduced to 1.31 between 7-10 May.
+Of the total 32,810 cases reported in Delhi, so far 12,245 cases have recovered and 984 have died.
+Also read: Why Delhi’s Covid patients are running from pillar to post in search of a hospital bed
+Haryana, Assam and Uttarakhand have also been a cause for concern given a sudden rise in their R value.
+While Haryana’s stands at 1.9, Assam’s R is 1.68 and Uttarakhand’s is 2.07.
+Since the numbers of infections have only recently started growing in these states, an R value was not calculated earlier. However, they currently stand at a substantially larger number than many other states.
+Uttarakhand has had only 1,562 confirmed coronavirus cases so far, of which 15 have died while 831 people have recovered. The state crossed the 1,000-mark only earlier this month.
+Haryana reported 5,579 cases in total while Assam has reported 3,092 cases.
+Also read: Ramdev sends Ayurveda medicines to quarantined Uttarakhand CM Rawat, ministers to fight Covid
+Maharashtra has consistently been the state with the most number of coronavirus cases for more than a month now. In fact, its growth curve has been similar to that of India’s overall numbers.
+For the period of 13-26 April, the state’s R value was estimated to be 1.49. This dipped to 1.34 between 23 April-15 May, and further to 1.27 by 25 May. Between 30 May and 4 June, the number was pegged at 1.18, lower than India’s R value, Sinha said.
+The state currently has 46,086 active cases.
+Also read: Maharashtra has highest number of Covid cases in India, but is fifth in terms of fatalities
+Tamil Nadu, the state with the third highest number of active cases, was estimated to have 1.31 R value 30 May and 4 June. After a brief period in early May, when the R value was above 2, the number settled to 1.56 in the first half of the month, Sinha said.
+The state, which recorded 17,182 active cases as of Thursday, had seen a spike in the new cases in early May, which was a result of people crowding Chennai’s Koyembedu wholesale market and panic buying, turning it into a hotspot.
+West Bengal too showed a marked reduction in its R value to 1.26. Between 15-28 April, the value for the state was 1.51.
+After showing rapid growth in cases recently, possibly due to the large scale movement of migrant workers, Bihar, Jharkhand and Jammu & Kashmir have seen their R values settle around 1.4.
+Gujarat, Madhya Pradesh and Rajasthan — which were hotspots in the early stages of the pandemic in India — have very low growth rates now.
+Of the 21,521 cases that were reported in Gujarat from the beginning, only 5,439 were active as of Thursday.
+Both Madhya Pradesh and Rajasthan recorded over 10,000 total cases, but the active cases now stand at a little over 2,700.

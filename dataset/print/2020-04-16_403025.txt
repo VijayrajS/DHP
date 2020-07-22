@@ -1,0 +1,20 @@
+Aarogya Setu is fastest app in the world to reach 50 million users despite privacy concerns
+Mumbai: An app launched by Prime Minister Narendra Modi’s government to track and contain the spread of the coronavirus is the fastest ever to reach 50 million users, while being dogged by privacy concerns.
+Aarogya Setu — Hindi for Healthcare Bridge — alerts users if they come in contact with an infected person and informs them about health services they could contact. It garnered 50 million users in 13 days, tweeted Amitabh Kant, chief executive officer at government think tank Niti Aayog. That’s the fastest pace for any app including Facebook, he said.
+Telephone took 75 years to reach 50 milion users, radio 38 yrs,television 13 yrs,Internet 4 yrs, Facebook 19 months, Pokemon Go 19 days. #AarogyaSetu,India’s app to fight COVID-19 has reached 50 mn users in just 13 days-fastest ever globally for an AppSalute the spirit of India! pic.twitter.com/xKqt3Tmj4f
+— Amitabh Kant (@amitabhk87) April 14, 2020
+
+ 
+Singapore also launched TraceTogether app last month. Apple Inc. and Google have joined hands to develop a technology to curb the spread of the virus by telling users they should quarantine or isolate themselves after contact with an infected individual.
+“Digital technologies can be used to monitor the spread of Covid-19. Such initiatives, largely voluntary, have been successful in helping combat the pandemic in East Asia,” the World Bank said in its latest South Asia Economic Focus report.
+Aarogya Setu compares unfavorably with TraceTogether, according to the Internet Freedom Foundation. While countries including Singapore say that contact tracing will be used strictly for disease control and cannot be used to enforce lockdowns or quarantines, Aarogya Setu retains the flexibility to do just that; other apps just collect one data point which is subsequently replaced with a scrubbed device identifier while Aarogya Setu collects multiple data points for personal and sensitive personal information which increases privacy risks.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+“As such the Aarogya Setu application appears to clearly be inconsistent with privacy-first efforts,” Sidharth Deb, policy and parliamentary counsel at Internet Freedom Foundation, said in a working paper. “There is a need to immediately rollback the application or expedite measures to improve the app’s design and deployment in terms of trust, security and informational privacy.”
+Representatives for India’s Health Ministry and Information Technology Ministry didn’t immediately reply to emails seeking comment. India Army’s advised its personnel that they can’t use the app while on office premises, operational areas and in other sensitive locations, the Print website reported. In his address to the nation Tuesday, Modi urged citizens to download Aarogya Setu. The app is available on Android’s Google Play — where it’s ranked as the top free app — and on Apple’s App Store.
+India has 12,456 confirmed coronavirus cases, including 422 deaths, according to data from Johns Hopkins University. –Bloomberg
+Also read: Army advises personnel to use govt’s Aarogya Setu app, but with usual cyber precautions
+ 
+Subscribe to our channels on YouTube & Telegram 
+News media is in a crisis & only you can fix it

@@ -1,0 +1,35 @@
+10-year-old US firm with Harvard and MIT brains begins first COVID-19 vaccine trials
+New Delhi: Moderna, a ten-year-old US-based firm, is now leading the global race to develop a vaccine for the novel coronavirus that has killed over 7,000 and infected over 1.8 lakh people across the world until now. 
+The company has launched the first human trials of the vaccine at Kaiser Permanente Washington Health Research Institute (KPWHRI) in Seattle, US. The trials will involve 45 healthy adult volunteers aged 18 to 55 years over approximately six weeks. 
+The company that has no approved drug to its credit yet started its efforts to develop a vaccine for COVID-19 (the disease caused by the severe acute respiratory syndrome coronavirus 2 or SARS-CoV-2) in mid-January. This makes its offering the fastest vaccine to move to Phase 1. However, even if this trial is successful, it will take over a year for the vaccine to become commercially available. 
+There are two more phases that a candidate vaccine needs to go through before it is approved for the public. 
+Also Read: How coronavirus spread in India — 39 of the first 50 patients came from Italy, Iran, China
+Moderna started its operations in 2010 and has since received grants from the US government’s Defence Advanced Research Projects Agency (DARPA) as well as the Bill and Melinda Gates Foundation, a philanthropic organisation. 
+The company works specifically on drugs and vaccine candidates made of messenger RNA (mRNA). 
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+The mRNA is a molecule that genetically encodes a set of instructions, based on which cells make proteins and send them to various parts of the body.
+Medicines based on mRNA technology take advantage of normal biological processes of the body to create the desired therapeutic effect, according to the company. 
+Instead of introducing protein drugs to the body, mRNA drugs trigger cells to produce the required proteins to fight off an infection. This method prevents the immune-system response from kicking in and hampering the effect of a drug.
+The company is based on research conducted by stem cell biologist Derrick Rossi at Harvard Medical School. In 2010, Rossi’s team published a paper describing the method for modifying messenger RNA and injecting it into human cells. 
+Identifying the commercial potential of the technology, Rossi collaborated with Tim Springer, an immune-disease expert also from Harvard Medical School, MIT scientist and entrepreneur Bob Langer, and Ken Chien, a cardiology expert from Massachusetts General Hospital and Harvard Medical School. Together, they approached venture capitalist Noubar Afeyan, the managing partner and CEO of Flagship Ventures. 
+The venture had operated in stealth mode for the first 18 months, as it went about conducting preclinical trials to demonstrate the potential of their mRNA research. 
+Moderna currently has 21 candidate vaccines and drugs in its pipeline, of which 13 are undergoing clinical tests. These include potential new mRNA medicines for treating infectious diseases, cancer, rare diseases and cardiovascular disease. The company has published at least 45 scientific papers describing their research. 
+However, the company has no approved drugs to its credit yet. 
+The company’s most advanced vaccine programme — to prevent infection from Cytomegalovirus (CMV), a common virus that generally doesn’t manifest in symptoms but may cause hepatitis — is under Phase 2 trial.
+Also Read: Why doctors in Italy are letting some coronavirus patients die to save others
+On 12 January this year, authorities in China, where COVID-19 originated, shared the genetic sequence of the novel coronavirus (SARS-CoV-2) with the WHO. 
+At the time, only 40 cases of infection had been reported from Wuhan, China — the epicentre of what is now a global pandemic.
+Within two days, Moderna’s infectious disease research team — working with the US National Institutes of Health (NIH) — finalised the sequence for mRNA-1273, a candidate vaccine against the novel coronavirus. 
+Manufacture of the first batch of the vaccines was funded by the Coalition for Epidemic Preparedness Innovations (CEPI), a global alliance financing and coordinating the development of vaccines against emerging diseases. 
+Within 25 days, the production of the first clinical batch was completed. On 4 March, the US Food and Drug Administration (FDA) gave Moderna the approval to begin clinical trials for mRNA-1273.
+On Monday night, the US government announced that the first participant in its Phase 1 study for mRNA-1273 has been dosed.
+The Phase 1 study will evaluate the safety and efficacy of three dose levels of mRNA-1273 (25, 100, 250 microgrammes) administered on a two-dose vaccination schedule, given 28 days apart. 
+The 45 participants will be followed through 12 months after the second vaccination. 
+While Moderna may have gotten a headstart, it is not the only company that has a candidate vaccine. 
+Moderna rival CureVac, a German company that has been in operation since 2006, is also working on an mRNA-based coronavirus vaccine. CureVac, too, has received funding from CEPI for the development of the vaccine. 
+According to media reports, the Trump administration attempted to lure this company into moving its research operations to the US. 
+Apart from these, CEPI is also investing $4.4 million in partnering agreements with biotech firm Novavax and the University of Oxford to rapidly develop candidate vaccines against COVID-19. 
+CEPI will provide initial funding to US-based Novavax to enable preparations for phase 1 trials. Funding for the University of Oxford in the UK project will support the manufacture of vaccine materials required for preclinical and Phase-1 testing. 
+Earlier this year, CEPI announced initial funding to US-based Inovio Pharmaceuticals and University of Queensland, Australia, to develop COVID-19 vaccine candidates.

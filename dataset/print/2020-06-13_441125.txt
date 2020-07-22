@@ -1,0 +1,9 @@
+Health ministry revises stance on HCQ for Covid treatment, allows remdesivir for emergency use
+New Delhi: The Union Health Ministry has recommended use of anti-viral drug remdesivir under emergency use authorization, off-label application of immunomodulator tocilizumab and convalescent plasma therapy for treating COVID-19 patients in moderate stage of criticality.
+Backtracking from its earlier stance, the ministry in its revised ‘Clinical Management Protocols for COVID-19’, released on Saturday, said anti-malarial drug hydroxychloroquine (HCQ) should be used in the early course of the disease to achieve any meaningful effect and should be avoided in severe cases.
+In the new set of protocols, the ministry has removed its earlier recommendation of using hydroxychloroquine in combination with azithromycin in severe cases and requiring ICU management.
+Hydroxychloroquine has demonstrated in-vitro activity against SARS-CoV2 and was shown to be clinically beneficial in several small single-centre studies though with significant limitations, it stated.
+“Nonetheless, several large observational studies with severe methodologic limitations have shown no effect on mortality or other clinically meaningful outcomes.
+“As such, the evidence base behind its use remains limited as with other drugs and should only be used after shared decision making with the patients while awaiting the results of ongoing studies,” the revised document stated.
+“As is the case with other anti-virals, this drug should be used as early in the disease course as possible to achieve any meaningful effects and should be avoided in patients with severe disease,” it read.
+An ECG should ideally be done before prescribing the drug to measure QTc interval, to assess some of the electrical properties of the heart, and avoid hydroxychloroquine if QTc is greater than 500 ms, it said.

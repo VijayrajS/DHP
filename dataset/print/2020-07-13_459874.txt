@@ -1,0 +1,17 @@
+India’s R value for Covid-19 drops back to 1.11, after three-month high last week
+New Delhi: India’s effective reproduction number ‘R’ for Covid-19 — a key parameter to measure the rate of infection — has decreased again to 1.11 after it had increased for the first time in three months last week.
+The R value went up to 1.19 on 7 July from 1.11 around 26 June, just a week since ‘Unlock 2’ kicked in. The last time India saw its R value go up was around 6 April, when it had climbed to 1.83 from 1.7.
+According to Sitabhra Sinha, a researcher at the Institute of Mathematical Sciences in Chennai, the R for Covid-19 in India has gone back down to 1.11 this week.
+At this rate, India is likely to cross four lakh active coronavirus cases by 29 July.
+An epidemic is arrested when the R value consistently remains below 1. However, without continued precautions, it can increase again.
+“From about 10 June onwards, the R has been steady at around 1.11. But for about 4-5 days last week it went up to 1.19 and after that it just came back to 1.11 again,” Sinha told ThePrint.
+Also read: Fatigue and shortness of breath persist in recovered Covid patients, study finds
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+R and R0 (basic reproduction number) are an estimate of the number of people one patient can infect.
+R0 is calculated at the beginning of the epidemic when the entire population is assumed to be susceptible to the disease. The ‘R’ changes with time, and takes into account that some individuals are protected from the disease — either because they have developed immunity or because of social distancing and other measures.
+For India, R0 was calculated to be about 1.83 in April.
+‘R’ is a product of three factors — the probability of infection when a susceptible person comes in contact with an infected individual, the average rate of contact between susceptible and infected individuals and the duration during which an individual spreads the infection.
+It is calculated through mathematical epidemiological models that compute how fast the virus spreads through the population.
+As of Monday, India has 3,01,609 active cases of coronavirus. Over 8.7 lakh people have been infected by the virus so far, of which 23,174 have died while 5,53,471 have recovered.

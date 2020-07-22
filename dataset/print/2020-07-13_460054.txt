@@ -1,0 +1,45 @@
+30 patients, 2 months — how Biocon claims to have found a Covid hope in itolizumab
+Bengaluru: Biocon executive chairperson Kiran Mazumdar-Shaw Monday announced details of the trial that led the company to secure the government’s approval to use psoriasis drug itolizumab on Covid-19 patients. 
+The drug controller general of India (DCGI) had Saturday approved itolizumab for emergency, restricted use among severe Covid-19 patients, making it the first indigenous drug to be cleared for coronavirus treatment.
+Itolizumab was first used in 2013, when it was approved after a 52-week phase-III multi-centre trial.
+“We have seven years of safety data of the drug which has proven to down regulate the cytokine storm. We have explained all the working mechanism of the drug and shown the safety data, due to which the drug controller general of India also felt that it is worth trying,” said Mazumdar-Shaw. 
+According to Shaw, the study to evaluate itolizumab’s response among Covid patients involved 30 patients, of whom 20 were given the drug and 10 served as control. 
+The latter only received “best supportive care”, which included regular treatment by hospitals as well as antivirals, antibiotics, oxygen therapy, and hydroxychloroquine, where applicable. Supportive care varied across institutions. All 20 patients who were given itolizumab recovered, Mazumdar-Shaw said. 
+“Apart from the 20 patients who recovered in this trial, many doctors across the country decided to use (itolizumab brand name) Alzumab, which is available in the market, just like they use tocilizumab, to save people’s lives. Over 150 people have been rescued by/benefitted from itolizumab or Alzumab (brand name), in Maharashtra, Gujarat, Delhi,” she added.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+According to Biocon, each patient would require four vials of the drug, an injectable, with a cumulative price tag of Rs 32,000.
+Also Read: Psoriasis injection ‘Itolizumab’ approved for Covid-19 treatment by India’s drug controller
+Itolizumab has been developed by Biocon in collaboration with the Centre for Molecular Immunology (CIM) in Cuba. Itolizumab is a ‘humanised monoclonal antibody’ — humanised antibodies are those that are derived from a non-human animal with modified protein sequences that make it work in human bodies — of the IgG1 class, which targets the CD-6 cytokine receptor. IgG antibodies are usually produced in the later stages of infection and see the body through recovery.
+Cytokines are proteins responsible for transmitting signals between immune cells and, by modulating their signals, help regulate the immune response. 
+Some cytokines raise immune activity and start to overpopulate in the body, leading to an immune overdrive known as a cytokine storm. Immune cells then start to destroy red and white blood cells, permeate tissues, and dropping blood pressure. This leads to organs not getting enough blood, causing organ failure, which in turn could lead to permanent organ damage or death. This is believed to be the leading cause of death among Covid patients. 
+Cytokine storms are not unique to Covid-19, and were reported from deaths during the SARS outbreak as well. 
+The Biocon trial started in May and concluded 7 July. Each patient underwent treatment for a month and was monitored for cytokines, platelets, creatinine, oxygen pressure, regular vitals, etc, said Mazumdar-Shaw. 
+It was observed, she added, that there was a reduced mortality rate among those who were given the drug, while three among those who hadn’t received the treatment died. The patients also showed “significantly reduced” levels of cytokines IL-2, IL-6, IL-17, and TNF alpha, which lead to inflammation and can lead to deaths of cells and tissues during an overly excited immune response. 
+Mazumdar-Shaw also stated that Biocon’s partners in Cuba had simultaneously begun trials on the drug, adding that they seemed to indicate positive results as well. Out of 76 patients on whom the drug was tested, she said, they found that 79.2 per cent were discharged from the ICU after 14 days of treatment. 
+She clarified that the effects of the drug were better in those who were severely ill with acute respiratory distress syndrome (ARDS) as opposed to those who were critically ill. In the Indian trial, blood oxygen levels improved, and a single dose led to significant improvement, she said.
+“The drug reboots our immune system,” said Mazumdar-Shaw in the teleconference. “The objective with the ongoing outbreak should be to keep the mortality rate below 1 per cent. Under the trial both objectives — primary to reduce the deaths and, secondary, to reduce the cytokine storm — were achieved.” 
+Among the 20 patients who took the drug, 19 were men, with comorbidities like diabetes, hypertension, and hyperthyroidism. In the control group, 7 were men and three were women. The average age in the trial was 50. 
+The drug, Biocon said, is to be administered intravenously, in the form of an injection (25mg/5mL solution), to temper the immune response in moderate to severe ARDS patients suffering from Covid-19. 
+Also Read: We have protected lives, it’s time to protect livelihoods: Kiran Mazumdar-Shaw on lockdown 
+The study details were met with mixed reactions from the medical community, who lauded the promising results but pointed out the small sample size. 
+“It is commendable that they managed to enrol sick hospitalised patients and complete the trial on time,” said Dr Varun Cheruparambath, a cardiologist at Medical Trust Hospital, Kochi. 
+“If this is replicated in a larger trial, it could be huge. But I find it difficult to believe that not a single patient receiving itolizumab went on the ventilator while a good number had to be intubated in the small control arm. This brings me to suspect there may have been baseline differences in each arm (either age or comorbidities). It would be interesting to see how patients were recruited from so many centres,” he added.
+In Trial Number CTRI/2020/05/024959, "Efficacy and Safety of Itolizumab in COVID-19 Complications" the sample size was, wait for it..
+grab a chair, put your coffee cup down, steady yourslef
+ THIRTY, yes you read that right 30, (3 times 10, 30)
+I kid you not, here it is: pic.twitter.com/neTu388KQ9
+— JayEnAar (@GorwayGlobal) July 12, 2020
+
+ 
+On Twitter, Mazumdar-Shaw weighed in on the questions about the small sample size, saying emergency-use approval during crises is provided to smaller sample sizes. She also said the detailed study will be published in journals in the coming days.
+The term Restricted Energency Use approval is given to small trials during a time of an emergency with statistical significance between arms. All patients on Itolizumab arm recovered n met primary n secondary end points – this is about saving lives.
+— Kiran Mazumdar Shaw (@kiranshaw) July 12, 2020
+
+FYI there will be several publications. Yes the data is robust.  The statistical data is strong. Plan to publish in eminent journals n send you reprints.
+— Kiran Mazumdar Shaw (@kiranshaw) July 12, 2020
+
+With inputs from Himani Chandna
+Kiran Mazumdar-Shaw is among the distinguished founder-investors of ThePrint. Please click here for details on investors.
+Also Read: Made-in-India Covid-19 vaccine could be ready in a year, says Biocon’s Kiran Mazumdar-Shaw

@@ -1,0 +1,29 @@
+R0 at 1.27 but experts say India yet to hit Covid peak, lockdown alone can’t end pandemic
+New Delhi: India’s Covid-19 R0 (pronounced ‘R-naught’) — a measure of how infectious a disease is — has gone down to 1.27 for the period 19 April-3 May, from the mark of 1.83 between 4 March and 6 April.
+However, researchers working on mathematical models in Chennai and Kolkata say lockdown measures, which have been in place for 44 days as of Thursday, are not sufficient by themselves to bring the epidemic to a halt, and that India has still not hit its peak of infections.
+R0 is a metric that describes the number of people an infected person is likely to spread the disease to. An epidemic ends when this value goes below 1.
+Also read: R0: There is maths to how scientists judge the intensity of outbreaks like coronavirus
+According to Sitabhra Sinha, researcher at the Institute of Mathematical Sciences in Chennai, the R0 figure of 1.27 is significantly lower than the initial rate at which the infection was spreading. This reduced growth rate, he said, could result in the number of active cases by mid-May to be about 55,000 to 62,000. At the initial rate of growth, the number of active cases would have crossed 100,000 by the end of April.
+However, the epidemic has not peaked as it was expected to, and infections are continuing to rise. This suggests that while the lockdown helped reduce overall numbers, it was not as efficient as hoped.
+Sinha also analysed the nature of the growth of active cases in different states.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Maharashtra, which has the highest number of active cases, shows an R0 of 1.49 between 13 and 26 April, although estimates for the period 22 April-May 4 come to around 1.37. This is significantly higher than the current value for the entire country.
+Most of the southern states are showing almost linear growth at present, suggesting that the epidemic may have been contained in these states.
+The exceptions are Andhra Pradesh, with an R0 of 1.27 between 6 April and 1 May, and Tamil Nadu, which has exhibited a sharp rise to an R0 of 1.83 between 29 April and 4 May, after showing relatively flat growth before that.
+Sinha said large-scale lockdown violations could explain increased growth rate in some states. For example, two weeks ago, Tamil Nadu saw a round of panic buying at the Coimbatore wholesale market, where people arrived from different parts of the state around 25 April. This, he said, could explain the sudden increase in growth rates.
+Delhi and Punjab, too, have both shown a sudden increase in the growth rate. Delhi’s R0 from 1-4 May is estimated to be 1.53, while Punjab’s for 28 April-4 May stands at 1.48.
+“There have probably been similar incidents of lockdown violations in other states as well, which would explain the spike in growth rates,” Sinha said.
+Sinha had been reporting a steady decline in the R0 over the last few weeks, but the metric seems to have steadied now. He said estimating R0 while the growth trend was transitioning could introduce errors, and explained that analysing the data over a longer period of time could give better estimates.
+“It is more important to note that there has been a significant decline,” he said.
+The current estimate suggests that in the absence of other containment measures, a lockdown by itself may be insufficient to prevent the epidemic from growing again, once the stringent restrictions on movement of people are removed, Sinha said.
+Also read: Slowing infection, better recovery but mixed bag in states: What India gained from lockdown
+Meanwhile, a mathematical model by researchers at the Indian Institute of Science Education and Research, Kolkata, also shows that India’s lockdown has not been as efficient as hoped, although it brought down the number of cases significantly.
+Dr Dibyendu Nandi from IISER told ThePrint that the lockdown should have ideally caused the epidemic in India to reach its peak in late March, when there were just 15,000 active infections. The total number of deaths in an ideal scenario would have been limited to 5,500.
+However, he also said the observed numbers show that the epidemic has still not peaked.
+“Instead, if we consider that the lockdown was not efficient in the beginning, but gradually became better-enforced, the simulation of our model better matches what is being observed,” Nandi said.
+Under the current circumstances, Nandi’s team predicts that the epidemic curve will start to see a decline around 17 May. However, at that time, India will still have too many active cases to completely lift the lockdown. “If the government allows everything to go back to normal after 17 May, we will risk a second wave of infections,” Nandi said.
+Siddhartha Pratim Chakrabarty from IIT Guwahati told ThePrint that it is important to observe the data trends for a longer period of time to better estimate how the rate of growth has changed.
+With a recent grant of Rs 5.5 lakh from the central government’s Department of Science & Technology, Chakrabarty’s team will create its own estimation model that will help predict whether there is a possibility of a second wave of infections in India.
+Also read: Can computers find a potential drug to fight Covid-19? Experts say it’s a long journey

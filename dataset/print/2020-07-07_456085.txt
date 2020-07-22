@@ -1,0 +1,42 @@
+India’s R value increases for the first time in 3 months — at 1.19 from 1.11 a week ago
+New Delhi: India’s effective reproduction number ‘R’ for Covid-19 — a key parameter to measure the rate of infection — marked an upward trend for the first time since early April.
+The R value went up to 1.19 on 7 July from 1.11 around 26 June, just a week since ‘Unlock 2’ kicked in. The last time India saw its R value go up was around 6 April, when it climbed to 1.83 from 1.7.
+At the current rate of growth, the number of active cases in India is likely to cross 4 lakh by 19 July.
+‘R’ denotes the number of people a Covid-positive person can infect and is an important indicator of how quickly the infection is spreading.
+Sitabhra Sinha, a researcher at the Institute of Mathematical Sciences in Chennai, told ThePrint that R had reduced to 1.11, between 10 June and 26 June, from 1.2, between 5 May and 13 June.
+“So we are back to the situation of May and early June,” he said.
+If the R value had remained at 1.11, expected active cases by July 19 would have been just over 3 lakh.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+An epidemic is arrested when the R value consistently remains below 1. But without continued precautions, it can increase again.
+Also read: Govt denying but India had Covid community transmission in April, health ministry paper says
+The rise to 1.19 comes roughly a month after India’s exit from the lockdown on 8 June, which lifted restrictions on travel and allowed religious places to reopen. From 1 July, ‘Unlock 2’ came into force, which allowed further expansion of train and flight services.
+R and R0 (basic reproduction number) are an estimate of the number of people one patient can infect.
+R0 is calculated at the beginning of the epidemic when the entire population is assumed to be susceptible to the disease. The ‘R’ changes with time, and takes into account that some individuals are protected from the disease — either because they have developed immunity or because of social distancing and other measures.
+For India, R0 was calculated to be about 1.83 in April.
+Sinha calculated the R values for states that have the most number of active cases.
+Maharashtra
+Maharashtra has the highest number of coronavirus cases in the country at 2,11,987, with 87,699 active cases.
+The R for the state has been reducing since April. In fact, its growth curve has been similar to that of India’s overall R numbers, Sinha said.
+However, since 16 June, the number is holding steady at 1.19.
+For the period between 13 and 26 April, the state’s R was 1.49. This dipped to 1.34 between 23 April and 15 May, and further to 1.27 by 25 May. Between 30 May and 4 June, the number was pegged at 1.18.
+The states of Tamil Nadu, Gujarat, Karnataka and West Bengal have seen a rise in the R values over the past week.
+Tamil Nadu
+For Tamil Nadu, the R increased from 1.20 until 26 June to 1.22. However, these are still lower than May, when R was calculated to be 1.31 between 30 May and 4 June.
+After a brief period in early May, when the R value was above 2, the number settled to 1.56 in mid-May, Sinha said.
+Tamil Nadu, which reported 46,836 active cases as of Tuesday, had seen a spike in new cases in early May, which was a result of people crowding Chennai’s Koyembedu wholesale market while panic-buying, turning it into a hotspot.
+Gujarat
+Meanwhile, for Gujarat, the R was 1.09 between 2 and 21 June, but increased to 1.15 between 26 June and 5 July. The state had briefly seen sub-exponential growth between 21 and 26 June.
+Sub-exponential growth is when the number of fresh cases each day remains more or less constant. A disease is said to follow an exponential curve when the number of fresh cases everyday is more than what was recorded the previous day.
+Karnataka
+Karnataka’s R value was at 1.30 between 18 and 22 June, which had lowered to below 1.15 by 26 June. The numbers from the state, however, were fluctuating too much last week for R to be calculated robustly.
+Sinha said that the R for Karnataka has now increased to 1.66 — the highest among the worst-performing states. The state currently has 14,389 active cases.
+West Bengal
+Between 8 and 12 June, West Bengal had R pegged at 1.21. Last week, the state showed a sub-exponential growth. However, between 1 and 4 July, R increased to 1.10.
+Also read: Covid testing numbers on rise, but states are feeling the pinch of high RT-PCR costs
+For states such as Delhi, Telangana, Andhra Pradesh and Haryana, the R values decreased.
+For Delhi, the growth of cases is now sub-exponential, i.e., at a more or less the same volume, as opposed to an R of 1.26 just last week.
+Telangana, which had the country’s highest R value last week at 1.69, now has an R value of 1.65. The state had come under the scanner for its handling of the crisis, which included low testing of samples  —  factors which possibly caused the infection rates to shoot up.
+In Andhra Pradesh, the value of R has gone down from 1.34 between 11 and 26 June to 1.32 as of 5 July.
+Haryana’s R value was about 1.56 last week which has now dropped to below 1.

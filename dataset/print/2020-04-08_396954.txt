@@ -1,0 +1,24 @@
+Is coronavirus mutating in India? If yes, how? CSIR starts genetic sequencing to find out
+New Delhi: Two institutes functioning under the Council of Scientific and Industrial Research (CSIR) have started conducting genetic sequencing of virus isolates from coronavirus patients’ samples. The aim is to have a better understanding of coronavirus mutations in India.
+Rakesh K. Mishra, director of Centre for Cellular and Molecular Biology (CCMB), told ThePrint the institute is working with the CSIR-Institute of Genomics and Integrative Biology (IGIB) to conduct genome sequencing of the SARS-CoV-2 (the virus that causes the Covid-19 disease). The CCMB comes under the CSIR.
+“It will take a few days before we can start drawing any conclusion from the data,” Mishra said. He added the availability of the virus samples is important. 
+“To begin with, we are getting isolates from Hyderabad, but we are writing to NIV (National Institute of Virology in Pune) and a few other places to get isolates from different places,” Mishra said.
+Analysing 50 samples takes five to six days. Over the course of the next couple of weeks, once more samples become available, the institutes will sequence over 100 samples from different locations.
+Genetic sequencing is important as it helps in finding drugs and vaccines, besides figuring out if there has been a mutation of the virus and how it will affect different populations. It is also essential to finding ways to deal with the spread of the virus.
+Also read: This is how my team isolated the new coronavirus to fight the global pandemic
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+The SARS-CoV-2 virus is primarily made of three important elements — spike proteins that help the virus bind to a living cell, ribonucleic acid (RNA) strands that start replicating inside a living cell and fatty envelop that holds all the components together.
+The RNA strands can be thought of as a code that determines how the virus will behave. Coronaviruses have about 26,000 to 32,000 bases or RNA “letters” in their length.
+The virus multiplies inside living organisms’ cells by creating copies for the RNA. However, the process it uses to make these copies is not perfect, and often introduces tiny errors in the sequence of ‘letters’ — much like a game of Chinese whispers.
+These errors are known as mutations, which can introduce slight variations in the behaviour of the virus. 
+These mutations are an essential part of how a virus evolves. The errors that do not help in the survival of the virus eventually get eliminated, while other mutations get embedded.
+Some viruses, such as the coronaviruses that cause flu, change their genetic code extremely rapidly. This is the main reason why it’s so difficult to find a vaccine for coronaviruses. They evolve quickly, making vaccines defunct.
+The flu vaccine, now available and recommended especially for older people, needs to be taken annually for this reason. By the time the next season comes along, the vaccine is no longer effective on the circulating form of the virus.
+Tracking mutations help scientists visualise how the virus travelled around different geographic locations.
+The mutations in the virus are like moving targets, which can’t be easily hit because they keep changing their genetic sequence.
+“Genome sequencing on a large scale can tell us whether viral isolates are different in different countries from what we saw from China. So this will help us decide whether the treatments being contemplated in those places will be applicable for our strains or not,” Mishra had told ThePrint in an earlier interview.
+It will also help decide if the different strains vary so much that developing vaccines may not be viable, Mishra had said.
+So far, genome sequences of only two isolates of the virus are available — both from patients in Kerala, who had contracted the virus in Wuhan, China. This is not enough to draw reasonable conclusions about mutations in the virus that may be unique to India. 
+Once the CCMB is done analysing the data from the virus isolates, the figures will be made available in the public domain so the research community can work on them.

@@ -1,0 +1,39 @@
+Can’t understand research jargon around Covid-19? Here’s a basic primer to get you started
+Bengaluru: The scientific community is struggling hard, day and night, to develop both a vaccine and a drug to treat Covid-19. But for the common reader like us, the results of such trials are particularly hard to follow due to the liberal use of medical terms. To understand how to interpret studies, ThePrint breaks down some of this jargon.
+Drugs are chemical substances that can treat a disease and its symptoms. For Covid-19, there is no standard drug that does the job yet. In fact, till date, there is no known substance that can kill viruses in our bodies, like antibiotics do to bacteria. This means we are unlikely to find a cure for SARS-CoV-2 virus either. However, doctors are trying to treat it the way we treat HIV, i.e., treat the symptoms.
+Drugs typically work to reduce viral load, or the numerical quantity of virus in a given sample of body fluid. They do so by inhibiting the mechanism with which a virus replicates. The function is similar to the antibodies our body produces to limit the replication of a virus within a body.
+Sometimes viruses can be inactivated by tampering with their outer lipid (fat) coating, by washing hands with soap, for instance. This simply prevents the virus from being able to infect, but does not kill it.
+To develop drugs and vaccines, we need medical trials and studies. The gold standard for a study is a double-blinded randomised control. Randomising, controlling, and blinding are the three important factors in establishing cause and effect for drugs.
+Also read: Modi govt plans study on 50 lakh people to test if alternative medicine can treat Covid
+Randomisation is used to remove bias from unknown factors while testing drugs/treatments. People are randomly allocated to various groups, and then each group receives a different treatment before their results are compared.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+The random allocation prevents a data set from being biased by factors such as sex, age, socioeconomic means, pre-existing conditions, etc, thus resulting in each group having a relatively good mix of all parameters.
+For example, a group with disproportionately high number of diabetes patients is likely to have higher mortality, and this can skew the results of a trial.
+The process of randomisation is never perfect and the groups are not homogenous (all following the same criteria), but it greatly reduces the chances that one group is substantially different from another.
+The number of groups used for a test varies based on requirement. While one group is given the drug to be tested, another could be given a placebo, and a yet another made the control (where the factors are known).
+Also read: Sharing indoor space major infection risk, finds China university study on Covid-19 spread
+The control is the data set we we already understand. For most existing diseases, the control is typically a drug whose effects on the body we are already familiar with.
+For new diseases such as Covid-19, the control is “standard care”, which includes steps like isolation, ventilators, oxygen, etc., without drugs.
+Results from these different groups are compared to each other and against the control group to establish if the drug works, and how.
+Blinding is the process in which the subject is unaware whether they are being given a drug or a placebo. Double-blinding is when the administrator or the doctor is also unaware of which treatment is being administered.
+The process of blinding is followed to further reduce bias in how doctors assess a disease or how a patient assesses how they feel.
+If everyone knows exactly what they’re getting, it’s called an open-label trial.
+Covid-19 drug trials have so far been of all kinds, with varying results.
+Also read: Has Covid-19 strain evolved since it was first reported in India? ICMR study to find answer
+Trials occur in different phases too.
+First comes the preclinical studies, which don’t involve humans and show results in the lab, either in vitro or in vivo. In vitro is when the test is conducted in a petri dish or test tube, whereas in vivo is when the test is applied to an organism, such as animals.
+If the preclinical study shows some success, researchers advance to the next phase — either phase 0 or I.
+Phase 0 involves about 10 people, but most studies directly skip to Phase I, where about 20 to 100 people are used in trials. This phase is used to establish that a drug is safe for further trials.
+Phase II trials involve around 100 to 300 patients, and are preliminary tests to see if the safe drug is also efficient. Once it shows promise, a Phase III trial is conducted, typically on a test group of up to 3,000 patients to check how effective a drug is.
+Phase IV simply involves observing long term effects in the approved drug now being sold in the market.
+Also read: 2 Indians join global remdesivir trial as the world pins its hopes on it to treat Covid-19
+Clinical studies are broadly of two types — one where there is medical intervention to treat a disease, such as blinded randomised trials, and the other is an observational study, where there is no intervention and results of a drug are simply observed to find patterns.
+For example, the administering of hydroxychloroquine (HCQ) to Indian healthcare workers is observational as it is prescribed indiscriminately to everyone and the results are not compared with a control.
+Ideally, a control would have been another group of randomised healthcare workers who have equal exposure to the disease and have not taken HCQ.
+It is also an observational cohort study, where the cohort — or the group of people making up the test subjects — are followed up with for extended periods of time until a desired result can be confirmed or rejected.
+Trials and studies are validated and published after a peer-review process, where other experts in the field who are unaffiliated with the study, comb through it in detail to ensure that it is rigorous.
+A lot of the scientific research we’re seeing around Covid-19 is pre-prints uploaded to on the internet.
+Pre-prints are early papers that are submitted online but haven’t undergone the peer review process. As a result, a lot of badly done trails, full of bias, get just as much exposure as the good ones.
+Assessing pre-prints requires extreme care and diligence to prevent the risk of scientific miscommunication during times of a pandemic.

@@ -1,0 +1,36 @@
+T cells produced, mild side effects — decoding why Oxford’s vaccine offers new Covid hope
+Bengaluru: The safety results from Phase 1 trials for the vaccine being developed by Oxford University, called ChAdOx1 nCoV-19, showed promising results Monday, indicating that both antibodies and T cells were produced by the immune system.
+Antibodies work to neutralise the virus, while T cells help destroy infected cells.
+The study, which was published in The Lancet, was conducted on 1,077 people and showed that the antibody responses improved in participants who received a booster dose.
+Also published Monday were results of another vaccine trial in China’s Wuhan, being developed by Chinese biotech CanSino.
+The trial took place with 508 participants and the vaccine produced neutralising antibodies with just a single dose and a T cell response as well, according to the details published in The Lancet.
+Both trials used an adenovirus, a common cold-causing virus. They were also both randomised and blinded, with enough number of participants for the studies’ results to be statistically significant.
+While the findings are preliminary and both vaccines need large scale follow up trials — these early results are quite promising.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Also read: Great news on Covid vaccine as Oxford trial shows dual immune action against coronavirus
+Oxford’s ChAdOx1 nCoV-19 vaccine, also known as AZD1222, was tested on 1,077 patients who were randomised into two arms.
+A vaccine group of 543 participants received the actual vaccine while the control group of 534 people received a licensed meningitis vaccine as placebo. A further 10 people from the vaccine group received booster shots after 28 days.
+The vaccine induced a T cell response within 14 days of vaccination, and an antibody response within 28 days. The antibodies peaked at 28 days and their concentrations remained high until 56 days after vaccination. The booster shot improved antibody levels.
+The participants were 50 per cent male. But they were 91 per cent white, with an average age of 35.
+Trials of the CanSino vaccine, called Ad5-nCoV, also had a similar outcome and participant profile.
+It was tested on 508 participants, who were randomised into three groups — single dose, half dose, and placebo.
+The arms had 253, 129 and 126 participants, respectively. The placebo arm was given a vaccine with no active ingredient or virus.
+The actual vaccine induced T cell and antibody responses and in 28 days, both doses of vaccines (single and half) had induced significant neutralising antibodies.
+The participants were 50 per cent male, with an average age of 40 years.
+Both studies were randomised and controlled, which meant that the groups being studied were approximately alike and that the effects of the vaccine could be compared with a group that did not receive the vaccine.
+The Oxford study was single blinded, meaning the participants did not know which vaccine they got but the person administering the vaccine did. The Wuhan study was double blinded, which means neither party knew which vaccine was being given.
+Also read: Covaxin trial process has begun, can get results in 2-3 months if all goes well, says AIIMS
+Neither vaccine produced any serious side effects. However, the incidence of mild side effects was quite high in the Oxford vaccine.
+Almost 70 per cent of the participants complained of common reactions including muscle ache, fatigue, headache, chills, and feeling feverish. There is concern about the number of people who developed these milder side effects, but according to researchers, none of these symptoms were unmanageable by standard paracetamol and most also resolved naturally.
+Paracetamol was also given prophylactically before administering the vaccination and the side effects were lower among those participants who received it.
+The CanSino vaccine had mild or moderate side effects as well, with the strongest dosage resulting in high fever in less than 10 per cent of the participants, but the fever resolved itself over 72-96 hours.
+Data was also adjusted for factors such as age, sex, occupation (health-care worker or not), smoking, alcohol consumption, and body-mass index.
+“The results of both studies augur well for phase 3 trials, where the vaccines must be tested on much larger populations of participants to assess their efficacy and safety,” wrote vaccine researchers Naor Bar-Zeev and William J. Moss from Johns Hopkins University, in an accompanying editorial in The Lancet.
+Also read: Scores of Russian elite have been given experimental Covid vaccine since April
+The Oxford vaccine is undergoing Phase 2/3 trials with over 15,000 participants already in the UK, Brazil and South Africa. The CanSino vaccine generated positive safety results from Phase 1 trials in May has been approved for use by the Chinese military for one year.
+Oxford’s vaccine will be manufactured by both British-Swedish pharmaceutical company AstraZeneca and the Pune-based Serum Institute of India (SII), both of them have started production of the vaccine.
+Adar Poonawalla, the CEO of SII, told ThePrint, “The trials have shown promising results and we are extremely happy about it. We will be applying for the licensure trials to the Indian regulator in a week’s time. As soon as they grant us permission, we will begin with the trials for the vaccine in India. In addition, we will soon start manufacturing the vaccine in large volumes.”
+Both vaccines are viral vector vaccines, where the spike protein of the SARS-CoV-2 virus is inserted into a common-cold causing adenovirus. The adenovirus used in the Oxford vaccine infects chimpanzees and is called ChAdOx1, while the one used by Wuhan researchers is a human adenovirus, Ad5. The adenoviruses are genetically modified to not replicate inside our bodies and cause infection.
+The director of the Jenner Institute, which is collaborating to develop the Oxford vaccine, had previously said that they are preparing for human challenge trials and that a vaccine could be available as early as October.

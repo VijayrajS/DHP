@@ -1,0 +1,32 @@
+Covid slowing in Maharashtra and MP, shows infection rate analysis of govt data
+New Delhi: As many as five Indian states, including worst-hit Maharashtra, and two union territories seem to have arrested the spread of Covid-19, according to the conclusions of a Hyderabad-based analyst.
+The analysis is based on calculations of R or Rt, the reproduction number of a disease. It is a dynamic number that represents the number of new infections estimated to emerge from a single case. An R of less than 1 suggests an epidemic is slowing and likely to die out since each patient will infect less than one other person.
+And that’s what was happening in Maharashtra, Himachal Pradesh, Madhya Pradesh, Uttarakhand, Goa, Chandigarh and Andaman & Nicobar Islands as of 4 June, estimates derived by Parijat Khan, a Hyderabad-based web developer, suggest. 
+Khan, who states upfront that he is not a scientist or epidemiologist, has calculated the Rt, which is the reproduction number derived at a given point in time. He has shared his R0 estimates on the online repository GitHub. 
+Khan derived the figures from the modified version of a solution created by academicians Luis M.A. Bettencourt and Ruy Riberio in 2008 to find real-time R for emerging infectious diseases using Bayesian approach of statistical inference.
+Khan sourced the state-wise Covid-19 data from the Union Ministry of Health and Family Welfare website, where they are updated daily.
+His data factors in 26 of India’s 28 states and seven of eight union territories. The states of Arunachal Pradesh and Sikkim and the union territory of Ladakh have been left out due to insufficient data or their small number of confirmed cases.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+The R value is key to understanding how effective the lockdown measures, enforced in India on 25 March but vastly eased since 1 June, have been.
+R is different from the basic reproduction number ‘R0’, though both denote the number of people one person can infect.
+R0 is calculated at the beginning of the epidemic, when the entire population is assumed to be susceptible to the disease. R or Rt, which changes with time, takes into account that some individuals are protected from the disease, either because they have developed immunity or because of social distancing and other measures.
+An expert not associated with the analysis told ThePrint that any interpretation of the analysis must be cautious even as he lauded the “laborious effort” to capture the real-time changes in the effective reproduction number.
+Also Read: Are coronavirus lockdowns slowing infection rates? Yes, says science
+According to the analysis, the Union territory of Chandigarh reported the lowest Rt value at 0.38, followed by Andaman and Nicobar Islands at 0.49.
+The Rt value in Himachal Pradesh was 2.88 on 21 May. Two weeks later, this stood at 0.63.
+Madhya Pradesh, which saw a massive outbreak early on, witnessed a high Rt value of 2.04 on 6 April. This fell over two months to reach 0.69. 
+Mumbai is being referred to as India’s ‘Covid Capital’, but Maharashtra has shown a significant decrease in its Rt value — from 2.08 on 5 April and 2.17 on 5 May to 0.89 on 4 June. 
+Uttarakhand started with a high R0 value of 4.45 on 21 May, but appears to have contained to 0.9 by 4 June. On 15 May, Goa’s Rt value stood at 5.85. Since then, the state has shown a consistent decline, with the value recorded at 0.94 on 4 June.
+India’s worst performing state on the analyst’s Covid-19 infection rate list was Mizoram, with an Rt value of 3.01. While high, this marked an improvement from its peak of 5.85 on 1 June. Meanwhile, Manipur’s R value stands at 2.32. 
+Haryana, which has seen crests and troughs through the last two months, was slightly better at 1.63. The UT of Puducherry reported an Rt value of 1.31.
+Kerala reported an Rt of 1.32 after witnessing a peak of 2.28 on 14 May.
+The union territory of Delhi, the third worst-affected region, has registered a zigzag curve, with an Rt of 3.44 on 30 March, 1.82 on 10 April, 2.31 on 2 May, and then 1.25 on 4 June. 
+Tamil Nadu, India’s second-most affected state, saw its Rt at 1.24 – an improvement from its peak of 2.72 on 5 May. Gujarat, which is also among the most affected, showed an Rt value of 1.15.
+Speaking to ThePrint, Dr Tanmay Mahapatra, a public health expert and an epidemiologist working with CARE India, a non-profit that is supporting Bihar in its Covid-19 effort, said the analysis was “a nice and laborious effort to capture the real-time changes in one of the important epidemiological factors related to the Covid-19 spread in different states in the country — the effective reproduction number”.
+However, he noted that while interpreting this data, it is important to note that any such real-time depiction of mathematical calculations is as useful as the credibility of assumptions, and any interpretation of needs caution.
+“As rightly pointed out by the analyst (Khan), the correctness of all the analysis is a function of data availability and quality,” said Mahapatra.
+These values, he added, are subject to inaccuracy and variations owing to testing capacity, reporting time, percentage positive, strict or relaxed implementation of lockdown, sensitivity and specificity of RT-PCR tests, and health infrastructure.
+“While the Rt- or R-naught based decisionmaking appears encouraging and even more so if they are called ‘real time’, we need to be cognisant of the fact that given these uncertainties in data used for analysis, decision-making or implementation planning based on these are very likely to face issues,” he added.
+Also Read: CO2 levels rise despite lockdown, Asia’s water crisis and other global Covid news

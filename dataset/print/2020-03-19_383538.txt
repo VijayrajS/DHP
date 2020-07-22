@@ -1,0 +1,28 @@
+One coronavirus patient infects 1.7 people in India, much lower than in China, Italy: Study
+New Delhi: In India, each person infected with COVID-19 is passing the virus to only 1.7 people on an average, which is much lower than most countries, researchers have found.
+This could account for the relatively slow increase in coronavirus patients in the country compared to Italy, Iran and US, which have witnessed unprecedented spread of the virus.
+A study by scientists Soumya Easwaran and Sitabhra Sinha at the Institute of Mathematical Sciences in Chennai has found that COVID-19 has an R0 — R-naught or reproduction number — of 1.7 in India, a report in The Indian Express said.
+R-naught is the reproduction number of the disease that highlights the number of people a patient directly infects.
+In China’s Wuhan city, where the first case of the novel coronavirus was reported, the R0 was 2.14. It was 2.73 in Iran and 2.34 in Italy.
+When R0 for a disease is below one, it is unlikely to turn into an epidemic.
+Also read: How to slow down COVID-19 — this is the only way to ‘flatten the curve’ of coronavirus spread
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+However, the reason for a low R0 in India could not be immediately explained by the researchers.
+“Right now, we do not know the exact reason for low R-naught. Maybe a week from now on, when the impacts of government measures start getting reflected in the data, we would have some idea,” Sinha told The Indian Express.
+Moreover, the figure is likely to change in the coming days depending on whether the government measures to curb the spread of the disease prove to be successful.
+The team believes that climatic conditions may play a role in the low reproduction number in India as the distance of a country from the equator might have a correlation with how fast the virus was spreading.
+“If we plot the R0 numbers of other countries against the latitudes in which they are situated, India more or less fits into the curve,” Sinha said.
+However, the team did not find any evidence that temperature plays a role in how fast COVID-19 spreads. Sinha said they are unable to explain the correlation between latitude and reproduction number as of now.
+Research from other countries seems to suggest that higher temperatures and humidity can slow the spread of the virus.
+A study by researchers from Spain, Portugal and Finland, which is yet to be peer-reviewed, found a significant correlation between climate conditions and outbreaks. They found that in extreme cold as well as in very hot and humid conditions the virus is “largely absent”.
+Also read: Evidence emerging coronavirus could slow by summer with warmer temperature, humidity
+ 
+Subscribe to our channels on YouTube & Telegram 
+News media is in a crisis & only you can fix it
+You are reading this because you value good, intelligent and objective journalism. We thank you for your time and your trust.
+You also know that the news media is facing an unprecedented crisis. It is likely that you are also hearing of the brutal layoffs and pay-cuts hitting the industry. There are many reasons why the media’s economics is broken. But a big one is that good people are not yet paying enough for good journalism.
+We have a newsroom filled with talented young reporters. We also have the country’s most robust editing and fact-checking team, finest news photographers and video professionals. We are building India’s most ambitious and energetic news platform. And we aren’t even three yet. 
+ At ThePrint, we invest in quality journalists. We pay them fairly and on time even in this difficult period. As you may have noticed, we do not flinch from spending 		whatever it takes to make sure our reporters reach where the story is. Our stellar coronavirus coverage is a good example. You can check some of it here.
+This comes with a sizable cost. For us to continue bringing quality journalism, we need readers like you to pay for it. Because the advertising market is broken too.

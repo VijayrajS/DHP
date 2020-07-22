@@ -1,0 +1,52 @@
+Gujarat is wrong. There’s just 1 strain of coronavirus and all mutations are as dangerous
+Bengaluru: The high mortality rate due to Covid-19 in Gujarat has been attributed to a more virulent strain of the SARS-CoV-2 or novel coronavirus, according to reports that appeared Monday.
+The reports quote officials as saying the “L-type strain”, which was widespread in China’s Wuhan, the initial epicentre of the outbreak, is more prevalent in Gujarat, as opposed to the “S-strain”, which is claimed to be less virulent.
+However, virologists have repeatedly said there is just one strain of the novel coronavirus. Regular mutations appear in the virus as it evolves and transmits, forming different ‘clades’, but they offer no extra immunity or virulence, according to experts. RNA replication is how the virus multiplies and spreads, and the mutations occur because the process lacks a proof-reading mechanism and is prone to error.
+There have been no studies that have successfully established one clade or variant of the virus to be deadlier than the other.
+Also read: India’s Covid deaths rise steadily but infection rate fluctuates in states: Data experts
+More than strains, ‘L-type’ and ‘S-type’ simply symbolise lineages of the virus from Wuhan — the L-type underwent mutations to change to the S-type. The L-type was previously reported to be “aggressive” in its spread (not virulence), and that has since been updated scientifically to simply be more frequent.
+The changes in the virus’ outer structure, which are being referred to as “strains”, are actually called clades.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+These clades are named after the mutations that amino acids and proteins undergo on the surface of the virus. The names are made official in GISAID, an open and international collaborative effort to share zoonotic influenza-related genome sequences (and now, SARS-CoV-2 sequences). There are over 5,000 sequences from across the globe uploaded to GISAID. The collaboration is a public–private partnership between the German government, and nonprofit organisation Friends of GISAID.
+But both L-type and S-type belong to the same clade, ‘S’. This clade deals with the variation in a gene called ORF8. The mutation itself is called ORF8-L84S, and it changes the amino acid Leucine (L) to Serine (S). These types were obtained from early data in Wuhan.
+The clades follow a fixed naming structure: For ORF8-L84S, the ORF8 gene underwent a mutation of the amino acid L at the 84th position of the gene’s protein to the amino acid S.
+There are two other named clades today.
+Clade ‘G’, where a variant in a gene ‘S’ (unrelated to serine) changes aspartic acid (D) at position 614 of the gene’s protein to glycine (G). Thus, the variant or clade ‘G’ is called S-D614G.
+The variant or Clade ‘V’ is labelled NS3-G251V, where the NS3 gene’s glycine (G) at position 251 changed to valine (V).
+All other mutations are classified as ‘Other’ or ‘O’ in GISAID. This includes mutations like ORF8-S84L, where S and L mutate in the opposite direction as well.
+Also read: Covid-19 fight is a Test match, not a T20. Here’s what India needs to do to win
+None of these clades or evolutions within clades indicates any difference in their ability to infect individuals or induce mortality. Many experts as well as reports, including one published by ThePrint, have clarified the lack of correlation between the types and their ability to infect or kill.
+The L-type was considered “aggressive” due to its widespread prevalence, which by itself was affected by mobility restrictions and physical distancing measures.
+Reports of one “strain” being more deadly than the other have been regularly debunked by virologists online, including by the founders of Next Strain, another public database onto which sequenced genomes are uploaded.
+This article by @USATODAY misleadingly states that there are “8 strains of coronavirus” circulating. Because of this our @nextstrain inbox is today full of questions like “if you get one strain of Covid-19 and recover, do you have immunity to the other seven?”. 1/13 pic.twitter.com/y9OW8Mdnsd
+— Trevor Bedford (@trvrb) March 30, 2020
+In some media reports that appeared in India Monday, Chaitanya Joshi, director of the state-run Gujarat Biotechnology Research Centre (GBRC) in Gandhinagar, which itself sequenced the novel coronavirus and provided data to Next Strain, was quoted as saying that L-type is known to cause higher mortality and that analysis done by scientists abroad have confirmed this.
+Joshi, who specialises in veterinary and animal sciences, said, “The coronavirus sample we collected from a patient for genome sequence contained the L-type strain. This strain has a much higher virulence as compared to the S-strain.”
+But there has been no such finding in the scientific community.
+This unproven theory about varying virulence is frequently used the world over to explain deaths or disease patterns that are not yet understood.
+Everywhere magically has a different ‘strain’
+1) that’s not how we define strains, and there’s basically no evidence for any difference in virulence once you apply the appropriate denominator (like, you know, actual scientists do)
+1/2 https://t.co/PyEpHwAt79
+— Bill Hanage (@BillHanage) April 27, 2020
+Soumya Swaminathan, Chief Scientist at the World Health Organization, said there is no proof so far that “strains have anything to do with virulence”.
+“Some clades are more prevalent in certain geographical regions than in others. But none of these seems to have any differences in clinical outcome, mortality, virulence, or transmissibility,” she told ThePrint’s Editor-in-Chief Shekhar Gupta at an ‘Off The Cuff’ online conversation Saturday.
+“No evidence that strains have anything to do with virulence or clinical severity. So far,” Swaminathan said Monday in a text message when reached by ThePrint.
+The media reports of Monday also quoted Atul Patel, an infectious diseases specialist at Sterling Hospital in Ahmedabad, as saying that the L-type was more prevalent in Wuhan and was also responsible for the higher mortality there, just as in Gujarat.
+“L is the original Wuhan strain which is more pathogenic and leads to more severe disease and early death. After Wuhan, there was spontaneous mutation of the L strain, which converted to S strain, which is milder, less pathogenic,” he said.
+However, it’s the S-type that is considered to be the ancestral variant from which the L-type evolved.
+In an emailed response to ThePrint, the GISAID Secretariat said, “GISAID remains concerned about a number of papers and articles on the coronavirus causing COVID-19.”
+Referring to one of the reports in the Indian media, which suggested “the existence of a more virulent strain than those presently circulating”, the response said, “Some of these publications overinterpret genomic data obtained through GISAID, some even admit that ‘no research has been conducted to confirm this’ theory, yet they are published.”
+GISAID has recently published comments on the discussion of different types or clades of the hCoV-19 virus causing Covid-19, in an article titled ‘Natural evolution of the hCoV-19‘ on its website.
+Also read: Tweaking patient’s immune cells to target the virus could be potential therapy: Scientists
+There is no evidence of higher mortality due to a specific variant of the virus in Wuhan either. In fact, the original researchers who discovered the L-type and S-type said that the L-type occurred more initially, but quickly reduced in frequency of incidence by early January in Wuhan from enforced physical distancing. But this enabled the older S-type to spread in frequency. This research is not peer-reviewed.
+There have been no studies to date that have established in any way that one type or the other of this virus has different properties and causes different effects. All the types are linked very closely in pathology, and do not yet contribute to any evidence of increased mortality.
+Also read: India could see last of new Covid cases by July-end, Singapore study predicts using AI, data
+ 
+Subscribe to our channels on YouTube & Telegram 
+News media is in a crisis & only you can fix it
+You are reading this because you value good, intelligent and objective journalism. We thank you for your time and your trust.
+You also know that the news media is facing an unprecedented crisis. It is likely that you are also hearing of the brutal layoffs and pay-cuts hitting the industry. There are many reasons why the media’s economics is broken. But a big one is that good people are not yet paying enough for good journalism.
+We have a newsroom filled with talented young reporters. We also have the country’s most robust editing and fact-checking team, finest news photographers and video professionals. We are building India’s most ambitious and energetic news platform. And we aren’t even three yet. 
+ At ThePrint, we invest in quality journalists. We pay them fairly and on time even in this difficult period. As you may have noticed, we do not flinch from spending 		whatever it takes to make sure our reporters reach where the story is. Our stellar coronavirus coverage is a good example. You can check some of it here.

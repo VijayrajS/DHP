@@ -1,0 +1,48 @@
+Delhi rolls out rapid antigen tests across city as it looks to scale up testing capacity
+New Delhi: Under pressure to quickly scale up testing capacity as the number of Covid-19 cases rise, Delhi began rapid point-of-care antigen testing Thursday.
+As many as 193 centres started antigen testing, and of the 7,040 people who took it, 456 tested positive, Delhi Deputy Chief Minister Manish Sisodia said in a tweet Thursday.
+आज दिल्ली में 193 केंद्रों पर रैपिड ऐंटिजेन टेस्टिंग हुई. इसमें कुल 7040 लोगों का कोरोना टेस्ट हुआ जिसमें से 456 लोग पोज़िटिव पाए गए. 
+शुरुआती चरण में उन लोगों की जाँच की जा रही है जिनके घर कंटेन्मेंट ज़ोन में आ रहे हैं. https://t.co/QiGy8TzYt9
+— Manish Sisodia (@msisodia) June 18, 2020
+
+There are 169 testing centres in the national capital that will be using the antigen technology, and priority for supply of kits will be given to Delhi, said Union Health Minister Harsh Vardhan in a series of tweets.
+As per the new testing protocol approved by @ICMRDELHI, testing for #COVID19 will be done today onwards as per the new Rapid #Antigen methodologyThis technique will be faster & cheaper, 169 testing centers set up in capital.Priority for supply of kits will be given to #Delhi
+— Dr Harsh Vardhan (@drharshvardhan) June 18, 2020
+
+Antigen tests detect the presence of a protein expressed by the coronavirus and can give the result in less than 30 minutes. The commonly used RT-PCR test usually takes about five to six hours for a result. However, like RT-PCR, it can only test one sample at a time.
+On 14 June, India’s apex research body, the Indian Council of Medical Research (ICMR), approved antigen testing as a point-of-care test to be used in containment zones and healthcare settings under medical supervision. Point of care tests are those conducted outside laboratory settings, typically close to where patients are being treated.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+This move is slated to increase India’s testing capacity as antigen tests, in comparison to existing diagnostic tests, give results in less time, don’t require specialised staff or a laboratory setting and are many times cheaper.
+The antigen tests will be first used in Delhi, which has been working on at least doubling its testing capacity since Home Minister Amit Shah’s intervention.
+Also read: Priced at $5 and taking just minutes, new antigen test in US could be Covid ‘game-changer’
+From Friday, antigen tests are to be done in hot spots, containment zones, for all those who show symptoms of influenza-like illnesses (ILI) as well as high risk contacts of confirmed cases with comorbidities.
+In hospital settings, the tests will be used for those who are symptomatic for ILI as well as those who are undergoing chemotherapy or transplant, are over the age of 65 with comorbidities and those with diseases that suppress immunity, like HIV.
+Already 50,000 kits have been supplied to the Delhi government and 50,000 more kits are expected to arrive Friday, said an official from SD Biosensor, the company manufacturing the antigen kit. The official added that an order of 6 lakh kits was placed by the ICMR and the Delhi government.
+Only the antigen kits produced by the South Korean-based company have been approved by ICMR currently. The ‘Standard Q COVID-19 Ag rapid antigen detection test’ kit is being manufactured at its Manesar facility at Gurugram.
+“We have ordered 10,000 antigen kits,” said Dr D.K. Sharma, medical superintendent, AIIMS. He said the antigen tests will be placed across hospitals and will be used for all clinical suspected cases and those showing ILI symptoms. Antigen will increase the institute’s testing capacity, which is currently at 300-350 samples daily, Sharma said.
+Delhi reported 2,877 new cases, taking the total reported cases up to 49,979 with 26,669 active cases and 1,969 deaths as of 18 June, according to the Chief Minister’s Office.
+Also read: Centre aims to conduct 6 lakh rapid Covid tests, provide 500 ventilators to Delhi
+The RT-PCR or real time Reverse Transcription Polymerase chain reaction test remains the gold standard frontline test for diagnosis of Covid-19. However, it requires a specialised laboratory and two to five hours to get the result, excluding the time taken for transportation of the sample.
+India also uses the cartridge-based nucleic acid tests TRUENAT and CBNAAT, which are portable and used in several district-level facilities, but these also require a laboratory test facility.
+While RT-PCR costs between Rs 1,800 and Rs 4,500 depending on the ceiling price set by states ⁠— Delhi capped the price of RT PCR test at Rs 2,400 Wednesday ⁠— the cost of an antigen test has been fixed at Rs 450.
+Also read: Covid tests are pretty accurate, but not perfect, a molecular biologist explains
+The test detects antigens or proteins specific to Covid-19 virus using a nasopharyngeal swab. The kit comes with a swab, an antigen test device, which is a strip, and a viral extraction tube with lysis buffer, which is a chemical that deactivates the virus.
+The process is fairly simple and can be conducted by a trained worker wearing adequate personal protective equipment.
+First, the nasal swab is collected and immersed in the viral extraction buffer and mixed. Then, two to three drops of the buffer solution are put into the well of the test strip using a nozzle. This process has to be conducted within an hour of immersion of the swab in the buffer.
+The appearance of control or test lines give the result as positive or negative within 15 minutes. The kit needs to be stored between 2 and 30 degrees celsius.
+According to the ICMR, which evaluated the test twice, it specificity ranged from 99.3 to 100 per cent while its sensitivity ranged from 50.6 to 84 per cent. They noticed that a higher viral load correlated with higher sensitivity.
+The test kits were validated at the All India Institute of Medical Sciences (AIIMS) and the ICMR. The two institutes conducted independent studies and found antigen tests have a good specificity rate (the ability to detect true negatives), but have a lower sensitivity rate (the ability to detect true positives). This means all the samples which test negative will need to be confirmed again using an RT-PCR test.
+While in RT-PCR, there is amplification, in this case, there needs to be sufficient viral load for the sample to test positive. Hence, proper collection of the sample is very important, said the Dr C.S. Bedi, medical advisor at S D Biosensor. He stressed on the importance of training the personnel who will conduct the test to collect the sample and handle it as it is highly infectious.
+Also read: World’s most accurate antibody test has arrived. Or has it?
+Since all negative tests will have to be reconfirmed with RT-PCR test, what value does the antigen test really hold?
+“Antigen testing is useful because even if it’s less sensitive, it is rapid and the results that are positive will be positive. So, patients who test positive can get into isolation faster,” Dr Gangadeep Kang, executive director of the Transnational Health Service and Technology Institute, told ThePrint.
+She added that antigen tests decrease testing because it removes about half of the positives from the testing load, enough to consider pool testing (testing multiple samples using the RT-PCR test).
+“Earlier, we stopped pool testing because we were saying that we’re getting too many positive pools. Over 5 per cent samples were testing positive. But with antigen testing, half the positives can be taken out and testing can be decreased by at least that much,” Dr Kang said.
+Since antigen tests are sensitive to viral load and the viral matter in the sample, those who are symptomatic and have higher viral load will be more likely to test positive, said Dr Vineeta Bal, visiting faculty at Indian Institute of Science Education and Research, Pune. She added that the test is a useful tool since it can be used to test people in unreachable, remote areas of the country which lack laboratory facilities.
+Antigen tests will also help India as it aims to ramp its testing capacity from the current 1.5 lakh samples per day to 3 lakh samples daily, according to the health ministry.
+“Currently, even the best labs can only process 750-1,000 samples a day and take 2-3 hours for the report, and if we are circumventing the logistical issues at a cheap rate, then it is good,” said Giridhar. R. Babu, professor and Head Lifecourse Epidemiology, Public health foundation of India. However, he cautioned that its performance on the field will have to be gauged.
+T. Jacob John, former virology head at ICMR, agreed. “Antigen test is a simple test but it has not been fully validated … its full performance is not known yet.” He added that until it is fully validated and a quality control conducted, antigen tests can’t be applied in the field or be used as a sole test for clinical diagnosis.
+While the health ministry has stated that the local domestic production capacity of the antigen tests is 10 million a month, no Indian-made kit has been validated yet.
+ICMR has asked for local manufacturers of antigen testing kits to send their samples for validation in its advisory.

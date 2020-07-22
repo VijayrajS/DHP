@@ -1,0 +1,18 @@
+India’s R0 lowers further to 1.29, say scientists, predict Covid cases at 30,000 by 3 May
+New Delhi: The R0 value for Covid-19, a key parameter to measure the rate of infection, has further reduced this week to 1.29, from 1.36 last week, according to scientists at the Institute of Mathematical Sciences (IMS) in Chennai.  
+R0, or the basic reproduction number of a disease, indicates the number of people a patient can directly infect in a healthy population.
+“The rate for India overall seems to be now following a curve with an effective reproduction rate of 1.29,” IMS scientist Sitabhra Sinha told ThePrint. 
+The value was as high as 1.83 on 6 April. This, Sinha had told ThePrint in an earlier interview, would have translated to 1 lakh active cases by 27 April. At 1.36, the rate recorded last week, “we’ll have around 25,000 active cases by that same date (27 April), which means a reduction to a quarter of the number expected”, he had said.
+As of Wednesday, India has 22,982 active cases. The total number of cases recorded so far stands at 31,787, which includes 7, 796 cured/discharged patients and 1,008 deaths.
+With the current R0, Sinha said, the number of active cases will cross 30,000 by the end of the lockdown on 3 May. For the epidemic to come to an end, the R0 needs to go below 1, Sinha said. 
+A plot for the number of active cases with time shows a deviation from the original growth trend observed from 4 March — which corresponded to a basic reproduction number of 1.83. Sinha said although the graphs show extrapolations until 20 May, these estimations need to be taken “with loads of salt”. This is because it is completely unknown how the rates will change once the lockdown ends, he added.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Any change in the rates will only be perceptible following a delay of 10 to 14 days after the lockdown is lifted.
+Also Read: Decline in India’s Covid R0 and how effective is the ‘test, test, test’ mantra
+Referring to the R0 for states, Sinha said it was a “mixed bag”. The plot of active cases in the 12 worst-affected states shows that Maharashtra, Gujarat, West Bengal and UP continue to see an exponential rise in cases, he added. 
+Madhya Pradesh and Andhra Pradesh have also not flattened the curve, although the rate of growth of new cases is slower, he said. 
+According to IMS estimates for this week, Bihar has the highest R0 at 2.01, followed by Jharkhand at 1.87. This is followed by Maharashtra (1.50) and West Bengal (1.52). The R0 for Rajasthan, Gujarat and Andhra Pradesh has been estimated at 1.44, 1.38 and 1.27, respectively.
+Also Read: Flattening the curve, R0, pool testing: Terms that will dominate India’s Covid-19 discourse
+ 

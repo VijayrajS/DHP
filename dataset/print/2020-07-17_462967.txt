@@ -1,0 +1,24 @@
+Kerala sees increase in Covid positivity rate, Delhi’s tests per million climbs
+New Delhi: In its daily state tracker, ThePrint traces the progress of Indian states and union territories in terms of their testing capabilities. We analyse how much states are testing, the rate at which the infection is spreading and the number of tests being conducted.
+For this analysis, we use three parameters:
+Rt value, known as reproduction number, is indicative of the number of new cases that are expected to emerge from a single case. An R value of less than 1 suggests that the rate of infection is slow since an infected patient will only infect less than one person.
+Positivity rate is the percentage of people who are found to be infected by the virus out of those who are being tested. This parameter indicates how widespread the disease is.
+Tests per million give insight into the amount of testing being conducted in relation to the population of an area.
+All data is sourced from covidtoday.in.
+Also read: Delhi’s Covid infection rate falls below 1, Goa’s tests per million highest in India
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+
+As of 17 July, India’s average Rt value stands at 1.14. This average value has been the same since 16 July.
+The lowest Rt value in the country was witnessed in Andaman and Nicobar Islands at 0.88. This was followed by Delhi (0.89), Dadra and Nagar Haveli and Daman and Diu (0.93) and Mizoram (0.97). The lowest Rt value, which was above 1 in India, was seen in Telangana and Manipur at 1.03 each. However, on 15 July, there were only two union territories that had recorded an Rt value below 1 — they were Delhi and Andaman and Nicobar Islands. Ladakh has an Rt value of 1.16.
+The highest Rt value in the country on 17 July was recorded in Arunachal Pradesh at 1.60. The second highest Rt value was seen in Sikkim at 1.52, followed by Bihar at 1.51, Meghalaya at 1.49 and Jharkhand at 1.40.
+
+The average positivity rate in India as of 17 July stands at 10.09 per cent, registering an increase from 16 July, when it was 10.02 per cent.
+The lowest positivity rate was recorded in Himachal Pradesh at 2.03 per cent. The second lowest positivity rate was seen in Kerala at 2.22 per cent, followed by Manipur at 2.70 per cent, Rajasthan at 2.74 per cent and Uttarakhand at 2.97 per cent.
+The positivity rate has shot up in Himachal Pradesh since 16 July from 1.98 per cent to 2.03 per cent on 17 July. Similarly, the positivity rate in Kerala increased from 2.07 per cent on 16 July to 2.22 per cent on 17 July.
+The highest positivity rate in the country on 17 July was seen in Maharashtra at 23.42 per cent. This was followed Karnataka at 13.55 per cent, Telangana at 13.41 per cent, West Bengal at 12.57 per cent, and Bihar at 12.06 per cent. The positivity rate in Maharashtra has increased from 23.26 per cent on 16 July to 23.42 per cent on 17 July. Meanwhile, Telangana, which recorded the second highest positivity rate in India on 16 July, was replaced by Karnataka on 17 July. Telangana saw a drastic decrease in its positivity rate, dropping from 15.26 per cent on 16 July to 13.41 per cent on 17 July. Ladakh has a positivity rate of 9.30 per cent.
+
+Between 16-17 July, India’s average test per million conducted remained at 9,289. The lowest number of test per million was recorded in Bihar (2,784). This was followed by Jharkhand (5,267), Uttar Pradesh (5,571), Telangana (5,657) and Madhya Pradesh (6,479). Bihar has increased its test per million from 2,702 on 16 July to 2,784 on 17 July. Telangana has also increased its test per million from 5,301 on 16 July to 5,657 on 17 July.
+Goa has recorded the highest test per million in the country today at 64,021. This is followed by Darda and Nagar Haveli and Daman and Diu at 60,728, Ladakh at 54,770, Andaman and Nicobar Islands at 45,705 and Delhi at 40,439.
+Delhi significantly increased its test per million from 38,174 on 15 July to 39,358 on 16 July to finally 40,439 on 17 July.

@@ -1,0 +1,28 @@
+104 of 5,911 respiratory illness cases have Covid, 40 with no travel, contact history: ICMR
+New Delhi: The novel coronavirus has been found in 104 patients hospitalised across the country for severe respiratory illnesses, 40 of whom had no history of international travel or contact with confirmed cases, said a new study looking to identify the spread of Covid-19 transmission in India.
+Among 5,911 severe acute respiratory illnesses (SARI) cases tested from 15 February to 2 April across the country, the Indian Council of Medical Research (ICMR) study found 104 — or 1.8 per cent — Covid-19 positive cases in 52 districts of 20 states.
+SARI patients are those who show symptoms of fever, dry cough and difficulty in breathing.
+The ICMR study was published in the Indian Journal of Medical Research Thursday.
+Tarun Bhatnagar, scientist, National Institute of Epidemiology, Chennai, and co-author of the paper told ThePrint that since only those SARI patients who developed severe cases were tested, there would be a large number of mild cases in the area and many of them would be infecting others for at least 1-3 weeks.
+“These cases represent the tip of the iceberg, this means the infection was spread in the area,” he said.
+Most of these Covid-19 cases were reported from Maharashtra (21), Delhi (14) and Gujarat (13) with a case positivity rate of 3.2 per cent, 5.1 per cent and 1.6 per cent, respectively.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+At 11.1 per cent, Tripura saw the highest average of SARI samples testing positive for Covid-19, followed by Delhi and Telangana (4.2 per cent).
+The results of the SARI surveillance should be matched with the confirmed cases reported from the area to find if cases are being missed, said Bhatnagar. As the samples were testing positive, the local Integrated Disease Surveillance Programme teams were alerted to start contact tracing, he added.
+“These districts need to be prioritised to target COVID-19 containment activities,” said the study.
+A standard operating protocol by the Ministry of Health had earlier mentioned that India’s disease pandemic is in local transmission and limited community transmission stage.
+Also read: ICMR allows clinical trials of plasma therapy. What this means for fight against Covid-19
+Only two cases had a contact with a confirmed case, and one had a recent history of international travel.
+While 40 of them did not have any history of contact or travel, no exposure history was available for 57.
+The median age for the entire sample size was 54 years. Nearly 85 per cent of these were male, while 83 per cent were above the age of 40.
+As India was initially testing only symptomatic patients with foreign travel history, contacts of the confirmed cases and later symptomatic healthcare workers attending to SARI patients, questions were raised about whether ICMR was testing a narrow group of people.
+The ICMR then started random testing of stored samples of hospitalised SARI patients as part of a sentinel surveillance to find signs of community transmission of the novel coronavirus.
+Sentinel surveillance means a select number of centres actively test samples looking for particular pathogens to check their spread in the community.
+The testing criteria changed on 20 March to include SARI patients admitted in the intensive care units with severe acute respiratory illnesses across the country.
+Among 965 randomly selected samples tested until 19 March, 2 cases were found positive. When the strategy changed, a total of 4,946 samples were tested yielding 102 cases.
+Even if the study doesn’t mention it, Bhatnagar said the results showed the spread of infection and this sentinel surveillance exercise should continue to guide India’s efforts to find and contain the cases.
+India has so far reported 6,412 confirmed coronavirus cases and 199 deaths.
+Many states have announced stricter measures in areas marked as containment zones to stop the transmission of disease. The ICMR has also revised its testing protocol to include all patients showing influenza-like symptoms in such zones.
+Also read: Why Maharashtra has India’s highest Covid-19 mortality numbers

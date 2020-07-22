@@ -1,0 +1,27 @@
+WhatsApp limits sharing of forwarded messages to one chat to curb spread of fake news
+New Delhi: WhatsApp will allow users to send frequently forwarded messages to only one chat at a time as part of efforts to curb spreading of misinformation amid the coronavirus pandemic.
+This limit will be in place once a message has been previously forwarded five times or more.
+The latest move comes as countries, including India, are initiating measures to tackle the spread of rumours, fake news and misinformation on social media platforms.
+“We are now introducing a limit so that these messages can only be forwarded to one chat at a time…we’ve seen a significant increase in the amount of forwarding which users have told us can feel overwhelming and can contribute to the spread of misinformation,” the Facebook-owned WhatsApp said in its blog on Tuesday.
+Last year, WhatsApp launched the ‘forward’ label with double arrows to indicate that the message did not originate from a close contact. It also limited message ‘forwards’ to five chats at a time.
+Platforms like WhatsApp are being increasingly used by people amid lockdowns and social distancing measures to prevent the spreading of coronavirus infections.
+The company said it believes it is important to slow the spread of these messages to keep WhatsApp a place for personal conversation.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+The company, which has over 400 million users in India, said its previous steps of setting limits on forwarded messages to constrain virality had led to a 25 per cent decrease in message forwards globally at a time.
+With billions of people unable to see their friends and family in person due to COVID-19, people are relying on WhatsApp more than ever to communicate, WhatsApp stated.
+“People are talking to doctors, teachers, and isolated loved ones via WhatsApp during this crisis. That’s why all your messages and calls on WhatsApp are end-to-end encrypted by default to give you a secure place for your most personal conversations,” it added.
+WhatsApp said that in addition, it is also engaging directly with non-governmental organisations (NGOs) and governments, including the World Health Organization and over 20 national health ministries, to help connect people with accurate information.
+“Together, these trusted authorities have sent hundreds of millions of messages directly to people requesting information and advice,” it added.
+WhatsApp is also testing a feature that would display a small magnifying glass next to any frequently forwarded messages.
+Users will then be able to click that and be taken to a web search for the message, with the intention of letting them find articles that may debunk the message or shed further light on any claims found within it — and not forward them on if they find the message is not true.
+In mid-March, even as many states had begun imposing curbs and movement restrictions to fight the spread of coronavirus pandemic, WhatsApp had rolled out ‘Coronavirus Information Hub’ to provide simple, actionable guidance for health workers, educators, community leaders, non-profit entities, local governments and local businesses that rely on WhatsApp to communicate.
+Indian government’s dedicated WhatsApp chatbot MyGov Corona Helpdesk, which aims to provide timely updates and help citizens clear their queries on COVID-19, has already garnered over 2 crore users.
+Prime Minister Narendra Modi on March 24 announced a complete lockdown of the entire country for 21 days in an unprecedented move to halt the spread of coronavirus, shortly after which the Centre said road, rail and air services will remain suspended during this period.
+As on early Tuesday, the pandemic claimed 114 lives in the country and the number of cases increased to 4,421 in India.
+In the past, WhatsApp has faced flak from the government after a series of mob-lynching incidents, triggered by rumours circulating on WhatsApp, claimed lives.
+Under pressure to stop rumours and fake news, WhatsApp had then restricted forwarding messages to five chats at once as well as removed the quick forward button for media messages in India. This feature was later extended globally.
+WhatsApp, as part of its efforts, has been running campaigns, offering tips to users on how to spot misinformation.
+However, WhatsApp has so far, resisted the government’s demand for identifying message originators, arguing that such a move would undermine the end-to-end encryption and the private nature of the platform, creating potential for serious misuse.
+Also read: Team of ‘hoaxbusters’ at work to debunk coronavirus myths in 15 languages
