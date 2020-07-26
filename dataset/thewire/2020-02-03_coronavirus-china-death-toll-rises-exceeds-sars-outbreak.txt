@@ -1,0 +1,63 @@
+Coronavirus: China Death Toll Rises, Exceeds SARS Outbreak
+The coronavirus has infected 17,200. The number of confirmed cases will keep growing because thousands of specimens from suspected cases are yet to be tested.
+Medical workers take the temperature of passengers after they got off the train in Jiujiang, Jiangxi province, China, as the country is hit by an outbreak of a new coronavirus, January 29, 2020. Picture taken January 29, 2020. Photo: Reuters/Thomas Peter
+
+
+<!-- //DW Tracking start var xttitel = encodeURIComponent (document.title); var partnername = encodeURIComponent('thewire.in'); var sprache = '2'; var xtmaca = 'en-VAS-Volltexte-JavaScript-' + partnername + '-dwde'; var xturl = encodeURIComponent (document.URL); var xtref = encodeURIComponent (document.referrer); var base = 'https://logs1279.xiti.com/hit.xiti?s=531599&s2=' + sprache + '&p=' + partnername + '::Volltexte::'; var ext = '&x1=1&x2=' + sprache + '&x5=' + xttitel + '&x6=1&x7=' + xturl + '&x8=' + xtmaca + '&x10=' + partnername + '::Volltexte&ref=' + xtref; var track = base + xttitel + ext; var xtImg=document.createElement("img"); xtImg.setAttribute('src', track); xtImg.setAttribute('alt', 'na'); xtImg.setAttribute('height', '1px'); xtImg.setAttribute('width', '1px'); document.body.appendChild(xtImg); //DW Tracking end -->
+
+
+
+
+The number of confirmed deaths from China’s coronavirus outbreak has risen to 361, with Hubei province — the centre of the outbreak — reporting 57 new deaths on Monday, according to the National Health Commission.
+The death toll exceeds that of the 2002-03 SARS outbreak, which killed 349 people in mainland China. The commission also confirmed 2,829 new cases of the virus nationwide on Sunday, bringing the total number of people infected within China to 17,205. The total number globally is 17,300.
+The World Health Organization has said the number of confirmed cases will keep growing because thousands of specimens from suspected cases have yet to be tested.
+Chinese stocks plummeted by almost 9% at the start of trade on Monday as investors returned from the Lunar New Year break, which was extended due to virus fears. The benchmark Shanghai Composite Index nosedived 8.73%, while the Shenzhen Composite Index, which tracks stocks on China’s second exchange, sank 8.99%.
+New hospital brings relief
+China has also finished building a 1,000-bed hospital to tackle the outbreak in Hubei province. Medical workers and equipment were sent to the brand new facility in the city of Wuhan on Monday, once it was completed after just 10 days of construction.
+Medical teams have continued to arrive in Wuhan to work at the new hospital, located in a rural area outside of the city centre. Footage from the state-run broadcaster CCTV depicted wards equipped with new medical equipment and ventilation systems. Construction of a second hospital with 1,500 beds is currently underway.
+File Photo: Customers queue up to buy masks amid an outbreak of a new coronavirus, in Hong Kong, China February 1, 2020. Photo: Reuters/Tyrone Siu
+Lockdown extended east
+On Sunday, China’s eastern port of Wenzhou became the first city outside of Hubei province to impose quarantine measures due to the outbreak. Wenzhou, a city of 9 million on China’s east coast, is around 700 kilometres (430 miles) from Wuhan, the city where the coronavirus outbreak originated in December.
+The city joins the 14 cities in Hubei province that remain on lockdown amid a rising death toll.
+Families will only be allowed to send one family member out of the house every two days, and only to buy necessities, according to city authorities. Residents have also been advised not to leave their homes except to seek medical treatment.
+First death outside China
+The outbreak, which claimed its first live outside of China on Sunday, has spurred international evacuations out of Wuhan, railway closures and flight suspensions.
+Also read: Philippines Reports First Coronavirus Death Outside China
+The Philippines reported the first coronavirus death outside of China on Sunday, after a 44-year-old Chinese man died a day earlier. He had traveled to the country from Wuhan via Hong Kong on January 21.
+Twenty-four countries outside of China have reported cases, with Japan taking the lead with 20 cases and Thailand following with 19. In Europe, the virus has infected 10 people in Germany, six people in France, two each in the UK, Russia, and Italy and one each in Sweden, Finland, and Spain.
+The G7 countries — Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States, all of which have confirmed cases of the virus — will discuss a joint response, German Health Minister Jens Spahn said Sunday. “There is no point in each country deciding on measures alone,” he said.
+Hong Kong medics strike
+Hong Kong medical workers staged a walkout on Monday, demanding that the city close its border with China to prevent the virus from spreading. The city has 15 confirmed cases of the virus, most of which were brought over from the Chinese mainland.
+Monday’s strikes were “non-essential” staff, but the union has said that more essential workers, including doctors and nurses, would stage walkouts on Tuesday.
+File Photo: Customers wear masks as they shop for instant noodles at a supermarket following the outbreak of a new coronavirus, in Hong Kong, China January 30, 2020. Photo: Reuters/Tyrone Siu/File Photo
+“If there is no full border closure, there won’t be enough manpower, protective equipment, or isolation rooms, to combat the outbreak,” said Winnie Yu, chairwoman of the 9,000-member Hospital Authority Employees Alliance.
+Although the city has closed down some crossings, authorities have rejected calls to close the entire border, arguing that doing so would be discriminatory and economically damaging. Hong Kong’s Hospital Authority has decried the strike, warning that half of the pre-booked operations would be canceled or delayed by the action.
+New measures in the US
+US President Donald Trump said the country, which has confirmed 11 cases of the disease, has taken decisive action to protect Americans from the threat of the virus while offering help to China. Beijing has not yet accepted the offers for assistance, according to a key US adviser.
+Trump appeared to downplay concerns over the virus in an interview with Fox News on Sunday, saying, “We’re gonna see what happens, but we did shut it down, yes.”
+Also read: As Coronavirus Misinformation Spreads on Social Media, Facebook Removes Posts
+The US has declared a public health emergency and has barred entry to foreign nationals who have recently visited China. Washington has also implemented measures to reroute its citizens traveling from China. Under the new rules, the Department of Homeland Security will send citizens who have traveled in China within the last 14 days to one of eight designated airports, where they will undergo additional health screening.
+Latest from around the world
+Europe
+A plane evacuating 254 French and European nationals from Wuhan landed Sunday at a military airbase in Istres, southern France. Around 20 evacuees presented some coronavirus symptoms and stayed at the military airbase for further testing. Out of the 254 evacuees, 124 were returning to their home countries, said French Health Minister Agnes Buzyn.
+Foreign Minister Jean-Yves Le Drian said the plane was carrying nationals of 30 countries, and that most non-French passengers would continue to travel on to their home countries. However, 60 non-European nationals, including from Mexico, Brazil, Rwanda, and Georgia will stay in France for a 14-day quarantine.
+Sixty-four French nationals are set to be quarantined either at a holiday resort at Carry-Le-Rouet or at a firefighters’ training center close to Aix-en-Provence, Secretary of State for Child Protection Adrien Taquet told reporters.
+A flight attendant wearing a protective face mask is pictured during a flight from Sydney to Bangkok, February 1, 2020. Photo: Reuters/Jorge Silva
+The Czech Republic said five of the people on board the French plane were Czech citizens that would fly on to Brussels and then transfer to a Czech plane. Sweden said around 10 of its nationals were on the plane and would travel home to Sweden. British nationals were also on the flight, according to Reuters.
+Russian Railways said Sunday it was suspending passenger trains to China from midnight local time (2100 UTC) due to the epidemic.
+Israel
+China’s acting ambassador to Israel apologized on Sunday after comparing the ban on Chinese citizens entering several countries to the turning away of Jewish refugees during the Holocaust. Dai Yuming told reporters in Tel Aviv that efforts to ban Chinese citizens from several countries reminded him of “the old days, the old stories that happened in World War II, the Holocaust, the darkest days in human history.”
+Also read: Coronavirus: India Suspends E-Visa for Travellers Coming From China
+“Millions of Jewish were killed, and many, many Jewish were refused when they tried to seek assistance from other countries. Only very, very few countries opened the door, and among them is China,” he said.
+The Chinese Embassy in Israel later issued a statement: “We would like to apologise if someone understood our message the wrong way.” Israel stopped direct flights to China on Thursday, and its border control agents are now authorised to deny entry to non-Israelis who have visited China in the past two weeks.
+New Zealand
+Wellington announced Sunday that it is temporarily barring non-resident travellers from China. The South Pacific country raised its official travel advice for China to “Do not travel,” the highest warning level.
+File Photo: People wearing masks walk through an underground passage to the subway in Beijing, China January 21, 2020. Photo: Reuters/Jason Lee
+Japan
+Japan’s Foreign Ministry said it would send another charter flight mid-week to evacuate Japanese nationals who are still in Hubei. Three new coronavirus cases were reported in Japan on Sunday, with 20 now in total.
+Vietnam
+Vietnam has confirmed an additional three cases of the virus, bringing the total number of cases in the Southeast Asian country to eight. The latest confirmed cases were all on the same flight from Wuhan, China. The cases are currently limited to four out of 63 provinces in Vietnam. Over the weekend, the country also declared a public health emergency.
+Thailand
+Thailand’s Health Ministry announced Sunday that a Chinese woman infected with the coronavirus showed dramatic improvement after doctors treated her with a cocktail of anti-virals used to treat flu and HIV.
+“The lab result of positive on the coronavirus turned negative in 48 hours,” said doctor Kriengsak Attipornwanich during the ministry’s press briefing. The ministry is awaiting research results to prove the findings.
+The article was originally published on DW. You can read it here. 

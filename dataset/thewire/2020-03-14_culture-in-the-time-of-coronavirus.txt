@@ -1,0 +1,35 @@
+Culture in the Time of Coronavirus
+In China, instead of performing on stage, many musicians took to social media, where they shared videos of their music practice at home.
+Teatro La Fenice in Venice. Photo: cmtackes/Flickr, CC BY 2.0
+
+<!-- //DW Tracking start var xttitel = encodeURIComponent (document.title); var partnername = encodeURIComponent('thewire.in'); var sprache = '2'; var xtmaca = 'en-VAS-Volltexte-JavaScript-' + partnername + '-dwde'; var xturl = encodeURIComponent (document.URL); var xtref = encodeURIComponent (document.referrer); var base = 'https://logs1279.xiti.com/hit.xiti?s=531599&s2=' + sprache + '&p=' + partnername + '::Volltexte::'; var ext = '&x1=1&x2=' + sprache + '&x5=' + xttitel + '&x6=1&x7=' + xturl + '&x8=' + xtmaca + '&x10=' + partnername + '::Volltexte&ref=' + xtref; var track = base + xttitel + ext; var xtImg=document.createElement("img"); xtImg.setAttribute('src', track); xtImg.setAttribute('alt', 'na'); xtImg.setAttribute('height', '1px'); xtImg.setAttribute('width', '1px'); document.body.appendChild(xtImg); //DW Tracking end -->
+
+
+
+The world-famous Teatro La Fenice in Venice remains eerily quiet as the Dafne string quartet enters the stage. The musicians walk up and take a bow — despite the fact that there is no audience inside the massive concert hall, which can seat more than 1,000 people. As the four artists take their seats, violinist Federica Barbali can’t help but chuckle at the awkward and unusual situation.
+For a moment, you can hear a pin drop throughout the stunning rococo theatre, originally built in 1792; then the quartet starts to play Ludwig van Beethoven’s String Quartet No.4, Op.18 No.4. And as the music fills the void, you’re suddenly reminded of the fact that you’re watching this event from the comfort of your home.
+The show must go on
+The Teatro La Fenice decided to live-stream the concert online, as Italy is effectively under a nationwide lockdown. Cultural events have been cancelled throughout Italy and Europe in a bid to contain the spread of the coronavirus. But that doesn’t mean that all public life has to stop; in order to ensure that cultural life continues, organisers are coming up with new formats to channel their events.
+On Twitter, the concert stream by the Teatro La Fenice is one of many things shared under the hashtag #iorestoacasa — which translates as “I’m staying home.” Italians from across the country are using the hashtag to talk about their lives under quarantine conditions and to show solidarity with those who have been infected by the coronavirus.
+Also read: Facing Coronavirus-Related Losses, India’s Private Airports Want Fliers to Pay More
+But there’s also a sense of solidarity with the string quartet, performing under such unique circumstances. As the online audience continues to comment on the performance, mostly expressing their gratitude for the beautiful concert, one user reminds the other viewers that they are still watching a musical performance — by shushing them on the digital realm as if they were inside the theatre.
+The Dafne string quartet is by far not the only group of classical musicians resorting to streaming as an alternative during these challenging times. The Symphony Orchestra of Giuseppe Verdi in Milan was also forced to play in front of an empty house earlier in March while streaming the concert online. Their chosen hashtag during the stream was perhaps a more poetic one: #Lamusicanonsiferma — the music won’t end.
+#8Marzo La Forza delle Donne
+In un momento in cui le distanze tra le persone sono un’imposizione, la forza e la resilienza sono gli ingredienti per affrontare il futuro. Adesso in anteprima online! https://t.co/J5dLyCryEY@FondBracco @YouCameraMi @marzy83 #COVID-19 #Italyistrong pic.twitter.com/YbkhlEk4tI
+— Orchestra Sinfonica di Milano (@laVerdiMilano) March 8, 2020
+
+In neighbouring Switzerland meanwhile, the Lucerne Orchestra had to find a different solution. After returning from a tour in northern Italy last month, all musicians were placed under quarantine. Facing the reverse problem of having a full auditorium but no orchestra to play during a performance of Richard Strauss’ opera “Salome,” the organisers decided to offer a simple piano accompaniment instead.
+No country in the world was hit as badly by the coronavirus crisis as China, where the Shanghai Symphony Orchestra was also forced to cancel its shows. Instead of performing on stage, many of the musicians took to the Chinese social media hub WeChat, where they shared videos of their music practice at home, as well as instructional videos.
+Also read: In Italy, Coronavirus Poses a Gigantic Political Challenge
+Museums in China had already started sharing social media posts about their collections back in January in hopes of helping those under quarantine conditions overcome their boredom.
+Sustainable alternative?
+As the coronavirus outbreak is also hitting Germany, several theatres and concert houses decided to take precautions in accordance with regional guidelines on large public gatherings. In Cologne, the Gürzenich Orchestra cancelled all events with an audience of more than 1,000 people following recommendations by German Health Minister Jens Spahn to that end.
+Konzert ohne Publikum. #flashback #Geisterkonzert #ghostconcert @koelnmusik pic.twitter.com/9k9WBQJqCV
+— Gürzenich-Orchester (@guerzenichorch) March 11, 2020
+
+Geoffry Wharton, who was the concertmaster of the Gürzenich Orchestra for over 30 years, says that in his long-spanning career, he had never seen anything like the measures taken now.
+“I’ve witnessed cancellations before but nothing like this. The closest this actually came was to the experience I had on the 11th of September, 2001. Nobody knew that day what the proper thing to do was. They obviously thought about canceling the concert completely but the musicians were all there, so what they ended up doing was they changed the program. But even then, we didn’t cancel,” the US musician and composer told DW.
+Also read: Pakistan Joins Neighbours in Welcoming Modi’s Call for SAARC to Combat COVID-19
+Like the orchestras in Italy, the Gürzenich Orchestra also decided that instead of cancelling, it would also consider live-streaming as an option. Wharton says he was happy to see the orchestra try new things, as he followed a recent performance online in real-time. However, he added that it might not be a sustainable solution in the long-run: “It was nice that they did it this way, but the thing is that people actually want to go to these concert halls to see shows. And when they have to stay at home for months instead, the model of live-streaming may not be a viable solution,” Wharton said.
+“And this is where I worry about a lot of my colleagues and friends who are freelance. Nobody knows what’s actually supposed to happen to freelance musicians with concerts that don’t happen.”
+The article first appeared on DW. Read the original here.

@@ -1,0 +1,19 @@
+Within a Month of Lockdown, New COVID-19 Cases Dipped in 8 Countries, But Not India
+Only lockdowns are not enough, the World Health Organization said on March 25, adding that countries must use the opportunity to “find, isolate, test, treat and trace”.
+Medics in protective suits are seen in a containment zone during the ongoing COVID-19 pandemic, in Aligarh, Saturday, May 2, 2020. Photo: PTI
+Thirty nine days into the nationwide lockdown, and a day after its second extension, India reported its highest single-day increase in COVID-19 cases on May 2 at 2,411.
+In eight countries that enforced lockdowns to control the COVID-19 pandemic, new cases being reported declined within a month, unlike in India, an IndiaSpend analysis has found.
+Source: Our World In Data, Business Insider India, Oxford COVID-19 Government Response Tracker
+A 21-day countrywide lockdown was enforced in India on March 25, when there were 536 confirmed cases across the country. On April 14, by when India had reported 10,815 cases, the lockdown was extended until May 3. On May 2, when India had a total of 35,365 confirmed cases, the Centre extended the lockdown for the second time for two weeks – until May 17.
+Over the 39 days of lockdown, 37,240 new cases have been detected and 1,214 patients have died, as of 5 p.m. on May 2. In the 60 days since cases started spiking in India, average daily case detection has increased from eight to 1,400, as IndiaSpend reported on April 30.
+Also read: The More Effectively We Track Data, the Less Speculative Our Coronavirus Models Will Be
+Although the rate of increase has fallen over time, a higher number of cases continue to be detected. This is unlike the trend in eight of the nine countries – Belgium, Denmark, France, Germany, Ireland, Italy, Russia, Spain and the United Kingdom – that we analysed.
+!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");
+In Ireland and Italy, the highest number of cases were detected 12 days after the lockdown was enforced. Fewer cases are being detected in these countries since. Germany (6 days), France (16), Spain (18), the United Kingdom (20), Denmark (28), and Belgium (30) saw this peak case detection within a month of the lockdown.
+Among the countries analysed, India’s lockdown is the most stringent, as per the Oxford COVID-19 Government Response Tracker’s Stringency Index. Russia (63.89), which follows a trajectory similar to India’s, was given a lower stringency score than India (97.35).
+Italy (93.25), Spain (89.41) and France (89.41) also scored high on the stringency scale.
+Only lockdowns are not enough, the World Health Organization said on March 25, adding that countries must use the opportunity to “find, isolate, test, treat and trace”.
+As of 9 am on May 2, India has tested 976,363 samples, which comes to 722 per million population. This is fewer than the proportion tested by other countries such as Italy (35,997 per million), US (20,030) and the UK (15,419).
+
+Shreya Raman is a data analyst at IndiaSpend.
+This article first appeared on HealthCheck, powered by IndiaSpend. Read the original here.

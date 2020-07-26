@@ -1,0 +1,35 @@
+COVID Lockdown: How India's Food Supply Chain First Tightened and then Recovered
+Food supply shortages, if any, are driven by state level policy making, rather than consumers’ and suppliers’ fears of contracting COVID-19.
+File Photo: A vendor loads tomatoes in a bag for a customer at a wholesale vegetable market in Mumbai, India, March 14, 2018. Photo: Reuters/Danish Siddiqui
+In mid-April, the supply of fruits and vegetables at Azadpur mandi, Asia’s largest fruit and vegetable market, had fallen about 50% since the start of India’s nationwide lockdown.
+Two months later, updated nationwide data shows that India’s food supply chain appears to have recovered, operating at levels comparable to the same time last year. The story of the recovery is best told with four food facts, the sum of which tell its own tale of governance during the COVID-19 pandemic times.
+Food fact 1: Food volumes took a huge hit post-lockdown but have steadily recovered.
+Figure 1 below plots data on food arrivals to 1804 markets all across India. The blue line plots volumes in 2018, the green line in 2019, and the black line in 2020. In Phase 1 of India’s lockdown, food volumes had fallen by more than 60% on average, but have steadily recovered since April and by late May they appear to have fully recovered.
+This is encouraging news, as it suggests that India’s efforts to contain the coronavirus need not disrupt the food supply chain, thereby averting widespread food shortages.
+Figure 1: Food arrivals across 1804 Wholesale Mandis
+
+Food fact 2: Food prices increased post-lockdown but have steadily fallen.
+Figure 2 plots wholesale prices each week relative to the lockdown. Immediately following the lockdown, food prices rose by about 10% but have since declined, and are now about 10% lower than before the lockdown. This may reflect changes in demand or pressures on suppliers to ensure that food remains affordable.
+Figure 2: Change in Wholesale Prices by Week
+
+Food Fact 3: The early disruption to the food supply chain was highly correlated with the incidence of COVID-19 at the state level, but all states appear to be recovering.
+Using nationwide data, Figure 3 demonstrates that states with more COVID-19 cases experienced larger food shortages during Phase 1 of the lockdown. Fortunately, Figure 4 demonstrates that all states appear to be in recovery, and after Phase 1 there is no relationship between the incidence of COVID-19 and the health of the food supply chain.
+Also read: Amidst Lockdown, 1 Out of Every 5 Kids in Uttarakhand Didn’t Get Food Grains Under Mid-Day Meal
+Figure 3: Phase 1 State Level Food Shortages compared to Incidence of COVID-19
+
+Figure 4: Phase 2-4 State Level Food Shortages compared to Incidence of COVID-19
+
+The strong relationship between phase 1 disruptions and the incidence of COVID-19 at the state level could arise for at least two reasons. First, states that suffered higher rates of COVID-19 may have imposed stronger restrictions on travel. Second, in states with high incidence of COVID-19, individuals that comprise the food supply chain may have voluntarily stayed home out of fear of contracting or spreading the virus.
+Food Fact 4: Within states, there was no relationship between the incidence of COVID-19 and the health of the food supply chain, even in phase 1.
+Figure 5 plots the average additional food shortage in districts that had a COVID-19 death relative to districts without a COVID-19 death within the same state. Figure 5 demonstrates that for districts within the same state, districts that had at least one COVID-19 death did not suffer more food shortages than districts that had no COVID-19 deaths.
+Figure 5 represents data aggregated across all of the states. But to further elucidate the methodology, in Figures 6a and 6b we present the data specifically for Uttar Pradesh. Figure 6a uses data exclusively from districts in UP that experienced no COVID-19 deaths by June 1st, and plots the aggregate food arrivals at wholesale markets in 2018, 2019, and 2020. Figure 6b plots the same for UP districts that experienced at least one death from COVID-19 by June 1. The figures demonstrate that the recovery was similar across both types of districts.
+Also read: Forced to Forage for Food by the Lockdown, and Poisoned by Mushrooms
+This is an important observation. It suggests that the food supply shortages are driven by state level policy making, rather than consumers’ and suppliers’ fears of contracting COVID-19. States with higher COVID-19 incidence may have (justifiably) had a heavier hand in stemming travel, thereby hampering the food supply chain.
+Figure 5: Within State Comparison of Food Shortages in Districts With and Without COVID-19
+
+Figure 6a: Recovery of Food Supply Chain in UP Districts with no COVID-19 deaths by June 1
+
+Figure 6b: Recovery of Food Supply Chain in UP Districts With at Least 1 COVID-19 Death by June 1
+Overall, we are heartened to report that the food supply chain appears to be strongly on the mend. Of course, there are limits to this good news. Our analysis tells us little about the extent to which people are unable to afford food, even if it is available at pre-lockdown wholesale prices.
+And there are limits to how much we can extrapolate about the prospects of the food supply chain as the policy landscape continues to evolve. But we are cautiously optimistic that states appear to have found policies in the medium-run that have restored food availability to its pre-lockdown levels.
+Matt Lowe is an Assistant Professor of Economics at the University of British Columbia and Ben Roth is an Assistant Professor of Business Administration at Harvard Business School.

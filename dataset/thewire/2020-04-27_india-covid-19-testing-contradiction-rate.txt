@@ -1,0 +1,58 @@
+India's COVID-19 Testing Conundrum: Why the Govt and Its Critics Are Both Right
+Low testing rate does not fully account for the low prevalence of COVID-19 in India, contrary to what critics might claim. The test-positivity rate for India is low, but that is not the full story – contrary to what the government might claim.
+Medics collect test samples in New Delhi. Photo: PTI
+There seem to be two diametrically opposed positions on COVID-19 testing in India. 
+On the one hand, the Indian government claims that there are no problems with the testing process. The evidence, according to the government, is the low test positivity rate (ratio of positives to total persons tested) for India. 
+On the other hand, critics of the government point to the low testing rate (ratio of total persons tested to the total population) as evidence of serious problems in India’s COVID-19 testing process.
+Using data from the Our World in Data website, we see that both claims – of the government and its critics – are correct. 
+On April 24, India’s test positivity rate stood at 4.76%, a low value by international standards (because the median test positivity rate was around 5.73%). On the same day, India’s testing rate was 380 persons tested per million population, an extremely low value, again, in comparison to other countries of the world (the median testing rate in the world on that date was about 5,897 persons tested per million population). 
+How can we reconcile these two seemingly contradictory assertions?  
+Before I offer a possible solution for the apparent contradiction, let me address one question that might have cropped in the minds of some readers. Can India’s low testing rate account fully for its low prevalence (number of COVID-19 cases per million persons)? 
+The short answer is no.
+Testing versus prevalence in countries with high case counts
+To address this question, let us compare testing rates and the prevalence of COVID-19 for India with 10 countries with the highest number of cases: Canada, France, Germany, Iran, Italy, South Korea, Spain, Turkey, United Kingdom and United States.
+ In Table 1 below, I have collected data for these 11 countries for the 45th day from the start of the pandemic in each country (when it first reported 50 or more cases). 
+Why 45th day? India reported more than 50 cases for the first time on March 10, and the latest data are available for April 24, a span of 45 days.
+
+From the second and third columns in ‘Panel A’ of Table 1, we can see immediately that India has by far the lowest testing rate among these 11 countries. We also see that it has the lowest prevalence (cases per million persons) in this group of 11 countries. 
+But how much of the variation in the latter can be accounted for by the former? To answer this question, we can turn to ‘Panel B’, where numbers have been normalised with respect to India’s figures.
+For instance, the prevalence of COVID-19 in Germany was 86 times that in India; on the other hand, the testing rate was only 56 times higher than in India (which still leaves a gap of a factor of 1.54). 
+In France, the prevalence was 90 times higher than in India, but the testing rate was only 19 times higher (which leaves a gap of a factor of 4.84). 
+The same pattern can be seen in the comparison of India with all the 10 countries that have been covered in Table 1 – other than South Korea. 
+For nine of the 10 countries, the magnitude by which the prevalence of COVID-19 is higher in a country than in India is itself higher than the magnitude by which testing rates are higher than in India. 
+Thus, it seems fair to draw the following conclusion: low testing rate cannot fully account for the relatively lower prevalence of COVID-19 in India.   
+Also read: No COVID-19 Test Is 100% Right, so Their Errors and Results Are Both Important
+Let us now return to the apparent contradiction between the government’s claims and the assertions of its critics.
+The test positivity rate
+Let us start by looking at the “test-positivity rate” (TPR). 
+This is defined as the ratio of positive cases to the number of tests conducted. Thus, the TPR can be calculated as the ratio of cases per million (second column in Table 1) and tests per million (third column in Table 1). This is what I have reported, in percentage terms, in the fourth column of Table 1. 
+To see what this number means in concrete terms take the example of France, where the TPR was 21.3%. This means that for every 4.96 persons tested, 1 person is found to be infected (or, for every 496 persons tested, 100 are found to be infected). 
+On the other hand, the TPR for India was 4.76. This means that for every 21 persons tested in India, 1 person is found infected.
+How does India’s TPR, at 4.76%, compare with other countries? Before turning to a comparison, let us note an important fact about epidemiological testing.
+All epidemiological tests can be evaluated along two dimensions: sensitivity and specificity. 
+If a test is very sensitive, it will correctly identify a large proportion of those with the infection, i.e. it will not generate many false-negative results. On the other hand, if a test is very specific, it will correctly identify a large proportion of those who are not infected, i.e. it will not generate many false-positives. One can increase accuracy along one of these dimensions only at the expense of the other. Hence, every epidemiological test tries to balance sensitivity and specificity.   
+Also read: Group Tests for COVID-19? Please Look Before You Leap
+From the perspective of the effectiveness of testing, a high value of TPR is not good news. 
+It means that the testing strategy is not reaching a wide section of the population, i.e. the test might be too sensitive. It gives an indication that the testing is focused on the sections of the population who have a high probability of being infected. 
+On the other hand, a very low value of the TPR might also be bad news. This might very well indicate that the testing is completely missing even those who are likely to be infected, i.e. the test is too specific.
+In the fourth column of Table 1, I present the value of TPR for the 11 countries that I am using for comparison. ‘Panel A’ gives the value of the TPR and ‘Panel B’ gives the ratio of any country’s TPR with India’s TPR. We see from these numbers that India’s TPR is higher than South Korea’s but lower than the TPR for all other countries. Of course, this still doesn’t tell us a whole lot. 
+So, let us focus on two countries that are known to be leaders in COVID testing and have managed to deal effectively with the pandemic by ramping up testing: South Korea and Germany.
+ For South Korea, the value of the TPR is 2.23; for Germany, the corresponding value is 6.79. India’s TPR on April 24 is 4.76, which falls between the numbers for South Korea and Germany. 
+India’s TPR is low, and that is good. But that is not the complete story.
+Testing coverage matters
+At any date, since the start of the epidemic (or, since the start of data becoming available on testing) the TPR is ratio of the total number of positive cases to the total number of tests conducted. 
+Thus, the TPR is the weighted average of daily TPR’s with the fraction of total tests conducted on a day being the weight. For instance, if we look at the TPR on the third day of the epidemic, it will be the average of the daily TPRs for day 1, 2 and 3, where the proportion of total tests done in a day will be the weight associated with the daily TPR for that day.
+Over the life of an epidemic, typically the TPR first rises. This is because the epidemic is spreading and, at the same time, testing is ramped up to cover a wider segment of the population. But, after a threshold is reached, the TPR stabilises even as more tests are conducted (this happens when the daily TPR for a day becomes equal to the TPR for the previous day, and this relationship does not get reversed in later days). 
+Eventually, after a second threshold is crossed, the TPR might even start falling – even as more tests continue to be conducted (this happens when the daily TPR for a day falls below the TPR for the previous day, and this keeps happening every day after that). 
+A medic collects a swab sample of a man from a new testing cabin at Podar hospital in Worli in Mumbai, April 19, 2020. Photo: PTI/Kunal Patil
+The total number of tests that had been conducted when the first, and then the second threshold, is reached can be considered an ‘adequate’ number of tests. Adequate number of tests divided by the total population will give us the ‘adequate’ testing coverage. 
+For India it is too early to say if we have reached the first threshold. While the TPR has been stable at a little over 4% for the past two weeks, we need to look at trends for a few more weeks before reaching any conclusion. Moreover, India is nowhere near the second threshold – when the TPR would start falling.
+The bottom line is that India is far from the thresholds. Hence, India needs to keep ramping up testing. A rough number to use as a benchmark is a TPR of 2%, i.e. India needs to keep ramping up testing till it’s TPR falls to, and then stabilises at, 2%. 
+What would be the total number of tests that would take India to a 2% TPR? 
+Figure 1. Total tests (height of bars) and percentage of tested population (numbers on top of bars) across countries on April 26. Source: COV-IND-19 Study Group. I would like to thank Professor Bhramar Mukherjee, University of Michigan, for sharing this chart with me.
+A comparison with South Korea might provide a clue. The epidemic is past its peak in South Korea, where the TPR has stabilised to around 2%. 
+To get to this point, South Korea has tested 1.2% of its population (see Figure 1). This is a rough benchmark that India could use. It needs to test 1.2% of its population to reach a low and stable TPR (of around 2%). This means that India, which has so far tested about 5,25,667 persons, needs to test another 15.71 million persons. 
+Thus, we see that both the government and its critics are right. 
+Low testing rate does not fully account for the low prevalence of COVID-19 in India, contrary to what critics might claim. 
+The TPR for India is low, but that is not the full story – contrary to what the government might claim. The only conclusion that seems to follow our analysis is that there is no scope for complacency – testing needs to be ramped up big time.
+Deepankar Basu is Associate Professor in the Department of Economics, University of Massachusetts Amherst.

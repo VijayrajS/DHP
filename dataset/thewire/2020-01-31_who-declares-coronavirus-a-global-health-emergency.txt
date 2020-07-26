@@ -1,0 +1,33 @@
+WHO Declares Coronavirus A Global Health Emergency
+However, the WHO also said there was no reason for measures that unnecessarily interfere with international travel and trade.
+A woman wearing a face mask walks out of a supermarket, as the country is hit by an outbreak of the new coronavirus, in Beijing, China January 26, 2020. Photo: Reuters/Carlos Garcia Rawlins
+
+
+<!-- //DW Tracking start var xttitel = encodeURIComponent (document.title); var partnername = encodeURIComponent('thewire.in'); var sprache = '2'; var xtmaca = 'en-VAS-Volltexte-JavaScript-' + partnername + '-dwde'; var xturl = encodeURIComponent (document.URL); var xtref = encodeURIComponent (document.referrer); var base = 'https://logs1279.xiti.com/hit.xiti?s=531599&s2=' + sprache + '&p=' + partnername + '::Volltexte::'; var ext = '&x1=1&x2=' + sprache + '&x5=' + xttitel + '&x6=1&x7=' + xturl + '&x8=' + xtmaca + '&x10=' + partnername + '::Volltexte&ref=' + xtref; var track = base + xttitel + ext; var xtImg=document.createElement("img"); xtImg.setAttribute('src', track); xtImg.setAttribute('alt', 'na'); xtImg.setAttribute('height', '1px'); xtImg.setAttribute('width', '1px'); document.body.appendChild(xtImg); //DW Tracking end -->
+
+
+
+The World Health Organization (WHO) on Thursday declared the coronavirus a public health emergency of international concern.
+The health agency described the emergency as an “extraordinary event” as other countries are at risk. Therefore a coordinated global response is required in order to contain a virus that broke out in the Chinese city of Wuhan three weeks ago.
+Tedros Adhanom Ghebreyesus, the WHO’s director-general, said, “The main reason for this declaration is not because of what is happening in China but because of what is happening in other countries. Our greatest concern is the potential for this virus to spread to countries with weaker health systems, which are ill-prepared to deal with it.”
+“We are all in this together and we can only stop it together,” Tedros said, advocating worldwide cooperation to aid developing countries, work on vaccines and diagnostics, as well as review public health plans.
+WHO officials in Geneva, Switzerland on January 30, 2020. Photo: Reuters/Denis Balibouse
+Despite the urgency, the medical expert wants business as usual for commerce and travel. “We don’t recommend trade and travel restrictions as the WHO,” Tedros said, arguing that such measures would be an unnecessary disruption.
+That, however, has not stopped several countries from advising their citizens against traveling to China. The United States on Thursday told Americans not to travel to China. In Germany, the Foreign Ministry has warned against travel to the Hubei province and recommended postponing any nonessential travel to China if possible.
+China sets a ‘new standard for outbreak response’
+The former Ethiopian Health Minister was effusive in his praise of how China has gone about dealing with the crisis, describing the country as a benchmark for handling such issues. “In many ways, China is setting a new standard for outbreak response.”
+Also read: Coronavirus: India to Evacuate Citizens From Wuhan on Friday
+“The Chinese government is to be congratulated for the extraordinary measures it has taken to contain the outbreak, despite the severe social and economic impact those measures are having on the Chinese people,” he said. “We would have seen many more cases outside China by now — and probably deaths — if it were not for the government’s efforts.”
+He praised China for the speed with which it detected the outbreak, isolated the virus, sequenced the genome and shared it with WHO and other scientists.
+The death toll from the new virus currently stands at 212 and the number of reported cases at well over 8,000. It has now infected more people in China than were affected during the outbreak of SARS, a relation of the coronavirus.
+US and S. Korea have first person-to-person cases
+The WHO made the global concern declaration after it was revealed that eight of the deaths related to the virus had occurred outside of the outbreak’s epicenter, China’s Hubei province.
+Also read: Why India Should Worry About the New Coronavirus
+Indeed, the United States and South Korea established their first cases of human-to-human spread of the viral strain. The man in the US is married to a 60-year-old Chicago woman who fell ill from the virus after she returned from a trip to Wuhan, Hubei’s capital.
+But US President Donald Trump said the government is taking all necessary precautions to stop the outbreak from spreading.
+“We’re working very closely with (China) and with a lot of other people and a lot of other countries,” said Trump at a Michigan rally. “We think we have it very well under control. We have very little problem in this country at this moment.”
+WHO underestimated severity
+Maria Van Kerkhove, Head a.i. Emerging Diseases and Zoonosis at WHO. Photo: Reuters/Denis Balibouse
+Last week, the WHO  decided against giving the coronavirus top-level health billing. At the time the death toll was below 50. However, the consensus seemed to be changing this week as the reported deaths continued to increase as the body said it “regrets” previously calling the virus risk “moderate.”
+The WHO admitted the issue needed to be re-evaluated after human-to-human infections started occurring outside of China. The first transmission of this kind in Europe was reported earlier this week in Germany while the United States, Japan, Taiwan, Vietnam, and South Korea have all noted the disease under the same circumstances.
+The article was originally published on DW.

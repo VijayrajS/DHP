@@ -1,0 +1,39 @@
+Six Charts Show That India Needs to (and Can Afford to) Universalise PDS
+Reports have begun to compile information that suggests that starvation deaths have already begun. This move could arrest the trend.
+People stand in a queue to collect food from volunteers in Surat. Photo: PTI
+New Delhi: As the lockdown in India to contain the spread of the coronavirus will be in place at least till May 3, concerns over food security in the country are growing. While the Centre has announced that it will provide 5 kilograms of grain – rice or wheat – to each of the 800 million beneficiaries under the public distribution system (PDS), the worry is that a large proportion of those who are outside the PDS net are also food insecure.
+In the last few days the chorus to universalise PDS – to provide food grains to whoever needs them and is willing to stand in queues to access them – has grown with nobel laureates Amartya Sen and Abhijit Banerjee, former RBI governor Raghuram Rajan, development economist Jean Dreze and interim president of the Congress party Sonia Gandhi asking the government to ensure that the PDS is universalised for at least the next six months.
+Here are six charts that show why it is crucial to do so.
+!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+
+The National Food Security Act (NFSA) requires that 67% of India’s population – 75% in rural areas and 50% in urban areas – be covered by the PDS. Dreze argues that the real coverage may in fact be around 60%.
+!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+
+Off the 67% who are supposed to be covered under the NFSA, a large number of people are excluded because of the way the population coverage is determined under the NFSA. Under the NFSA, population figures from Census 2011 are used to determine how many people are covered by the act.
+Also read: Will Migrant Workers and Their Grievances Always Be Invisible to the Public Eye?
+India’s population has increased from 1,210 million in 2011 to an estimated 1,371 million in 2020 – an increase of 161 million. Now, as per the NFSA, 67% of 1,371 million, or 921 million people should be covered by the PDS. But the number covered continues to be 813 million, as it was in 2013 when the act came into force, implying that at least 108 million people who should have been covered under NFSA are not covered.
+!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+
+The 108 million figure pertains to the 67% who ought to be covered by the PDS. Even among the 33% who are not covered by the NFSA, a large proportion are vulnerable.
+The 2018 ‘state of working India’ report of the Azim Premji university showed that 51% of workers in India earn less than Rs 5,000 a month. That is less than Rs 167 a day, much lower than the lowest minimum wage under the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA).
+Also read: Lockdown Gives Centre Power Without Responsibility, Easy to Pass Buck for Failure to States
+As much as 85% of the workforce earns less than Rs 10,000 a month. Even these wages, for a large number of workers, would have been wiped out due to the lockdown exposing them to food insecurity.
+!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+
+A report released recently by the Stranded Workers Action Network (SWAN) – started by a group of 73 volunteers on March 27, a day after lockdown, when it was clear that migrant workers are extremely vulnerable – noted that 50% of the 11,000 workers they had been in touch with had rations left for less than a day.
+The report added that 96% of the workers had not received rations from the government and 70% had not received any cooked food. And to compound problems, 89% of them had not been paid by their employers during the lockdown period.
+ 
+!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+
+Another data point that shows that a large population in India is now food insecure comes from the Centre for Monitoring Indian Economy’s (CMIE) weekly household survey.
+One month ago, for the week ended March 15, 11% of households had reported a fall in income. This number rose to 45% for the week ended April 12, registering a dramatic increase.
+On the other hand, the households reporting an increase in income fell from 28% on March 15 to just 10% on April 12, once again pointing to the growing vulnerability among the Indian population.
+ 
+!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+
+Several economists, activists and politicians have pointed out that food insecurity is growing at an alarming rate. In fact, according to information compiled from news reports by researchers Thejesh G.N., Kanika Sharma and Aman, starvation deaths have already begun. Universalising PDS could be the solution.
+Writing for the Indian Express on Thursday, Amartya Sen, Abhijit Banerjee and Raghuram Rajan have suggested that temporary ration cards be issued for a period of “perhaps six months with minimal checks to everyone who wants one and is willing to stand in line to collect their card and their monthly allocations.
+India has available the stock of food grains needed to do this.
+As of March, the Food Corporation of India held 77 million tonnes of food grains – rice and wheat – which is about three times the buffer stock requirement. And the government of India will also be procuring another 40 million tonnes during the ongoing rabi season.
+Assuming that 10 kilograms of grain are provided every month to 1,100 million people (just for illustration) for a period of six months, we would need 66 million tonnes of grain – lower than the stock of grains already held and substantially lower than the estimated 117 million tonnes that will be held if the rabi procurement is taken into account.
+“The cost of missing many of those who are in dire need vastly exceeds the social cost of letting in some who could perhaps do without it,” wrote Sen, Banerjee and Rajan in the Indian Express.

@@ -1,0 +1,30 @@
+Coronavirus: First Non-Chinese Deaths Reported
+The US embassy reported Saturday that a 60-year-old US citizen who had contracted coronavirus died in Wuhan on Thursday.
+Workers set up infrastructure at the Wuhan International Conference and Exhibition Center to convert it into a makeshift hospital to receive patients infected with the new coronavirus, in Wuhan, Hubei province, China February 4, 2020. Picture taken February 4, 2020. cnsphoto via Reuters
+
+<!-- //DW Tracking start var xttitel = encodeURIComponent (document.title); var partnername = encodeURIComponent('thewire.in'); var sprache = '2'; var xtmaca = 'en-VAS-Volltexte-JavaScript-' + partnername + '-dwde'; var xturl = encodeURIComponent (document.URL); var xtref = encodeURIComponent (document.referrer); var base = 'https://logs1279.xiti.com/hit.xiti?s=531599&s2=' + sprache + '&p=' + partnername + '::Volltexte::'; var ext = '&x1=1&x2=' + sprache + '&x5=' + xttitel + '&x6=1&x7=' + xturl + '&x8=' + xtmaca + '&x10=' + partnername + '::Volltexte&ref=' + xtref; var track = base + xttitel + ext; var xtImg=document.createElement("img"); xtImg.setAttribute('src', track); xtImg.setAttribute('alt', 'na'); xtImg.setAttribute('height', '1px'); xtImg.setAttribute('width', '1px'); document.body.appendChild(xtImg); //DW Tracking end -->
+
+
+
+Latest figures
+Global health authorities have reported 34,800 cases of coronavirus worldwide. The vast majority of cases are in mainland China, where there are confirmed 34,546 infections.
+The virus has killed 722 people in China, including two foreigners. Most of the deaths have been in the central Hubei province, where the virus was first detected.
+3,399 new cases were reported over a 24-hour period in China as well as another 86 deaths, Chinese health authorities said Saturday.
+Another last-minute hospital
+A second makeshift hospital opened in Wuhan, the city at the center of the Coronavirus outbreak, on Saturday. The Leishenshan hospital has 32 wards with a total of 1,500 beds and a surgical operating room. A first medical crew arrived Saturday morning. Patients were due to follow later in the day.
+The city is rapidly converting buildings into hospitals to deal with the high number of coronavirus infections. A first provisional hospital with 1,000 beds had opened on Monday after a rapid, 10-day construction phase.
+Also read: Chinese Doctor Who Blew Whistle on Coronavirus Outbreak Dies
+As of Saturday, the province had 24,953 diagnosed cases of coronavirus. Coronavirus has killed 699 people in Hubei province.
+First non-Chinese deaths
+The US embassy reported Saturday that a 60-year-old US citizen who had contracted coronavirus died in Wuhan on Thursday, the first non-Chinese patient known to succumb to the infection.
+A Japanese man in Wuhan also died after showing symptoms consistent with the virus, Japan’s foreign ministry confirmed, though the cause of death was listed as viral pneumonia due to difficulties in diagnosing the disease.
+Cruise ship crisis
+A cruise ship stuck at the port of Yokohama in Japan began its fourth day of quarantine on Saturday. Three more people aboard the Diamond Princess cruise ship tested positive for the infection, Japan’s health ministry said, bringing the total confirmed cases on board to 64, including one critical case. A passenger who had disembarked the ship in January later tested positive for coronavirus.
+Around 3,700 international passengers and crew are currently stranded on the ship. They may not be allowed to disembark until February 19 at the earliest.
+In Taiwan, authorities began screening some 1,700 Taiwanese passengers on the cruise ship SuperStar Aquarius after it returned from Japan. On Thursday, Taiwan had said it would no longer allow international cruise ships to dock at its ports. An exception was made for the SuperStarAquarius because it is carrying Taiwanese nationals.
+Also read: Indians Stranded in Coronavirus-Hit Hubei Wait for Sign of Hope
+Weapons maker pulls out of airshow
+Lockheed Martin Corp, a US weapons maker, said on Friday that it will not participate in an airshow in Singapore next week, citing concerns over coronavirus.
+The company pointed to a Friday decision by the Singapore Ministry of Health to declare a Code Orange health alert.
+“We determined this was in the best interest of our employees and aligned with the US Department of Defense’s decision to reduce its presence,” the company said.
+This story first appeared on DW. Read the original here.

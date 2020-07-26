@@ -1,0 +1,32 @@
+COVID-19: Is India Really Doing ‘Better’ than Other Countries?
+When a country does well, a host of figures show that and not just the convenient ones.
+Medical workers wearing personal protective equipment (PPE) take care of a patient suffering from the coronavirus disease (COVID-19). Photo: Reuters/Danish Siddiqui
+New Delhi: There is “evidence” for everything. This seems to be the motto of the present government in India. By intentionally cherry-picking the data, the Ministry of Health and Family Welfare has been trying for the past few months to deny the growth of COVID-19 cases in India and hail the lockdown as a success.
+In the latest attempt to suppress evidence and ignore inconvenient data, Lav Agarwal, joint secretary at the ministry, said that “India’s is among the lowest COVID-19 fatality rates in the world”. He also claimed in a press briefing on Tuesday that “India has a low number of cases per one lakh people (lower than Spain, Belgium, the US and Mexico)” and “this is significant if one considers the availability of resources and population density in India”.
+This is a classic case of cherry-picking data to mislead citizens into thinking that there is nothing to worry about because few (conveniently picked) countries are doing worse. To examine the credibility of these claims, we must take into the account all available information, including doubling rates, numbers of tests conducted and fatality rates of as many countries as we can. That’s why we created a comprehensive database of 171 countries of the world to see how they are fighting COVID-19.
+<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
+Total and active cases
+If you sort this table by total numbers of cases, you will find that India is positioned at seventh, ahead of Germany, Turkey, France, Iran, Peru and Canada. With 8,392 cases in the last 24 hours (biggest jump so far), the growth rate of COVID-19 in India is increasing even after two months of lockdown.
+A better understanding of the state of COVID-19 in countries can be gathered by looking at the total number of active cases. Active cases show the current caseload on the system. A higher active case load means that more people are seeking treatment, and more people are susceptible to the virus. India is at number 5, just below the US, UK, Russia and Brazil, if you sort the table by the number of active cases. 
+An important element in the data here is the doubling time. Doubling time shows the number of days it takes for total confirmed cases to double and is a good indicator to see the growth of COVID-19.
+India’s doubling rate is way higher (cases double every 14 days) than any other country sitting above it in the table – United states (35), Russia (20), UK (35), Spain (56), Italy (55), and Germany (54). The only exception to this is Brazil with a doubling time of just 13 days. Similarly, countries immediately below it in the list of total cases, also have a longer doubling time than India.
+Also read: India’s Lockdown Has Failed. Here’s What We Can Learn From it.
+Fatality rate
+With a fatality rate (percentage of deaths per cases detected) of 3%, India definitely has a lower case fatality rate than Spain, Belgium, the US and Mexico, as the health ministry made it a point to say. What the ministry did not say, however, is that more than 100 countries in total and eight countries in the top 20 (including Russia, Turkey, Saudi Arabia and Pakistan) have a lower case fatality rate than India.
+The fatality rate is also not a good indicator to show the success of the lockdown, as governments can easily fudge it by not adding the comorbidity deaths.
+Per million people 
+Many claims have been made by MoHFW, India, where they take into account the large population of India to show a low number of cases per million people or per lakh people. To fully understand this data, we also need to take into account the testing rates of countries. If a country is testing less, it’s much obvious that the number of cases per million people will appear less.
+This is where the following table comes into play:
+<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
+Indeed, India has low cases per million people (117 cases per million people), compared to the US (5197 cases per million people) or Italy (3825 cases per million people). However, India is also testing way less than any of these countries. The US is testing 19 times, and Italy is testing 25 times more than India.
+India is positioned way below at 71 (of 84 countries who are providing testing data) in the number of tests per million people. It is testing just 2763 samples per million people (almost equal to Pakistan). 
+This can also well be a reason for why we have a low rate or cases per million.
+§
+The hard fact is that the number of cases in India has been increasing even after two months of lockdown and many states of India are running out of hospital beds and staff. The epidemic curve of COVID-19 cases in India doesn’t seem to be flattening while other countries like Russia, the UK, Spain, Italy, Germany, Turkey, Canada, Belgium have almost bent the curve. MoHFW press conferences should also focus on highlighting the steps they are taking to change the curve, other than presenting anecdotal evidence.
+Also read: Fighting COVID-19 on a Wing, a Prayer and an Acronym
+Look at South Korea, for example. South Korea has completely bent the curve, by reducing the number of active cases to just 735, increasing the doubling time to 85 days and reducing the fatality rate to 2. This they have achieved by higher testing – 16,823 tests per million people – almost seven times more than India.
+When a country does well, all of these figures show that and not just the convenient ones.
+Here are a few countries who are bending the curve:
+<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
+The text of this article was updated on June 1 with the latest Indian data on cases and tests. The attached data tables auto update, based on new data coming in.
+Note: We are tracking the COVID-19 cases in India here.

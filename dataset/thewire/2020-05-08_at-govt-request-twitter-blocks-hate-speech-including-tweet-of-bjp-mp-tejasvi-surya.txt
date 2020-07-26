@@ -1,0 +1,46 @@
+At 'Government Request', Twitter Blocks Tweet by BJP MP Tejasvi Surya
+A notice sent by Twitter to the Lumen database indicates that the IT ministry asked for over a hundred tweets to be withheld from viewing in India, including one by Surya from 2015.
+BJP MP Tejasvi Surya. Illustration: PTI/The Wire
+New Delhi: Tejasvi Surya may be a rising star in the ruling BJP – a party not known to have a problem with anti-Muslim dog whistling – but his pre-parliamentary bigotry appears to have caused the establishment so much diplomatic grief that the Indian government last month asked Twitter to effectively take down one of his tweets from 2015 that linked Islam with terrorists.
+“In short: true, terror has no religion,” Surya’s tweet said. “But the terrorist definitely has a religion, and in most cases it’s Islam”.
+Twitter’s recent filings with a third-party database that publishes content removal requests shows that Surya’s message was one of over a hundred tweets recently ‘withheld’ from viewing in India after the social media company received what it recorded as a legal takedown request from the Indian government.
+Most, but not all, of the now-withheld content has communal overtones or the potential to cause friction between religious groups.
+Some of the content withheld by Twitter was put out by ‘right-wing’ accounts that have a large number of followers. Surya, BJP MP for South Bengaluru, is followed by over half-a-million people. A favourite of Narendra Modi, he was “handpicked by the national BJP leadership” for the prestigious Bangalore seat in the 2019 Lok Sabha election after publicly championing the need for the BJP to “really become a Hindu party”.
+Other tweets that were taken down by Twitter appear to be objectionable content put out by accounts that primarily talk about Kashmir or pro-Pakistan causes in an inflammatory manner.
+According to a notice sent to the Lumen database, the tweets appear to have been taken down in response to a request sent by India’s Ministry of Electronic and Information Technology (MEITY). Though The Wire could not independently confirm the origin of the takedown list, the Lumen database – started by Harvard University’s Berkman Klein Centre – collates content removal requests provided to it by major technology companies such as Google and Twitter.
+Through earlier reports, The Wire has documented how the IT ministry issues regular blocking orders to Twitter, mostly with regard to Kashmir-centric content that law enforcement authorities deem dangerous and unlawful.
+This new notice – which was sent on April 28 and reported to Lumen by Twitter on May 3 – is shown below. It claims that the IT ministry cited Section 69A of the Information Technology Act, 2000 to order Twitter to remove the offending tweets.
+Legal Request for Twitter by The Wire on Scribd
+
+
+Section 69A provides for blocking public access to information when the “the Central Government or any of its officer specially authorised by it in this behalf is satisfied that it is necessary or expedient so to do, in the interest of sovereignty and integrity of India, defence of India, security of the State, friendly relations with foreign States or public order or for preventing incitement to the commission of any cognizable offence relating to above”.
+A Lumen team member confirmed to The Wire that Twitter submitted this notice to the database and chose ‘government request’ as the notice category, which implies that the Indian government asked for this content to be taken down.
+The Wire has also confirmed separately that Twitter’s notice to Lumen is indeed a valid notification.
+“We… clearly indicate within the product when content has been withheld and publish requests to withhold content on Lumen—unless, similar to our practice of notifying account holders, we are prohibited from doing so,” a Twitter spokesperson said, when asked specifically about the new notice.
+Most of the tweets listed in the notice have been taken down by Twitter and replaced with a message that reads “This tweet from ___ has been withheld in India in response to a legal demand”.
+This indicates that the content has only been removed for Indian users and can be still viewed by people outside the country. At least 15 of the tweets , however, appear to have been deleted by the user or are otherwise ‘unavailable’.
+It is possible that some other Indian law enforcement agency or authority asked the IT ministry to send the April 28 blocking order to Twitter, and that the ministry was merely passing on an order, but its unclear if that was the case here. In the past, Twitter’s notices to Lumen have clearly stated when, for example, state police have reached out to them with a blocking request – as it did when the Haryana police wanted Dera Sacha Sauda chief Gurmeet Ram Rahim Singh’s account removed from the social network.
+As can be seen from the latest notice, some of the more prominent tweets that were listed for removal include what some may view as Islamophobic content by Hindutva-oriented accounts.
+The Wire’s analysis of the over 120 tweets shows that 60% of them could be described by some as Islamaphobic while a smaller chunk could be viewed as Islamist, anti-Hindu and anti-BJP/RSS. (This does not imply that all of these tweets deserved to be withheld or removed by Twitter.)  Some of the tweets merely use divisive political rhetoric regarding Hindu-Muslim relations in India.
+Tejasvi Surya’s tweet, as seen below, has now been withheld in India but can be accessed in other countries. The Wire has asked the young parliamentarian for a statement on he was notified with regard to his 2015 tweet being withheld and whether he plans on contesting it with Twitter. This story will be updated when a response is received.
+The original tweet by Tejasvi Surya on Islam (left). How the tweet currently looks now after being taken down in response to a legal demand (right).
+Other tweets that have been withheld were put out by ‘Shefali Vaidya’, an account that has over 470,000 followers, and one by a Ranjan Gogoi (former CJI) parody account. Both tweets referred to COVID-19 related controversies involving Muslims or the Tablighi Jamaat.
+The original tweet by Shefali Vaidya (left). How the tweet currently looks now after being taken down in response to a legal demand (right).
+The original tweet by parody Ranjan Gogoi account (left). How the tweet currently looks now after being taken down in response to a legal demand (right).
+The tweet put out by the parody CJI account essentially references the recent controversy over Muslim fruit and vegetable vendors and says: “I RG [Ranjan Gogoi] do swear that that i will not buy any thing from a Muslim shopkeeper after checking Aadhaar. I will not put my family in danger due to fake secularism.”
+Other tweets that have been withheld in India by Twitter include:
+This anti-Muslim tweet was put out by an account with over 50,000 followers.
+ 
+This tweet, which has communal overtones, was put out by an account with over 5,000 followers.
+ 
+An example of an anti-BJP tweet withheld by Twitter.
+ 
+An example of anti-Hindu content that has been withheld by Twitter.
+ 
+A tweet with an anti-RSS hashtag that was withheld by Twitter.
+Interestingly, a  tweet put out by an account called ‘Gaya Bihar’ is on the Lumen notice (shown below), but does not appear to have been taken down by Twitter and can still be viewed in India despite its hashtag in Hindi encouraging a boycott of Muslim traders.
+#पहले_कागज_फिर_व्यापार 
+Ensure it for virus free India.Enough has been tolerated.Govt can't ensure everything if we will not be proactive.
+— Gaya Bihar (@GayajiBihar) April 9, 2020
+
+The notice on Lumen’s website indicates that Twitter’s action on the request was ‘partial’, implying that the social media company did not agree with and implement the full takedown order.

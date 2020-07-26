@@ -1,0 +1,39 @@
+Karnataka's Approach in Dealing With COVID-19 Patient Data Triggers Privacy Debate
+The state government released the personal data of foreign returnees who have been put under quarantine at home. 
+Medics screen Indians who arrived in New Delhi from Wuhan on February 2, 2020. Photo: PTI
+New Delhi: A day after Prime Minister Narendra Modi called for a national lockdown for 21 days to fight the COVID-19 pandemic, in a move that had serious privacy implications for travellers, the Karnataka government published the home addresses of more than 19,000 international passengers who had returned to Bengaluru from March 8.
+Screenshot from the site of Karnataka Health and Family Welfare Services.
+These people, media reports noted, may have been suspected to have novel coronavirus and thus were asked to self-quarantine and stay at home. The government also urged the citizens to alert the control room if the said people are found on the streets.
+This came after reports of several people breaking the home-quarantine rule and accessing public places despite instructions from the police to do otherwise. The SARS-CoV-2 virus is transmitted through respiratory droplets, and hence making social distancing the most effective tool against COVID-19.
+As the details were released on the government website, screenshots of spreadsheets and PDF files started doing the rounds on social media, with alleged lists containing details of over 14,000 residents from Bengaluru. The list, which mentions their home addresses, date of arrival and transit, then quickly circulated on WhatsApp groups as well. It appears that the data was extracted from the state governmentâ€™s website.
+The list is genuine. Found my address. Already hearing about trouble at many societies because of this. Totally unnecessary considering these ppl have been hand stamped, served notice & are at home. To be treated like common criminals is terrible esp with RWA vigilantes around. https://t.co/wo8QROSxV0
+— Chandra R. Srikanth (@chandrarsrikant) March 25, 2020
+
+B.H. Anil Kumar, the Bruhat Bengaluru Mahanagara Palike Commissioner, even posted a link to the official website by saying “Helps citizens to #StayHome #StaySafe.”
+The list of all persons in 14-day Home Quarantine can be found in this link along with the end date. Helps citizens to #StayHome #StaySafe.
+à²¹à³‹à²‚ à²•à³�à²µà²¾à²°à²‚à²Ÿà³ˆà²¨à³� à²®à²¾à²¡à²²à²¾à²¦à²µà²° à²µà²¿à²µà²°.#BBMP #Bengaluru #StayHomeIndia #coronavirusindia @CMofKarnataka @KarnatakaVarthe
+ğŸ‘‡https://t.co/5QskvnJXj3
+— B.H.Anil Kumar,IAS (@BBMPCOMM) March 25, 2020
+
+While people are split over whether it was ethically correct for the government to do this, some legal experts believe that it could be a violation of the ‘right to privacy’ that was upheld by the Supreme Court. . 
+“The data has been released without any underlined authorisation which is present in the law. Under the Right to Privacy judgment in 2017, the Supreme Court stated that any interference in the privacy of a person can only be done when that interference is sanctioned and authorised by law. Now given that most of these acts have been done without any specific authorisation being in its favour, it calls for an examination of whether there has been a violation of the Right to Privacy because indeed there is one,â€� says Apar Gupta, Executive Director, Internet Freedom Foundation spoke to The Wire. Â 
+Besides this data, the Karnataka government has also launched an app called Corona Watch which is meant to help people to locate places where the COVID-19 infected people have been to.
+The News MinuteÂ reported that the app is designed to reveal the home addresses of the patients.
+Screenshots from the app Corona Watch.
+When The Wire examined the app though, it did not give out specific addresses but instead identified more generic locations that the COVID-19 patients had been around. Nevertheless, the app and the state government’s decision to publish the list of home addresses raises a number of questions. While details such as names of the patients or quarantined people have been left out, it still opens the possibility of local residents of the area to quickly identify who is under self-quarantine and use that as an opportunity to engage in discrimination.
+“India does not have a Data Protection Law at present, and hence any penalty which may be imposed on these state governments is absent. But it is a legal breach, just that the remedy is not efficient and not available to people. So quite clearly, an illegal action has been taken,” added Gupta.
+How are other state governments looking to handle this issue? It’s not an easy question, especially considering how countries such as South Korea have adopted privacy-invasive measures as a legitimate and succesful tactic in the fight against the pandemic.
+P.B. Nooh, the District Collector of Pathanamthitta in Kerala, has actively been speaking about the need to protect the identities of patients who have tested positive for the virus, and also the ones who have been put under self-quarantine. He recently posted an update on his Facebook page that addressed the hacking controversy in Kerala that allegedly exposed the information of COVID-19 positive patients.
+Kerala and Maharashtra have been running neck-to-neck in the tally of the confirmed cases in the country, with Karnataka being the third-highest.
+Screenshot of his post (dated March 24) on Facebook.
+IFF’s Gupta also points out that revealing the personal information of patients or self-quarantined people may lead to further panic and chaos: “Disclosure is being done to people and not to public officials who will be better equipped to ensure the quarantine thereby also leading to a situation in which social trust will break down, and neighbours will engage in the activity of spying on each other. So this kind of surveillance is not conducive to any society.”
+Another aspect that colours the debate with more shades of grey is the collateral damage caused to people who areÂ  accidentally added to these lists and thus suffer serious consequences. More than a few angry people took to Twitter after the Karnataka government published details of Indian travellers.
+I've been retroactively added to a Karnataka government watchlist for anyone arrived in March and should be home quarantined – I voluntarily was and it ends in 3 days. Don't want to complain but why does a public document need to have my private information to the last detail? ğŸ¤·â€�â™‚ï¸�
+— Swaroop Hegde (@SwaroopH) March 25, 2020
+
+Update: family had to submit a declaration that I never went to the location and have been self quarantined elsewhere since my arrival. The damage is done though.
+Again, this was glimpse of herd behaviour on just day 1 of lockdown, only 20 more to go..
+— Swaroop Hegde (@SwaroopH) March 26, 2020
+
+However, there are also a few people who think the choice is not that easy to make.
+A senior legal expert, who declined to be identified, said, “It might be unfair to the people whose details are put out but then with people breaking rules every other day, what can one do? The Epidemics Diseases Act does let the government take exceptional measures during a pandemic. After all, it is for the well-being of the remaining community. It is a fine balance.”

@@ -1,0 +1,40 @@
+What is Life Like in Post-Lockdown Wuhan?
+A mix of fear and cautious optimism hangs over the city.
+Representative image. Photo: Reuters
+
+<!-- //DW Tracking start var xttitel = encodeURIComponent (document.title); var partnername = encodeURIComponent('thewire.in'); var sprache = '2'; var xtmaca = 'en-VAS-Volltexte-JavaScript-' + partnername + '-dwde'; var xturl = encodeURIComponent (document.URL); var xtref = encodeURIComponent (document.referrer); var base = 'https://logs1279.xiti.com/hit.xiti?s=531599&s2=' + sprache + '&p=' + partnername + '::Volltexte::'; var ext = '&x1=1&x2=' + sprache + '&x5=' + xttitel + '&x6=1&x7=' + xturl + '&x8=' + xtmaca + '&x10=' + partnername + '::Volltexte&ref=' + xtref; var track = base + xttitel + ext; var xtImg=document.createElement("img"); xtImg.setAttribute('src', track); xtImg.setAttribute('alt', 'na'); xtImg.setAttribute('height', '1px'); xtImg.setAttribute('width', '1px'); document.body.appendChild(xtImg); //DW Tracking end -->
+
+
+
+After the Chinese government lifted the 76-day lockdown on Wuhan on Wednesday, Chinese social media platforms quickly filled with videos capturing snarled traffic across the city.
+Many people whimsically described the traffic jams following two months of empty streets as “the familiar Wuhan.”
+“I’m so touched by this familiar scene of traffic jams; it just makes me want to cry,” wrote one netizen on the popular microblogging platform Weibo. “We paid such a heavy price in order to get life back on track in Wuhan.”
+However, local residents told DW that the end of the lockdown doesn’t mean that the city will return to the normal way of life right away.
+Many neighborhoods in Wuhan still require residents to show their health status and official permission to return to work before they are allowed to leave their neighborhood.
+Lockdown not over for everyone?
+“The end of the lockdown simply means that those who have received the government’s approval to return to work can now regain their freedom of movement,” a woman named Li told DW. “However, most commercial activities remain suspended. Apart from supermarkets, drug stores, and cellphone shops, most businesses remain closed.”
+Although images of traffic jams have been circulating on social media since this morning, Li estimated that the number of cars on the road is probably half of what it was before the coronavirus outbreak started.
+Also read: Amidst Global Rush, India Hopes For ‘Stable’ Supply of PPE, Ventilators From China
+“Since it’s the only day one of post-lockdown life in Wuhan, streets and subways remain rather empty,” said Li. “I think when people start to return to Wuhan for work, the number of people will also increase.”
+A young man named Lin said he doesn’t have a car and has to take the bus to work every morning from the outskirts of Wuhan. He told DW that buses and subways are still empty because the Chinese government has only allowed people working for certain industries to return to work. To protect themselves from contracting coronavirus, many commuters put on masks, goggles and other protective gear.
+“People don’t really talk to each other on public transportation, and apart from wearing masks, some of them even put on gas masks, raincoats or gloves to protect themselves,” Lin said.
+Volunteers in protective suits disinfect a residential compound in Wuhan, the epicentre of the novel coronavirus outbreak, in Hubei province, February 22, 2020. Photo: China Daily via Reuters
+‘The epidemic isn’t over yet’
+While people across China expressed their optimism about the end of Wuhan’s two-month-long lockdown, residents said they are worried about the second wave of COVID-19 infections if the lockdown is lifted too soon.
+“People outside of Wuhan are very excited about the end of the lockdown, but those of us who live here have actually become numb towards the whole situation,” said Yuan, who decided to stay home since the school that he teaches at is closed.
+“Anyone who wants to go out would have already found an excuse to get out by now, and those who remain trapped at home have grown used to the pace of life under lockdown.”
+However, Lin said the current atmosphere in Wuhan reminds him of the mood in January when it seemed like the coronavirus would take over the entire city.
+“People who are cautious remain on high alert, but those who are less uptight would think the end of the lockdown means it is totally safe to leave their houses now,” Lin told DW. “The only difference is that less than 10% of the population in Wuhan were wearing masks back in January, but now, less than 10% of the population are not wearing masks.”
+Also read: Some Thoughts on How the World Will Fly After Coronavirus
+Fresh memories of traumatic times
+As many people in Wuhan can still vividly recall the horror that engulfed the city back in January, Ms. Li believes more people would prefer to remain cautious over the next few weeks.
+“I have a long list of things that I wish to do, but after further contemplation, I decided to set those desires aside for now,” Li said. “It is better not to take unnecessary risks at this point.”
+The heavily enforced lockdown in Wuhan has not only changed people’s lifestyle fundamentally it has also caused some of them to lose their livelihood.
+Lin used to sell fruit at a local market that was only a few blocks away from the Huanan Seafood Market, where coronavirus outbreak is thought to have originated.
+As the government plans to shut down the seafood market permanently, Lin worries that his market could also be targeted by the government.
+However, like many people in Wuhan, he hasn’t shared these negative views on social media.
+“People in Wuhan are not used to sharing the negative side of our experiences on social media, so people in other parts of China had this illusion that all we do every day is lie in bed,” Lin told DW. “Such misperceptions make us rather sad.”
+As life is set to gradually return to normal in Wuhan, Li thinks local residents will need at least a few months to recover from their traumatic experiences during the lockdown.
+And as more countries around the world start to impose some form of lockdown, Li urges everyone to find ways to use this period of time wisely.
+“No matter where you live, you need to remain healthy, avoid panicking and find a way to enrich yourself during this period of time when your world seems to have stopped completely,” Li said.
+The article was originally published on DW. You can read it here. 

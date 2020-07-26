@@ -1,0 +1,34 @@
+Coronavirus Tracking Apps and How Countries Are Monitoring Infections Through Them
+Smartphone apps and other digital technology have been widely used to help limit the spread of coronavirus. Countries are now developing their own apps to trace the virus's journey.
+A woman wearing a protective mask uses her mobile phone, as a coronavirus outbreak continues to grow in northern Italy, in Turin, Italy, February 27, 2020. Photo: Reuters/Massimo Pinca/File Photo
+
+<!-- //DW Tracking start var xttitel = encodeURIComponent (document.title); var partnername = encodeURIComponent('thewire.in'); var sprache = '2'; var xtmaca = 'en-VAS-Volltexte-JavaScript-' + partnername + '-dwde'; var xturl = encodeURIComponent (document.URL); var xtref = encodeURIComponent (document.referrer); var base = 'https://logs1279.xiti.com/hit.xiti?s=531599&s2=https://logs1279.xiti.com/hit.xiti?s=531599&s2= ' + sprache + '&p=' + partnername + '::Volltexte::'; var ext = '&x1=1&x2=' + sprache + '&x5=' + xttitel + '&x6=1&x7=' + xturl + '&x8=' + xtmaca + '&x10=' + partnername + '::Volltexte&ref=' + xtref; var track = base + xttitel + ext; var xtImg=document.createElement("img"); xtImg.setAttribute('src', track); xtImg.setAttribute('alt', 'na'); xtImg.setAttribute('height', '1px'); xtImg.setAttribute('width', '1px'); document.body.appendChild(xtImg); //DW Tracking end -->
+
+
+
+
+Australia
+As the number of coronavirus infections increases across the world, Australia has launched an app for tracing those who have come in contact with confirmed patients. This comes amid concerns that such smartphone apps may infringe upon citizens’ privacy.
+Using a Bluetooth wireless signal, the COVIDSafe app allows health officials to access crucial information about a person’s interactions if they contract the virus. All mobile phone numbers within a 1.5-meter range of the infected person — for 15 minutes or more — will be stored.
+China
+Health apps have been a crucial element of China’s race to prevent a second wave of COVID-19 infections. Users scan QR codes to share information about their health status and travel history. These codes need to be scanned before boarding buses and trains or entering airports, offices and even their own housing complexes.
+Different colors on the apps indicate different levels of risk, with green codes granted unrestricted movement,  yellow codes for seven days of quarantine, and red codes for those who required 14 days of quarantine.
+The apps can trace whether users have been in contact with infected people.
+Italy
+As Italy mulls measures for a gradual lifting of its coronavirus lockdown, the country is working on an app that would trace people who have come in contact with a confirmed case. Acknowledging concerns over privacy and data control, innovation minister Paola Pisano said it would help in bringing the country back towards relative normalcy.
+A fast tender was launched for the app — to cover monitoring and medical support — towards the end of March, receiving hundreds of proposals that are currently being assessed.
+The app would work on a voluntary basis and have a clearly defined objective.
+Also Read: How Reliable and Effective Are the Mobile Apps Being Used to Fight COVID-19?
+
+South Korea
+South Korea was one of the first countries to experience a coronavirus outbreak and used massive testing and technology to emerge as a case study for controlling the number of cases nationwide.
+South Korea’s Centers for Disease Control and Prevention (KCDC) runs COVID-19 Smart Management System (SMS), a contact tracing system that runs through smartphone apps and helps the authorities analyze the movement of affected patients and those in quarantine.
+The country will also begin strapping electronic wristbands on those who ignore home-quarantine orders. A refusal to use the band would result in the person being moved to a shelter, which they will have to pay for themselves.
+India
+The Indian government has launched a smartphone app called AarogyaSetu to help track coronavirus patients and the people they come in contact with. According to authorities, the app has recorded 75 million downloads.
+Available in 11 languages, the app was launched on both Andriod and iOS. It uses Bluetooth technology to allow people to check whether there is a coronavirus case in their vicinity.
+Germany
+After pushing for a home-grown alternative, Germany has changed tracks to back an approach supported by US tech giants Apple and Google.
+The German-led alternative was called Pan-European Privacy-Preserving Proximity Tracing (PEPP-PT), with the country’s Fraunhofer HHI research institute and the Robert Koch Institute public health body as key players. It received criticism over a central database.
+It has now chosen to support Apple and Google’s approach, with decentralised software architecture. The data, in this case, will be stored on users’ phones.
+This article was originally published on DW. Read here. 

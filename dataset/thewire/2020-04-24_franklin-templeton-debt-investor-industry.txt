@@ -1,0 +1,37 @@
+What Does Franklin Templeton Shutting Down 6 Debt Funds Mean for the Investor and Industry?
+Will the episode cause troubles for an entire mutual fund category? Time will tell. 
+File image of a broker reacting to the stock market in Mumbai. Photo: Reuters
+In a shock move on Thursday, Franklin Templeton announced the winding down of six of its debt funds that had credit risk. The shutdown kicked in from Friday (April 24).
+This is an unprecedented move, one doesn’t recall this happening even post the Global Financial Crisis. The last time a scheme was wound down was when market regulator SEBI asked Sahara Mutual Fund to wind up all its schemes in 2018, albeit for very different reasons.
+Before anything else, to clarify, if you hold any of these funds, as has been explained, there will be no purchases and redemptions made in these funds post-the cut-off time.
+So, if you are an existing investor in any of these funds, this means that you can no longer redeem your money and your investment is locked in these funds, until the fund house makes further payments. Simply put, your money stands locked. You cannot access it.
+Purchases or redemptions through Systematic Investment Plans, Systematic Transfer Plans and Systematic Withdrawal Plans will not be allowed henceforth.
+The most important question for investors right now is whether there is hope of getting their money back. As the bond market comes back to normalcy and appetite returns, the fund could look to sell the assets at a reasonable value. But the bigger question  is when will the COVID-19 pandemic ease and when will markets return to normalcy?
+Also watch: Interview | ‘Large Reset in Economic Superpowers Unlikely, China’s Influence Will Stay’
+There’s also individual duration of each portfolio — the shorter the duration, the faster it could get wound up. Of the six debt funds, Franklin India Low Duration has 1.2 years Macaulay duration as of March 31, Franklin India Dynamic Accrual Fund (1.9 years), Franklin India Credit Risk fund (2.2 years), Franklin India Short Term Income Plan (2.15 years), Franklin India Ultra Short Bond Fund (0.54 years) and Franklin India Income Opportunities Fund (3.2 years).
+The Franklin management did point out there could be staggered payments made to investors from the wound up funds, in the form of coupon payments and maturity proceeds. It’s a small cheer, but that’s what there is at present.
+Is there a quality issue?
+For the six debt funds in question, there is basically some exposure to lower rated bonds, where liquidity is an issue.
+As their fact-sheet for March 31, 2020 points out:
+Franklin India Low Duration has 62.8% of assets invested in bonds rated below A+, and 45.76% rated AA.
+Franklin India Income Opportunities Fund has 63.97% in AA rated and 41% in A rated bonds.
+For Franklin India Dynamic Accrual Fund, 52.7% is in AA rated bonds, while 44% is in A rated bonds.
+Franklin India Credit Risk fund has 60% AA rated and 49.6% in A rated bonds.
+Franklin India Short Term Income Plan has 58.6% in AA rated and 57.5% in A rated.
+Franklin India Ultra Short Bond Fund has 82.8% in AA and 23.9% in A rated bonds
+In addition to this, all of these six funds already carry segregated portfolios — exposure to names like Vodafone Idea and Yes Bank has been side pocketed. Side pocketing allows mutual funds to segregate ‘bad assets’, essentially bonds which are downgraded to below investment grade.
+Last month, in March, Franklin Templeton Mutual Fund marked down its exposure to various Reliance ADAG and Essel Group companies by around 90%. “Longer than expected time to monetise assets has increased dependency on listed share collateral for recovery. All these factors were causing continued stress in the issuer groups,” the AMC said in a note at the time.
+Also read: Franklin Templeton MF Closes Six Debt Schemes Over Redemption Pressure, Lack of Liquidity
+A few weeks ago, as media reports have noted, liquid and other short-term debt funds saw a sudden fall in their NAVs, as yields across money market and debt papers had spiked.
+“Given the heightened risk aversion of banks, higher withdrawals from funds began, which led to funds selling bonds at a lower price. There is poor appetite for various debt securities and very thin volumes, and the problem has evidently accentuated for low rated corporate bonds,” one report noted.
+What are the bigger problems here at stake?
+Firstly, Franklin’s move could lead other fund houses to also look at closing down debt funds with high credit risk. This could lead to large redemptions and further accentuate the problem for low rated debt securities, making it difficult to realize the reasonable value in the near-term.
+Defaults from corporates issuing such bonds can be a big dampener going ahead, for the MF industry. Has the Franklin episode nuked an entire mutual fund category? Time will tell.
+The RBI will sit up and take notice. In 2008, in the aftermath of the global financial crisis, it stepped in to save the mutual funds industry. The central bank then opened a special window to provide banks with funds to support mutual funds. This kind of a special window may be attempted again.
+Will there be a shift to other assets? This is too simplistic an argument. Gold is beyond the average person’s price threshold and bank deposits are yielding nothing. It’s a catch 22 situation and that may cause a lot of resentment amongst investors. I would watch MF inflow figures over the next few months, especially on debt and liquid funds with interest.
+Also read: COVID-19: What Will It Take to Flatten the Curve of Commercial Disputes in India?
+AMFI has stepped in to soothe nerves by pointing out it’s a fund-specific issue and within that very low liquidity funds. To be fair, the six schemes put together as of date have an assets under management or AUM of Rs 28,000 crore – that’s less than 1.4% of AUM of the mutual fund industry.
+However, there is and must be culpability on both sides. This is pretty much like investing in a dodgy small cap, hoping to see that big pop.What is not okay is the attempt at pretending there was nothing dangerous being played. Mutual fund CEOs are on business channels and conference calls, saying there’s no liquidity issue.
+What should they be doing?
+Step one, admit there was and is a problem. You cannot have a problem, ignore it till it explodes and then ask the central bank to come in and clean that mess. The RBI should not be expected to keep bailing funds out for being a cowboy.
+Step two, stop playing the maverick cowboy manager in the first place.When you play with fire, risk exists. Short-term gains often get painted as skill. But there’s a risk to bravado and that risk must be seen for what it is.

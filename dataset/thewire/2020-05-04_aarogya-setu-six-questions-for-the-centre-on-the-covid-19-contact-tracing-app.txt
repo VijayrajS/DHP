@@ -1,0 +1,69 @@
+Aarogya Setu: Six Questions for the Centre on the COVID-19 Contact Tracing App
+The digital contact tracing initiative, which is now mandatory for office workers, has been criticised by privacy experts and civil rights advocates.
+Representative image. Photo: Pixabay/The Wire
+New Delhi: Over the past few days, the Narendra Modi government has pushed millions of Indians into downloading the Aarogya Setu app, a digital contact tracing initiative that has been criticised by privacy experts and civil rights advocates.
+On Friday, the Ministry of Home Affairs decreed that the app would have to be downloaded by millions of Indian workers as part of a broader plan that eased some of the national lockdown’s restrictions.
+Union minister Prakash Javedekar added to the controversy on Saturday by declaring that usage of the app may be continued for the next  2 years, a statement that was panned by digital rights experts on grounds that the expansive tracking programme has no proper legislative backing.
+As this all-seeing ‘bodyguard’ becomes a part of the new normal, The Wire has put together six questions that need to be debated, discussed and answered by the government.
+Who helped develop the app, what relationship do they have with the government and the app now? 
+Since Aarogya Setu was released last month, its creation has been unnecessarily opaque and could have disclosed more details. A Press Information Bureau (PIB) release on April 2 described the app as a “public-private partnership” and a “unique example of the nation’s young talent coming together and pooling resources and efforts to respond to a global crisis”.
+It’s clear that this was not a typical government contract, with reports indicating that this partnership has extended to managing the app.
+We know a few tech industry volunteers who may have played an important part in this project, mostly because they have appeared on television channels or in newspaper reports to defend and provide perspective on Aarogya Setu – these include former Google India executive Lalitesh Katragadda and MakeMyTrip founder Deep Kalra.
+Other important individuals involved in the process include NITI Aayog’s Arnab Kumar and IIT Madras professor V. Kamakoti.
+Media reports also identified a committee set by the PMO to help tweak the new versions of Aarogya Setu. In addition to the names mentioned above, the committee’s members also reportedly include Tata Group chairperson N Chandrasekaran, Mahindra Group chairman Anand Mahindra, Tech Mahindra CEO CP Gurnani,
+If this arrangement is a good example of a PPP though, why not release a full list of the private developers who played a role in creating the app? And while you’re at it, what were the terms of the partnership? How did this come to be? What role do these private sector stakeholders currently have in managing the app or providing input on future strategy?
+Releasing information on all the people who have worked, or still do, on this programme will help in fostering trust with users and in making the project more accountable to the public.
+A group of volunteers helped build it. Only some of the names are public. https://t.co/OEqw0eaD49
+— Nikhil Pahwa (@nixxin) May 2, 2020
+
+Aarogya Setu app. Photo: SetuAarogya/Twitter
+Why not open-source the app as soon as possible?
+Most privacy rights organisations agree that if the government makes the app’s source code publicly available to all, it will increase transparency and potentially improvessecurity as it would be open to scrutiny from third-party experts. Independent security audits help spot any chinks the app’s armour may have and provide reassurance on the privacy front.
+“Making the source code available enhances transparency and this also improves security as the code is open to community audit. The app primarily collects personal data from user cellphones and cellphones are an immense repository of personal data of users and sometimes, of a user’s contacts and acquaintances. In this scenario, keeping the source code of such an app proprietary is not advisable,” the Software Law Freedom Centre has noted.
+IIT Delhi professor Subhashis Banerjee, whose analysis of Aarogya Setu can be read on The Wire here, has argued that making the source code open should be mandatory.
+Also Read: The Mandatory Imposition of the Aarogya Setu App Has No Legal or Constitutional Basis
+“When you are making a public application, it has to be eyeballed by many people. Basic ethics and propriety demands that to have happened. There is a backend that is more opaque,” Banerjee has said.
+In response to this criticism, NITI Aayog’s Arnab Kumar has promised that the development team is “committed” to making the app open source as soon as the “product has been stabilised”.
+But with the home affairs ministry making Aarogya Setu mandatory for millions of Indian office workers, it’s clear that this should be prioritised.
+Why does the app seek user consent when the government has made it mandatory to download for all office workers? And how do we force the government to make changes in the app if there is no choice?
+In response to recent criticism by Congress Party leader Rahul Gandhi, Varun Jhaveri, an Officer on Special Duty (OSD) in the Ayushman Bharat programme, tweeted defensively that all users had to “give consent” for providing data.
+But user consent – a foundational principle for digital privacy – is rendered meaningless when it comes to an app that has been made mandatory by the Centre. If office workers do not download this app, it could invite criminal penalties.
+Employees wearing protective masks work inside a call centre in Lucknow, April 21, 2020. Photo: REUTERS/ Pawan Kumar
+This problematic approach by the Centre applies to many issues that involve a user’s digital rights. For example, Aarogya Setu’s terms of service (ToS) limit the government’s liability if inaccurate information is given by the app or in the event of “any unauthorised access to the [user’s] information or modification thereof”
+Simply put, the ToS not only gives the government a free pass in case any harm is caused if the app falsely says  you are at risk of contracting COVID-19, but it also ensures there is no liability for the government even if your personal data is leaked.
+In the last month, the app has encountered at least one security vulnerability incident wherein a user’s precise location data was leaked to Google through a vulnerability in the self-assessment questionnaire. According to a notification put on Twitter, the app leaked anonymised location data to Google if users clicked on a YouTube link in a part of the questionnaire.
+The government did not say how many people took assessment tests so far, only noting that the number was “less than once per user” on average.
+An update from Team #AarogyaSetu on data security. pic.twitter.com/vbTDBiRpJz
+— Aarogya Setu (@SetuAarogya) April 26, 2020
+
+Ironically, as the tweet notes, this privacy issue was brought to the attention of the app’s development team by The New York Times, a media publication that has been severely panned by the ruling BJP.
+More broadly though, many of the safeguards that make any app more secure and privacy-conscious – user consent, specific legislative backing, competition (in the form of a rival app), a general data protection law – don’t exist when it comes to Aarogya Setu.
+How should Indian users demand that important tweaks to the app, listed below, are made when the government is forcing large parts of the population to download under threat of penalty? This is something all Aarogya Setu users will have to ask themselves.
+These are some of the suggestions by experts for how the app can be changed to become more privacy-friendly:
+Implementing a dynamic pseudo ID: As IIT Bombay professor Anurag Mehra pointed out in The Wire: “The app ensures privacy by encrypting all personal information (name, age, gender, mobile number), at the time of registration, and links it to a unique Digital ID (DID).
+When a proximity event occurs phones exchange only DIDs. This is a static ID and is more easily amenable to de-anonymisation i.e. identifying the owner, in case someone else gets hold of the DID, because there is only a single layer of encryption.
+The TraceTogether app from Singapore uses dynamic (temporary) IDs which adds an additional layer of security; however, in this app, the dynamic IDs are generated by the central server which has to remain in touch with the app on the phone. A more secure way would be to generate the dynamic IDs in the phone itself – thus no frequent interactions with the server are needed….”
+Also Read: How Can COVID-19 Contact Tracing Techniques be Formulated Without Violating Privacy?
+De-registering and deleting data: Currently, users of the app are not allowed to de-register or delete their accounts.
+We know that the app itself functions by wiping out personal data (location, not registration data) after a certain number of days from when it was collected — 30 days (from your phone, if not already uploaded to the server) 45 days (deleted from server, if not tested positive) and 60 days (from server for people who have been declared cured of COVID-19).
+But what happens if an app is removed from a user’s phone before that? And what happens to registration data once the app is uninstalled?
+In the privacy policy, under the ‘rights’ section,  says that if a user cancels her registration, all information provided to the government will be deleted after the expiry of 30 days. But, as there is no option to ‘cancel’ registration or de-register, does uninstalling the app mean the same thing? The policy should be updated to provide clarity on this matter.
+Preventing ‘mission creep’: Just like the Aadhaar project, there are already plans to add new things to the Aarogya Setu app, far from its original contact tracing goals. These include an e-pass facility, telemedicine and more. Many of these expand the scope of the project, introduce the opportunity for new vulnerabilities and require more safeguards.
+The idea of an e-pass service is particularly concerning as Aarogya Setu makes no claims about its accuracy – in fact, as discussed above, it absolves the government of taking responsibility for any inaccuracies.
+Is there a ‘sunset’ clause after which the app’s operations and mandate will be wound down? 
+Several privacy experts and even politicians have asked for a potential end-date by which the Aarogya Setu app will be wound down. The idea behind this is that any form of mass surveillance, no matter how well-meaning or carefully considered, needs an exit ramp. This ensures that the exercise does not extend beyond the duration of this pandemic and health crisis.
+A recent resolution passed in the European Parliament says that all contact tracing apps should have definite expiry dates and abide by the principles of data protection by design and data minimisation.
+While this is important – especially in light of Javadekar’s controversial remarks that Aarogya Setu would be needed for the next 1 or 2 years – it is also difficult to ask the government to give a specific date when we have little idea about when India will be free from the threat of COVID-19.
+Because there are competing concerns, it makes all the more sense for the government to consider some form of judicial oversight or legislative backing for the Aarogya Setu programme, especially because India still has no general data protection law.
+What happens to those people who do not have a smartphone or any mobile phone? Will it henceforth be mandatory for every person to own a mobile device? Will it be a crime to move around without my phone in power on mode at all times?
+Perhaps the most dangerous part of the recent home ministry order is in how it will be enforced. Is it physically possible for law enforcement to check that all employees who go to their physical offices over the next two weeks have downloaded the app?
+Or will it instead be used like many other poorly designed government rules – as an opportunity to extort and discriminate against the vulnerable?
+Aarogya Setu app. Photo: SetuAarogya/Twitter
+Who is authorised to make use of my personal data on Aarogya Setu and what guarantees do I have that there will be no additional or unauthorised use of my data?
+We know that personal data – including location and physical contact – remain on a user’s device and is sent to a government-operated server only under certain circumstances.
+The data was also, at least until mid-April, stored on an Amazon Web Services (AWS) server through what media reports described as a “temporary measure” until the transition was made to a National Informatics Centre (NIC) server. In an interview last week, Kattragadda summed up the current situation as the data being under the control of the NIC “even though the servers are not in the NIC”.
+Also Read: How Reliable and Effective Are the Mobile Apps Being Used to Fight COVID-19?
+The app’s privacy policy says that all personal information is hashed to a unique digital ID and uploaded to a government server.
+A DiD is only “co-related” with their personal information when the government needs to either tell a user that the probability they have been infected with COVID-19 is high or to give authorities information that is necessary to carry out “medical and administrative interventions necessary in relation to COVID-19”.
+It would go a long way in crossing the digital trust deficit if the government put out a policy brief or a white-paper explaining exactly who in the health ministry or the administration gets access to this data (anonymised or not) to carry out the work needed to stop COVID-19.
+Note: This story has been updated on May 5 to expand on the app’s data retention policies.

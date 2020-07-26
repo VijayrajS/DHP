@@ -1,0 +1,49 @@
+As Chorus of 'Chinese Virus' Rings Loudly in India, Is the Stage Set For an Info-Ops Tussle?
+India should expect to see a surge in information operations from Beijing on social media.
+People use computers at an Internet cafe in Changzhi, north China's Shanxi province in this file photo. Photo: Reuters/Stringer
+Users of Indian Twitter, for want of a better term, will not have been able to escape the term ‘Chinese virus’ trending on the platform in the form of different hashtags over the last 10 days.
+What seemingly started off as agitprop by the American right has transcended boundaries and resonated in India as well, echoing sentiment that Beijing and the Chinese should be severely penalised for the COVID-19 pandemic.
+This sentiment was backed by what appeared to be some coordinated activity on Twitter from March 24 onward, around the time of India’s lockdown, all with the purpose of taking aim at China.
+#ChineseVirus19, #ChineseBioterrorisn, #Chinaliedpeopledied and #ChineseVirusCorona were some of the hashtags being used in favour of this narrative around March 24 and March 25.
+ 
+A high spike in interest around this hashtag around the time that India’s lockdown started. Credit: Twitter.
+ 
+Other popular and related hashtags. Credit: Twitter.
+ 
+A sample tweet aimed against China. Credit: The Wire.
+ 
+An example of a coordinated tweet with the exact same text as others. Credit: The Wire
+ 
+An example of a coordinated tweet with the exact same text as others. Credit: The Wire
+ 
+An example of a tweet with coordinated text. Credit: The Wire
+This was also not limited to Twitter. Instagram witnessed sporadic activity as well. In some instances, #chinesevirus19 was accompanied by hashtags like #MakeChinaPay ,#ModiKiBatMano, #Support, #IndianPolice, #incredibleindia, #wuhanvirus and #chinesevirus etc.
+An example of an Instagram post. Credit The Wire
+ 
+An example of an Instagram post. Credit: The Wire
+WhatsApp groups too were inundated with conspiracy theories about China, these messages aren’t openly accessible like the content on Twitter/Instagram for analysis, however.
+An example of a typical WhatsApp forward.
+On April 2, calls to #bantiktokinIndia (Ban Tik Tok in India) were raised on Twitter — one of the stated reasons was to hurt China’s economy.
+Calls to ban Tik Tok in India. Credit: The Wire
+It is highly likely that these activities have a domestic audience in mind, but social media activity does not have national boundaries. After all, the use of social media platforms to control country-specific narratives and advance the interests of nations is nothing new.
+Rhetoric vs reality
+For sometime now, countries across the globe have tried to hammer out rules of responsible state behaviour when it comes to the digital sphere. 
+In mid-February, countries participated in deliberations at the United Nations – Open Ended Working Group (OEWG) on developments in the field of information and telecommunications (also referred to as ICT) in the context of international security. Among other topics, this included a discussion on the rules, norms and principles for responsible state behaviour. 
+India and China both participated in these deliberations. As per the Digital Watch Observatory, India supported a proposal on refraining from weaponisation and offensive use of ICTs. While China (along with Russia) recommended the inclusion of norms proposed in the Shanghai Cooperation Organisation (SCO). Incidentally, one of the criticisms of the Russian proposal for the OEWG was the language that it borrowed from the SCO, which was eventually watered down. Both Asian giants also seemed to align on the principles of cyber sovereignty and expansion of the OEWGs mandate. 
+However, the world has been witnessing a reality that is completely divorced from rhetoric. For instance, last year, an interesting report by the EU Disinfo Lab shed light on an information operation that largely pushed pro-India and anti-Pakistan messages in Europe.
+Beijing, of course, is no novice in this arena.
+China’s evolving operations
+Since the Hong Kong pro-democracy protests of 2019, pro-China information operations on Twitter have increased; a curious development since the social network itself is blocked in mainland China. According to data released by Twitter in September 2019, 75% of the most active 4,301 accounts identified as being part of this operation were created during the same calendar year. 
+In August 2019, the company had revealed that accounts originating from within the People’s Republic of China (PRC) used VPNs as well as ‘unblocked IP addresses’ in mainland China. The latter is not something a run-of-the-mill bot operations is likely to have access to. 
+While the main motive seems to have been to undermine the pro-democracy movement, tactics involved spinning counter-narratives, flooding timelines. The latter is a documented internal tactic, a study in 2016 estimated that there were nearly 500 million fake posts per year. Censorship – common on apps like WeChat – is not an option on international social media platforms, yet. However, the use of promoted content in English across Facebook’s platform by state-backed media outlets such as CGTN is evident based on Facebook’s Ad Library, in multiple regions including India.
+Also read: COVID-19: Can India Replicate the Chinese Lockdown Model?
+With COVID-19, the nature of operations evolved. While automated accounts constituted a portion of the operations which can be targeted at Italy, multiple handles belonging to diplomats/missions and state-back media outlets have been active as well. Lijian Zhao claimed on Twitter that the virus originated from America. The Brazilian mission insinuated that Brazilian President Jair Bolsonaro was afflicted by a ‘mental virus’. It also shared (and then deleted) a tweeted referring to the Bolsonaro family as poison for Brazil. The Global Times reported that the virus may have been present in Italy as far back as November 2019.
+Researchers at Stanford’s Cyber Policy Center also analysed the role of state-run media outlets role in the attempts to control the narrative and deflect blame. As per their analysis, China-based media organisations have focused their coverage and activity around the themes such as ‘rapid recovery’ and ‘buying the world time’.
+In a subsequent analysis, the same researchers also highlighted the contested/conflicting narratives on English language social media especially with regard to the origin of the virus.
+The most crucial aspect of this evolution is the adoption of Russia-like tactics. This was also pointed out by Laura Rosenberger during a panel discussion on disinformation surrounding COVID-19. In such cases, the aim is to create so much information disorder with conflicting messages that the objective truth becomes an ‘unknown’. Another, is the direct involvement of diplomats in publicly spinning narratives and counter narratives, believed to be the result of instructions from Xi Jinping to adopt a tougher stance.
+Social media dance-off?
+Considering that there is support within India for attempts to blame China — and that the latter will do anything it can to manage perception on the international stage — it is not inconceivable that Beijing will seek to retaliate while overtly making reconciliatory gestures.
+India is already a working model of how ICTs and closed messaging platforms can be weaponised into vehicles for propaganda and polarisation. Its recent actions and response to COVID-19 have already been the subjects of much internal and international criticism as well as further cause for strife and discord.
+In this environment, targeted information disorder could have a multiplier effect. Success here could disrupt Indian efforts to position itself to gain from the inevitable diversification of supply chains that will follow.
+Conversely, the message of a ‘strong and assertive’ India that has arrived on the world stage has played well domestically. And any information operations against the country will be leveraged and a response fashioned to shore up domestic support. This information conflict will be one of the ‘new normals’ among many in a post-COVID-19 world.
+Prateek Waghre is a research analyst at The Takshashila Institution.
