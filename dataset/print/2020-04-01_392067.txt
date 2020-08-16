@@ -1,0 +1,48 @@
+The ideas and innovations IITs have come up with to help India fight coronavirus
+New Delhi: From developing a cheaper testing kit, hand sanitisers, personal protective equipment (PPE), and an app to monitor quarantine violations, to proposing a cost-efficient hack to address the projected ventilator shortage — the Indian Institutes of Technology (IITs) across the country have been on their toes to ensure India is properly equipped in its battle against Covid-19.
+The Covid-19 pandemic has presented an unprecedented challenge to healthcare systems around the world that are feeling the strain of widening infections.
+The ideas and innovations from IITs come as India’s Covid-19 incidence increases by the day, with Monday recording the sharpest single-day spike of 227 cases. As of Tuesday afternoon, there were 32 deaths across the country.
+Amid the pandemic, doctors and healthcare workers around India have complained about not having the requisite gear and infrastructure to handle the surge of patients. Even as the government has vowed to bridge the gap, the cream of India’s engineering talent is at work to do their bit.
+While researchers at IIT-Delhi have come out with a testing kit they claim is cheaper, their counterparts at Roorkee have manufactured over 150 litres of hand sanitiser that is now being distributed free on the campus.
+At IIT-Guwahati, meanwhile, efforts are under way to develop robotic units that will carry and serve medicines and food — for deployment in isolation wards in order to mitigate health workers’ exposure risk.
+Here’s a round-up of all they seek to offer.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Also Read: Lessons from Italy on Covid-19 and how India’s lockdown turned shambolic
+Researchers at IIT-Delhi have developed a test kit that promises to slash the cost of diagnosing Covid-19. The kit, developed at the Kusuma School of Biological Sciences, has been successful at the laboratory stage, and is now undergoing clinical trials at the Pune-based National Institute of Virology (NIV), which has been tasked by the government to validate new testing innovations.
+Once it clears the clinical trials, says the team behind the kit, it will make testing for the novel coronavirus cheaper and widely available. However, they have refused to comment on the cost difference at this stage.
+The government has imposed a price cap of Rs 4,500 on Covid-19 testing.
+IIT-Guwahati has provided life-saving equipment to the Gauhati Medical College and Hospital (GMCH), including two real-time PCR (polymerase chain reaction) machines (DNA sample analysers) for Covid-19 diagnosis.
+These machines can analyse up to 2,000 samples in 24 hours. The institute is also making efforts to develop a vaccine at its Department of Bioscience & Bioengineering.
+In addition, the mechanical engineering and electronics & electrical engineering departments are working to develop technologies such as robot-based drug/food carrying units for isolation wards as well as robotic screening units.
+They are also working on making handheld temperature measuring units, ICU beds, ventilators, medical waste disposal for isolation wards, disinfection showers, hand sanitisers and preventive masks that meet guidelines proposed by the World Health Organization (WHO).
+The departments of chemistry and bioscience & bioengineering are developing prototypes of protective gear equipped with antiviral and superhydrophobic coatings.
+The Department of Design, meanwhile, has developed a 3D-printed prototype of full-face shield, including head gear, whose manufacture, they say, can be scaled up immediately.
+The institute also plans to set up a research centre for Covid-19 analysis. Talking about the plan, IIT-Guwahati director Prof T.G. Sitharam says, “Our idea is to make this a state-of-the-art facility for the entire northeast region. This centre, in the future, would help develop highly competent manpower for diagnosis of different infectious diseases in the early stage of infection and thus their prevention too.”
+Students at the institute have also developed drones to help the authorities spray disinfectants without putting human beings at risk — a strategy also involved in other parts of the country. The drones, the students say, can be used for surveillance as well. The students have written to Assam Finance Minister Himanta Biswa Sarma with an offer to provide the drones to the government.
+Right now, the students say, they have seven models of the drones with capacities ranging from 10 to 25 litres. One of the students involved in developing the drones, Anant Mittal, tells ThePrint they could make 50 such drones by the end of April if the state government wanted.
+“Social distancing is a must at present and we can carry out some very important tasks by these drones without cleaners doing it manually,” he adds. “These drones have the capability to spray disinfectants over large areas such as parks, roads, highways, footpaths, etc.”
+Also Read: How Tablighi Jamaat emerged as the ‘largest known’ Covid-19 source in South Asia
+Led by students Siddharth Sharma and Vaibhav Jain, an IIT-Roorkee team has prepared more than 150 litres of a herbal hand sanitiser. Personal hygiene and regular cleaning of hands is believed to one of the most important Covid-19 prevention techniques, and medical experts have advised keeping sanitisers at hand to reduce the risk of contamination.
+The herbal hand sanitiser has been developed in line with recommendations offered by the WHO and the Centers for Disease Control and Prevention (CDC), the US government’s health research institute. It is being distributed free of cost at the IIT-Roorkee campus.
+“In view of the prevailing Covid-19 pandemic, it is imperative to maintain basic hygiene practices since there is no specific treatment or vaccine for the disease,” says Sharma, a research scholar at the Centre of Nanotechnology.
+“This IIT Roorkee-incubated product will be useful to the entire community by promoting basic hygiene.”
+Bottles of the sanitiser have also been handed over to the office of the dean for Sponsored Research and Industrial Consultancy (SRIC), which is working as the nodal centre for campus distribution.
+Students at IIT-Kharagpur have created videos in 12 regional Indian languages — Assamese, Bengali, Gujarati, Hindi, Kannada, Kashmiri, Malayalam, Marathi, Odia, Punjabi, Tamil and Telugu — to ensure awareness about Covid-19.
+Researchers from the institute have also developed two different alcohol-based hand sanitisers.
+Also Read: Mumbai start-up builds AI-based X-ray technology to help track Covid-19 progression
+IIT-Hyderabad Director Prof B.S. Murty has called upon the Narendra Modi government to consider adopting “bag valve masks”, an existing technology, as an inexpensive, easier-to-make option to address any surge in demand for ventilators.
+In cases of severe Covid-19 infection, patients need to be hospitalised and may need ventilators since the disease is known to cause respiratory problems.
+Bag valve masks are small, handheld, self-inflatable devices used to deliver breathing support in emergency situations. The institute has said several designs had been proposed for the product, including one at IIT-Hyderabad.
+“It would be easy to design a similar device powered by an electrical source, which could be a car battery, apart from the conventional power supply. It could be made portable, and, therefore, adopted in villages and other areas without a power supply and be inexpensive enough to manufacture in bulk,” says a statement issued by the institute.
+Quoting Prof Murty and Prof V. Eswaran from the Department of Mechanical and Aerospace Engineering at IIT-Hyderabad, the statement says the device could be manufactured for less than Rs 5,000, “or one-hundredth the cost of a conventional machine”.
+“The cost of manufacturing 6 million of these devices will probably be less than that of… 60,000 conventional machines. The cost is so low that it can be considered a single-use device… It needs to be manufactured, however, on an industrial scale, in millions, within a short time of a few months.”
+According to the professors, the idea is not new. Over the past few weeks, they add, many countries had come up with the idea of manufacturing low-cost ventilators, even conducted competitions where the winning design would be declared open-source, without patent, and free for use by anyone. They say several designs could be realised through 3D printers and churned out at a small scale.
+IIT-Bombay students and alumni have developed an app called ‘Corontine’ that can alert authorities about quarantine violations.
+Quarantining suspected carriers is a key strategy to prevent Covid-19 transmission. The suspected carriers can be registered on the app and then tracked — the app is equipped to send SMS or e-mail alerts if the quarantine is violated.
+Also Read: Not just IAS and police, India’s Covid-19 fight must use panchayats and municipalities too
+
+
+Subscribe to our channels on YouTube & Telegram 
+News media is in a crisis & only you can fix it

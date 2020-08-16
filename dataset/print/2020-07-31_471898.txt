@@ -1,0 +1,27 @@
+Tripura records highest infection rate, Bihar is still the worst performer on testing
+New Delhi: India crossed the 16 lakh-mark Friday with 55,078 new cases of the novel coronavirus and 779 deaths in the last 24 hours. In just four days, India saw the total number of cases go up by two lakh, while Friday recorded the highest single-day spike in cases.
+In the ThePrint’s daily State Tracker, we take a look at the data on testing and the rate at which the infection is spreading in throughout India.
+For this analysis, we use three parameters:
+Rt value, known as reproduction number, is indicative of the number of new cases that are expected to emerge from a single case. An R value of less than 1 suggests that the rate of infection is slow since an infected patient will only infect less than one person.
+Positivity rate is the percentage of people who are found to be infected by the virus from those who are being tested. This parameter indicates how widespread the disease is.
+Tests per million give insight into the amount of testing being conducted in relation to the population of an area.
+All data is sourced from covidtoday.in.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Also read: Andhra Pradesh records among highest positivity rates in India, UP & Bengal see a dip on 31 July
+
+As of 31 July, India’s Rt value was at 1.17 per cent, which has remained unchanged since last week.
+The states that recorded the lowest Rt value in the country also remained the same in the last 24 hours. The lowest Rt value in the country was witnessed in Delhi at 0.88 per cent, followed by Nagaland at 0.90 per cent, Meghalaya at 0.96 per cent, Telangana at 1.01 per cent and Ladakh and Haryana at 1.07 per cent.
+The states recording the highest Rt value in the country too remained the same in the last 24 hours. The highest Rt value was recorded in Tripura at 1.52 per cent. This was followed by Arunachal Pradesh at 1.45 per cent, Andhra Pradesh at 1.43 per cent, Himachal Pradesh at 1.40 per cent and Uttarakhand at 1.39 per cent.
+
+The positivity rate in India continued to record a decrease in value, slipping to 10.32 per cent on 31 July from 11.07 per cent on 30 July.
+The four states recording the lowest positivity rates remained the same but noted slight changes in values. Arunachal Pradesh recorded the lowest at 1.71 per cent, up from 1.66 per cent on 30 July.
+This was followed by Sikkim, which noted a slight decrease in value to settle at 2.54 per cent today from 2.70 per cent yesterday. Tripura also dipped from 3.12 per cent to 2.88 per cent in the last 24 hours.
+Himachal Pradesh, at 3.71 per cent, noted a slight increase from 3.75 per cent. Manipur displaced Uttar Pradesh (4.13 per cent) to take the fifth position at 4.04 per cent.
+Among the states recording the highest positivity rates, the top remained the same but their rankings changed in the last 24 hours. Maharashtra saw its positivity rate go up to 19.28 per cent from 19.11 per cent on 30 July. The state saw a reversal in trend after decreasing in value for two consecutive days.
+Puducherry remained at the second spot albeit a slight decrease in value from 17.89 per cent to 17.30 per cent. This was followed by Karnataka at 16.11 per cent, which displaced Bihar (15.35 per cent) to take the third position. Andhra Pradesh remained at the fifth spot  but noted a slight increase in value from 14.49 per cent to 14.60 per cent in the last 24 hours.
+
+The national test per million conducted in India as of 31 July was 13,733. Bihar, Jharkhand, West Bengal, Madhya Pradesh and Uttar Pradesh continued to be the five states conducting the lowest number of tests per million but noted slight increase in values. The highest increase was noted in Uttar Pradesh.
+The lowest number of tests per million were recorded in Bihar (4,210). This was followed by Jharkhand (7,415), West Bengal (8,778), Madhya Pradesh (8,820) and Uttar Pradesh (9,289).
+The states conducting the highest number of tests per million too remained the same in the last 24 hours. Goa was the highest at 81,777, followed by Dadra and Nagar Haveli at 68,041, then Ladakh at 66,233, Andaman and Nicobar Islands at 55,671 and Delhi at 54,176.

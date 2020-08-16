@@ -1,0 +1,15 @@
+Aarogya Setu integration ensures high-risk people not issued travel e-pass
+Coronavirus (COVID-19): In the first integration between the Central government’s Aarogya Setu mobile app and e-passes, the programme has checked 10,000 travel passes with its self-assessment and positive case data to make sure positive and high-risk people are not issued a pass, the application’s technology developers told The Indian Express.
+Aside from this data, the developers of the app are also working to check the usefulness of their contact history algorithms. In conjunction with the Indian Council of Medical Research (ICMR) and the National Center for Disease Control (NCDC), “on-ground checking” of Aarogya Setu data will be used to assess how many people deemed high-risk by the mobile app tested positive for the coronavirus.
+If the proportion of people testing positive based off of the application is higher than the current proportion of positive cases out of tested samples (roughly 4 per cent), then it is a “reasonable risk” to use the information in prohibiting high-risk users from receiving e-passes, the developers said.
+The integration related only to corporate passes so far, not individual ones, and is spread across seven states. The application currently has 67.5 million users.
+The app is also collecting more specific information about a user’s potential symptoms, such as degree of fever. It will be integrating various tele-medicine providers soon.
+On April 11, The Indian Express had reported the various databases that are integrated with the application at the backend, including location history of positive cases held by the ICMR, NCDC and the National Disaster Management Authority.
+Along with the self-assessment, the app tracks a user’s GPS coordinates and Bluetooth data about other users in the vicinity. This data is sent from the phone to the server when a user registers, or when a user is deemed high-risk or COVID-19 positive.
+Don’t miss these articles on Coronavirus from the Explained section:
+‣ How coronavirus attacks, step by step
+‣ Mask or no mask? Why the guidance has been shifting
+‣ Besides a face cover, should I wear gloves when I go outdoors?
+‣ How the Agra, Bhilwara and Pathanamthitta Covid-19 containment models differ
+‣ Can coronavirus damage your brain?
+📣 The Indian Express is now on Telegram. Click here to join our channel (@indianexpress) and stay updated with the latest headlines

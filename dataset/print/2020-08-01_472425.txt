@@ -1,0 +1,34 @@
+Why Delhi has dropped an entire category of high risk Covid patients from antigen testing
+New Delhi: The Delhi government’s Thursday order modifying the rapid antigen testing protocol has deleted patients with Severe Acute Respiratory Illness (SARI) from the list of ‘high risk’ individuals who are required to be tested for Covid-19. Instead, SARI patients must now undergo the RT-PCR test, the gold standard for detecting the coronavirus.
+According to the document, which was accessed by ThePrint, all patients admitted with SARI will no longer be screened using the Rapid Antigen Detection test.
+The modification came two days after the Delhi High Court pulled up the Arvind Kejriwal government for relying heavily on rapid antigen tests (RAT) in the national capital instead of the more conclusive Real-Time-Polymerase Chain Reaction (RT-PCR) tests.
+RAT tests are much quicker than RT-PCR tests, but have a higher probability of returning a false negative. All symptomatic patients that test negative in RAT are mandatorily screened again using RT-PCR.
+Speaking to ThePrint, Director General Health Services Nutan Mundeja said that the only reason RATs were being conducted on SARI patients was because it allowed hospitals to segregate quickly.
+“Those who tested positive were immediately sent to the Covid isolation wards or to Covid hospitals. We were anyway conducting followup RT-PCR tests for those SARI patients who tested negative in the rapid antigen tests. Now, we will follow ICMR guidelines and only conduct RT-PCR tests on SARI patients,” she said.
+Also read: After Delhi HC questions lower RT-PCR testing, DMs say fewer people are coming forward
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+The Delhi government, on 5 July, had asked all healthcare facilities to carry out compulsory rapid antigen testing on ‘high risk individuals’, which included people with symptoms for Influenza-like illness (ILi) and SARI patients apart from asymptomatic patients undergoing chemotherapy, patients with immunosuppressed diseases, transplant patients and patients above 65 years of age.
+The order resulted in the scaling up of rapid antigen tests instead of RT-PCR tests.
+Government data analysed by ThePrint showed that through the month of July, the government conducted almost twice the rapid antigen tests than RT-PCR, TrueNAT and CBNAT tests combined. TrueNAT and CBNAT are two other ICMR approved Covid tests.
+Up until 30 July, Delhi had conducted a total of 3,80,808 tests against the 2,10,313 RT-PCR, TrueNAT and CBNAT tests.
+On 27 July, the Delhi High Court rapped the Delhi government for conducting less than 50 per cent of its RT-PCR testing capacity. It noted that between 15 July and 23 July, Delhi had conducted only 6,000 tests daily when it could have tested 11,000 samples.
+Government data for this period showed that Delhi conducted almost thrice the number of rapid antigen tests (1,47,836) against the combined RTPCR, TrueNAT, CBNAT tests (51,577).
+Further, the ICMR said in court that patients seeking hospital treatment are recommended RT-PCR tests above rapid antigen tests, especially in the case of SARI patients.
+In his government’s defence, Kejriwal on 29 July tweeted that they were only following the existing ICMR guidelines that advised followup RT-PCR tests for symptomatic individuals testing negative in RAT.
+Existing guidelines say that if any patient’s antigen test is negative but has symptoms, RT-PCR test must be done on him. I directed the officers today to ensure strict compliance of these guidelines.
+— Arvind Kejriwal (@ArvindKejriwal) July 29, 2020
+
+Also read: Delhi, here is what you need to do if you or your family start showing Covid-19 symptoms
+The Indian Council of Medical Research (ICMR) had on 18 June approved the use of rapid antigen tests for containment zones and hospital settings for a quick diagnosis. The test screens for a ‘spike protein’ in a patient’s sample and takes about 30 minutes for a result. The protein, which is present on the surface of the coronavirus and facilitates its entry into the human cell, is what elicits the body’s immune response.
+Since antigen testing does not involve any amplification process, swab samples may lack enough antigen material to be detectable. This may result in false negative tests and hence requires the RT-PCR test for confirmation.
+The ICMR guidelines said that symptomatic individuals who test negative will have to mandatorily be tested by RT-PCR to rule out false negatives.
+The specificity of the antigen test ranges from 99.3 per cent to 100 per cent while its sensitivity ranges from 50.6 per cent to 84 per cent.
+ThePrint had earlier reported that while antigen testing had led to a massive spurt in testing in the national capital in July, false negatives remained a huge concern. In fact, Delhi government data between 18 June and 15 July revealed that 18 per cent of rapid antigen testing sent for followup RT-PCR tests turned out to be positive.
+Also read: RT-PCR, antigen, antibody, TrueNAT — all you need to know about the different Covid tests
+Experts and doctors ThePrint spoke to however say that for SARI patients seeking hospital admission, taking the rapid antigen testing is beneficial due to its immediacy.
+“It’s beneficial because it’s quick and a large pool can be tested immediately. But given that SARI patients are symptomatic, they must undergo RT-PCR tests (as well),” said Dr Dorairaj Prabhakaran, Public Health Foundation of India.
+Instead of mandatory RT-PCR testing, the focus should be on sequential testing for SARI patients.
+“The protocol should be to first conduct a rapid antigen test and if it comes negative, then follow up RT-PCR test should be conducted,” explained Dr T Jacob John, former ICMR director general.
+He added that a positive rapid antigen test should be treated as true positive, which would then not require a followup RT-PCR test, hence speeding up the testing process to an extent.

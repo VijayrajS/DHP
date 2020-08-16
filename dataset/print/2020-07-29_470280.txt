@@ -1,0 +1,20 @@
+India’s R value remains steady at 1.17, active cases may cross 10 lakh by 15 August
+New Delhi: India’s effective reproduction number ‘R’ for Covid-19 — a key parameter to measure the rate of infection — has remained steady this week at 1.17.
+If this trend holds, the number of active Covid-19 cases could cross the 10 lakh mark by 15 August, Sitabhra Sinha, a researcher at the Institute of Mathematical Sciences in Chennai, told ThePrint.
+The R value went up to 1.19 on 7 July from 1.11 around 26 June, just a week after ‘Unlock 2’ kicked in.
+Around 13 July, the R had decreased to 1.11 and then on 20 July, it increased again to 1.17
+An epidemic is considered to have been arrested when the R value consistently remains below 1.
+Sinha also calculated the current R values for some major cities.
+Delhi, which had been one of the worst-affected cities, now has an R value of 0.68. The value of R has been under one in Delhi for over two weeks, according to Sinha’s analysis.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Meanwhile, both Mumbai and Chennai have R values very close to 1 and cannot be estimated.
+“If the value is too close to 1, the technique I use cannot give robust estimates,” Sinha said.
+For Bengaluru, R is currently at 1.40 while for Kolkata it is 1.30.
+As of Wednesday, India has 5,09,447 active coronavirus cases. About 9,88,029 people have recovered from the infection while 34,193 have died.
+Also read: Maharashtra doubles Covid testing in July as it looks to cut record positivity, death rates
+R and R0 (basic reproduction number) are an estimate of the number of people one patient can infect.
+R0 is calculated at the beginning of the epidemic when the entire population is assumed to be susceptible to the disease. The ‘R’ changes with time, and takes into account that some individuals are protected from the disease — either because they have developed immunity or because of social distancing and other measures.
+For India, R0 was calculated to be about 1.83 in April.
+The R0 of a disease depends on three factors — the probability of infection when a susceptible person comes in contact with an infected individual, the average rate of contact between susceptible and infected individuals, and the duration during which an individual spreads the infection.

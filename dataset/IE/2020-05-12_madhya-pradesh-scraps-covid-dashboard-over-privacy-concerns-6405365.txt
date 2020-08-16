@@ -1,0 +1,6 @@
+Madhya Pradesh scraps Covid dashboard over privacy concerns
+The Madhya Pradesh government has taken down a Covid dashboard that provided anyone access to personal details of those in home quarantine after a Twitter user raised privacy concerns on Sunday. Those in quarantine had been asked to download ‘Sarthak’, an application developed by the Madhya Pradesh Agency for Promotion of Information Technology (MAP-IT).
+On March 29, the then Health Commissioner Prateek Hajela asked district collectors to monitor daily activities of those who had contracted Covid and others in home quarantine by storing information on the app.
+An ethical hacker, who goes by the pseudonym ‘Elliot Alderson’ posted snapshots of the dashboard Sunday and tweeted details of the information the app made public “We acknowledge that we took it down… We have taken corrective measures… We will make some changes and restore the dashboard soon,’’ MAP-IT CEO Nandkumaram said.
+
+📣 The Indian Express is now on Telegram. Click here to join our channel (@indianexpress) and stay updated with the latest headlines

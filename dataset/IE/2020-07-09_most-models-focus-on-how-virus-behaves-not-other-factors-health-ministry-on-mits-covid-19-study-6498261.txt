@@ -1,0 +1,11 @@
+Most models focus on how virus behaves, not other factors: Health ministry on MIT’s COVID-19 study
+The “lacunae” of many mathematical models is that they just focus on how the “virus would behave” and not take into account other parameters, the Union Health Ministry said on Thursday, after a COVID-19 modelling study by MIT predicted 2.87 lakh cases daily in India by the end of winter 2021.
+The ministry said instead of spending a lot of time on these models, focussing on containment, surveillance, testing and treatment will give better results.
+A recent modelling study by the researchers from Massachusetts Institute of Technology said India may record about 2.87 lakh projected cases of coronavirus per day by the end of winter 2021 in the absence of a COVID-19 vaccine or drug interventions.
+Responding to a question on the study, Officer on Special Duty in the Union Health ministry, Rajesh Bhushan said many mathematical models just focus on how the “virus or infection would behave” and not other parameters.
+“We all know that in the last few months various organisations with the help of mathematical models tried to make projections on the number and prevalence of this disease. But we believe that this kind of attempt does not take into account many parameters that are the lacunae of such mathematical models,” he said at a press briefing.
+“One parameter is that how the infection or virus will behave, the other parameter is how the governments would behave towards the infection and another parameter is how will the community behave,” he said.
+He said most mathematical models just focus on the first parameter of behaviour of infection or virus.
+“Most mathematical models focus on just first parameter (how the infection or virus will behave) and even then we cannot say with certainty how a virus will behave in different situations (for example: dense or scattered population).
+“So we believe instead of spending a lot of time on these models, if we spend time on containment, surveillance, testing and treatment, that will give us better results,” he added.
+

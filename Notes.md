@@ -15,4 +15,4 @@
 * Figure out how the coverage changed from month to month
 * Do word analysis, topic modelling, LDE 
 * Refer to https://critinq.wordpress.com/2020/03/26/is-this-a-dress-rehearsal/. Response to it: https://www.eurozine.com/we-created-this-beast/, Shiju Sam Varughese article for 2nd part. 
-* Track Vaccine development
+* Track Vaccine development 

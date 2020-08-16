@@ -1,0 +1,20 @@
+CSIR research identifies unique trait in virus in India
+Indian scientists have identified a unique trait in the genetic make-up in the novel coronavirus circulating in India, which is different from the virus that is prevalent in other parts of the world.
+Besides, other things, this particular trait could potentially make the virus weaker, one of the scientists involved in the study said.
+This particular genetic difference, named ‘Clade I/A3i’, was found in 41 per cent of the genome sequences done on the virus collected from Indian patients.
+Globally, only 3.5 per cent of all the genome sequences done on this virus has this particular trait.
+A ‘clade’ is a taxonomic group of organisms that are classified together on the basis of homologous features that are traced to a common ancestor. In layman terms, a clade can be understood as a strain of the virus.
+On Monday, the Centre for Cellular and Molecular Biology of the Council of Scientific and Industrial Research (CSIR-CCMB) posted a link on Twitter to a fresh, non-peer reviewed preprint on the genome analysis of the SARS-CoV-2 in India.
+“The results show that a distinct cluster of virus population, uncharacterized thus far, which is prevalent in India — called the Clade A3i,” the tweet said.
+“This cluster seems to have originated from an outbreak in February 2020, and spread through India. This comprises 41% of all SARS-CoV-2 genomes from Indian samples, and 3.5% of global genomes submitted into public domain.”
+The researchers, who sequenced 64 genomes (the complete set of genetic material) linked the Clade I/A3i cluster to the predominant SARS-CoV-2 strain circulating in Tamil Nadu, Telangana, Maharashtra, and Delhi.
+The Indian Council of Medical Research (ICMR) has so far maintained that there are three principal variants in India of the SARS-CoV-2 virus: those that came from Wuhan, the US, and Europe via air travellers.
+According to ICMR, there has been very little mutation in the important areas of the viral genome.
+“Epidemiological assessments suggest that the common ancestor emerged in the month of February 2020 and possibly resulted in an outbreak followed by countrywide spread, as evidenced by the low divergence of the genomes from across the country,” the researchers said in the preprint, ‘A distinct phylogenetic cluster of Indian SARS-CoV-2 isolates’.
+“To the best of our knowledge, this is the first comprehensive study characterizing the distinct and predominant cluster of SARS-CoV-2 in India.”
+Asked about the significance of identifying the new cluster, one of the authors of the paper told The Indian Express: “The A3i clade seems to be the clade responsible for the initial outbreak across the country. You can tell it apart from the other clades based on four differences in its sequence.
+“At this point it’s inconclusive to say what those differences mean, but one of them could be potentially making the virus weaker. Also, it mutates slower compared to the other clade (A2a) which is prevalent in India, which is often disadvantageous for the virus. Only time will tell which clades will prevail and which ones won’t.”
+The researchers concluded that Clade I / A3i was represented in most states from which genomes are available.
+“Members of the Clade I / A3i formed the predominant class of isolates from the states of Tamil Nadu, Telangana, Maharashtra, and Delhi, and the second largest in membership in Bihar, Karnataka, UP, West Bengal, Gujarat, and MP,” the researchers said.
+
+📣 The Indian Express is now on Telegram. Click here to join our channel (@indianexpress) and stay updated with the latest headlines

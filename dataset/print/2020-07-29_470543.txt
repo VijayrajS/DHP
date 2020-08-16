@@ -1,0 +1,30 @@
+Delhi now has lowest Rt value, Maharashtra positivity rate still highest, but sees slight dip
+New Delhi: India crossed the 15-lakh mark Wednesday as the Ministry of Health and Family Welfare reported 48,513 new cases of the novel coronavirus with 768 deaths in the last 24 hours.
+Only two days ago, India had crossed the 14-lakh mark. With this, daily cases in India continued to cross 45,000 daily cases.
+In the ThePrint’s daily State Tracker, we take a look at the data on testing and the rate at which the infection is spreading in throughout India.
+For this analysis, we use three parameters:
+Rt value, known as reproduction number, is indicative of the number of new cases that are expected to emerge from a single case. An R value of less than 1 suggests that the rate of infection is slow since an infected patient will only infect less than one person.
+Positivity rate is the percentage of people who are found to be infected by the virus from those who are being tested. This parameter indicates how widespread the disease is.
+Tests per million give insight into the amount of testing being conducted in relation to the population of an area.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+All data is sourced from covidtoday.in.
+Also read: India’s positivity rate decreases but infection rate stays steady at 1.17
+
+India’s Rt value continued to be recorded at 1.17 per cent on 29 July, the same as it has been since last week.
+The lowest Rt value in the country was witnessed in Delhi at 0.88 per cent, which overtook Andaman and Nicobar Islands from a day earlier. This was followed by Nagaland at 0.90 per cent, Meghalaya at 0.96 per cent, Telangana at 1.01 per cent and Ladakh and Haryana at 1.07 per cent.
+The Andaman and Nicobar Islands, which had consistently recorded the lowest Rt value, saw a sudden spike, moving up to record the ninth highest value at 1.28 per cent.
+The highest Rt value in the country was recorded in Tripura at 1.52 per cent, which displaced Arunachal Pradesh (1.45 per cent) in the last 24 hours. The two states were followed by Andhra Pradesh at 1.43 per cent, Himachal Pradesh at 1.40 per cent and Uttarakhand at 1.33 per cent, which moved down a spot to rank fifth highest in the last 24 hours.
+
+The positivity rate in India as of 29 July stood at 11.20 per cent, decrease from 11.59 per cent in the last 24 hours.
+The four states that recorded the lowest positivity rates remained the same, with Arunachal Pradesh taking the lowest spot (1.80 per cent), followed by Tripura (3.16 per cent), Himachal Pradesh (3.69 per cent) and Sikkim (3.74 per cent). Manipur’s positivity rate dropped to 4 per cent, overtaking Rajasthan as the state with the fifth lowest value.
+On the higher end of the scale, Maharashtra remained to have the highest positivity rate at 19.62 per cent. However, the state’s value saw a dip from 20.04 per cent in the last 24 hours.
+This was followed by Puducherry at 17.72 per cent, Bihar at 17.09 per cent, Karnataka at 16.21 per cent and West Bengal at 14.51 per cent.
+While the ranking of states didn’t change, like Maharashtra, the values varied from the previous day. Puducherry dipped from 17.97 per cent to 17.72 per cent. West Bengal went from 15.18 per cent to 14.51 per cent.
+Bihar and Karnataka noted slight increases in their positivity rates, with Bihar climbing from 16.67 per cent to 17.09 per cent, and Karnataka from 16.17 per cent to 16.21 per cent.
+
+As many as 12,938 tests per million were conducted in India in the last 24 hours.
+Bihar, Jharkhand, Uttar Pradesh, West Bengal, Madhya Pradesh continued to be the five states conducting the lowest number of tests per million.
+At the lowest was Bihar (3,900). This was followed by Jharkhand (7,066), West Bengal (8,425) which moved up a spot to the third position and Madhya Pradesh (8,489) which moved up a spot to the fourth position. Uttar Pradesh (8,546) saw a marginal increase in its testing, moving it down to the fifth position from 28 July.
+Goa remained to clock to the highest test per million in the country at 79,845. This was followed by Dadra and Nagar Haveli at 66,820, Ladakh at 63,794, Andaman and Nicobar Islands at 54,971 and Delhi at 52,206. The five states and Union territories have been ranking in the same order since last week.

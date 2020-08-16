@@ -1,0 +1,19 @@
+Travelling by flight, train or bus? Here’s what you need to keep in mind
+Coronavirus (Covid-19): With India resuming its domestic flight operations from Monday and its passenger train operations from June 1 after a gap of two months due to coronavirus lockdown, the Ministry of Health and Family Welfare (MoHFW) on Sunday issued guidelines for domestic travel (air/train/inter-state bus travel).
+The Health Ministry advised passengers to download Aarogya Setu app on their mobile phones and asked states to ensure thermal screening at the departure point of airports, railway stations and bus terminals. In its guidelines, the Ministry said asymptomatic passengers should be permitted to travel after being asked to self-monitor for 14 days and that those exhibiting mild symptoms of Covid-19 would be given the option of home isolation. It also stated that states can develop their own protocol with regards to quarantine and isolation as per their assessment.
+Earlier in the day, the health ministry had also put out guidelines for international arrivals and made it mandatory for stranded Indians arriving from abroad to check into an institutional quarantine for 14 days at their own expense followed by seven days of home isolation.
+Here’s the full list of guidelines for the domestic travellers (air, bus, and train)
+# Do’s and Don’ts shall be provided along with tickets to the travellers by the agencies concerned.
+# All passengers shall be advised to download Aarogya Setu app on their mobile devices.
+# Suitable announcement about COVID-19 including precautionary measures to be followed shall be made at airports/railway station/bus terminals and in flights/trains/bus.
+# The States/UTs shall ensure that all passengers shall undergo thermal screening at the point of departure and only asymptomatic passengers are allowed to board the flight/train/bus.
+# During boarding and travel, all passengers shall use face covers/mask. They will also follow hand hygiene, respiratory hygiene and maintain environmental hygiene.
+# At airports/railway stations/ bus terminals required measures to ensure social distancing shall be taken.
+# Airports/railway stations/bus terminals should be regularly sanitised/disinfected and availability of soaps and sanitisers shall be ensured.
+# Thermal screening at exit point shall be arranged.
+# Asymptomatic passengers will be permitted to go with the advice that they shall self-monitor their health for 14 days. In case, they develop any symptoms, they shall inform the district surveillance officer or the state/national call centre (1075).
+# Those found symptomatic will be isolated and taken to the nearest health facility. They will be assessed for clinical severity at the health facility.
+# Those having moderate or severe symptoms will be admitted to dedicated COVID Health facilities and managed accordingly.
+#Those having mild symptoms will be given the option of home isolation or isolated in the COVID Care Centre (both public & private facilities) as appropriate and tested as per ICMR protocol available at https://www.mohfw.gov.in/pdf/Revisedtestingguidelines.pdf.  If positive, they will continue in COVID Care Centre and will be managed as per clinical protocol. If negative, the passenger may be allowed to go home, isolate himself/herself and selfmonitor his/her health for further 7 days. In case, any symptoms develop they shall inform the district surveillance officer or the state/national call centre (1075).
+# States can also develop their own protocol with regards to quarantine and isolation as per their assessment.
+

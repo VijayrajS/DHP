@@ -1,0 +1,27 @@
+‘Despite Covid, our timelines for Genome India project won’t be affected’
+Vijayalakshmi Ravindranath, neurologist and Professor of the Centre for Neuroscience at the Indian Institute of Science (IISc), Bengaluru, and a key person in the multi-institute Genome India Project, speaks to The Indian Express on how the coronavirus-induced lockdown has impacted the ambitious project.
+What is the status of the India Genome project?
+Genome India was funded by DBT at the end of January, and we were geared up to go, but then the lockdown was imposed.
+We were able to have four working group meetings before the lockdown, including an intense workshop run by experts from Broad Institute of Harvard and MIT between March 3 and 6 in Gujarat for the training of data analysts for the Genome India Project. Broad Institute is an invaluable resource for genomics.
+When lockdown lifts, we will accelerate our pace. We had actually started planning for this workshop well before our funding came through, in September-October last year. One of the major challenges in genomics is the computational analysis of data and I am glad we are on track with the training etc.
+I don’t think our timelines will be affected.
+
+Has the field collection of samples in Kolar resumed? What about collections from cities?
+Sample collections have stopped, but we are getting in touch with people from different ethnic groups on the telephone and informing them about this project. We will approach them once the pandemic is under control.
+With regard to our longitudinal study in Kolar, we make regular phone calls to the volunteers in villages and this has allowed a lot of their lockdown-related issues to be addressed. IISc has just partially opened and we have started sequencing the whole genomes of samples we have collected.
+During the two month shut down, we have been in communication with subjects and also setting up our computational infrastructure and analysis pipeline so that we are ready when the sample collection gets started. We will resume collections only after discussions with primary healthcare workers and receive their go-ahead. And, of course, this needs to be done taking precautions given the current scenario.
+There was to be a collection of equal number of unhealthy samples in Part 2 of the project. Are there any changes because of Covid-19?
+During Phase 1, we planned to collect more samples so that Phase 2 of the project could begin without delay. So, another batch of 10,000 Indian samples with diseases, of three broad categories — non-communicable diseases like cardio-vascular and diabetes, brain disorders and cancer — will also need to be collected. We are aware of the complexity and are prepared to go forward cautiously. We need proper phenotyping of the patients with the correct diagnosis of the diseases.
+As far as Covid goes, we are preparing a proposal to sequence 1,000 whole genome samples from the infected population to study it from a genetic point of view. The debate is no longer about whether it is genes or the environment, we realise both play a role. A person’s immune system responds to the environment, but immunity also has aspects that relate to the genes we carry too.
+We have a small consortium of institutes that are carrying out serological tests, so if we can get the ethical clearances and access to blood samples of infected individuals, we can look at the role of genes in infectability.
+
+Covid has fast-tracked research and thinking. What are your thoughts as a scientist, when you look at the huge volume of research that comes your way?
+There has been an unprecedented exchange of information and contact between scientists who are carrying out studies on aging subjects. Consider this, we have regular calls between USA, Europe, Asia and Australia to discuss the impact of this pandemic and what new questions need to be addressed, such as how this isolation will affect the cognition, what exactly anti-body tests reveal and the need to harmonise data from all studies.
+I am concerned over the quest for quick results or a vaccine. Take HIV, for instance. In 30 years, we have lost 30 million lives to the disease, yet there is still no vaccine.
+Further, other health initiatives, such as TB treatments, vaccination, mother and child nutrition etc have seen a setback given the preoccupation with Covid.
+On a different note, we should have planned better to study the sudden change in the environment with Covid and its impact on health and well-being, cohesively.
+Internationally too, there should be more coordination as we battle the virus.
+Have events around Covid made the India Genome Project a little less relevant? Or more so?
+Genome India is about understanding the genetic variations of the country and who might be more vulnerable to disease. As Covid numbers rise in Maharashtra, for example, imagine how we could have handled the crisis if we had data on migrants and the vulnerable. We could have pushed more measures and provided more support.
+The pandemic is only a new perspective to look at everything. It hit us with brute force and changed our world. The pandemic made it all about fear, which could have been reduced had we had more information and details about vulnerability and susceptibility of people to disease.
+📣 The Indian Express is now on Telegram. Click here to join our channel (@indianexpress) and stay updated with the latest headlines

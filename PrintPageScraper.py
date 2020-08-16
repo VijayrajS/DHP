@@ -39,8 +39,7 @@ def extract_link_article(link, date):
 
 with open('results_print.csv', 'r') as fp:
     # put a tqdm loop here too
-    n_lines = os.system('wc -l results.csv')
-    pbar = tqdm(total=n_lines)
+    pbar = tqdm(total=10)
 
     while (line := fp.readline()):
         pbar.update(1)

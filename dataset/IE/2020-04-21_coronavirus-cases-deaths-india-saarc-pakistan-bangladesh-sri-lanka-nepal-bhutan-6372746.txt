@@ -1,0 +1,22 @@
+Coronavirus pandemic: How India’s neighbours are faring
+Despite accounting for a fifth of the world’s population (21 per cent), the eight SAARC nations — India, Pakistan, the Maldives, Sri Lanka, Afghanistan, Bangladesh, Nepal, Bhutan — account for just 1.28 per cent of the world total of 24,80,503 coronavirus cases. In terms of fatalities, the SAARC total is nearly half a percentage point (0.54 per cent) or 937 of the total of 1,70,397 people who have died of the infection worldwide, according to data by worldometers.
+The SAARC countries have recorded much lower infection rates in the region compared to the worst affected countries, including the US, Italy, Spain, the UK, Iran and China. Follow LIVE Updates
+However, the number of coronavirus cases in the SAARC region is growing by an average of 8.61 per cent as compared to the world average rate of 3.66 per cent. Moreover, cases are doubling in the SAARC region in less than half the number of days (8.36 days) than the global average of 19.65 days.
+
+Simply, doubling rate implies how many days it takes for the number of coronavirus cases to double, and is a prudent method to assess the spread of the pandemic. The shorter the time frame, the steeper the curve and the faster the growth.
+As daily growth rates can have high variability, we have used a moving average calculated for five-day periods between April 15 and April 20 to calculate the cumulative daily growth rate (CDGR) for each country and then used the “Rule of 72” to find the doubling rate (doubling time = 72/rate of daily growth).
+India has the largest number of cases in the region at 18,539 with Pakistan next at 8,892 while Bhutan has the lowest number with just six of the cases in the subcontinent. In fact, India accounts for over 58 per cent of the total cases among the SAARC countries.
+An analysis of the country-wise daily daily growth rate shows a wide variability — cases in India, Pakistan, Sri Lanka, Afghanistan are increasing at a rate slower than the SAARC average of 8.61 per cent while in the Maldives, Bangladesh and Nepal, infections are rising at 26 per cent, 19 per cent and 14 per cent,respectively.
+In terms of fatalities, India tops the chart with 592 deaths followed by Pakistan at 192 deaths and Bangladesh (110 deaths). The Maldives, Nepal and Bhutan have so far reported zero fatalities. India and Pakistan together account for 84 per cent of the total deaths in the region.
+The low figures in the subcontinent despite its large population can be attributed to the impact of the strict lockdown and social distancing measures that have been adopted, according to a World Bank report.
+To contain the spread of the disease, Bangladesh and Pakistan both had suspended congregational prayers at mosques across the country.
+“All governments in South Asia have responded rapidly to the crisis, but their task is daunting. Governments have imposed social-distancing measures, introduced relief packages to secure access to food, and provided for delays in payments on taxes, rent, utilities and debt service,” said a ‘South Asia Economic Focus’ study, published by the World Bank last week.
+Moreover, the recovery rate in SAARC regions is below the global average of 26.35 per cent. The recovery rate is highest in Sri Lanka (32.89 per cent) followed by Pakistan (23.23 per cent) and Maldives (23.19 per cent). In India, about 17.65 per cent of patients are recovering daily, the data reveals.
+In a video conference on forming a joint strategy to fight Covid-19 in the SAARC region, Prime Minister Narendra Modi on March 15 had proposed an emergency fund with an initial offer of $10 million from India. Subsequently, Nepal and Afghanistan pledged $1 million each, Maldives pledged $200,000, Bhutan $100,000, Bangladesh $1.5 million, Pakistan $3 million and Sri Lanka pledged to contribute $5 million to the fund.
+Don’t miss these articles on Coronavirus from the Explained section:
+‣ How coronavirus attacks, step by step
+‣ Mask or no mask? Why the guidance has been shifting
+‣ Besides a face cover, should I wear gloves when I go outdoors?
+‣ How the Agra, Bhilwara and Pathanamthitta Covid-19 containment models differ
+‣ Can coronavirus damage your brain?
+📣 The Indian Express is now on Telegram. Click here to join our channel (@indianexpress) and stay updated with the latest headlines

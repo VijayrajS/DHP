@@ -1,0 +1,24 @@
+Kerala’s infection rate improves but is still above 1, Telangana’s tests per million climb
+New Delhi: India, which has the third highest number of coronavirus infections in the world, reported 37,724 new cases and 648 deaths in the 24 hours ending 9 am Wednesday, the Ministry of Health and Family Welfare said.
+In the ThePrint’s daily State Tracker, here’s a look at the data on testing and the rate at which the infection is spreading in throughout India.
+For this analysis, we use three parameters:
+Rt value, known as reproduction number, is indicative of the number of new cases that are expected to emerge from a single case. An R value of less than 1 suggests that the rate of infection is slow since an infected patient will only infect less than one person.
+Positivity rate is the percentage of people who are found to be infected by the virus from those who are being tested. This parameter indicates how widespread the disease is.
+Tests per million give insight into the amount of testing being conducted in relation to the population of an area.
+All data is sourced from covidtoday.in.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Also read: Manipur records India’s lowest positivity rate at 2.31%, Goa conducts most tests per million on 21 July
+
+As of 22 July, India’s Rt value was calculated at 1.17, up from the 1.11 recorded last week.
+The lowest Rt value in the country was witnessed at Andaman and Nicobar Islands (0.79). Delhi remained a consistent second lowest at 0.90 for the third day in a row. Ladakh and Telangana came next at 1.0 and finally Nagaland at 1.09.
+The highest Rt value in the country was recorded in Arunachal Pradesh at 1.58. The second highest Rt value was seen in Sikkim at 1.57, followed by Bihar at 1.45, Uttarakhand at 1.44 and Kerala at 1.37. The Rt value of Kerala decreased from 1.44 to 1.37 from 21 July to 22 July.
+
+The positivity rate in India as of 22 July stood at 11.14 per cent, increasing from 9.86 per cent on 20 July.
+The lowest positivity rate was recorded in Himachal Pradesh at 2.26 per cent. The second lowest positivity rate was seen in Andaman and Nicobar Islands at 2.75 per cent, followed by Sikkim at 2.85 per cent, Manipur at 3.15 per cent and Rajasthan at 3.34 per cent.
+The highest positivity rate, remains to be in Maharashtra at 22.17 per cent. This was followed by West Bengal (15.61 per cent), Karnataka (14.6 per cent), Bihar (13.92 per cent) and Andhra Pradesh (13.46 per cent).
+While states with highest positivity rate remained the same, their positions altered as Bihar slipped from second to fourth spot while West Bengal moved from third to second from 21 July to 22 July.
+
+The national test per million conducted in India as of 22 July was 10,486. The lowest number of tests per million were recorded in Bihar (3,196). This was followed by Jharkhand (5,973), Uttar Pradesh (6,533), West Bengal (7,322) and Madhya Pradesh (7,393).
+While Telangana’s tests per million went up to break out out of the lowest five category, Madhya Pradesh is not at fifth spot. West Bengal’s tests per million went from the fifth to fourth spot in the past 24 hours in terms of the lowest testing data.

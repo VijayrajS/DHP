@@ -1,0 +1,28 @@
+Now French, German studies say HCQ doesn’t prevent, treat Covid in primates, human lung cells
+Bengaluru: The much talked about anti-malarial drug, hydroxychloroquine (HCQ), has no effect on the novel coronavirus, and it did not prevent the disease even when given as prophylaxis (prevention), according to a new study conducted by French researchers. 
+This apart, a German study too concluded that HCQ and chloroquine, another popular anti-malarial drug, showed no antiviral activity against human lung cells.
+Both studies are peer-reviewed and were published Wednesday in the journal, Nature.
+The French researchers studied the effects of HCQ in vitro, in macaque monkeys, and in human epithelial lung cells for its antiviral properties. 
+The drug was tested as prophylaxis against Covid-19 infection — pre-exposure and post-exposure — and for early treatment immediately after the infection, as well as for treatment in the later stages of the infection.
+HCQ was also tested in combination with azithromycin (AZTH) for the same treatments, and it failed to both prevent as well as treat Covid-19. 
+Meanwhile, the German study stated that many previous studies, which showed positive results, used cell lines that were missing a crucial enzyme that grants entry to the virus in human lungs.
+We are deeply grateful to our readers & viewers for their time, trust and subscriptions.
+Quality journalism is expensive and needs readers to pay for it. Your support will define our work and ThePrint’s future.
+SUBSCRIBE NOW 
+Both these findings come on the heels of another study from the US and Canada this week that showed HCQ was ineffective in treating patients in early stages of the infection. 
+Earlier this month, a study published in the Journal of The Association of Physicians of India (JAPI) also concluded that HCQ as a prophylactic has no use, with researchers even pointing out that the positivity rate was slightly more in people using HCQ as a prophylaxis than among those who were not using it.
+Also read: Surgisphere, the Indian-American founded tiny data firm at the centre of HCQ-Lancet storm
+Hydroxychloroquine and chloroquine — drugs that are commonly used for the treatment of malaria — have been the subject of over 80 registered clinical trials already to treat or prevent Covid-19. 
+They have been shown to inhibit SARS-CoV-2 infection in cell cultures in the lab, but their effectiveness for the treatment of Covid-19 patients has not been established yet. 
+In the lab, the drugs have consistently shown to be effective against Covid in Vero cells, which are obtained from the kidneys of African green monkeys. Primates and primate cells are commonly used in medical trials as they are very close to human functioning. 
+In the French study, the monkeys were given smaller doses that proportionally mimic human exposure, of both HCQ and AZTH. The drug was also tested against human lung cells. 
+The researchers stated that the drug didn’t prevent infection in both monkeys and human lung cells, and it wasn’t able to reduce viral load or alleviate the disease in monkeys both before and after peak viral load. 
+The study also tested varying dosages to see if doses higher than 200 mg, three times a day, would yield better viral clearanazithromycin ce, but no differences were found. 
+“When the drug was used as a pre-exposure prophylaxis (PrEP), HCQ did not confer protection against acquisition of infection. Our findings do not support the use of HCQ, either alone or in combination with AZTH, as an antiviral treatment for Covid-19 in humans,” concluded the researchers. 
+Similar findings were echoed in the German study, which also found that while the drugs were effective in Vero cells, they failed to prevent the entry of the virus into human lung cells. 
+Apart from the familiar ACE2 receptor, the spike protein of the SARS-CoV-2 virus also uses the enzyme TMPRSS2 to gain entry into human cells. This cellular protease is often missing from several reconstructed lung cells used in labs for testing.
+The authors of the German HCQ-chloroquine paper explained that in previous experiments on chloroquine that showed positive results, the crucial TMPRSS2 enzyme was missing. 
+The authors warned that other studies that studied the effects of the drugs on human lung cells should use cell lines that mimic actual lung tissue functioning.
+Both studies stressed on the differences between in vitro and in vivo experiments, stating that the results with HCQ and Covid-19 are similar to how the drug was also unsuccessful in preventing and treating influenza, dengue, and chikungunya. 
+According to the ICMR guidelines, India continues to use HCQ as a prophylaxis for healthcare workers and close contacts of Covid-19 patients.
+Also read: India sold over 22 crore HCQ tablets in last 3 months against 24 crore in all of 2019

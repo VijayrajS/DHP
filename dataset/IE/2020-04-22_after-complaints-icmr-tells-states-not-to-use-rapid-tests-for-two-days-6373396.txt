@@ -1,0 +1,26 @@
+After complaints, ICMR tells states not to use rapid tests for two days
+Following complaints that the rapid antibody test kits are showing varying levels of accuracy, the Indian Council of Medical Research (ICMR) has asked all states not to use the serological COVID-19 tests for the next two days, pending field validation by its teams.
+“We have been getting complaints that when the serological tests are being done on the blood samples of people who have already tested positive in the RT-PCR test, the accuracy ranges from 6% to 71%. This needs to be investigated,” Dr R R Gangakhedkar, head of epidemiology and infectious diseases at ICMR, said.
+“This is a first generation test developed in just three-and-a-half months and needs refinement, yet the variations cannot be ignored. We will send personnel from eight institutes to the field to validate the kits. Meanwhile, we have advised the states not to use the tests for the next two days till we come out with an advisory,” he said.
+Joint Secretary, Health Ministry, Lav Agarwal reiterated that the RT-PCR is the ‘gold standard’ for COVID-19 diagnosis.
+Ahead of the gradual lifting of the lockdown, the serological tests were to be used in hotspots, to test the population-level exposure. On April 4, the ICMR had issued an advisory to start rapid tests in high density settings.
+The rapid test, which uses blood samples instead of swabs, checks for the novel coronavirus (SARS-CoV2) by ascertaining whether the person has developed antibodies against it. It takes less than 30 minutes. The swab test, on the other hand, comprises two steps — a screening test and a confirmatory test — and takes 8-9 hours. However, there have been concerns about the accuracy of rapid tests.
+While most of the rapid test kits are part of the batch received by the Centre from China last week, some states had also procured these kits on their own.
+Gangakhedkar said that if most of the kits are found to be faulty, the ICMR would ask for replacements.
+Meanwhile, with 1,329 new cases and 44 deaths being reported in the last 24 hours, the tally is now 18,985 cases (3,259 recovered) and 603 deaths. So far, 4,62,621 samples have been tested, including 26,943 in the last 24 hours.
+While four districts — Mahe (Puducherry), Kodagu (Karnataka), Pauri Garhwal (Uttarakhand) and Pratapgarh (Rajasthan) — have not reported any new case in the last 28 days, 61 districts, spread across 23 states and UTs, have not reported any new case in the last 14 days. Four new districts have been added to this list: Latur, Osmanabad, Hingoli and Washim in Maharashtra.
+In its advisory earlier this month, the ICMR had said: “As a matter of abundant precaution, all symptomatic influenza like illness (ILI) persons should be advised home quarantine for 14 days. At facility level, symptomatic ILI individuals to be tested using rapid antibody tests.”
+It said that if the test is positive, “after clinical assessment, treatment in hospital or isolation as per protocol. Action as per protocol to be initiated for contact tracing. If symptoms worsen, refer to designated COVID-19 hospitals. When home quarantine is not feasible, consider facility-based quarantine”.
+The World Health Organisation (WHO), however, has said that the rapid test should be used only in research settings and not for the purpose of controlling the epidemic in the field.
+Meanwhile, the Health Ministry has issued guidelines for non-COVID hospitals in case a COVID patient turns up. The ministry also tried to allay fears over the high number of asymptomatic cases by quoting the WHO, which says that there is no documented case of asymptomatic transmission so far.
+Dr Gangakhedkar said that 69% of COVID-19 patients in India have been asymptomatic so far; they were tested because of contact history or other criteria.
+In a statement, the Health Ministry said: “The Council of Scientific and Industrial Research (CSIR) is launching a randomised, blinded, two arms, active comparator-controlled clinical trial to evaluate drug efficacy to reduce mortality in critically ill COVID-19 patients. Given the similarities between the clinical characteristics of patients suffering from COVID-19 and Gram-negative sepsis, the Drugs Controller General of India (DCGI) has approved the trial and it will soon begin in multiple hospitals.”
+The government also plans to carry out a phone survey of about 2 crore people to estimate the spread of COVID-19.
+The empowered committee for augmenting human resources and capacity building has developed a “COVID Warriors” dashboard which gives state and district-wise data on 20 categories of human resources including doctors, AYUSH doctors, nurses, frontline workers like ASHA and anganwadi workers, and healthcare workers trained under various schemes.
+Don’t miss these articles on Coronavirus from the Explained section:
+‣ How coronavirus attacks, step by step
+‣ Mask or no mask? Why the guidance has been shifting
+‣ Besides a face cover, should I wear gloves when I go outdoors?
+‣ How the Agra, Bhilwara and Pathanamthitta Covid-19 containment models differ
+‣ Can coronavirus damage your brain?
+📣 The Indian Express is now on Telegram. Click here to join our channel (@indianexpress) and stay updated with the latest headlines
