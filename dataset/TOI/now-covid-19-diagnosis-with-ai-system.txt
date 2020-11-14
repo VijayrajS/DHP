@@ -1,0 +1,13 @@
+Hyderabad: Now, Covid-19 diagnosis with Artificial Intelligence system
+2020-05-19
+HYDERABAD: Faculty members of VNR Vignana Jyothi Institute of Engineering and Technology (VNRVJIET), Hyderabad, have developed an Artificial Intelligence-based diagnostic system for Covid-19. 
+
+The system, which is said to predict the infection with over 99% accuracy, studies chest X-ray or CT scan images of the suspected patients to detect a potential viral infection.
+
+Dby a team led by Radha Krishna Vangipuram, an assistant professor with the department of IT, uses AI and image processing techniques to study chest X-ray or CT scan images. It is currently being patented in India and the USA by these inventors.
+
+Researchers said that team has been collaborating remotely during the lockdown and has developed this cost-effective testing system with high accuracy of 99.5% to predict Covid-19. “The same diagnostic system can be used to predict numerous other diseases pertaining to the respiratory system,” said Vangipuram adding that the use of AI enables much higher precision than what radiologists can achieve.
+
+They said that this testing system will be really useful in any country where there is a shortage of test kits, radiologists, and affordable diagnosis.
+
+

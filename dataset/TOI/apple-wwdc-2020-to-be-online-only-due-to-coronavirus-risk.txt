@@ -1,0 +1,14 @@
+Apple WWDC 2020 to be online-only due to Coronavirus risk
+2020-03-14
+Apple has announced that it will host its annual Worldwide Developers Conference in June, however, this will be online-only as the world fights back against the Coronavirus pandemic.
+
+“WWDC 2020 will take on an entirely new online format packed with content for consumers, press and developers alike,” said Apple in a press statement. 
+
+“We are delivering WWDC 2020 this June in an innovative way to millions of developers around the world, bringing the entire developer community together with a new experience. The current health situation has required that we create a new WWDC 2020 format that delivers a full program with an online keynote and sessions, offering a great learning experience for our entire developer community, all around the world. We will be sharing all of the details in the weeks ahead,”said Phil Schiller, Apple’s senior vice president of Worldwide Marketing.
+
+Apple also announced it will commit $1 million to local San Jose organisations to offset associated revenue loss as a result of WWDC 2020’s new online format,” it added.
+
+Google, Microsoft, Facebook and other tech brands have also cancelled their flagship annual events and shifted to an online-only format like Apple. Not to forget even the Mobile World Congress, held every year in Barcelona, also got cancelled to avoid further spread of the Coronavirus disease. 
+
+“With all of the new products and technologies we’ve been working on, WWDC 2020 is going to be big. I look forward to our developers getting their hands on the new code and interacting in entirely new ways with the Apple engineers building the technologies and frameworks that will shape the future across all Apple platforms,” said Craig Federighi, Apple’s senior vice president of Software Engineering. 
+

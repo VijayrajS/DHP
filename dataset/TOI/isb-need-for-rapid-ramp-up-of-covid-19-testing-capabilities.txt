@@ -1,0 +1,15 @@
+ISB: Need for rapid ramp-up of Covid-19 testing capabilities
+2020-05-21
+Hyderabad: The existing rate of onboarding of labs testing Covid-19 samples is not sufficient to meet the testing volume requirement in most of the states and will have to be scaled up rapidly, said a paper authored by faculty and analysts at ISB’s Max Institute of Healthcare Management (MIHM).
+
+ As per Indian Council of Medical Research (ICMR) data, there are 391 government and 164 private labs testing Covid-19 samples.
+
+“…Maharashtra, which contributes highest number of cases, would need to add more than 450% of its testing capacity. On the other hand, Haryana, which currently has smaller number of reported cases but extremely limited capacity, will need to add more than 600% capacity. Kerala is one of the few states that may be equipped to handle its projected testing volume with current capacity as its reported cases have been demonstrating a decreasing trend,” the paper titled `Testing capacity for Covid-19 – How ready are we for the battle?’ --- co-authored by Sarang Deo, executive director, MIHM, along with analysts Aman Kabra and Hemanshu Das, said.
+
+The paper pointed out that it may not be possible to ramp up capacity to a level where each state is self-sufficient. Therefore, in some cases adding capacity to existing labs may be a faster and more economical way.
+
+ It also rooted for leveraging other parts of the health system to accelerate the pace of testing. 
+
+For instance, tests for HIV and TB are conducted on machines such as Cartridge-based nucleic acid amplification test, which have the same underlying technology required for Covid-19 testing. The only major tweak required is the shift to Covid-19 specific testing reagents and cartridges, it said.
+
+

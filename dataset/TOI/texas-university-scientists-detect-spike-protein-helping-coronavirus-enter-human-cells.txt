@@ -1,0 +1,28 @@
+US scientists figure out how Covid-19 enters human cells
+2020-03-15
+PUNE: Researchers have succeeded in cracking the “spike protein” of the novel coronavirus (2019-nCoV) through which it invades human cells and causes the infection.
+
+
+Coronavirus outbreak live updates
+
+The researchers, led by Jason McLellan of the University of Texas at Austin, have not just identified the spike protein but also its “receptor” in the human body. Their findings have been published in the international magazine Science.
+
+ 
+ 
+The University of Texas team, which has previously worked on coronaviruses, found through their research that the protein in the novel coronavirus binds “at least 10 times more tightly than the corresponding spike protein of severe acute respiratory syndrome (SARS-CoV) to their common host cell receptor,” the report published in Science, states.
+
+The report further states that, “This is the same human receptor protein targeted by the earlier SARS coronavirus.”
+
+The researchers also tested three antibodies known to bind to the SARS coronavirus spike protein to check if they could work with the 2019-nCoV. It did not prove to be successful. “It did not detect binding to the 2019-nCoV spike protein,” the report in Science states.
+
+Microbiologists told TOI that the “spike protein” was called so because it sat on top of the spike-like structure of the coronavirus. This protein connects with the molecules in human cells and leads to the infection.
+
+“In order to infect or attack the human cell, the virus has to enter it and attach itself to the cell. The receptor is the molecule on the surface of the cell to which the virus attaches. Then it goes inside and takes over the entire functioning of the cell,” said Yogesh Shouche, who heads the National Centre for Microbial Resource at the National Centre for Cell Science.
+
+“When you know how the virus is attacking the cell, and these are the proteins which bind to the cells and the molecules on the cell that bind to the protein, it can lead to identifying the way for treatment,” he said.
+
+“Either you can find some chemical that inhibits this binding, then that could be the treatment for the virus; or you can develop the antibody, that would be the vaccine,” Shouche added.
+
+Microbiologists stressed identifying the “spike protein” was a key step towards developing vaccines and treatment for the virus. It is the component in the virus that the human body knows and reacts to, they stated.
+
+

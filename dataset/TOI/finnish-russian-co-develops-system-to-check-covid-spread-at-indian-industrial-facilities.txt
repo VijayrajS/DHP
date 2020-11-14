@@ -1,0 +1,17 @@
+Finnish-Russian co develops system to check Covid spread at Indian industrial facilities
+2020-06-03
+NEW DELHI: Zyfra, Finnish-Russian digital solutions provider for heavy industries announced on Tuesday that it will offer Indian companies a comprehensive product to significantly reduce the risk of spread of Covid-19 at industrial facilities.
+
+
+
+The system, based on artificial intelligence and computer vision, allows automatic mask monitoring with the help of video analytics, monitoring of the safe distance between employees and real-time reports about violations. Additional functions like measuring body temperature and alerting employees about violation of a safe distance are also available.
+
+“A lot of clients have become concerned about occupational safety. They have started paying attention to solutions that used to be second or even third priorities for digitalisation—those related to staff positioning and supervision over what the staff is doing at any specified moment,” said Liana Meliksetyan, chief operating officer at Zyfra.
+
+According to her, companies understand that to start working after the lockdown, it is necessary to ensure that people contact each other minimally to check the virus spread.
+
+India has become the key foreign market for Zyfra with over 500 computer numerical control (CNC) machines connected to its MDCplus real-time machine monitoring and manufacturing data collection system system in 2019. By 2021, the company is looking at more than 2,000 MDCplus installations in India. These Indian companies or organisations are Indian Railways, Godrej and Murugappa Group.
+
+“Various industrial safety solutions offered by Zyfra have already been installed in over 50 companies in Russia and abroad. Nowadays digital solutions allow supervising health status of workers and compliance with occupational safety rules, including those considering protective clothing and equipment. As a result, we can see that the number of industrial accidents has decreased significantly, so has the amount of repeated violations of work discipline. Staff positioning at a mining company allows prompt responding to incidents — in emergency, it can save human lives,” says Alexander Belugin, head of computer vision at Zyfra.
+
+

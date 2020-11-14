@@ -1,0 +1,26 @@
+1,000 BMTC buses go cashless as Covid-19 accelerates switch
+2020-05-27
+BENGALURU: After missing the bus in 2016, when demonetisation prompted mass adoption of e-payments, Bangalore Metropolitan Transport Corporation (BMTC) is finally embracing the digital option as it looks to make commute safer and quicker in the wake of Covid-19.
+
+
+On Tuesday, 1,000 out of the 3,500 BMTC buses on the road allowed passengers to pay the fare through a QR-code facility. This is a huge jump from just 70 buses that offered the e-payment option last week, when the state government restarted public-transport services after nearly two months of lockdown.
+
+Cashless and contactless ticketing is now a crucial public-health measure as coronavirus can survive on surfaces for a number of hours. It also solves an old problem: passengers and conductors won’t argue or fight over change as exact fare will be deducted from e-wallets. In the past few years, there have been a number of ugly scraps over change, and despite repeated complaints, state-run BMTC didn’t introduce the online payment option until now.
+
+In another welcome development, flat fares were reintroduced on BMTC buses on Tuesday. The minimum fare is Rs 5 for a trip of up to 2km. The bus operator also rounded off fares in multiples of Rs 5, which had been a long-pending demand, to minimise cash handling and return of small change. Flat ticket prices replaced a much-criticised pass-only system that made bus travel expensive for thousands of daily-wage workers and other commuters from economically weaker sections.
+
+TOI spoke to several commuters at Majestic on Tuesday, and most of them gave a thumbs up to the cashless option and flat fares.
+
+Aboard buses, conductors were seen carrying a laminated card with a QR code. Passengers scanned it with their mobile phones to pay for the ticket.
+
+Passengers can use UPI-based payments apps such as Google Pay, PhonePe and Paytm, among others. Each bus will have different QR code. Once the payment is made, the conductor will issue the ticket.
+
+“This (cashless mode) should have been done long ago. We had also demanded that BMTC round off fares. Both measures have been finally implemented because of Covid-19,” said Rajesh Kumar, who regularly travels on BMTC buses. “More people will use BMTC’s services and pay through QR code once AC buses are back.”
+
+Conductors also welcomed the cashless system. “Right now, a limited number of passengers are using it to pay the fare, but slowly, more people will switch from cash. This will end the problem of change,” a conductor said. “Some people give us a Rs 200 note for a Rs 22 fare and expect us to return exact change. This leads to arguments and fights. The QR-code method will help us avoid this. It’s also a good way to avoid cash transactions during a pandemic.” 
+
+BMTC managing director C Shikha, who visited bus terminuses to interact with passengers on Tuesday, said the feedback on cashless ticketing and flat-fare model was encouraging. “We hope the number of cashless transactions goes up after the resumption of AC services,” she said.
+
+BMTC has mapped buses and created a virtual payment address (VPA) for each depot to track cash transactions. “We are also monitoring QR-code transactions in real time through a dashboard,” Shikha said.
+
+

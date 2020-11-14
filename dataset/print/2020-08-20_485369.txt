@@ -1,0 +1,24 @@
+UK scientists decode new children’s disease linked to Covid, explain how it hits immunity
+New Delhi: Researchers in the UK claim to have decoded the “profound” impact a new paediatric illness linked to Covid-19 has on children’s immunity. According to the authors, the new condition appears similar to Kawasaki disease, a rare paediatric inflammatory condition that has reportedly registered a massive jump since the pandemic began, but is actually quite different.
+Known as paediatric inflammatory multisystem syndrome (PIMS-TS) as well as multisystem inflammatory syndrome in children (MIS-C), the new condition has been observed in Covid-affected children. It is known to result in multi-organ dysfunction and inflammatory responses in the body, and can reportedly lead to heart damage.
+The new study was led by researchers from King’s College London and the Evelina London Children’s Hospital, and published in Nature Medicine Tuesday.
+According to the researchers, the condition brings changes in the way the immune system acts.
+In the acute stage MIS-C, the study states, children display raised levels of molecules called cytokines, and reduced levels of white blood cells called lymphocytes. However, by the time the children recover, it adds, the immune system returns to normal. 
+The findings are significant because they may help guide the medical response to Covid-19 cases among children.
+The study involved 25 children with a median age of 12.5 years, most of whom had already recovered from severe Covid-19. The children showed gastrointestinal symptoms and problems in the coronary artery — which is the blood vessel supplying the heart muscle.
+The researchers have cited their small cohort, among other factors, to call for further research in the area.
+Also Read: ‘Psychosocial, educational’ — Covid impact on children could go far beyond health, report says
+PIMS-TS is a new disease that has only been observed with the emergence and spread of Covid-19.
+In a guidance document on PIMS-TS released this May, the Royal College of Paediatrics and Child Health, a professional body representing paediatrics in the UK, noted that although children affected by Covid-19 are usually asymptomatic or mildly symptomatic, many of them develop a significant inflammatory response. 
+Inflammation is the body’s response to tissue injury caused by trauma, infection etc. Such children, the guidance document said, may require paediatric intensive care and may need attention from cardiologists and rheumatologists, among others. 
+According to the researchers, the first cases of PIMS-TS were treated at Evelina Hospital  in mid-April 2020. 
+Dr Manu Shankar-Hari, a consultant in intensive care medicine at Guy’s and St Thomas’ hospitals in the UK who is also associated with King’s College London, said their research “has allowed us to provide the first description of the profound immune system changes in severely ill children with this new illness”. 
+“These immune changes are complex. The innate, otherwise known as the rapidly responding, immune cells are activated. The lymphocytes, a particular type of white cell involved in specific protective immunity, are depleted, but appear to be actively fighting infection,” he added.
+Explaining the difference between PIMS-TS and Kawasaki disease, the researchers said the former is known to affect older children, while the “peak incidence is 1–3 years” of age for the latter. The immunological markers are different too, they added.
+“Clinically, these children respond to treatments that calm the immune system such as corticosteroid and immunoglobulins. Although there are similarities to existing conditions such as Kawasaki disease, these clinical and immunological changes that we observe imply that PIMS-TS is a distinct illness associated with SARS-Co-V-2 infections,” Dr Shankar-Hari said.
+“Immunologically, our MIS-C cohort appears distinct from Kawasaki disease as we did not observe neutrophilia and raised monocyte counts, which are features of Kawasaki disease,” the researchers wrote in the study. 
+Neutrophils and monocytes are both white blood cells that play crucial roles in immunity. 
+Doctors in India told ThePrint that they too had witnessed PIMS-TS cases being recorded in the country.
+“Yes, there are a few cases (of PIMS-TS). They are not published yet, I think, but we have been hearing about it in personal communications with other doctors,” said Dr N.K. Arora, former professor of paediatric gastroenterology, hepatology and nutrition at AIIMS. 
+“Usually, it is after the child tests COVID-negative that these symptoms appear. Initially, people thought it was Kawasaki disease, but then they found it was not exactly the same…” 
+Asked whether the symptoms are reversible, he said, “Covid is a very young disease. Therefore, right now this is a hypothetical question.”

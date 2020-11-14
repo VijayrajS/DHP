@@ -1,0 +1,40 @@
+Virus has mutated into 10 types, one now dominant across regions: Study
+2020-04-28
+MUMBAI: The novel coronavirus, first reported in China in December 2019, has mutated into 10 different types and one of them — A2a — has nearly replaced all the others to become dominant across geographical regions, says a global study by an Indian institute.
+
+
+The study, by Nidhan Biswas and Partha Majumder from the National Institute of Biomedical Genomics in Kalyani, West Bengal, will soon be published in the Indian Journal of Medical Research, a peer-reviewed medical journal published by the Indian Council for Medical Research (ICMR).
+
+
+The novel coronavirus with the A2a mutation is highly efficient in entering human lung cells in larger numbers. The previous SARS-CoV that killed 800 and infected 8,000 people 10 years ago was also adept in entering the lungs, but not as much as A2a. It is efficient in transmission and resultantly, Covid-19 became highly prevalent across all regions, wrote the authors. The study is crucial as it provides vaccine manufacturers with a specific target.
+
+
+ 
+
+
+The 10 types have evolved from the ancestral type ‘O’ over four months. A2a started overtaking other types across the world by March-end. “It has became the dominant type of SARS-CoV2,” said Majumder.
+
+The NIBG researchers used the RNA sequence data shared by Covid-19 researchers from across the world in a public database, GISAID. The team used RNA sequences of 3,600 coronaviruses collected from 55 countries from December 2019 to April 6, 2020.
+
+
+More on Covid-19
+
+
+ 
+  Coronavirus pandemic: Complete Coverage
+  What will stay open and what won't
+  How to quarantine yourself at home
+  Trust the newspaper for your daily verified news
+ 
+The first observation was that the coronavirus has evolved into newer types during its spread within China and the rest of the world. “The coronavirus can be classified into many types --- O, A2, A2a, A3, B, B1, and so on. Currently, there are 11 types, including type O which is the ‘ancestral type’ that originated in Wuhan,” said Majumder, distinguished professor and founding director of the institute.
+
+“To live, a virus must propagate by infecting other animals. A mutation usually disables the virus from transmitting itself,” said Majumder. However, some mutations enable the virus to transmit more efficiently and infect more persons. “Such mutant viruses increase the frequency (of transmission) and sometimes completely replace the original type of the virus. The SARS-CoV2 is doing just that,” he added.
+
+
+
+The coronavirus infection, or Covid, begins in the patient’s throat, then enters his lungs and multiplies, causing breathing difficulties. The scientists said the A2a mutation altered a component of the spike protein (the major protein on the surface) of the coronavirus, allowing it to bind more easily with the surface protein of the lung cell, said Majumder. Covid-19 has emerged as a pandemic because of the A2a type’s ability to transmit easily.
+
+Even though the sample of RNA sequences used from infected persons in India was very small (35), the study showed that A2a accounted for 47.5% of the samples. Interestingly, more persons with type A2a have no known travel history to countries outside India. For any conclusions on whether type A2a is dominant in India, more samples of RNA sequences are required, said the researchers.
+
+The study is important for the fight against Covid-19 --- to develop vaccines and also to determine the presence of co-existence of type A2a with other types in some regions. Studies are required to find out whether the co-existence is because of the ethnic composition of these regions or it’s because of their travel patterns. Researchers at the institute are trying to answer some of these questions.
+

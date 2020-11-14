@@ -15,6 +15,8 @@ pbar = tqdm(total=1)
 
 months = ['', 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August',
             'September', 'October', 'November', 'December']
+corona_terms = ['coronavirus', 'covid', 'n95', 'quarantine', 'lockdown', 'vaccine', 
+                'unlock', 'pandemic', 'wuhan', 'tablighi', 'virus', 'testing', 'travel', 'reopen', 'china']
 
 def date_extract(raw):
     date_list = raw.strip().split()[:3]
@@ -22,6 +24,8 @@ def date_extract(raw):
     month_num = month_num if len(month_num) == 2 else '0' + month_num
     final_date = str(date_list[2]) + '-' + month_num + '-' + str(date_list[1])
     return final_date
+
+from time import sleep
 
 while True:
     pbar.update(1)
@@ -36,6 +40,17 @@ while True:
     for card in card_list:
         # print(card);exit()
         article_link = card.find('a')['href']
+        article_head = card.find_all('a', {'class':'story-card75x1-text'})[0].text
+
+
+        flag = 0
+        for word in article_head.lower().split():
+            if word in corona_terms:
+                flag = 1
+                break
+        if flag == 0:
+            continue
+
         date_raw = card.find('span', class_="dateline").text.replace(',' , '')
         date = date_extract(date_raw)
         print(article_link + ', ' + date)

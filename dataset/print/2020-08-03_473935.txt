@@ -1,0 +1,16 @@
+15 days between diagnosis and death for Covid patients in India, fatality data shows
+New Delhi: How long a person is under treatment for Covid-19, before recovery or death, is a key marker of how soon or late the health system discovers a case.  
+For India, the average time lapse between a case being detected and death seems to be 15 days, which is on a par with the international experience. 
+A comparison of daily new cases and the daily deaths a fortnight later shows almost a perfect correlation with the cumulative case fatality rate (CFR) at the latter date. The cumulative CFR is the total number of deaths as a percentage of total cases in the country.
+Sample this: On 18 July, 38,902 Covid-19 cases were reported and, 15 days later, on 2 August, there were 771 deaths, or 1.9 per cent of the cases reported a fortnight earlier. The cumulative CFR stood at 2.1 per cent on Sunday, 2 August. On 1 August, the 853 deaths reported were 2.4 per cent of the 34,884 new cases reported on 17 July. The CFR on 1 August stood at 2.1 per cent.
+The correlation holds over a substantial period. ThePrint looked at data for the last two weeks and except for one day on 7 July — when the death numbers shot up to 1,129 as Tamil Nadu reconciled casualty numbers — the two graphs remain very closely aligned. In fact, they have been coming closer over time.
+On 18 July, India reported 543 deaths, which was 2.3 per cent of the cases reported on 3 July, 22,771. The cumulative CFR for 18 July stood at 2.49 per cent.
+Also Read: Activists, experts seek all deaths data since 2018 to assess true impact of Covid
+Dr K.S. Reddy, president of the Public Health Foundation of India (PHFI) and member of the ICMR’s Covid-19 task force, said the 15-day period between diagnosis and death is in line with international experience.
+“Daily cases and deaths have risen markedly over the last month. So, the cumulative CFR on any date, which takes into account all cases and deaths that have occurred till that day, is likely to be heavily influenced by the numbers of last one month,” he added. 
+“The cumulative CFR estimates on successive days also appear to correlate well with CFR rates calculated for deaths on each of those dates with the number of cases that were detected 15 days earlier, suggesting an average of 15 days lag time between case detection and death,” he added. “This is consistent with international experience of similar lag times.” 
+Dr Reddy, who is also a member of the executive group of the international steering committee for WHO’s Covid-19 Solidarity Trial, said the “lag times will vary for different patient sub-groups, for example, persons above 70 years of age versus persons in the 50-60 year age group”.  
+“However, the average time lag appears to be around 15 days,” he added.
+India’s cumulative Covid-19 case fatality rate has steadily gone down since April 15 when it was 3.3 per cent to 2.1 per cent Monday.
+The period for which a person is under treatment is a function, among other things, of how soon a case is reported. A real estimate of how long a person is ill before a favourable or an unfavourable outcome, though, can come only from hospital data. 
+An early study from China, published in The Lancet on 30 March, “estimated the mean duration from onset of symptoms to death to be 17·8 days and to hospital discharge to be 24·7 days”.

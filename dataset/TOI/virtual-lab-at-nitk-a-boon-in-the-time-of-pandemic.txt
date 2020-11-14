@@ -1,0 +1,17 @@
+Virtual lab at NITK a boon in the time of pandemic
+2020-04-08
+Mangaluru: The Student Online Laboratory through Virtual Experimentation (SOLVE), the virtual laboratory set up a decade ago at NITK Surathkal, is playing a prominent role at the time of the Covid-19 pandemic. 
+
+The lab is helping colleges in Karnataka, Goa and Kerala to continue their academic activities through e-learning. The speciality of this facility is that it offers experiential learning.
+
+Virtual Labs is an initiative of the ministry of human resource development (MHRD) under the National Mission on Education through Information and Communication Technology (NMEICT). It was set up in 2010. NITK is among 12 institutions to set up their own lab, while others had theirs designed by expert professionals. Among 12 such labs, eight are in IITs. It was set up with the primary objective of experiential learning of the basic concepts in engineering and science. It is available at the learner’s time, pace and place, with the aim to make it easier to conduct experiments, said K V Gangadharan, coordinator for Virtual Labs in NITK.
+
+Gangadharan explained that other education institutions including VTU, Belagavi, have realised that e-learning is handy when a student cannot attend regular classes. “The Virtual Labs have content for all engineering students, which they can access by sitting at their homes,” he added.
+
+Centre for System Design (CSD), NITK Surathkal, is one of the participating institutes engaged in the development, maintenance and outreach of this novel initiative of MHRD, through collaboration with higher educational institutions in the region. It is the only NIT involved in the Virtual Labs project as a participating institute, alongside six IITs, IIIT Hyderabad, College of Engineering Pune and two private universities
+
+While simulation-based labs are set up based on a mathematical base, there are also experiment-based labs, where experiments are conducted and students are given a feel of the data. The third type is the remote lab, where an actual lab is made available to users through any device connected through the internet, like an iPhone, Android device or PC. “Essentially, we are providing a take-home lab where we share costly laboratory equipment through the remote triggered lab infrastructure. It is free of cost,” says Pruthviraj U, a Virtual Labs developer.
+
+Interested students and faculty can log on to: http://rtlabs.nitk.ac.in/?q=page/simulation-labs or http://vlab.co.in/
+
+

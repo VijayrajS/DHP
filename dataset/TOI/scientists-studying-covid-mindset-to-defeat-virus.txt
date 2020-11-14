@@ -1,0 +1,17 @@
+Scientists studying Covid ‘mindset’ to defeat virus
+2020-05-25
+HYDERABAD: Joining the world race to understand the ‘mindset’ of Covid-19, which is wreaking havoc on human lives, Indian scientists have unravelled the genetic secrets of the novel coronavirus circulating in the country. They have found that the isolates obtained from Covid-19 patients in India have a high entropy for changes or mutations in two sets of polyproteins (ORF1a and ORF1b) as compared to the novel-coronaviral strains circulating in other parts of the world.
+
+ 
+
+Two groups of Indian researchers analysed thousands of genomes of Covid-19 to arrive at an understanding of how the coronavirus strains circulating in India behave in the local scenario. As of now about 30,000 Covid-19 viral genomes are available on the world data platform, Global Initiative on Sharing All Influenza Data (GISAID). Of these, one Indian research groups analysed as many as 7,629 genomes of Covid-19.
+
+The research studies were conducted by scientists drawn from the National Institute of Biomedical Genomics (NIBG), National Institute of Virology (NIV), the University of Hyderabad (UoH) and Hamdard Institute of Medical Sciences and Research (HIMSR). The results of the studies will be published in the upcoming issue of the Indian Journal of Medical Research (IJMR), published by the Indian Council of Medical Research (ICMR), the umbrella body of all medical research institutions in India.
+
+The studies revealed that the samples obtained from Indian patients are closely related to those circulating in countries like Spain, China, Kuwait USA, and Canada. As far as the Indian strains are concerned, the scientists found a number of mutations on polyproteins or genes.
+
+“These mutations or changes could be a major contributing factor for the separation of Indian isolate into three distinct clusters. Indian isolates have high entropy for changes in ORF1a and ORF1b compared to global isolates,” the studies revealed.
+
+However, mutation variant of gene (D614G or spike protein) is common across the world. The Indian studies have also revealed that contrary to the popular idea, the spike protein is not subjected to very strong positive selection pressure (change) during transmission.
+
+

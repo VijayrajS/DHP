@@ -1,0 +1,42 @@
+6 months on, this is what Indian doctors have learnt about Covid and its treatment
+New Delhi: Use of experimental drugs with official approval, significant role of steroids, a greater dependence on oxygen therapy than ventilators, and keeping a close watch on non-respiratory symptoms of Covid-19. Doctors treating Covid-19 patients say their experience of the disease over the past six months has taught them different ways to tackle it, and made them more confident in their approach towards it. 
+While the Ministry of Health and Family Welfare’s treatment guidelines have been the same since they were last issued in July, doctors say they are more aware and better equipped to predict the line of treatment to pursue. 
+They understand the disease better (Covid-19 affects far more than just your lungs, say doctors), and even diagnosis (RT-PCR, the “gold standard” for testing, may not always be right). The list of symptoms on the radar has widened too, with Covid-19 also believed to be manifesting in skin rashes.
+Also Read: Researchers smell a rat, say expensive remdesivir getting ‘subtle push’ over HCQ in studies
+One of the most important lessons, say doctors, has been that Covid-19 is a disease of the entire body, and not just lungs.
+“It’s a disease of the body. The heart, the kidneys, the brain and so many more organs are getting affected,” said Dr Kamna Kakkar, senior resident, anaesthesiology, at PGIMS Rohtak, who has been treating Covid-19 patients.
+ “Never underestimate supportive treatment, it works wonders,” she added. “We may lack ‘drugs’, but we do not lack ‘treatment’.”
+Other doctors echo the observation. “It was initially believed that the disease primarily affects the lungs, but, over time, it has been observed that Covid-19 also impacts other organs, including heart and kidney,” said Dr Animesh Arya, senior consultant, respiratory medicine, at New Delhi-based Sri Balaji Action Medical Institute. 
+“Moreover, with the experience, we are now prepared that infection may also cause coagulation or clot formation in the body. Hence, anti-clot-formation or anti-coagulant medications such as Aspirin have come to assume an important role,” Dr Arya added.
+“Also, it is now understood that kids may show Kawasaki disease-like symptoms, which should not be ignored,” said Kakkar. Kawasaki disease is an illness that primarily affects children, causing swelling and redness in blood vessels. It is a common cause of heart diseases in children.
+According to Kakkar, along with known symptoms like fever, sore throat, bodyache, diarrhoea, loss of smell and taste, skin manifestations or rashes may also help in diagnosing Covid-19.
+In women, Covid-19 has also shown changes in the menstrual cycle, she said. 
+Dr Sheetu Singh, assistant professor, Department of Tuberculosis and Chest Medicine, SMS Medical College Jaipur, said even though RT-PCR (real time polymerase chain reaction) tests are the gold standard for Covid-19 diagnosis, the accuracy in hospital settings is only 70 per cent. 
+“CT scans are sensitive to even small pneumonia, so if a patient who we strongly suspect to be Covid-positive turns out negative in RT-PCR, we recommend a CT scan,” she said.
+Also Read: Lift lockdowns, protect the vulnerable, treat Covid like a health issue and not a disaster
+Dr Sushila Kataria, an expert in infectious diseases at Medanta Hospital, Gurgaon, said doctors have “grown wiser with time”. 
+“With this evolution, the role of several therapies has become clear,” added Kataria, who co-headed the team that treated 14 Italian tourists in the initial days of the Covid-19 pandemic in India. 
+The results of several ongoing studies have also come, she added. 
+“For instance: The role of HCQ (hydroxychloroquine) with azithromycin has also crashed with time for the treatment of Covid patients,” she said, referring to a line of therapy that gained some traction as a promising approach to Covid-19.
+ “Instead, the role of steroids, such as dexamethasone, has become solid,” she said. “I had started using steroids much before their power was recognised in Covid,” said Kataria. 
+“However, that time, everyone around me was quite reluctant about my choice of drugs. It was looked at as a very harsh treatment, but now, the role of steroids has become clear for everyone… they play a very critical role in saving life.”
+Also Read: Why residents of Ahmedabad have become sceptical about testing for Covid-19
+The drug tocilizumab, manufactured by pharma giant Roche, remains under research as a treatment for Covid-19, but phase-three trial results have reportedly shown no clinical or mortality benefit.
+However, Arya said, despite the studies that show it’s ineffective, “the drug has been effective in managing cytokine storms”.
+A cytokine storm occurs when the body’s immune system goes into an overdrive, killing healthy cells and causing organ failures. Several studies suggest that the cytokine storm causes lung injury and multi-organ failure.
+Severe Covid-19 cases have been known to result in a cytokine storm, which has emerged as one of the common causes of death in patients.
+“It is important to know which drug should be administered at what time of the disease, for example tociluzimab is given when IL-6 levels (IL-6 is one of the primary mediators of the cytokine storm) are high,” said Arya. 
+Dr Sheetu Singh said while tocilizumab is currently not prescribed in government hospitals in Rajasthan, remedesivir is. However, she added, patients have to buy the drug themselves.  
+“Currently, we are providing supportive treatment to patients, giving them IV fluids, ventilators, and dexamethasone, and convalescent plasma for patients who require it,” she said.
+Also Read: Plasma therapy — 11 trials underway, many Covid ‘cure’ stories but some doubts linger
+The use of anti-HIV drugs, lopinavir and ritonavir, another treatment explored against Covid-19 in the initial days, has also lost favour, say doctors. 
+Doctors say the government’s move to “officially approve” certain drugs and therapies for emergency-use treatment — as opposed to earlier, when much of the therapies were pursued off-label (when a drug is used for conditions other than the one it is approved for) — has helped by boosting availability of experimental drugs such as remdesivir and favipiravir in the market. “Also, plasma therapy can now be used officially,” Kataria said. 
+Singh noted that while plasma therapy is associated with some promise, not everyone is convinced of its efficacy.
+“Convalescent plasma therapy has shown good results for some patients and has not shown good results in others,” she said. “We are prescribing convalescent plasma for serious patients and those with comorbidities.” 
+Kataria added that the role of ventilators has diminished as well, with doctors turning to oxygen therapy, which should be administered “early as the symptoms crop up”.
+Ventilators are machines that take over a patient’s breathing when respiratory issues reach a certain level of severity. Invasive ventilators require tubes to be inserted into the lungs of a patient through the throat — a process called intubation. Oxygen therapy, meanwhile, is a non-invasive procedure where oxygen is supplied through a face mask or through a nasal cannula or tube.  
+As mentioned earlier, the role of anti-coagulants has also gained importance. “Anti-coagulants are prescribed in patients with mild and severe disease and with low risk of internal bleeding,” Arya said. 
+In this light, doctors have found an early and helpful marker in D-Dimer — a small protein fragment useful to detect clotting — to improve management of Covid-19 patients. If the D-Dimer levels are high, it means there is clot formation and doctors have to prescribe anti-coagulants.
+According to a study published in June, patients with a higher level of D-Dimer have a higher risk of mortality.
+Also Read: Delhi dad returned home last week after Covid treatment. Today his family buried him
+ 

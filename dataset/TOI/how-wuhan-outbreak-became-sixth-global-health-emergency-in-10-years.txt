@@ -1,0 +1,36 @@
+Learning with the Times: How Wuhan outbreak became sixth global health emergency in 10 years
+2020-02-05
+NEW DELHI: The World Health Organisation (WHO) has declared the coronavirus outbreak in China’s Wuhan a global health emergency. More than 20,000 cases of the disease have been confirmed in little more than a month after the first case was confirmed on December 31 last year. Apart from the human toll, the disease is a concern because similar outbreaks in the past have extracted a significant economic cost. Kenneth Mohanty explains what a global health emergency is and why the 2019-nCoV, as the Wuhan virus is being called, has received this tag
+
+ 
+ 
+
+
+
+Why is 2019-nCoV a global public health emergency?
+A public health emergency of international concern, or PHEIC, which is what the 2019-nCoV has been declared to be by WHO, is defined as “an extraordinary event which is determined to constitute a public health risk to other states through the international spread of disease and to potentially require a coordinated international response”. The International Health Regulations (IHR 2005), under which a PHEIC is declared, was enacted in 2007. When a PHEIC is declared, WHO helps coordinate an urgent response with the affected country and the international community. While WHO notes that circumstances that lead to a PHEIC declaration can extend beyond communicable diseases, the six times that PHEIC declarations have been made were all due to communicable diseases:
+
+ 
+ 
+
+ 
+ 
+
+
+What happens in a PHEIC? Why is the Wuhan outbreak called a ‘novel’ coronavirus?
+IHR is an agreement between 196 countries and, as an international treaty, is legally binding and all countries must report events of international public health importance. Under IHR, all countries should be able to detect a potential threat, assess its gravity, report its occurrence, and respond adequately to it. It also lays down specific measures countries can take at ports, airports and ground crossings to limit the spread of health risks across borders. But a 2018 article in the BMJ Global Health journal echoed a WHO finding that only about a third of the countries have the ability to satisfactorily assess, detect, and respond to such emergencies. WHO said the key factor behind the global emergency tag for 2019-nCoV is “not what is happening in China but what is happening in other countries” with the concern that it could spread to countries with weaker health systems.
+
+ 
+ 
+
+It is especially important to note in this regard that the Wuhan outbreak is being called a novel coronavirus as it is a new strain that has not been previously identified in humans. Although it is from the same family of viruses as Severe Acute Respiratory Syndrome, or SARS, it is not the same virus.
+
+
+Is this the first time a coronavirus has been designated a global public health emergency? What was the case with Nipah in Kerala?
+While coronaviruses are nothing new, the 2019-nCoV is the first coronavirus to get a PHEIC designation. You see, coronaviruses are a large family of viruses, some causing illness in people and others that circulate among animals. Three major coronavirus cases — SARS in 2003, MERS in 20112, nCoV 2019 — have all been traced to bats but are understood to have jumped to humans from an intermediary animal, civet cats and camels, for SARS and MERS, respectively. The 2019-nCoV is said to have originated in a seafood and animal market but what the intermediary animal may be has not been established yet.
+
+Nipah virus, which struck Kerala in 2018, too, arose from bats, but is not a coronavirus infection even though respiratory trouble is one of the symptoms. In fact, several viruses carried by bats can cause disease in humans and the coronavirus is just one of them. The Kerala Nipah outbreak killed 17 of the total 19 people afflicted with a fatality rate of 89%. WHO was notified within a month of the first death and notes that no new cases or deaths were reported since June 2018 and humanto-human transmission of Nipah virus was contained in Kerala.
+
+
+What is the economic impact of a disease outbreak?A 2017 paper published by US National Library of Medicine estimated that the expected losses from pandemic risk stood at about $500 billion per year, taking into account both lost income and the health impact. The total global economic cost of the 2003 SARS outbreak was estimated at $40 billion. It is well-established that disease outbreaks have a slowingdown effect on the economy. Travel and trade restrictions in the wake of the outbreak have already caused big losses to businesses and Bloomberg reported that China may cut its economic growth expectations for 2020 due to the coronavirus outbreak with JPMorgan slashing quarterly growth estimates to 4.9% from 6.3%. Why a slowing China is worse for the global economy today than when the SARS outbreak, which too took a substantial economic toll, is because China now accounts for about a third of global growth, a larger share than the US, Europe and Japan combined, Financial Times said.
+

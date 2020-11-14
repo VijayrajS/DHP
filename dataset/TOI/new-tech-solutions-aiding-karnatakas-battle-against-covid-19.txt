@@ -1,0 +1,23 @@
+New tech solutions aiding Karnataka’s battle against Covid-19
+2020-05-17
+BENGALURU: The Karnataka State Disaster Management Authority (KSDMA) has developed three technology solutions to tackle the coronavirus crisis.
+
+They are: a unified Covid-19 portal, a real-time data collection and monitoring tool, and a ‘crowdsourcing monitoring’ tool for private medical establishments and pharmacies for proactive reporting of cases of influenza-like illness (ILI) and severe acute respiratory infection (SARI).
+
+Manoj Rajan, commissioner, disaster management authority said the unified portal, covid19.karnataka.gov.in, had consolidated all information related to the outbreak in one place. It contains statistics, fake-news busters, messages, mobile apps, helpline numbers, analysis by the state war room and details about clinical centres.
+
+This portal has a dashboard, which provides analyses of data on positive, discharged and deceased patients along with travel history. It gets periodic updates from the health, information and public relations departments, disaster management authority, and war room.
+
+The government has devised a real-time data collection framework, through which information indexed at district, town, panchayat, village and ward levels can be collated and analysed. This deciphering of real-time data helps in making quick decisions in the battle against coronavirus.
+
+The Covid monitoring tool registers patient data at various levels, keeping a track of treatment cycles of those who visited fever clinics, quarantine centres, supervised isolation centres and Covid hospitals, test results, and home quarantine cases.
+
+In addition to tests and treatment information, consumables, health-case inventory, beds, status and availability of critical equipment such as ventilators and PPEs are also tracked.
+
+The crowdsourcing monitoring tool facilitates instant information gathering from 22,800 private medical establishments and over 41,000 drugs stores. “This will help us capture ILI and SARI cases in the state,” Rajan said. “Private medical establishments can log in and report the cases they have treated in the day. This information lead to easy follow-up and tracing of suspect cases.”
+
+Drug and pharmacy stores can also use the system to provide details of people buying medicines for flu or cough, so that suspected cases of ILI and SARI can may be proactively traced and treated before complications occur.
+
+Meanwhile, monitoring and mapping of migrant workers’ data is being done using a different app. 
+
+

@@ -1,0 +1,24 @@
+Surat: Escaping CCTVs to flout Covid-19 rules also gets tougher
+2020-05-25
+SURAT: Those managing to escape the watchful CCTV eyes to flout social distancing or avoiding masks will find it difficult to get away now! 
+
+
+An artificial intelligence-based software designed by a 21-year-old techno-savvy computer student from the city can help authorities track compliance of Covid-19 guidelines at public places more effectively.
+
+ 
+
+Ankush Chaudhari, who is pursuing computer science from Vellore Institute of Technology (VIT), has designed this social distancing analyzer that can be deployed on the CCTV surveillance system to get the analytics of the areas in real time.
+
+Ankush’s model which can measure the separation between people going on foot and in public areas. The software can secretly identify and label the persons keeping safe distances, while highlighting cases in red boxes where the social distancing is disregarded.
+
+This AI software could be very useful during the current times when the government has relaxed lockdown rules and that people are back to their normal lives. As a result many shops, malls and other public places have opened, but it’s a daunting task to keep tab on the individuals not following social distancing and roaming around without wearing face masks.
+
+“I was sitting idle at home for last two months due to lockdown. I thought of developing the AI software for social distancing with real-time analytics. Starting from the prototype, I have developed three latest versions of the software to help shop owners to regulate customers, companies to monitor employees at workplaces and help police to ensure people are following social distancing protocols and wearing face masks,” Ankush told TOI.
+
+According to Ankush, the AI software can generate real-time analytics such as number of people in a particular area or shop, number of people at high-risk due to social distancing violation, extent of risk to a person, automatic masked and non-masked face detection etc.
+
+Ankush added, “This software doesn’t collect any data of a particular person. It stores and analyses the video output for review and can been deployed on CCTV cameras and drones.”
+
+Ankush said, “I am in talks with the Maharashtra government to deploy the software on the CCTV surveillance system in Mumbai.”
+
+

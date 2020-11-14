@@ -1,0 +1,12 @@
+ICICI e-platform to aid virus-hit business
+2020-03-18
+MUMBAI: ICICI Bank has hastened the launch of digital platform ICICIStack, which will allow businesses to access 500 services from home. The bank said with the new platform, business customers can improve productivity even when they are away from office amid social distancing due to the Covid-19 pandemic.
+
+
+The platform comprises both banking services and application programme interfaces (APIs). The platforms consist of the accounts stack, loans stack, investment stack and insurance stack. The account stack enables instant opening of various accounts in the bank including instantly available salary account, current account, travel card, bill pay solutions. The bank will allow customers to directly plug-in with their ERP software for account management and digital on-boarding of partners 
+
+“In the recent tie-ups with payment fintechs too, it was the wide array of services, APIs and volume handling capability available within the ‘ICICI Stack’ that enabled quick integrations overnight. We believe that in these challenging times, ‘ICICIStack’ is well poised and committed to supporting customers for all their banking requirements,” said Anup Bagchi, ED, ICICI Bank.
+
+Bagchi said the digital platform was already on the works, however the bank decided to hasten the launch given the current environment requiring businesses to facilitate work from home.
+
+

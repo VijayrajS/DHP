@@ -1,0 +1,25 @@
+GST officers process 10,077 new registrations, 7,876 refund applications in 10 days of lockdown
+2020-04-05
+NEW DELHI: GST Network on Sunday said tax officers have processed over 10,000 new registrations and about 8,000 refund applications in the first 10 days of lockdown till April 3, working through Virtual Private Network (VPN).
+
+
+In a statement, the Goods and Services Tax Network (GSTN) said it has enabled tax officers of different states and union territories (UTs) to access their office during the lockdown period, and is providing secured access to the office network on request.
+
+Till March 31, 2020, GSTN had enabled 1,748 tax officers from 18 states/UTs to access office through VPN, a secure way to access office network.
+
+This is in addition to the three hill states which already connect to the GST System using VPN.
+
+"A total number of 20,273 registration-related cases were processed during the first 10 days of lockdown, i.e. from March 25 to April 3, 2020. This includes 10,077 cases of new registration, 3,377 cases of core amendment, 3,784 cases of cancellation by application, 1,966 cases of cancellation by suo moto and 1,069 cases of revocation," GSTN said.
+
+"Similarly, 7,876 cases of refund were also processed during the period," it added.
+
+The government announced a 21-day nationwide lockdown, beginning March 25, to contain the spread of coronavirus.
+
+Apart from 1.23 crore taxpayers, GSTN provides technology services to 29 states/UTs for implementation of GST.
+
+For these states and UTs, GSTN provides back-office applications like processing of registration application, processing of refund applications, audit, assessment, appeal, among others, for all their tax officers, which is different from the front-end interface used by the taxpayer -- GST portal.
+
+Soon after the lockdown was announced, GSTN offered secured access to all these states to enable their officers to work remotely.
+
+"VPN is helping officers to avoid the backlog which could have happened if the cases were not processed during the lockdown. With the provision of auto-approval of applications, if not processed by the tax officer in a time-bound manner, the officers want them to do it manually to avoid any future complication," GSTN said.
+

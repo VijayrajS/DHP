@@ -1,0 +1,17 @@
+Study predicts 27,000 Covid-19 cases in Gujarat in June
+2020-06-04
+AHMEDABAD: A predictive computational time series model for Covid-19 epidemic has forecast that by the end of June this year Gujarat will see 27,120 cases and 15,137 active cases. Researchers from the International Institute for Population Sciences (IIPS), Mumbai claim that the projections were made using the Autoregressive Integrated Moving Average (ARIMA) time-series model from data obtained till May 3. Their ARIMA model had claimed that by May 31 Gujarat may see 15,900 cases. The actual figure released by the Gujarat government on that day was 16,343 cases. 
+
+
+The IIPS researchers selected 17 states that had least 100 confirmed cases till May 3. The study has suggested that the number of Covid-19 patients will be high in June; and hence the number of beds required in June will be high. The research says that by June end, India has to prepare 1.06 lakh isolation beds to accommodate patients. Gujarat will require 12,867 isolation beds, Maharashtra will require 40,128 isolation beds, Punjab will require 31,186 isolation beds and Delhi will require 16,418 isolation beds, the study states.
+
+
+
+The IIPS researchers, Rishabh Tyagi, Mahadev Bramhankar, Mohit Pandey, M Kishore claim that by the end of June, Kerala and Odisha will be having less than 1,000 confirmed cases based on projections from data till May 3. However, Maharashtra will have 58,330 cases, Punjab 42,041 cases and Delhi 24,372 cases,while Gujarat will have 27,120 cases at the end of June.
+
+By the end of June, the study estimates, that there will be 1.24 lakh active cases. While states like Maharashtra will have 47,209 active cases, Punjab will have 36,690 active cases, Delhi will have 19,315 active cases and Gujarat will have 15,137 active cases. The states will face a high burden of active cases in June end , the study estimates.
+
+But the study warns that the forecast of cases was done based on the data received during the countrywide lockdown. 
+
+“The forecast assumes cases in future will be showing the same trend if India observes complete lockdown. But since May 4, India is observing partial lockdown, and which might be removed in the coming time so that actual cases will be more than the forecast cases,” the study claims. 
+

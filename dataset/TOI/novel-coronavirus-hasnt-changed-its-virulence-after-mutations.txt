@@ -1,0 +1,36 @@
+‘Novel coronavirus hasn’t changed its virulence after mutations’
+2020-03-24
+It got worse with each passing month. In just over 100 days, the novel coronavirus (SARS-CoV-2) has been responsible for 14,700 deaths and over 3,00,000 infections worldwide. In terms of economics, experts say the virus has changed the world permanently.
+
+
+Sreejith Rajasekharan, an Arturo-Falaschi ICGEB Post-doctoral Fellow at the Laboratory of Molecular Virology — part of the International Centre for Genetic Engineering and Biotechnology (ICGEB) in Trieste — is part of a team that recently isolated and sequenced SARS-CoV-2 in Italy. In an interview with TOI, he explains the latest results from investigations into the new coronavirus.
+
+Q) Many compare the new coronavirus with the pathogen responsible for the H1N1 outbreak from 2009. Are they the same? 
+
+A) The H1N1/09, also known as the swine flu virus, is not the same as SARS-CoV-2. The viruses belong to two different families and differ in structure and genome organisation. However, both viruses are airborne, transmitted through droplet infection either directly, or through fomites, to cause respiratory illness. SARS-CoV-2 is of course virulent. But the seasonal flu (Influenza virus) is responsible for more deaths every year. Then again, scientists have studied seasonal flu for decades and we know what to expect each season. Very little is known about SARS-CoV-2.
+
+Q) SARS-CoV-2 seems to be affecting both the upper and lower respiratory tracts… 
+
+A) Yes, observations so far support the fact that SARS-CoV-2 can affect both the upper and lower respiratory tracts. Scientists are yet to understand how it has been able to replicate in both these sites. 
+
+Q) Did SARS and MERS affect both the upper and lower respiratory systems as well? 
+
+A) In humans, both SARS and MERS primarily affected the lower respiratory tract. Involvement of the upper respiratory tract is uncommon and when seen, it’s very mild. This is especially true in the case of MERS in which the receptor for the virus is not expressed in the upper respiratory tract of humans. That's why there is restricted transmission. There were reports of the SARS virus replicating in the upper respiratory tract. But the severity of the disease is tied to the virus infection in the lower respiratory tract.
+
+Q) What are the most dangerous characteristics of the new virus?
+
+A) Well, one of them of course is its airborne nature and the ability to be transmitted between humans directly or through fomites without an intermediate vector. Then there is the recent observation that the new virus can infect both upper and lower respiratory tracts. Viruses that only replicate in the upper respiratory tract cause mild infections, but spread easily. In contrast, the ones that infect the lower respiratory tract cause severe infections. But they are not as contagious as the former. The ability of SARS-CoV-2 to replicate in both sites helps it enter a population and spread in stealth mode. By the time the first infected person starts showing signs of illness (observed to be on an average a fortnight from day of infection), the virus has already made an impact in that population and has most likely entered a new population. The elderly are severely impacted because their immune systems have grown weak with age. 
+
+Q) Is this virus mutating? Will it acquire ways to become more virulent?
+
+A) Theoretically, the virus mutates every time it replicates. This is common for all viruses. More than a hundred mutations have been documented for SARS-CoV-2 since the start of the pandemic. I am part of a team that recently isolated and sequenced SARS-CoV-2 here in Italy. Our isolates are different from the ones sequenced in China. None of these mutations have been drastic enough to change the virulence of the virus. These mutations occur at random; we cannot predict the consequences. About re-emergence in the following winter, evidence suggests the new coronavirus is not affected by seasonal changes. It is winter now in the northern hemisphere, but it's summer in most of the southern hemisphere. Covid-19 cases are being reported in Latin America, South Africa, Australia and New Zealand as well. 
+
+Q) Do you think the new coronavirus will become a dominant, ever-present strain over the next few years?
+
+A) Unfortunately, the answer is yes. It is highly likely. However, if there is a second outbreak in future, we will not be caught off-guard. There are vaccines that are being developed. Research is being carried out to study the virus biology. The more we know, the better equipped we will be. 
+
+Q) What does this mean to citizens? Should we continue social distancing through the coming months until there is a viable vaccine or a treatment protocol?
+
+A) Social distancing is the only way we can control the spread. Look at what has happened in Italy. From a handful of cases in Rome towards the end of February, there are today almost 60,000 positive cases and 6,000 deaths, all within less than a month. We cannot behave irrationally, hoping that a vaccine or a treatment will be developed soon. Of course, vaccines have reached the human trials stage. But by the time it is mass produced, the virus would've run through us if left unchecked. Healthy, young people should not take this outbreak lightly, just because it doesn’t pose a direct threat to them. They can still act as carriers and transmit it to someone whose body might not be able to fight the virus. 
+
+

@@ -1,0 +1,23 @@
+With test kits fast running out of stock, Karnataka decides on pool-sample testing
+2020-05-13
+BENGALURU: Faced with the dual challenge of scaling up daily tests for Covid-19 and depleting stocks of RT-PCR testing kits, the Karnataka government has started pool-sample testing in places where less than 2% of throat swab samples collected have turned positive. 
+
+
+Karnataka currently has 55,000 RT-PCR kits. Having used 22,996 kits in the last five days, its current stock may not last more than 15 days, sources in the know said.
+
+Under pool-sample testing, the labs, instead of testing each and every sample, test five at a time by taking one drop from each of them. 
+
+“Pool-sample testing can be done in places where infection prevalence is less than 2%. It cannot be done on all the samples collected from everywhere. This way we are not only able to speed up testing, but also use the testing kits appropriately,” said Dr CN Manjunath, nodal officer, labs and testing, Covid-19 taskforce of Karnataka. 
+
+Nasal and throat swab samples are collected from an individual being tested and placed in a liquid medium in a tube. One drop each from five tubes of samples (from the same geographical area) is pooled and tested. 
+
+“If the pool sample turns out negative, then there is no need to test the five samples individually. If it tests positive, then all five samples get tested. This way Karnataka is saving a minimum 1,200 testing kits or 15-20% of the total tests done daily,” said Dr Manjunath, adding that other states with huge case burden too have adopted this method.
+
+“We have been pool-sample testing for 10 days now. We noticed that 200-300 consecutive tests were turning out negative and a lot of effort was going waste. Karnataka has tested 1,11,595 samples and its positivity rate has only been 0.8%,” said Dr Manjunath. 
+
+Karnataka currently has 35 labs testing Covid-19 samples. Pool-sample testing is now mostly being done in government labs in Bengaluru, Hassan, Mysuru and Belagavi.
+
+“The 2% prevalence cap appears arbitrary. Going by this, pool-sample testing can be generously done everywhere in Karnataka. However, it’s not being done wherever we are seeing a spurt in cases, for instance in Belagavi and Bagalkot,” said Dr Manjunath.
+
+A feasibility study of pool-sample testing was conducted at DHR/ICMR Virus Research & Diagnostic Laboratory (VRDL) at King George’s Medical University (KGMU), Lucknow, following which the Union health ministry issued guidelines for the method. 
+

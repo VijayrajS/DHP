@@ -1,0 +1,19 @@
+Kerala: Pandemic a boon for cyber criminals
+2020-05-10
+THIRUVANANTHAPURAM: “Good morning my friend. I represent a group from Iran. A few hours ago my team put a virus on the porn website that you were surfing. As soon as you clicked on a play button in your system, the camera in your system has been activated that have captured the images of you self-abusing. If you want to keep us silent, you must make a transaction of 260 dollars with bitcoin to the account...”
+
+
+The recipient of this threatening email was a 19-year-old student in Kochi and his was one among the 15 panic calls received by state police’s Cyberdome during the Covid-19 lockdown. A detailed probe into these instances revealed that the hackers have been targeting those using porn website to activate their webcams using a malware when they clicked the play buttons, and then used the cameras to film the user in compromising positions which is then used to threaten him or her.
+
+“But there are several indications that this is nothing more than a phishing scam, trying to extort those visiting porn websites by blackmailing them. No formal complaints have been reported to police in this regard,” said ADGP (administration) Manoj Abraham, who is also in charge of Cyberdome, the advanced cyber security wing of the state police.
+
+With the countries going on lockdown and most of the people confined to their houses, the number of persons using porn website also have steeply increased. The hackers and internet criminals are also up with innovative methods to capitalise on Covid-19 lockdown.
+
+Hospitals, medical centres and healthcare institutions are being targeted by cybercriminals for ransomware attacks during the time of Covid-19, as the criminals believe they are likely to pay the ransom, the Cyberdome has found.
+
+Two hospitals and three diagnostic centres have reported ransomware attacks in the state, which appeared in the name of Covid-19 guidelines. Fortunately, they had backed up their data, because of which the attack did not affect their functioning. Cybercriminals are creating thousands of new sites every day to carry out spam campaigns, phishing or to spread malware, using coronavirus, Covid-19 etc as the keywords. Malware, spyware and Trojans have been found embedded in interactive coronavirus maps and websites, tricking the users into clicking on links which download malware to their computers or mobile devices, the Cyberdome has found.
+
+Earlier, the countering child sex exploitation (CCSE) team formed under the direct control of state police chief Loknath Behera had collected the details of as many as 150 individuals involved in sharing of child porn material. Several WhatsApp and Telegram groups sharing such material have also been busted. Cyberdome’s figures had found that the number of surfers hitting the child porn websites during the lockdown period had doubled from around 600 hits per hour to 1,200-1,300 per hour.
+
+Also, there has been some phishing emails sent to friends, subordinates and co-workers of senior government officials, asking them to buy gift cards online on behalf of the officer, since the “officer is busy with Covid-19 duties” and the money would be reimbursed later.
+

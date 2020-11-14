@@ -1,0 +1,13 @@
+IIT-Roorkee develops low cost ventilator for Covid-19 patients
+2020-04-03
+Roorkee: IIT Roorkee has claimed to have developed a low-cost portable ventilator that can be used for Covid-19 patients. The closed-loop ventilator, named “Prana-Vayu”, has been developed in collaboration with AIIMS Rishikesh and is equipped with state-of-the-art features, the institute claimed.
+
+
+Officials said that the ventilator will be useful in cases where patients suffer from congestion in respiratory tract. Major features of this ventilator include — remote monitoring by health professionals, touch screen control of all operating parameters, and moisture and temperature control for inhaled air. The prototype of the ventilator (approximately 1.5 feet X 1.5 feet) has been tested successfully as per the institute..
+
+"Prana-Vayu has been designed especially for Covid-19 pandemic. It is low-cost, safe, reliable, and can be manufactured quickly. It can be used for all patients, be it infants or overweight adults,” said Akshay Dwivedi, Tinkering Laboratory coordinator of IIT-R, who was part of the research team which also included IIT-R professor Arup Kumar Das.
+
+He added that the ventilator does not require compressed air for functioning and can be especially useful in cases when hospital wards or open areas are converted into ICUs. The cost of manufacturing such a ventilator is estimated to be around Rs 25,000.
+
+“It is heartening that several firms have approached us for mass production of such ventilators,” said Ajit K Chaturvedi, IIT-R director.
+

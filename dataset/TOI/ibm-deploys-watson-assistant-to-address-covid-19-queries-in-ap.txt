@@ -1,0 +1,15 @@
+IBM deploys Watson Assistant to address Covid-19 queries in AP
+2020-06-05
+Hyderabad: Tech major IBM on Thursday said it has joined hands with the government of Andhra Pradesh to create a virtual agent to share information related to Covid-19 response efforts with citizens on the AP National Health Mission portal of the state’s department of health, medical and family welfare.
+
+The IBM Watson virtual agent, called Watson Assistant for Citizens, on the IBM public cloud understands and responds to common queries on Covid-19 in English, Telugu and Hindi.
+
+IBM said the Watson Assistant for Citizens combines its Watson Assistant, Natural Language Processing capabilities from IBM Research, and the AI search capabilities of Watson Discovery.
+
+“The virtual agent can directly address questions covering more than 30 topics or intents. With the enterprise AI search capabilities of Watson Discovery, it can understand and respond to a much larger number of queries,” said Prativa Mohapatra, VP-sales, IBM India/South Asia.
+
+“If it does not have the answers it redirects the citizen to specific information on the portal or to other websites of related ministries and official bodies,” she said, adding that the virtual agent is deployed in a web browser and is built in a way that it safeguards the privacy of the users.
+
+“The objective of this type of advanced technologies (chatbots or virtual agents) is to help reduce the waiting times for calls that users make to the telephone lines of state services relating to the novel coronavirus,” she said.
+
+

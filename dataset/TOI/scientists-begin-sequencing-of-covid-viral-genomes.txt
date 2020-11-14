@@ -1,0 +1,23 @@
+Scientists begin sequencing of Covid viral genomes
+2020-04-26
+Nagpur: To win the fight against the global pandemic of Covid-19, it is vital to have adequate information about the virus. To do so, the Council of Scientific and Industrial Research (CSIR) has launched a ‘SEQ-Mission’ which aims to sequence over 500 Covid viral genomes.
+
+Covid-19 is caused by coronavirus which has RNA (ribonucleic acid) as its genetic material and not DNA. According to scientists, the virus is pathogenic as it has some commands in its RNA that lets it attach to the humans.
+
+By using the technique of sequencing, it becomes possible to read the commands on a genome which is the complete set of genes of a living entity. Atya Kapley, senior principal scientist at the National Environmental Engineering Research Institute (Neeri) which is a constituent laboratory of CSIR, compiled the process of the SEQ-Mission.
+
+The compilation states that the genome sequencing will provide the blueprint of the virus and help design better systems for clinical care. “The SEQ-Mission will focus on sequencing the viral genome from samples taken from all parts of the country. The larger the number of samples, the easier will it be to understand the pathogenesis,” it stated.
+
+Kapley informed that 28 Covid virus genomes from the country have already been sequenced. “CSIR plans to do 500 in 4 weeks. These are viral samples from different positive patients. So if we do pan India we can see more clearly as to what kind of strains are infecting us,” she added.
+
+The scientist further said that the sequencing will be done in-house at CSIR-IGIB (Delhi) and CSIR-CCMB (Hyderabad). Both the institutes claim to have the necessary sequencing facilities.
+
+Highlighting the need to study more samples to combat the disease, the compilation stated, “Just like the human genome project where it was necessary to sequence all races and communities to understand the overlap in our DNA as well as the unique features of each race, the same is needed in the case of Covid. It will help scientists understand why some are more susceptible to different diseases, why some are protected etc. Similarly, we need to sequence the virus across different regions of the world to understand variants, or we will not be able to design foolproof drugs and understand how the virus is binding to human receptors.”
+
+Stating that mutations have been found to be common in the SARS-CoV-2 genome (the coronavirus that caused Covid-19), the compilation added that the expression of its protein is linked with host-pathogenic interactions. Mutations are changes from the original sequence.
+
+“These clinical findings are important for understanding multiple outbreaks that occurred in different populations. There are three major known lineages (Lineages A-B-C) for beta-corona virus and SARS-CoV-2 belongs to lineage-B. These findings were possible from multiple sequencing and are still under investigation for respiratory infection, gastrointestinal and CNS infection in many patients. Thus, it is advisable to include multiple sequences and samples as India holds second rank in the world population,” it stated.
+
+Highlighting the major advantages of sequencing the viral genome, Kapley said, “The most critical outcome of the sequencing exercise is that it will reveal the genetic codes for viral pathogenesis and its life cycle, its variants and its drugs binding patterns. All these are essential questions that need answers if we are to fight this pandemic and win.”
+
+

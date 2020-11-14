@@ -1,0 +1,41 @@
+Hackers use corona lockdown to target remote workers
+2020-04-04
+As the novel coronavirus continues to spread across the world, hackers are using this crisis to gain access to sensitive and personal information. If you are working from home, you could be at risk too, without your company's cyber security and firewalls to protect you. Recently, the Delhi Police shared an advisory, informing people how cybercriminals are exploiting COVID-19 fear. Aneesh Roy, DCP, Cybercrime, Delhi Police says, "We have issued the advisory as a precaution. If people are aware and just keep some basic security steps in mind like keeping a strong password, an updated anti-virus system, sharing sensitive information only after verifying credentials, etc, they'll be safe."
+
+
+Stay safe online while working from home -  
+Aneesh Roy, DCP, Cyber Crime, Delhi Police, shares some tips with us:
+
+
+Beware of too-good-to-be-true data pack offers:
+If you are working from home, you are bound to use more data. Hackers have found a way to exploit it. The number of spam text and WhatsApp messages with data pack offers have increased. These messages often have shortened URL. Any shortened URL should be seen with suspicion.
+
+
+
+Use popular, trusted apps:
+If you have to use a video calling or conference calling app for meeting, ensure you are using a safe app. It is important to check the credentials of the app. Go for trusted options used by renowned companies.
+
+
+
+Be cautious while sharing your screen:
+You should be cautious of impersonators, using emails of colleagues to gain access to your screen. Before approving screen-sharing, crosscheck the details of the person. Switch on the ‘do not disturb’ option if it’s Mac and ‘no notifications’ option if it is Windows to maintain privacy. Close all tabs with personal info.
+
+
+
+Use a strong password and updated anti-virus
+There are a few basic steps which people often ignore. If they are accessing corporate data from laptops and PCs, they should ensure that their system has updated anti-virus and a strong password.
+
+
+
+Watch out for scams when looking for corona-related info:
+You may have noticed a surge in emails related to COVID-19 in your inbox. These emails could have malicious attachments in the form of PDF files. Unless the email is from a trusted website, do not open the link. Hackers have cashed in on the surge in search regarding COVID-19 and created fake information domains. The Delhi Police has shared a list of such domains. 
+
+
+
+What to do if you’re a victim of cyber fraud:
+1. Report the crime at 
+cybercrime.gov.in. The complaint is then transferred to your district police. They will get in touch with you, or you can contact them.
+2. If your bank account or your card has been compromised, block the account first.
+
+
+

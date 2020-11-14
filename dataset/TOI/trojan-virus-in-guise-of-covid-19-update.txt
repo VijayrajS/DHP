@@ -1,0 +1,20 @@
+Trojan virus in guise of Covid-19 update
+2020-06-02
+AURANGABAD: Banking institutions have warned customers against a Trojan virus called Cerberus which looks like a legitimate software providing updates on Covid-19, but actually is a malicious software that helps in stealing, damaging and disrupting data or network.
+
+
+In an advisory issued to account holders, banks have cited an alert from the Central Bureau of Investigation (CBI) and asked for the utmost caution. Trojan is a type of malicious code or software that looks genuine but with the capability of taking control of one's computer or phone
+
+“The CBI has alerted about the malicious software- Cerberus – which can infect mobile phones and steal data. Cerberus is a type of malicious software that looks legitimate,” Bank of Maharashtra (BoM), a public sector bank, has said to its customers in the latest communication. 
+
+The malicious software contacts smartphone users via text messages and asks users to click on a link providing Covid-19 updates. 
+
+“When clicked, the link installs a malicious application on the users’ phone, which extracts sensitive financial data. The trojan can also use overlay attacks to trick victims into providing personal information and can capture two-factor authentication details,” BoM has said.
+
+An overlay attack happens when an attacker places a window over a legitimate application on the device. The trojan virus has the ability to take screenshots, hijack messages, steal contact lists and account credentials among other things.
+
+“Do not download and install applications from untrusted sources. Install applications from reputed application market. Verify app permissions and grant only those permissions which have relevant context,” as per an advisory.
+
+In mobile settings, customers are advised not to enable an installation app from ‘untrusted sources’. Also, customers are asked to avoid using unsecured, unknown Wi-Fi network. 
+
+

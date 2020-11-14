@@ -1,0 +1,25 @@
+Spike protein of Indian strain of novel coronavirus undergoes unique mutation
+2020-04-03
+PUNE: Scientists tracking changes in the genetic makeup of the novel coronavirus at the Pune-based National Institute of Virology (NIV) have noticed point mutations at the sites of its 'spike' protein - a key protein that the virus uses to invade human cells. 
+
+The role of these mutations, researchers say, can be fully understood after tracking the virus's structural changes over a period of time.
+
+ 
+The genetic make-up (sequences) of Indian SARS-CoV-2 though not 100% identical has showed 99.98% similarities with the Wuhan strain.
+"So far, it is observed that all the genomes gathered from different countries share 99%-99.90% similarity with Wuhan (SARS-CoV2) genome. However, each genome has unique point mutations. The mutations seen in the Indian strain of the virus have minor changes at the sites of spike proteins which is not seen in the genomes of the virus studied in other countries," NIV's lead researchers Pragya Yadav and Sarah Cherian told TOI.
+
+NIV director Priya Abraham said such genetic variations have been noticed in strains from other countries as well and in the strain circulating within the country.
+“However, specifically monitoring mutations in the spike protein, a key protein that the virus uses to enter human cells, is important," she added.
+
+In a recent research publication in the Indian Journal of Medical Research on March 27, the NIV researchers have analyzed the genomes of the first two Indian SARS-CoV-2 viruses from two confirmed positive cases with a travel history from Wuhan in January 2020. 
+
+NIV researchers studying the virus have performed an integrated sequence-based analysis of SARS-CoV2 (2019 virus) genomes from different geographical locations in order to identify its unique features.
+"Some features like these point mutations are unique to this virus strain which are absent in earlier reported SARS-CoV (2003 virus) and other related coronavirus family genomes," the researchers said.
+
+On the India strain's virulence, NIV researchers said its ability to cause transmission, virulence and immunogenic features are almost the same as seen in the Wuhan strain. 
+"The age, route of transmission and dose of the virus and host immune system play important role in causing sever or mild infection and which is true for COVID-19 as well," the researchers added.
+
+Systematic gene- level mutational analysis of the genomes has enabled the researchers to identify several unique features of the SARS-CoV2 genome which includes a unique mutation in the spike surface glycoprotein in the Indian SARS-CoV2. 
+
+"This mutation is absent in Wuhan strain," NIV researchers said.
+

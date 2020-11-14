@@ -1,0 +1,12 @@
+App launched to monitor virus suspects
+2020-04-06
+PANAJI: Continuing to use technology to combat the spread of Covid-19, the state introduced a mobile application to monitor quarantined individuals who could be asymptomatic carriers of the virus. 
+
+
+Health minister Vishwajit Rane said that the mobile app has been launched as a part of the state government’s initiative to ensure that more people do not get infected by the virus that has already killed 77 people and infected 3,374 people in India.
+
+“In our initiative, health ministry has collaborated with Bangalore-based Intugine Technologies to launch COVIDLocator, a GPS-based location tracker that will help in tracking suspected and asymptomatic carriers of Covid-19 when they leave their quarantine zone,” he said.
+
+ The minister said that if a patient does not download the app, a reminder message will be sent. If the person ignores the reminder, a follow up call will be made by authorities to get the individual to download the app. For now, the app is available for download on the Google Play Store. 
+
+

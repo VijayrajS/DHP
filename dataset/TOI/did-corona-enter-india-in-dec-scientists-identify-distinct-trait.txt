@@ -1,0 +1,27 @@
+Did coronavirus enter India in December? Scientists identify distinct trait
+2020-06-04
+HYDERANAD: While the first confirmed Covid-19 case in India was registered on January 30 in Kerala, the most recent common ancestor (MRCA) of the Indian strains with roots in China was in circulation as early as November 2019.
+
+
+Top scientists from leading research institutes in the country have estimated that the ancestor of the novel coronavirus cluster from Wuhan was in circulation as early as December 11, 2019. Using a scientific technique called, “time to most recent common ancestor” or tMRCA, the scientists estimated the age of the viral strain now circulating in Telangana and other states as between November 26 and December 25, the median being December 11.
+
+Whether the virus was introduced to India by passengers from China prior to January 30 is not clear as Covid-19 tests were not carried out on a largescale in the country then.
+
+Researchers, including those from the city-based Centre for Cellular and Molecular Biology (CCMB), have not only estimated the age of the most recent common ancestor of various strains of the novel coronavirus but also discovered a new cluster or clade that’s different from the existing ones. They have named this cluster or clade I/A3i.
+
+The viral strain found in India’s first Covid-19 case in Kerala belonged to the Wuhan ancestor, while the one discovered from Hyderabad (clade I/A3i) is unique as it originated not in China but somewhere in Southeast Asia. The exact country of origin of this new clade is not known, said CCMB director Dr Rakesh K Mishra.
+
+As far as the most recent common ancestor of the new strain (Clade I/A3i) is concerned, it was in circulation between January 17 and February 25, with the median being February 8. Another clade A2a, which is the predominant clade in India, had a tMRCA of January 2, with the period of its likely emergence between December 13, 2019, and January 22.
+
+
+Team did whole-genome sequencing
+
+The team, which included researchers from the Institute of Genomics and Integrative Biology (CSIR-IGIB), Delhi, and the Academy of Scientific and Innovative Research, Ghaziabad, noted that the new clade is not found anywhere else in the world. This is also different from the other 10 known clades discovered earlier.
+
+The new clade was introduced in India from a single point. It was also from a single outbreak. It later has a rapid spread spanning multiple regions across the country. As part of the study the team performed whole-genome sequencing for 64 genomes making a total of 361 genomes from India. They also did the dating of the different clusters of viral genomes.
+
+Dr Mishra said the clade I/A3i encompasses 41% of all genomes sequenced and deposited in the public domain from multiple states in India. Globally 3.5% of genomes, which till date could not be mapped to any distinct known cluster fall in this newly defined clade. The I/A3i clade is represented in 145 genomes (41.2%) and represented from 16 of the 19 states from which the genomes originated.
+
+Tamil Nadu, Telangana, Maharashtra and Delhi have the highest proportions of this new clade, followed by Bihar, Karnataka, Uttar Pradesh, West Bengal, Gujarat, and Madhya Pradesh. Haryana, Jammu and Kashmir, Madhya Pradesh, Odisha, and Rajasthan have one genome each under Clade I/A3i.
+
+

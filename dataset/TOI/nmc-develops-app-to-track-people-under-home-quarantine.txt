@@ -1,0 +1,17 @@
+NMC develops app to track people under home quarantine
+2020-04-01
+NASHIK: The Nashik Municipal Corporation (NMC) has developed a mobile application, Mahakavach, to keep a track on Covid-19 suspects who are under home quarantine.
+
+All those who have been put under home quarantine will have to download this application on their mobile phones. The suspects will also have to register self-attendance on the application every day.
+
+The administration will get an alert if the quarantined person crosses the area marked through geo-fencing on the application. This will help the administration to monitor the movement of the suspects.
+
+This app has been developed jointly by the NMC, Maharashtra state innovation society (MSIS), Nashik District Innovation Council (NDIC) and Nashik Municipal Smart City Development Corporation Ltd (NMSCDCL).
+
+Currently, the process of checking home quarantined people is being carried out manually. “Mahakavach mobile app is to be used by only those people who are under home quarantine and also by people as suggested by health department. Other people are not allowed to use this app. Moreover, the link and the QR code for this app will be sent by the municipal corporation,” an NMC official said.
+
+“It is difficult to keep an eye on every person who is under home quarantine. These people are expected to stay at home for 14 days, but some do not. The radius of their movement is geo-fenced. It will be easier to track people under home quarantine through this app,” he said.
+
+The administration will immediately get an alert if the person under home quarantine crossed the radius. “This app is being used by the administration and soon will be launched in Maharashtra,” the official said.
+
+

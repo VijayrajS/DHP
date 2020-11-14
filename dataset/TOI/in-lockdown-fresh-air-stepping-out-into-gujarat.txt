@@ -1,0 +1,22 @@
+In lockdown, fresh air stepping out into Gujarat
+2020-04-22
+AHMEDABAD: The lockdown has made Gujarat’s roads seem lifeless, but the state is showing unmistakable signs of improved breathing as pollution levels plummet. 
+
+The presence of ozone (O3) over Gujarat has increased by about 7% and nitrogen dioxide (NO2) levels have been reduced by 80% over cities like Ahmedabad!
+
+
+Rudradutt Thaker and Dhyey Solanki, two final-year environmental engineering students of LD College of Engineering, compared data from April 2019 with this month’s figures. 
+
+They wanted to assess the impact of the lockdown. The two are also research interns at Ahmedabad University’s Global Centre for Environment and Energy.
+
+“There’s a lot of interest in understanding the impact of lockdown-like measures on climate change, atmosphere, and air pollution,” said Thaker. “This is a rare opportunity because hitherto the figures were based on hypothetical situations.”
+
+The duo got atmospheric data of April 2019 and 2020 from Sentinel 5P TROPOPMI (TROPOspeheric Measuring Instrument) Satellite of Copernicus Program, ESA. The data was then processed with GIS software to get Gujarat-specific results.
+
+“The results are telling. In Ahmedabad, the NO2 concentration in April 2019 was 152 micro-molecules per square metre in the troposphere,” said Dhyey Solanki, a final-year environmental engineering student. “This month, it has come down to 30 — a reduction of 80%. We chose NO2 because along with sulphur dioxide (SO2) and particulate matter (PM) 10 and 2.5, it’s a major air pollutant.”
+
+Solanki said that the ratio of SO2 and ozone O3 is inversely related. “Activities such as vehicular and industrial emissions are the major source of NO2,” Solanki said. “When they were stopped, even for a short time, there was a major drop in the levels of NO2.”
+
+The ozone stock has been replenished over the region as well. There was a rise of about 6.25% over Ahmedabad with 308.6 Dobson units compared to 289.4 last year. “A Dobson unit shows a layer of 0.01 mm ozone at standard temperature and pressure,” said Thaker. “There’s no dramatic rise as ozone generation is a long and slow process.” Thaker said that about 7% of ozone is regenerated across Gujarat region.
+
+

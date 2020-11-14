@@ -1,0 +1,19 @@
+Scientists say virus may affect central nervous system, brain
+2020-04-28
+Bengaluru: Scientists from Indian Institute of Technology, Jodhpur have explored the neuroinvasive nature of SARS-CoV-2 — which causes Covid-19 — highlighting that loss of smell and taste in patients makes their entire central nervous system (CNS) and underlying structures in the brain more prone to the infection and may lead to devastating effects.
+
+Surajit Ghosh and his team pointed out that SARS-CoV-2 is known to interact with a specific human receptor known as human angiotensin-converting enzyme-2 (hACE2), which also happens to be the entry point of the virus and has an almost ubiquitous presence in most human organ parts ranging from lung parenchyma to nasal mucosa. The brain is also known to express this receptor.
+
+Their paper has been accepted by ACS Chemical Neuroscience, a peer-reviewed scientific journal. The team attributed the loss of smell or taste to the fact that nose and mouth both are very important entry points for the virus, which then may slowly make its way to the olfactory bulb using neurons of the olfactory mucosa. 
+
+“The olfactory bulb located in the forebrain is chiefly responsible for the sense of smell. This explains the loss of smell associated with many asymptomatic carriers of Covid-19 and also may be exposing the CNS to viral infection,” the team said.
+
+The paper recounts a recently conducted study on the brain scans (CT and MRI) of a Covid-19 patient that shows a rare encephalopathy called ANE, which leads to brain dysfunction with seizures and mental disorientation.
+
+“It indicates that in the presence of human ACE2 receptors in CNS, the brain may be infected by the virus through olfactory bulbs and also through other peripheral nerve terminals or simply blood circulation, and may breach the blood-brain barrier to innervate and attack the CNS,” the scientists argue.
+
+Pointing out that the virus may also completely destroy the medulla oblongata of the hindbrain, which regulates breathing and functioning of the heart and blood vessels, the scientists have suggested brain autopsies of Covid-19 patients and analysis of their cerebrospinal fluid.
+
+“The pathways of infection of SARS-CoV-2 and its impact on various organs is an important area that would also help in future rational approaches for therapy. The neuroinvasive nature of the virus and its effects on the senses of smell and taste are thus interesting and useful areas of investigation,” said Prof Ashutosh Sharma, secretary, department of science and technology.
+
+

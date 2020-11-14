@@ -1,0 +1,59 @@
+Dealing with biomedical waste in the time of Covid-19 presents huge challenge
+2020-05-23
+NEW DELHI: India has specific rules to deal with biomedical waste, but the Covid-19 presented a unique challenge before the country where it has currently to deal with unestimated amount of biomedical waste (BMW) exclusively from dedicated Covid hospitals, quarantine centres and home quarantine facilities in cities/towns and district/block headquarters. The task has become all the more difficult as many states lack strict monitoring mechanism.
+
+Underlining this new challenge of treating such waste as novel coronavirus can potentially survive in the environment for several hours/days, the Central Pollution Control Board (CPCB) had in April issued a detailed guidelines on handing Covid-linked biomedical waste (BMW) and launched a dedicated mobile App last week to track its collection and disposal. 
+
+It specified scientific ways to collect, transport and dispose of such waste and asked state pollution control boards/committee to adhere to it while monitoring the entire process. The guidelines carry specific dos and don’ts for handing Covid-19 related BMW — categorised yellow for highly infectious waste — at healthcare facilities, quarantine camps/homes, home care facilities, sample collection centre, laboratories, isolation wards and Common Biomedical Waste Treatment Facility (CBWTF).
+
+TOI has checked how the states have been handling the Covid-linked BMW and found that many states have assigned this job to empaneled private agencies and deployed dedicated vehicles for waste transportation till CBWTF. The civic bodies in many cities have also engaged trained manpower for its collection from quarantine homes/centres and home-care facilities.
+
+But, who is responsible for monitoring all these activities to ensure that the guidelines are strictly followed to handle the high risk waste?
+
+“It’s the responsibility of the respective state pollution control boards/committees to maintain records of Covid-19 treatment wards / quarantine centers / quarantines homes and ensure proper collection and disposal of biomedical waste as per our guidelines,” said Prashant Gargava, member secretary, CPCB.
+
+He told TOI that the Board has launched a mobile App - COVID19BMW - and asked all BMW generators to register on this for submit the data related to the Covid-linked biomedical waste. 
+
+“Those data are cross-checked with states and CBWTFs on daily basis,” said Gargava. 
+
+But, what about the place where the CBWTF doesn’t exist. The CPCB guidelines, in that case, say that the existing captive facilities of any hospital may be identified for disposal of Covid-19 waste as per provisions under existing BMW Management Rules, 2016. 
+
+In case of generation of large volume of yellow color coded (incinerable) Covid-19 waste in non-CBWTF remote areas, the guidelines also permit “use of deep burial pits for disposal of yellow category waste as per standards prescribed” in the existing Rules. 
+
+The guidelines recommends providing personal protective equipment (PPE) to all workers who are engaged in disposing of such waste and asked civic bodies to make provisions of segregation of waste using colour-coded bins, bags and containers. It advised agencies to even treat the faeces from COVID-19 confirmed patient, who is unable to use toilets and if excreta is collected in diapers, as biomedical waste. 
+
+These detailed revised guidelines, sent to all states on April 19, are based on current knowledge on the novel coronavirus and existing practices in management of infectious waste generated while treating viral and contagious diseases like HIV and H1N1. The CPCB had brought its first guidelines on the subject in March. Officials hinted at possibility of other guidelines, if at all it is needed, on the basis of ground experience and best practices followed in different countries for disposing of Covid-linked BMW. 
+
+The New Delhi-based think-tank, Centre for Science and Environment (CSE), had recently analysed implementation of the BMW Management Rules, 2016 and found many lapses on the ground, noting that the in some states, the required facility does not exist at all while in others even the contractors have yet not been appointed. 
+
+“We found that the incinerators at the facility have not been upgraded as per the CPCB directions. The upgradation is required so that the ‘yellow’ category waste (highly infectious waste) is burnt at the right temperature and it does not lead to toxic emissions. This is critical also in Covid-19 related BMW,” said Sunita Narain, environmentalist and director general of the CSE. 
+
+In the context of Covid-linked BMW, she said, “Most of the waste will be yellow category and therefore the upgrading of the incinerator must be done without losing time. The CPCB needs to get a nationwide report on what is the status and get this done.”
+
+Pointing at inadequate monitoring system, Narain said, “We found the key weakness is that the bar-codes provisions -- as stipulated in the rules -- have not been implemented by many states. This means that waste collected and treated cannot be tracked. Rules also provide for GPS which is to be installed in all transport vehicles, but this is not done in most cases. For Covid-19 related BMW, all this becomes critical. These weaknesses must be fixed urgently.”
+
+Different state pollution control boards have, however, been sensitised by the CPCB. The state agencies have, on their parts, been sharing their experiences on a daily basis with the central pollution watchdog. 
+
+A couple of states have set up a dedicated mechanism to monitor collection and disposal of the Covid-19 related BMW while others gave this responsibility to teams that have been taking infection control measures. 
+
+The Uttar Pradesh government has set up district level committees, headed by an additional chief medical officer, to undertake infection control measures and monitor disposal of biomedical waste. The teams, including representatives from the UP pollution control board, are also expected to check BMW disposal in non-Covid private hospitals.
+
+Many states have deployed private agencies for the jobs and asked respective pollution control boards or committees to monitor it on daily basis. 
+
+Deputy municipal commissioner (Sanitation) of the Nagpur Municipal Corporation, Pradip Dasarwar, told TOI that the civic body has engaged a private agency which collects biomedical waste from over 1800 institutions including 632 private hospitals/clinics, OPDs, pathology laboratories, radiology centres etc.
+
+“So far, the NMC has not received any complaints pertaining to throwing of biomedical waste openly,” he claimed.
+
+The West Bengal government too has engaged empanelled private agencies for collection and disposal of BMW, but the state doesn’t have clear-cut policy on the waste disposal from households where people are kept in home isolation.
+
+“I have already sent a letter to our chief minister underlining the danger lies in the disposal system where the biomedical wastes getting mixed with municipal waste and going straight to Dhapa landfill site,” said the Kolkata-based environment crusader Subhas Datta, who on last Thursday moved a petition to the National Green Tribunal (NGT) against the erratic disposal of biomedical waste in the city. 
+
+“What I want is the compliance of the CPCB guidelines in disposing of the biomedical wastes related to Covid-19,” he said. 
+
+The CPCB guidelines have specific provisions on how to collect and dispose off used PPE and N95 masks. It also asks health departments of all states to provide adequate PPE including three layer masks, splash proof gowns, nitrile gloves, gum boots and safety goggles to workers at the CBWTF. “These PPE are required to be worn all the time while collecting of waste from quarantine centre/homes or waste deposition centre”, it said. 
+
+The CPCB also asked the urban local bodies to provide yellow colored bags (designated for BMW) to the persons responsible for operating Quarantine Camp or home-care. “If required, such bags may be provided through CBWTF,” it said. 
+
+(Inputs from Bengaluru, Chennai, Nagpur, Chandigarh, Kolkata, Patna, Bhubaneshwar, Jaipur, Lucknow and Kochi)
+
+

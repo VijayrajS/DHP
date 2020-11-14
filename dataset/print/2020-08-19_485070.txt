@@ -1,0 +1,23 @@
+Telangana & Andhra Covid infection rates below 1, MP records lowest tests per million
+New Delhi: With a total of 6,76,514 active cases of Covid-19 in India, the country’s infection tally has reached 27,67,273 cases Wednesday. According to the data by Ministry of Health and Family Welfare, 52,889 people have succumbed to the virus and 20,37,870 have been discharged.
+In the ThePrint’s daily State Tracker, we take a look at the data on testing and the rate at which the infection is spreading in throughout India.
+For this analysis, we use three parameters:
+Rt value, known as reproduction number, is indicative of the number of new cases that are expected to emerge from a single case. An R value of less than 1 suggests that the rate of infection is slow since an infected patient will only infect less than one person.
+Positivity rate is the percentage of people who are found to be infected by the virus from those who are being tested. This parameter indicates how widespread the disease is.
+Tests per million give insight into the amount of testing being conducted in relation to the population of an area.
+All data is sourced from covidtoday.in.
+Also read: At 93,774, UP conducts most tests, 6,76,514 total active cases, positivity rate increases to 8%
+
+India’s average Rt value reduced to 1.05 Wednesday from 1.08 a day ago.
+The number of states recording Rt values lower than 1 have also increased as of Wednesday.
+Tripura, which recorded the lowest Rt value Tuesday, was replaced by Nagaland which recorded an Rt value of 0.91. This was followed by Dadra and Nagar Haveli and Daman and Diu (DNHDD) at 0.92, Telangana at 0.95, Andhra Pradesh at 0.98, Delhi at 0.98 and Arunachal Pradesh at 1.
+Sikkim, which recorded 1.37, and Mizoram which was at 1.37, recorded the highest infection rates in the country. A day before, both states had recorded one of the lowest Rt values, with Mizoram at 0.95 and Sikkim 0.98.
+
+The positivity rate in India, which recorded a consistent decrease in the past week, settled at 7.65 per cent on 19 August from 8.85 per cent on 14 August.
+Replacing Meghalaya, Gujarat recorded the lowest positivity rate at 2.16 per cent in the country Wednesday. This was followed by Meghalaya at 2.28 per cent, Arunachal Pradesh at 3.12 per cent and Bihar at 3.21 per cent.
+Andaman and Nicobar Islands reduced its positivity rate to 46.66 per cent from 56.75 per cent Tuesday, but still recorded the highest positivity rate in the country. This was followed by Puducherry at 28.30 per cent, Maharashtra at 18.73 per cent and Chandigarh at 17.77 per cent.
+Maharashtra recorded a spike in its positivity rate from 18.48 per cent Tuesday to 18.73 per cent Wednesday.
+
+The national average for tests per million on 19 August increased to 23,146.
+Replacing Jharkhand, Madhya Pradesh recorded the lowest tests per million at 12,565. This was followed by Meghalaya at 13,031 and Jharkhand 13,032. As of Tuesday, Jharkhand had recorded the lowest tests per million in the country at 12,281. Bihar continued to improve its testing, going up to 15,224 on 19 August from 14,320 a day before.
+The states conducting the highest number of states remained the same since last week. Goa recorded the highest number of tests per million at 1,07,249 followed by Ladakh at 87,217, Arunachal Pradesh at 82,935, DNHDD at 79,110 and Delhi at 71,475.

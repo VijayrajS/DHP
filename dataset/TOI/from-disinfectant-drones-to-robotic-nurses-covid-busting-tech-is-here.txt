@@ -1,0 +1,33 @@
+From disinfectant drones to robotic nurses, Covid-busting tech is here
+2020-04-12
+NEW DELHI: For the last four years, it was used for crop dusting. But now, it has a new name and purpose. Chennai-based startup Garuda Aerospace’s drone is spraying disinfectant all over locked down cities in its new avatar of Corona Killer-100.
+
+
+Garuda has deployed 300 drones across 26 Indian cities, including Varanasi, Raipur and many in Tamil Nadu, at the behest of state governments and municipal bodies that are looking for ways to disinfect their areas with as little human intervention as possible. “We spray in public areas, hospitals, bus stations — anywhere Covid-19 can spread,” says Agnishwar Jayaprakash, the founder and president of the startup. Commercial pilot volunteers are steering these drones.
+
+Across the country, startups are utilising the lockdown period to innovate and add to the state’s arsenal to fight the coronavirus pandemic. Their work has resulted in disinfectant-spraying drones, drones that make public announcements or shoo away crowds during a lockdown, disinfectant trucks, new kinds of sanitisers and even robotic dispensers.
+
+
+Truck with sanitising tech
+Tarun Bhalla, founder of an education and social robotics startup called Avishkaar, wanted to do something for the community as well keep himself occupied so he posted on social media that his firm would help build any technology required. New Delhi MP Meenakshi Lekhi saw it and reached out to ask if they could create an external sanitising machine for her constituency.
+
+“In the last 10 days, we have been able to create a sanitising machine that can be installed on any vehicle. We had to identify 10 or so vendors and convince them to sell us spare parts. We have even been sleeping in the office for the safety of our kids,” says Bhalla.
+
+A truck they put the machine on has been going around South Extension, Moti Nagar and Punjabi Bagh, resulting in more such requests from Delhi MLAs and MPs. They have also installed this system on an SUV for a private citizen and are collaborating with an NGO to create a sanitisation tunnel for a food distribution centre outside a Noida-based hospital — all free of cost.
+
+They have also made a face shield and are at present working on building an internal sanitisation robot that utilises Type-C UV technology. Since UV light is harmful to humans, the idea is the robot should be able to map the room and automatically disinfect at night when it is empty. “We know UV kills the SARS virus and other viruses in the coronavirus family, but the jury is still out if it can kill Covid-19. We have to find a way to test its efficacy,” he adds.
+
+
+Bot for covid ward
+Kochi-based Asimov Robotics is also using UV technology for its robot, which is meant to tend to patients inside quarantine zones. The robot is autonomous, can carry 25kg, and moves at a speed of 1m/sec. It has retractable trays to carry food. “If it goes to the Covid ward and there are 10 beds, it goes from patient to patient to give food. The tray disinfects itself through detergent and UV technology between bed to bed,” says founder Jaikrishnan T, adding that while the affect of UV hasn’t been tested on Covid-19, he believes exposure for longer than 6 seconds should deactivate the virus.
+
+The robot also squirts hand sanitiser if both hands are put in front of it. The firm is doing test runs and has been in touch with hospitals that could use the robot. But there are some challenges. “To map the area the robot will be in, we will have to go inside the hospital. We’re trying to do it remotely, but it takes longer.”
+
+
+Fever-spotting drone
+Marut Drones was mostly working on mosquito eradication last year but started ideating on fighting Covid-19 in January. Founder Prem Kumar Vislawath says they have come up with five drones — one that sprays disinfectant, one that tracks movements and makes public announcements, a thermal analysis drone that can see if anyone has high temperature in a crowd, a medical delivery drone for supplies and a surveillance drone.
+
+At present, they have deployed 17 disinfection drones and six surveillance ones across eight districts in Telangana. They can also be used in a more targeted capacity — in the neighbourhood of a known patient, for instance. “We’re working with drone companies in different states and are sourcing 60 to 70 drones from them,” says Vislawath.
+
+In Bangalore, General Aeronautics is using two drones to disinfect at the municipal corporation’s behest. Having done 100 missions and covered 1,25,000 square metres in the last 10 days, they hope CSR funding can allow them to scale up.
+

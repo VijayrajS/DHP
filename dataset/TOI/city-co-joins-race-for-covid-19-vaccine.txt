@@ -1,0 +1,15 @@
+City co joins race for Covid-19 vaccine
+2020-04-04
+Hyderabad: City-based vaccine maker Bharat Biotech has joined the race to develop a vaccine for coronavirus by entering into an international collaboration with US-based vaccine maker FluGen and virologists at the University of Wisconsin-Madison.
+
+The collaboration is developing an affordable, intranasal coronavirus and influenza vaccine — CoroFlu — on FluGen’s flu vaccine candidate M2SR. 
+
+Gene sequences from the SARS-CoV-2 virus will be inserted into M2SR so that the new vaccine can also induce immunity against coronavirus along with influenza. 
+
+“M2SR is a unique form of the flu virus,” said FluGen co-founder, president and CEO Paul Radspinner. “It lacks a gene called M2, which restricts the virus to undergoing only a single round of replication in cells. The single replication means the virus can enter the cell, but can’t leave. So, it tricks the body into thinking it’s infected with flu, which triggers a full immune response. But since it can’t replicate further, you don’t get sick.”
+
+FluGen will transfer its existing manufacturing processes to Bharat Biotech to enable it to scale up production and make the vaccine for clinical trials, which are expected to begin by the fall of 2020. Bharat Biotech CMD, Dr Krishna Ella, said the company is investing around Rs 150 crore in creating capacities for producing 300 million doses per annum of CoraFlu at its Hyderabad facility.
+
+“We are going to modify M2SR by adding part of the coding region for the coronavirus spike protein that the virus uses to latch onto cells and begin infection. CoroFlu will also express the influenza virus hemagglutinin protein, which is the major influenza virus antigen, so we should get immune responses to both coronavirus and influenza,” said FluGen co-founder and senior virologist Gabriele Neumann.
+
+

@@ -1,0 +1,13 @@
+14-yr-old moots idea for automatic tracking of Covid suspects
+2020-04-21
+Ludhiana: Gokul Malik, a 14-year-old student of Bhartiya Vidya Mandir School, has come up with an idea of automatic tracking of Covid-19 suspects. A few days back when he came to know about Aarogya Setu app, which the government of India has launched for alerting people about any corona patients around, so that they can safeguard themselves accordingly or can take necessary precautions.
+
+Gokul said, “It has more to it and we can add a feature to make it more practical in tracking corona suspects. Aarogya Setu is a good app but does not give us information about the persons who may be suspects.” 
+
+“I have an idea by which the government can very easily track those who may have come in contact with the corona positive person in the last few days. Nowadays most of the people have Android-based phones with them, which are served by Google. Whenever any two mobile phones or multiple phones come in contact of each other, their data can be stored in some data base. Now, in case if any of the person among them is Covid positive, from that data base we can easily get the information about all persons who may have come in contact with Covid positive person in the last few days and accordingly isolate them or quarantine them.” 
+
+He added, “However, this is possible if Google makes this simple addition in their existing services such as Google maps or Google search engine because these apps are by-default installed in all of the android operating system.” 
+
+“With this simple addition the government can very easily track the Covid suspects and isolate them or quarantine them and for this to happen the government of India has to request Google to add such services until this epidemic is over,” he added.
+
+

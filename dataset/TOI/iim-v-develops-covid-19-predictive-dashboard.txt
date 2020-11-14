@@ -1,0 +1,24 @@
+IIM-Visakhapatnam develops Covid-19 predictive dashboard
+2020-06-03
+VISAKHAPATNAM: Indian Institute of Management, Visakhapatnam, has launched ‘Covid-19 Tracker’, an interactive predictive dashboard to track and predict the spread of Covid-19 in India.
+
+
+It is the second predictive dashboard launched in India after one by the Indian Institute of Technology, Delhi.
+
+The dashboard projects spread of Covid-19 at the state level and will go down to district-level which will be of use for district administrations.
+
+For example, when it comes to Visakhapatnam district, the dashboard predicts that cases may reach their peak between May 28 and August 29 with 95% certainty.
+
+As far as Andhra Pradesh is concerned, infections may peak between May 27 and August 23.
+
+Anirban Ghatak, lead researcher and a faculty of decision sciences at IIM-V, said, “The dashboard (www.iimv.ac.in/covidtracker) would even predict the district-level disease incidence. This is the only dashboard in India that does not only predict the peak infection, but also warns against a second wave of infection in case certain Covid-related restrictions are not maintained. The data predictions will also come in handy for the authorities to make informed decisions to contain the spread,” said Ghatak.
+
+Prof Shivshanker Singh Patel, another lead researcher and a faculty of decision sciences, said the dashboard is self-explanatory on navigation and managerial fronts.
+
+“It even helps any non-technical person to understand many other nuances of the predictive model when he/she navigates through the dashboard. The primary source of data are covid19india.org and their Github repository. The data and predictions in ‘Covid- 19 Tracker’ are updated on a daily basis,” said Prof Patel.
+
+The tracker primarily helps predict the spread of the pandemic based on a modified extended susceptible-infected-removed (eSIR) model. It analyses district and state-level caseloads and represents a prediction of Covid-19 spread for various scenarios with different possible dates of lockdown relaxation, followed by varying degrees of social distancing guidelines that may be adopted post-lockdown.
+
+It also proposes possible strategies to contain the Covid-19 spread in each district depending on the fraction of the population that may be infected at the peak.
+
+

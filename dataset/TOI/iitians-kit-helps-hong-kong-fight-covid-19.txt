@@ -1,0 +1,13 @@
+IITian’s kit helps Hong Kong fight Covid-19
+2020-03-19
+NEW DELHI: An artificial intelligence-based remote-monitoring system developed by an IIT-Chennai alumnus’s startup that includes a biosensor to measure oxygen levels, respiratory patterns, temperature and heart rate is helping Hong Kong track health of Covid-19 patients and pick up on early signs and symptoms of disease in those quarantined. 
+
+
+The Hong Kong Health Authority is asking all those who test positive as well as those under quarantine to wear the biosensor owned by Biofourmis, a Boston-based company founded by 28-year-old entrepreneur Kuldeep Rajput.
+
+The device, Everion, was developed five years ago to monitor heart failure patients. It is worn on the arm and can measure over 20 different biomarkers in real time, including heart rate, respiratory rate, oxygen levels, skin temperature and activity. The biosensor is part of a system that includes a companion smartphone app that asks patients questions about their symptoms and a web dashboard that doctors use to observe patients.
+
+In the past two-and-a-half weeks, 1,000 quarantined people and 100 positive cases in Hong Kong have been monitored with the system which is being administered by the University of Hong Kong. “We are facing one of the toughest times globally as we monitor the outbreak. There is a need for 24 x7 touchless monitoring in this case and such unconventional methods would help us gauge epidemiological understanding of Covid-19,” said Dr David Chung at the University of Hong Kong.
+
+The device’s medical-grade sensors, including optical, temperature, electrodermal, accelerometer and barometer, are allowing clinicians and medical analysts to track disease progression in Covid-19 patients and related symptoms in suspected cases.
+

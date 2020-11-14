@@ -1,0 +1,33 @@
+‘Atmanirbhar’ SVNIT ready to fight Covid-19
+2020-05-25
+SURAT: Much before Prime Minister Narendra Modi made a clarion call for Atmanirbhar Bharat, the prestigious Sardar Vallabhbhai National Institute of Technology (SVNIT) had already taken several initiatives towards self-reliance in fighting Covid-19 pandemic. In two months, SVNIT has developed a series of products that can help the institute stay infection-free when the lockdown is completely lifted and academic activities resume. The institute not only conceptualised but developed the products in-house with locally available material and basic manufacturing facility and started using them, reports YAGNESH MEHTA 
+
+3d printed face-shield, tap opener and door handle 
+
+At first it started by printing 3D face-shields, which it then distributed to all staff members of the institute, police and health workers in the city. A team led by Harshit Dave, a faculty, comprising researchers Ashish Prajapati, Swapnil Vyavahare, Ravi Teja Karumuri, Rahul Narkhede and Labh Chand Dharkar from the mechanical department developed a design that can easily replace the front shield in case of damage. Thereafter, they made further R&D of possible ‘super spreaders’ like water taps and door handles and made newer openers for these utilities using 3D printing. The new devices allow a user to open taps with the elbow, and carry a personal door opener in the pocket. “We developed these products in-house with our own infrastructure,” said Shailendra Kumar, HoD, SVNIT.
+
+Youven sanitization box
+
+After finding out that contamination can also spread through vegetables, groceries and even mobile phones, researchers Akshay Jariwala and Vipul Kheraj of the department of applied physics came out with a sanitization box that can sanitize uneven surfaces too. Their yoUVen sanitization box, unlike the UV-based sterilizer box already available in the market, not only uses UV radiation but also hot air to sanitize every type of surface. It can sanitize bundle of currency notes as well. 
+
+Foot-operated dispenser and wash basin
+
+Under the supervision of Professor Ravi Kant, SVNIT's workshop staff Gajendra Panchal, with the support of research scholars Puneet Kumar and Himanshu Prajapati, developed a foot-operated hand sanitizer dispenser and a wash basin from the available waste material in the institute’s workshop to reduce spread of infection. These are now being used at the health centre and administrative building of the institute. 
+
+Sardar automated trolley 
+
+Researcher Parth Shah in guidance of professor S A Channiwala, developed an automated trolley for use in Covid-19 wards and donated it to the SMIMER Hospital. The trolley which can be remotely operated from a mobile phone is useful in dispatching food packets, medicines and other material to the positive patients. It also has speakers installed in it to make announcements. The trolley has been manufactured in SVNIT workshop by its staff Gajendra Panchal, Gav Master and Shivdas.
+
+Vehicle sanitization tunnel 
+
+To ensure that no outside vehicle enters the institute’s premises without being sanitized, a sanitization tunnel was developed by the institute’s research scholars Kalpak Sagar and Nishant Shah immediately after the virus spread was reported in city. Under the guidance of Dr Hemant Mehta, the tunnel was manufactured in the institute’s workshop itself.
+
+Research projects 
+
+While the students of the institute’s electronics engineering department designed a home quarantine tracking and alert message generation system, another group of students developed a software that uses AI and deep learning to analyse chest X-ray of positive patients.
+
+The chemical engineering department manufactured an alcohol-based hand sanitiser that has been distributed to all staff and departments. 
+
+The institute also got around 10,000 cloth masks made by women in villages under Unnat Bharat Abhiyan, which were distributed to students, staff and also in the institute’s adopted villages. 
+
+

@@ -1,0 +1,25 @@
+Tamil Nadu: Undercounting Covid-19 deaths can harm public health, hamper policy
+2020-05-16
+For years, many states, including Tamil Nadu, have been under-reporting deaths and details in death registers are not as per national standards of death reporting laid down by the Office of Registrar General of India (ORGI) under its Civil Registration System (CRS). This has to change at least in the time of pandemic, ICMR-National Centre for Disease Informatics and Research director Dr Prashant Mathur tells Pushpa Narayan.
+
+
+Indian Council of Medical Research (ICMR) issued new guidelines for reporting of Covid-19 deaths. Why?
+The new guideline details how Covid-19 deaths should be declared along with example scenarios. This is done to ensure deaths related to the novel virus get registered correctly. We need robust data from every district and state to measure the public health impact, plan for timely health interventions and protect communities. At the same time, other health conditions affecting populations need to be also monitored so that the health system is prepared for responding to the needs of the population.
+
+
+What are the most important features of the new guidelines?
+The guidelines ask doctors to declare Covid deaths and probable Covid deaths along with a list of comorbidities. Like in every other death declaration sheets, forms 4 and 4a will ask doctors to write down the underlying cause, contributing factors and immediate cause. WHO has provided codes for Covid-19 deaths -- U07.1 for all Covid deaths and U07.2 for probable Covid deaths. In the second case, Covid-19 virus is not identified through test, but doctors have clinically or epidemiologically diagnosed and suspected the virus.
+
+
+Do you think Covid deaths are being under-reported in Tamil Nadu and other parts of the country?
+Under-counting Covid-19 deaths can cause serious harm to public health and disease profiling. TN has high registration of deaths. Inaccurate death recording hampers disease profiling. Accurate death recording will strengthen policy and programme development. On most occasions the treating doctor in India records cardio-respiratory arrest as cause of death. A reason why, for years together death registers are incomplete and inaccurate. Every one dies when the heart stops, but it is not a cause of death. It is the mode of death. If a person is admitted because he or she has Covid-19, then the viral infection is the underlying cause of death. Co-morobities such as cancer or diabetes is contributing factor and respiratory distress is the immediate cause of death.
+
+
+Why is there confusion when deaths are being recorded by doctors? Is this not taught to them in medical schools?
+It is a part of the medical syllabus, implementation needs strengthening. Close monitoring can help bridge this gap. We are now attempting to change this. We are co-ordinating with various state governments and public health departments so we can train more doctors into recording deaths correctly. 
+
+
+Has Tamil Nadu responded to this training?
+We have been working with Tamil Nadu directorate of public health. They have agreed to use our e-Mortality (e-Mor) software for recording cause of death. Doctors will be trained but it has not taken off yet. The software application aids in recording and reporting cause of deaths as per national standards. Any hospital can use it and it can prevent errors in cause of death and guide doctors in recording the sequence of death events and underlying cause of death.
+
+

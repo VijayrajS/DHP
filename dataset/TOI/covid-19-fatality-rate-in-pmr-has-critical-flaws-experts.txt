@@ -1,0 +1,26 @@
+Covid-19 fatality rate in PMR has critical flaws: Experts
+2020-04-24
+PUNE: With 59 deaths from 881 positive cases — a figure of 6.7% as on April 22 — is Pune’s Covid-19 case fatality rate (CFR) at par with hotspots Italy and Spain?
+
+
+Not quite. Experts have cautioned against flaws in the method being used to arrive at the infection death rate.
+
+
+
+
+Currently, most asymptomatic people and those with mild influenza-like illness are not even being tested for Covid-19 in India. The death rate is calculated based on the number of recorded positive cases: deaths/cases.
+
+But if testing improves, an expanded denominator base brings down the CFR.
+
+An analysis of numbers from the Pune Metropolitan Region shows a consistent fall in the death rate after the second week of April, when private labs joined to ramp up testing. Experts said the drop explains why Covid-19’s CFR is misleading. 
+
+Specialists TOI spoke to said the CFR calculation ignores untested asymptomatic or mild cases of Covid-19 and instead considers only those who tested positive. 
+
+South Korea, which can test as many as 20,000 people in a day, is a good example. The country’s overall CFR has been less than 1% because of an expanded denominator base, which included mild or asymptomatic cases.
+
+But in countries like Italy, Spain and India, where only people in care are being screened, case fatality rates have exceeded 5% because the denominator is much smaller, experts said. “The exact number of positive cases in regions of India, including Pune, are currently unknown,” said epidemiologist and professor at DY Patil Medical College, Amitav Banerjee. 
+
+“If we test asymptomatic and mild cases, we will have more positive cases and the death rate will reduce. Due to gaps in healthcare, only the very severe cases are seeking treatment. So the fatality rate may not reflect the true severity of Covid-19. It may even overestimate it,” he said. Public health expert Subhash Salunke, an advisor to the state government, said, “There is no denying that the death rate will dip if we consider sub-clinical cases.”
+
+Senior physician DB Kadam, head of the task force set up to curb deaths in Pune, said patients, on an average, were reporting to hospitals only on the sixth day from onset of illness. “Self-delays in treatment is a common thread among a sizeable number of infected in Pune,” he said.
+

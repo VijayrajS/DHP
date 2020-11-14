@@ -1,0 +1,28 @@
+Tamil Nadu: Covid-19 disrupts weather forecasts too
+2020-05-06
+CHENNAI: Last week, when a low pressure began brewing over the Andaman Sea, the European ECMWF weather model, known as the world’s best, forecast it would eventually intensify into a cyclone and hit the Andhra Pradesh coast, while other global models said it would fizzle out. This difference in forecasts, meteorologists say, is due to the raging coronavirus pandemic.
+
+ 
+
+
+The drastic drop in observational data, particularly from aircraft, now grounded, and reduced inputs from weather balloons that provide critical upper air data are the reasons, they say, adding that it could eventually affect southwest monsoon forecast.
+
+M Rajeevan, secretary of the ministry of earth sciences which includes India Meteorological Department (IMD), says there has been a more than 60% decline in meteorological data relayed by aircraft due to suspension of flights. IMD has cut down on upper air observations from weather balloons (radiosonde) since April 1 to save them for the monsoon season. These are imported from countries like South Korea, which may not be possible now. 
+
+“The decline in aircraft data will definitely impact short range and medium range forecast because these observations have come down…,” said Rajeevan.
+
+Aircraft instruments measure various upper atmospheric parameters including wind speed and direction, temperature and cloud data like droplets. Sensors in weather balloons also give out wind speed and direction, temperature, relative humidity and pressure, etc., for daily forecasts.
+
+The nearly eight lakh pieces of data sent daily to the World Meterological Organisation’s Aircraft Meterological Data Relay Programme from thousands of planes from 43 airlines has dropped by more than 80% since March-end.
+
+IMD’s upper air observational network comprises 39 radiosonde and 62 pilot balloon observatories; operations of some key weather instruments in 54 stations have been scaled down. The weather model is re-initialised with new datasets including aircraft-based measurements and weather balloons, flown at least once a day, every six hours.
+
+Prof Sridhar Balasubramanian, climate expert from IIT Bombay, says data from both radiosonde and aircraft is important and its absence could lead to inaccurate forecasts during the monsoon. “When a thunderstorm cell crosses a height, the upper level dynamics governs its evolution. Upper level winds are important to understand upper air circulation (UAC). UAC is more important during monsoon because it drags the moisture and forms clouds. So we may miss some of the systems that may form and a slightly inaccurate forecast is possible.”
+
+Meteorologists say radiosonde, still flown in some observatories along with data from satellites, could make up for the loss of data from aircraft.
+
+“Aircraft observations are used only for validating the model. They are not crucial to aircraft operations. If they observe turbulence or wind shear which was not forecast, that information is sent to nearest ATC which then will pass it on to the IMD,” said R Suresh, former IMD deputy director general. 
+
+Prof Balasubramanian said while radiosonde gives local measurements and aircrafts measurements are spatial, satellites cannot compensate for the absence of data detect or measure winds. “UAC is all about wind and cloud is only an output of the winds.”
+
+

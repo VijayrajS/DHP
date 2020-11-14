@@ -1,0 +1,9 @@
+NIT Warangal bags project on Covid-19
+2020-04-12
+HYDERABAD: National Institute of Technology-Warangal (NITW) has bagged the High Performance Computing Consortium project, which focuses on tackling Covid-19.
+
+This is a project consortium provides researchers high performance computing facilities available at NASA, IBM, Google Cloud, Microsoft and MIT among others. 
+
+ The NIT Warangal team said that computational studies on virus SARS-CoV-2 responsible for COVID-19 disease will be carried in a controlled environment of temperature and humidity. This will help experimentalists understand transmission of SARS-CoV-2 at molecular level.
+
+

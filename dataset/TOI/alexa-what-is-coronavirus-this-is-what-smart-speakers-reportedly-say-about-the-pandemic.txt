@@ -1,0 +1,16 @@
+Alexa, what is coronavirus? This is what smart speakers reportedly say about the pandemic
+2020-03-22
+The coronavirus threat is going bigger by the day, with new cases being added to the list of the infected. In times such as these, correct information about the pandemic is very essential. Misinformation regarding any aspect of the viral threat can prove dangerous. A report by Vox.com lists the response of the smart speakers and digital voice assistants when asked about coronavirus.
+
+When an Amazon Echo smart speaker was asked what the coronavirus is, Amazon's voice assistant Alexa told the person seeking the information that the virus had been identified late last year by researchers in China and that the outbreak had since been declared a pandemic. Alexa went on to add how many cases have been reported worldwide. According to the report, "It proposed some follow-up questions I could ask, like, 'Alexa, what’s the fatality rate of the coronavirus?' or the slightly less grim, 'Alexa, where is the coronavirus?”
+
+The report adds that the AI voice assistants "often just quote information from news articles and government websites, and they don’t have any particular authority on their own." It also goes on to claim that sometimes they don't understand the questions asked and can fail "to provide context that another resource might have."
+
+Some examples that the report gives include Alexa suggesting the CDC recommendation: 
+"Reach out to your state health department about the availability of testing, and contact your health care provider directly if you develop symptoms or if you’ve been exposed to someone who has it." When asked how to get a test for coronavirus. When asked if one should buy a face mask, Alexa reportedly shares symptoms of coronavirus.
+
+On the other hand, when Apple Siri was asked how to get tested for coronavirus, it reportedly shares links as the answer "and one link was actually about MERS" which is not coronavirus. When asked the symptoms of coronavirus, Siri opened the CDC’s webpage, as per the report.
+
+Also Google Assistant reportedly shows recent news articles about coronavirus testing when asked how to get tested for COVID-19. On being asked the symptoms of coronavirus, the voice assistant “directly recites to you” what the WHO says.
+
+

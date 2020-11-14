@@ -1,0 +1,40 @@
+Mangaluru firm creates mobile app to track Covid-19 quarantine patients
+2020-04-03
+MANGALURU: City-based Internet of Things (IoT) services company I-Search has built an app that will help in tracking the potential or suspected asymptomatic carriers of coronavirus if they leave their quarantine zone.
+
+
+Developed in record 48-hours, the Covid-19 Beat Tracker app helps beat police constables and Asha/ANM workers tasked with monitoring suspected carriers of the virus track their movement and send reports to the war-room. 
+
+With an extended trial conducted in Belthangady taluk of Dakshina Kannada district, I-Search is confident that the app can be scaled up to cover the state in future. 
+
+“With our app, the district or state war-rooms need not wait for a specified period to generate reports. They will receive the reports in real time,” said Aravind Bhat, director, I-Search. 
+
+Bhat told TOI that the app will provide officials tasked with surveillance of home quarantined people with much needed support system. “We have mapped phone numbers of beat constables and the health workers and the onsite surveillance activities they undertake reflects in the war-room that Belthangady MLA Harish Poonja has set up,” he said.
+
+Covid-19 Beat Tracker app can be scaled up for the entire state in maximum of 48-hours, he said adding he will suggest the app to the chief minister and state health department for a state wide roll out.
+
+“The app entails features to record health status of quarantined patients for symptoms too. Respective district heads can have log in and monitor quarantined patients from their district war rooms,” he said. 
+
+The app captures geographic location of those quarantined by examining the data logs. If the area has poor connectivity, the recorded data gets uploaded to server once they come into network coverage area, Poonja said.
+
+******
+
+Manipal Group develops selfie-based tracking app
+
+A selfie-based app built by Vijña Labs, part of the Manipal Group is helping Pune Police track home quarantined individuals.
+
+The new app uses ‘fool-proof’ Artificial Intelligence-based technology for real-time home quarantine monitoring.
+
+According to Dr Murali Kota, co-founder of Vijña Labs, the new app enables an individual to register themselves with their name, phone number, selfie and other relevant information. 
+
+The individual then uploads his/her registration details using the app, following which the details are verified against the existing master list of quarantined individuals. Once registration details are verified, the app is automatically activated for an individual to upload their quarantine attendance in the form of a selfie along with location tagging. 
+
+This information is then sent to a private cloud-based AI server, which analyses the face and geo location information in real-time agaisnst the registered individual’s information. When the face and location data match against the database records, an affirmative quarantine attendance record is made into a live dashboard. 
+
+*****
+
+Pic Caption
+
+Aravind Bhat (left), director, I-Search and Harish Poonja, Belthangady MLA launching the App to track patients in Covid 19 home quarantine on real time basis in Belthangady.
+
+

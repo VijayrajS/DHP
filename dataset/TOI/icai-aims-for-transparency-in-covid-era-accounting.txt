@@ -1,0 +1,27 @@
+ICAI aims for transparency in Covid-era accounting
+2020-05-28
+MUMBAI: Will the company be able to continue its operations? Or to paraphrase in accounting terminology — will it be a going concern? In the pre-pandemic era, this was relatively simple to answer. Today, historical financials can no longer be relied upon to predict future trends such as cash flows.
+
+
+Companies are having to factor in the Covid-19 impact, and the resultant possibility of higher defaults from customers. Valuations are challenging too. This is because of significant reduction in the fair value of investments and other assets.
+
+The biggest issue relates to the going concern concept. Section 134(5) of the Companies Act requires directors to state that the annual accounts were prepared on a going concern basis. As auditors are responsible for evaluation of the management’s assessment, the Institute of Chartered Accountants of India (ICAI) has issued a series of advisories, FAQs and guidance reports for its members.
+
+ 
+
+
+Covid-19 does not automatically translate into material uncertainty on the company’s ability to continue, states ICAI’s report, titled ‘Going concern, key consideration for auditors amid Covid-19’. But, it calls for regular updating of the assumptions used in the management’s going concern assessment.
+
+The management should factor in the conditions in the markets & industry in which it operates, their customers’ ability to continue in business & pay bills, support provided by local governments, the effects of social distancing and lockdown laws. Availability of funding sources, regulatory restrictions or relaxations in this regard should also be factored in, states ICAI’s report. 
+
+The auditor should maintain an appropriate level of professional scepticism, according to ICAI, which also calls for timely and effective communication between the management and auditor. In the backdrop of a cash flow forecast prepared by the management, the auditor could discuss the company’s plans to liquidate assets, borrow, restructure debts, reduce expenditure, increase ownership equity, etc, and the timelines for such action.
+
+“Companies would provide a valuable service if they can comment on the liquid resources at their command and their ability to meet all their financial commitments in the next quarter or the next few quarters,” says CimplyFive Corporate Secretarial Services CEO Shankar Jaganathan.
+
+If there is material uncertainty of the company’s ability to continue its business, the auditor should report this in a separate section, states ICAI. Commenting on ICAI’s guidance, SR Batliboi and Co partner Sanjeev Singhal says, “Listing down additional factors that an auditor should consider while testing the going concern criteria will make auditors more comfortable in deciding whether the accounts should have been prepared on the basis of a going concern or not. Examples of situations where auditors should qualify their report will bring in consistency.”
+
+CimplyFive has released a model disclosure format that, if adopted by companies, would bring in better transparency for stakeholders. The model covers the three broad areas of context, impact and disclosure. Each of these is detailed. For example, ‘impact’ would be assessed under the heads of liquidity and profitability, which can be assessed with some certainty. The other two elements would be solvency and sustainability, on which only an opinion can be expressed at a given point of time.
+
+The model disclosure, signed by key officials and endorsed by the board, should be a single document of the company’s own assessment, which should be shared with the stock exchanges and also made available to investors on its website. “Considering that the impact is likely to be felt in both the short and medium term, the document should be updated when any material change occurs,” says Jaganathan.
+
+

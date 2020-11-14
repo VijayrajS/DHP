@@ -1,0 +1,17 @@
+RCF Kapurthala manufactures ventilator prototype 'JEEVAN', to send it to ICMR for testing
+2020-04-05
+KAPURTHALA: Rail Coach Factory (RCF) Kapurthala has manufactured a prototype ventilator 'JEEVAN' within a week, that has an original design and will cost much less than what a regular ventilator cost. The ventilator prototype will now go for final testing at the Indian Council of Medical Research (ICMR) before being put to production to aid the country's fight against COVID-19.
+
+
+ Conceptualized by RCF General Manager Ravinder Gupta after receiving instructions from the Railway Board for ‘exploring the possibilities of making ventilators’, the prototype has been now tested by the in-house medical professionals of RCF Hospital and they have given it a go-ahead. 
+
+The body of the ventilator prototype has been made from rail coach components and using in-house capacities. “The argon flow meter is taken from a laser welding machine and the compressor is from an air cooler. Team RCF needed to source just two parts - a regulator valve and a micro processor from vendors in Delhi and Noida. In the midst of the lockdown, RCF used emergency transit services to get the two components by road and train,” said a RCF spokesperson.
+
+A team of engineers from Plant, Mechanical & Electrical Design, IT and a group of medical professionals of RCF Hospital and Stores Dept worked on it for the culmination of the prototype of ventilator.
+
+Meanwhile, Gupta said: “ The ventilator is very silent, and it is not reverse engineering, but it is an original design from scratch. It will be submitted to ICMR for testing and validation and hopefully, it will be a saviour of lives amidst these hard times. The cost will be under Rs 10,000 without the compressor unit. Overall, the cost will still be a fraction of what regular ventilators available in the market cost. It can be used as an emergency ventilator. Production is easy and can be done with locally sourced components.”
+
+“The heart of the device is the compressed air container to work the Ambu bag with air without any moving parts like servo motor or piston or link mechanism. It has a microprocessor­ based controller and the circuit has been designed by the RCF team. A valve has been installed to regulate the breathing of the patient whether young or old. This ventilator can be optimized to more compact size by using small size components,” RCF spokesperson said. 
+
+RCF is preparing the technical documents for perusal of the ICMR. Very soon, the prototype will be sent there for testing as per instructions of the Railway Board, the spokesperson added.
+

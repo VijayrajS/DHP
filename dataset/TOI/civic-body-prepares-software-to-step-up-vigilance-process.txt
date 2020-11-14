@@ -1,0 +1,17 @@
+Coronavirus: Pune civic body prepares software to step up vigilance process
+2020-03-30
+PUNE: The civic body has started tracking the home quarantined people with a specially developed software to check the spread of Covid-19. 
+
+The Pune Municipal Corporation (PMC), in association with a private software firm, has developed the software that will track people with the help of GPS. The latitude and longitude of these citizens’ houses will be used to check if they are properly following the quarantine regulations. 
+
+Around 2,200 home quarantined people, who have international travel history, will be tracked with this cellphone-based software. “Mobile links were send to the citizens on Saturday,” a PMC official said, adding that it was activated from Sunday. 
+
+The civic officials said the home-quarantined citizens would have to download the application and their monitoring would be done by the PMC’s information technology (IT) department. 
+
+The GPS on the cellphone handset would be used to track the home-quarantined people or the travellers. An SMS text sent to them has the link to download the application. The PMC has collected the data of people in home quarantine. The data includes the people’s phone numbers, residence addresses, their longitude and latitude and the GPS coordinates.
+
+“If a person leaves home, we get an update on our software. His or her movement will be tracked through it. These movements are expected to show the locations within the house,” Rahul Jagtap, head of the PMC’s IT department, told TOI on Sunday. 
+
+PMC officials said a backup of the phones would also be taken by calling frequently the people staying at home. Both offline information and online data would be matched to see if the patient was in isolation or not. “In some cases, civic officials may give a surprise visit to the residence of a home-quarantined persons to check if he or she is at home. The details about people not following the norms would be sent to the authorities. Legal action will be taken against the violators. Criminal offence may be filed against them,” a senior PMC official said.
+
+

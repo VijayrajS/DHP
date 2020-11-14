@@ -1,0 +1,27 @@
+ICMR: Isolation may cut peak coronavirus numbers by 89%
+2020-03-25
+NEW DELHI: Strictly implemented social distancing measures such as home quarantine can reduce the overall expected number of cases by 62% and peak number of cases by 89%, thus “flattening” the curve and providing more opportunities for interventions, a mathematical modelling done by the Indian Council of Medical Research (ICMR) shows.
+
+
+
+Covid-19 outbreak: Latest updates
+
+
+The findings of the study also suggest that screening of travellers at entry points can delay introduction of the virus into the community by three days to three weeks. However, it concluded that as a public health measure, health system and community preparedness would be critical to control any impending spread of Covid-19. 
+
+
+More on Covid-19
+  
+   Coronavirus pandemic: Complete Coverage
+   21-day lockdown: What will stay open and what won't
+   How to quarantine yourself at home
+   Trust the newspaper for your daily verified news
+  
+
+The study was conducted in February and the findings are based on the initial data and understanding of the spread of Covid-19. Such model projections are subject to substantial uncertainty but are often useful in indicating steps that may help reduce the impact or tackle the crisis, experts say. Dr R R Gangakhedkar, ICMR’s head of epidemiology, maintained that the modelling was done in February when the numbers were not very high and the focus was not to predict the number of cases that might occur but what methods would work towards control of the outbreak in India. “Lockdown and thermal screening works is what our study shows,” Gangakhedkar said. 
+
+The calculation determined an epidemiological characteristic known as the reproduction number that determines how quickly an infection is spreading in a population. A value below 1 means the virus is on course to die out, while any number above 2 is difficult to contain without severe interventions. 
+
+The study ‘Prudent public health intervention strategies to control the coronavirus disease-2019 transmission in India: A mathematical model-based approach’ shows that in the pessimistic scenario, when reproduction number is 4, and asymptomatic infections being half as infectious as symptomatic, the projected impact of social distancing falls to 2%.
+
+

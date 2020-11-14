@@ -1,0 +1,3 @@
+Students create Covid-19 tracker
+2020-03-18
+Hyderabad: To inform people travelling within India about virus-prone zones and help authorities mobilise resources effectively, a team of faculty members and students from the city’s Mahindra Ecole Centrale College of Engineering have developed a live tracker for Covid-19 cases, being reported from across the country. The website, https://covindia.netlify.com, gives district-wise details about the number of people tested positive for Covid-19 and people who have succumbed to the virus so far. It is also available as a mobile app. TNN

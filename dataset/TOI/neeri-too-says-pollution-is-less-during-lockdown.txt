@@ -1,0 +1,57 @@
+Neeri too says pollution is less during lockdown
+2020-04-20
+Nagpur: Scientists at the National Environmental Engineering Research Institute (Neeri) have ascertained that the overall air quality of the city has significantly improved post the nationwide lockdown. Also, they have analysed that Metro will help in reducing air pollution in the city. 
+
+Identifying vehicular emissions, re-suspension of road dust and emissions from fossil fuel combustion as the major sources of air pollution in the city, scientists maintained that there were no region-specific sources.
+
+TOI recently reported that with drop in consumption of fossil, the levels of nitrogen dioxide significantly declined during the lockdown.
+
+A scientific analysis done by Neel Kamal, senior scientist at Neeri’s air pollution control division compared the ambient air quality monitoring data before and after the lock down. Most of the air polluting activities were non-operation post the nationwide curfew. 
+
+According to the analysis, major pollutants including particulate matter (PM) 10, PM2.5 and nitrogen dioxide (NO2) show reduction in concentration due to the lockdown. The daily mean value of PM10 has come down from 61 to 47 while that of PM2.5 has come down from 31 to 23. Further, NO2 has come down from 48 to 25, indicating absence of vehicles on the road.
+
+Speaking to TOI, Kamal stated, “Air Pollution Emission sources in Nagpur are similar to sources in any other urban centre. There are no region specific sources in Nagpur. Also, the ambient air pollution levels in the city are not very high like in Delhi-National Capital Region.”
+
+In the analysis, the hourly variation of PM2.5 averaged for the lockdown period indicates towards a single set of source which is now absent, causing constant reduction. “After 6pm the PM2.5 levels increase due to setting up of temperature inversion which restricts vertical movement of pollutants. While, during day, the pollution sources are relatively high compared to night, the heating of ground surface from bright sunshine causes pollutants to move in the upper atmosphere,” the analysis stated.
+
+It further mentioned that the daily averaged SO2, which is an indicator of fossil fuel combustion, was found to be 9 micrograms per cubic metre (mpcm) before the lockdown. Post it, the pollutant’s level further reduced to 2 mpcm, which was far much lower than the regulatory limit value of 80mpcm prescribed by the Central Pollution Control Board (CPCB), Delhi.
+
+As per Kamal, the upcoming Metro will reduce the number of vehicles on road, thereby further reducing the air pollution. “Once the cement road and Metro-related activity is completed, the construction-related emission will come down,” the scientist stated.
+
+Adding that efforts towards smart city development, green cover, road widening, solid waste lifting can be done to mitigate air pollution, Kamal stated, “The Nagpur Municipal Corporation is already active on all these fronts. What is important is to accept the likely pollution levels in the city with routine activities in progress.”
+
+Daily Mean Pollutant concentration (mg/m3)
+
+PM10
+
+PM2.5
+
+NO2
+
+SO2
+
+Before Lockdown
+
+20th Feb to 20th March
+
+61
+
+31
+
+48
+
+9
+
+During Lockdown
+
+21st March to 17th April
+
+47
+
+23
+
+25
+
+2
+
+

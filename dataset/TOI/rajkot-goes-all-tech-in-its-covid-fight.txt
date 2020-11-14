@@ -1,0 +1,31 @@
+Rajkot goes all tech in its Covid-19 fight
+2020-05-07
+RAJKOT: With the help of city traffic police, Rajkot Municipal Corporation (RMC) has been putting information and communication technology (ICT) to its optimum use to fight the pandemic situation. 
+
+The ICT has helped the civic body identify positive patients, know about the pattern of its spread and also adopt preventive measures to arrest further growth. Of the total 62 people who tested Covid-19 positive in Rajkot district, 61 cases were under the area of RMC jurisdiction in Rajkot city. 
+
+RMC claims that use of ICT played a vital role in curbing the spread of the pandemic and also in finding quarantine and lockdown violators. 
+
+“Identification the Covid-19 hotspots, tracking of quarantined people using mobile application, efficient monitoring to ensure that the lockdown is strictly observed by all citizens of Rajkot was done through the ICT,” said municipal commissioner, Udit Agrawal.
+
+Use of GIS mapping 
+
+RMC has made extensive use of Geographic Information System (GIS) to fight coronavirus. Not only were all the positive cases detected in the city through this technology, but also in cases where samples were collected for testing had been mapped to study the pattern in which the disease was spreading. This helped the civic body to simultaneously adopt preventive measures and also derive at strategies to collect newer samples for testing through study of mapped positive and quarantined cases. 
+
+Use of mobile app
+
+In wake of the pandemic, RMC also developed a mobile application to keep record and track all the people who were put under quarantine at different locations in the city. This made daily reporting and tracing of all such people possible. RMC staff would visit these quarantined people daily and report it on the app. Each visit of the staff member is tracked through their GPS locations. Also, a facility was created at the call centre to receive Covid-related complaints. 
+
+Efficient monitoring 
+
+At the existing Integrated Command and Control Centre (ICCC) of RMC, a tool was created to enhance the use of video analytics and artificial intelligence to monitor lockdown violation. It provided details of activities with identification and count of vehicles and people on the road with screenshots. A threshold limit has been set for allowing certain number of vehicles and people on the road, and if it breaches the limit, the tool sends warnings and notifications to the officials. Not only that, it also provides location details along with count of vehicles and people in numeric as well as graphs and charts formats. 
+
+Covid-19 dashboard 
+
+RMC’s in-house IT team developed a Covid-19 dashboard as a single platform to visualize and understand all information related to coronavirus situation in the city. From number of positive cases registered, to total number of samples taken for testing as well as number of negative sample results and number of recovered patients to deaths are monitored on the dashboard. It divides pattern of positive cases in the city daily, weekly, in age groups and also gender-wise through graphs and charts for easy understanding and adoption of preventive measures by the authorities. The details of the dashboard are also available in public domain. 
+
+E-memo to curb indiscipline
+
+As spitting in public places, including on roads, can lead to the spread of the virus infection, the RMC started penalizing people by generating e-memo using the ICCC. It also issued e-memos to those who were seen moving on vehicles without masks or not wearing it in public places using the same technology.
+
+

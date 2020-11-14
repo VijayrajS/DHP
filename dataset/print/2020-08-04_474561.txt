@@ -1,0 +1,22 @@
+Delhi, Mumbai & Chennai infection rates dip below 1, India’s overall R value now at 1.16
+New Delhi: India’s effective reproduction number ‘R’ for Covid-19 — a key parameter to measure the rate of infection — has reduced to 1.16 this week from 1.17 last week, with R of major metros Delhi, Mumbai and Chennai dipping below 1.
+The R value went up to 1.19 on 7 July from 1.11 around 26 June, just a week after ‘Unlock 2’ kicked in. Around 13 July, the R had decreased to 1.11 and then on 20 July, it increased again to 1.17.
+All the calculations have been made by Sitabhra Sinha, a researcher at the Institute of Mathematical Sciences in Chennai.
+An epidemic is considered to have been arrested when the R value remains below 1 consistently.
+As of Tuesday, India has recorded 18,55,745 Covid cases and 38,938 deaths.
+R and R0 (basic reproduction number) are an estimate of the number of people one patient can infect.
+R0 is calculated at the beginning of the epidemic when the entire population is assumed to be susceptible to the disease. The ‘R’ changes with time, and takes into account that some individuals are protected from the disease — either because they have developed immunity or because of social distancing and other measures.
+For India, R0 was calculated to be about 1.83 in April.
+The R0 of a disease depends on three factors — the probability of infection when a susceptible person comes in contact with an infected individual, the average rate of contact between susceptible and infected individuals, and the duration during which an individual spreads the infection.
+Also read: Amit Shah isn’t alone, most Covid-positive politicians opted for private hospital treatment
+For the major metros, the rate of spread of the infection has slowed significantly, Sinha told ThePrint.
+For Delhi, the value of R has declined to 0.66 from 0.68 last week. The value of R has been under one in Delhi for over two weeks, according to Sinha’s analysis.
+Last week, both Mumbai and Chennai had R hovering close to 1. Now, the R has fallen below 1 to 0.81 and 0.86, respectively.
+Kolkata’s R reduced to 1.06 from 1.30 last week, while for Bengaluru, the value has reduced from 1.40 last week to 1.15 this week.
+Sinha also calculated the R values for the states with the highest number of active Covid-19 cases. Among major states that show a declining trend are Tamil Nadu and Andhra Pradesh.
+Andhra Pradesh has R value at 1.48 this week, down from 1.51 around 22 July. Despite the decline, it has the highest R among the 12 worst affected states.
+Bihar had R value close to 1.62 around 22 July, which was the highest at the time among the worst affected states. This has now declined to 1.32 this week.
+Kerala and Rajasthan too have shown downward trends. For Kerala the R value was at about 1.44 on 22 July, which has now declined to 1.12. For Rajasthan, it has fallen from 1.21 to 1.19.
+However, Uttar Pradesh and Telangana have witnessed an increase in R.
+While UP’s R value was at 1.28 around 22 July, it has increased to 1.33 this week. Telangana’s R value was estimated at around 0.9 around 22 July, although Sinha had said that this estimate was not robust due to fluctuations in the data. This week, Telangana’s R has increased to 1.18.
+West Bengal, Gujarat and Maharashtra now have not seen much change in their R values since 22 July. Their R values are at 1.34, 1.09 and 1.14, respectively.

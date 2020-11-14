@@ -1,0 +1,25 @@
+Police use geofencing to track quarantined people
+2020-04-09
+Aurangabad/Kolhapur: Osmanabad police and Sangli administration have started using the geofence technology to track people who have been quarantined — an alert will be sent to the officials if anyone jumps the quarantine.
+
+Osmanabad superintendent of police Raj Tilak Roushan, an IIT graduate, told TOI, “A geofence is a virtual boundary created around the person based on the person’s location. If the person is found moving beyond the boundary, a breach alert is immediately generated. Based on this alert, police can take action. This technology has been sourced from the existing infrastructure.”
+
+Osmanabad’s is the first police unit in the state to have devised the technology enabling the cops to geofence an area using mobile Sim card of a quarantined person, irrespective of the kind of phone a person uses.
+
+The district has reported three confirmed Covid-19 cases, following which, more than 500 people were quarantined.
+
+An officer privy to the implementation of the project said this technology does not require any application or additional infrastructure. If a quarantined person violates the quarantine, a dedicated police team formed for 24X7 monitoring, gets an alert, following which, appropriate action is initiated.
+
+To avoid any legal issues, the quarantined people are being counselled about the importance of being quarantined. They also get text messages seeking their consent for monitoring their movement. Senior police officers said that almost all quarantined people have given their consent.
+
+As a part of the procedure, the exact GPS location of every person, who has been either home or institutional quarantined, is collected and updated in the system at the Osmanabad police headquarters. The apt use of technology will save time and also shield police from coming directly in contact with the Covid-19 patients and those who have been quarantined.
+
+Meanwhile, the Sangli district administration has started the use of a mobile application developed by local youths to keep a check on quarantined people though tracing their location. Sangli district has reported 26 confirmed coronavirus patients of which, 17 are active. Over 600 people are in home quarantine in Sangli alone.
+
+A few days ago, some youths, who are software engineers, approached Sangli MP Sanjaykaka Patil, requesting him to allow them to develop the software. After the nod, they developed the app, which the administration tested. The application is first being used for the home-quarantined people in the Sangli Municipal Corporation limits.
+
+District collector Abhijeet Choudhary said: “All the technical aspects of the application have been verified. We have found the application to be better compared to tracking bands. The home-quarantined people have to timely update their photos in the app. Our staff, who visit them regularly, will ensure the app is working.”
+
+The app has features of geofencing and geotagging. In the case of geotagging, the person has to click a photo online. The date and time will appear on the photo. The staff has received training.
+
+

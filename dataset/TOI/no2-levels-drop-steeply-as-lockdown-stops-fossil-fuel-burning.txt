@@ -1,0 +1,21 @@
+NO2 levels drop steeply as lockdown stops fossil fuel burning
+2020-04-18
+Nagpur: The drop in consumption in fossil fuels during the lockdown has led to a significant decline in the levels of toxic pollutant nitrogen dioxide (NO2) across the country.
+
+The latest analysis done by Lauri Myllyvirta and Sunil Dahiya of the Centre for Research on Energy and Clean Air (CREA) reveals that many Indian cities including Nagpur, Chennai, Mumbai, Bengaluru, Delhi, Hyderabad, Kolkata, Pune and hotspots in Madhya Pradesh, Odisha, Jharkhand, Bihar and Madhya Pradesh have witnessed a drastic fall in NO2 pollution.
+
+NO2 is a harmful pollutant responsible for an estimated 3.5 lakh new cases of child asthma and 16,000 premature deaths per year in the country. It is also a key contributor to particulate matter 2.5 formation as it plays a significant role in secondary particulate formation.
+
+According to the analysis, which is based on Sentinel-5P TROPOMI satellite data along with that of Continuous Ambient Air Quality Monitoring System, the reduction in pollution levels is a result of decreasing fossil fuel consumption in transportation, industrial and energy sector. The data of two weeks before and two weeks during the lockdown has been compared. 
+
+The analysis states reduction of consumption of diesel, petrol and other petroleum products in the transportation sector within cities decreased by 24% in March this year, compared to March last year. Most of the fall this year has been reported post the lockdown. “Overall, consumption of petroleum products in India decreased 18% during the same period,” it stated.
+
+Apart from this, there was also a fall in overall power demand and associated coal consumption by the power generation facilities across the country. “There was a 19% overall reduction in power generation in India in two weeks after March 24, compared to power generation during two weeks before that. Coal based power generation reduced by 26% during the same period,” the analysis stated.
+
+Data compiled by CREA shows that in Nagpur, the total electricity generation from power plants including Koradi, Khaparkheda, Mouda I and II and APML Tiroda was 2104.73 Mega Unit (MU) between March 11-24. However after the lockdown, the generation dropped to 1362.97 MU between March 25 – April 7.
+
+Analysts have pointed out that the reduction seen in air pollution levels across the country was only temporary due to lockdown measures. Stating that it was vital to avoid pollution bouncing back as the economy turns a corner and the coronavirus crisis passes, CREA suggested a shift from the current highly fossil fuel dependent economy to clean energy based systems.
+
+It added that a shift in the transportation system towards more intensive public transportation was needed. “Strengthening emission standards for polluting industries and enforcing full implementation with time bound targets is also needed,” the analysis stated.
+
+

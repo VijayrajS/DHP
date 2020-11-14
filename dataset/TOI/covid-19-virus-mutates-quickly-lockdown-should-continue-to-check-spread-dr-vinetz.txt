@@ -1,0 +1,25 @@
+COVID-19 virus mutates quickly, lockdown should continue to check spread: Dr Vinetz
+2020-05-02
+Bhopal: COVID-19 is a very stable virus, but mutates very quickly and has only human as hosts. Given the experience in Japan, Germany, Singapore where the virus had been contained but resurfaced on relaxation of social distancing norms, for India it’s advisable to continue lockdown in affected areas, said Professor Dr Joseph Vinetz, world-renowned infectious disease expert at Yale University. He answered queries from TOI on the nature of pandemic and its medications. Excerpts:
+
+ When will Covid-19 end and how to understand that the curve is flattening off?
+
+n There are three kinds of numbers. First is number of test confirmed positive patients, and this needs to be normalized to denominator of 100,000. Second is number of deaths. Deaths lag behind new cases by 2 to 3 weeks. Third is the number of tests. About 1 to 2% of all cases result in death. For a confirmed death due to COVID-19, one can estimate number of cases simply by multiplying by 50 or 100 and have a reasonable estimate of number of total cases, with in a margin of error.
+
+The infection incubation 2 to 28 days or in some cases 66 days and how could we be sure that spreading of infection is under control?
+
+n We are observing most people are a symptomatic Population based testing is needed to know whether the spread of infection is under control. The swab test which detects the RNA of the virus is expensive but demonstrates the presence of the virus. The test is not perfect and only detects about 60 to 80% of cases because is it a bit difficult to sample deep into the nose so that sometimes there are false negative tests. As for antibody test, no matter what the result, ‘immunity to infection’ for a person remains to be proven.
+
+Medics in US and Europe are talking about difficulties in intubation (use of ventilators) of COVID-19 patients because of hardening of lungs. They have been trying intubation from stomach and back. Are we advising our doctors to intubate patients from stomach or back in case of difficulties?
+
+ n The use of ventilators for COVID19 requires skill in intensive care medicine. I would not describe the lungs as being hardening, but rather filled with fluid and other damage which makes the lungs resistant to ventilation. Putting people on their stomachs to breathe has some advantage at least in the short term.
+
+Chest X rays are used to know the infection in lungs (big white area in lungs ) in COVID patients abroad ? What would be your advice ?
+
+n Regular chest x-rays are useful to identify the presence of infiltrates and are fast and inexpensive to perform.
+
+Is Hydroxychroloquine useful for COVID patients?
+
+ n There remains no evidence that hydroxychloroquine is useful for the treatment of COVID- 19 patients. I have seen dozens of patients receiving this medication with no evident effect. In fact at least 10% of patients have to have this medication stopped because of dangerous heart rhythms. It has a mild effect on dampening the immune system which definitely could cause damage in this disease, but we have not been able to observe any effect whatsoever.
+
+

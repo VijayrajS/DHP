@@ -1,0 +1,29 @@
+Dist admin to launch app to track, help those in quarantine
+2020-03-31
+Thiruvananthapuram: After introducing house stickers to identify persons on home quarantine, the Thiruvananthapuram district administration has gone one step ahead to strengthen surveillance as well as to ensure that those cooped up in their houses get necessary supplies.
+
+ It is planning to release an app in association with volunteers providing IT solutions that would help the authorities track the movement of people in quarantine using geo-fencing and give timely updates about them.
+
+Tentatively titled ‘Arike’, the beta version of the app was released on Monday. Deputy collector (disaster management) Anu S Nair said around a dozen IT professionals have been working from various locations to develop the app. 
+
+“They have been involved in the development of various platforms to co-ordinate activities aimed at curbing the spread of Covid-19 in the district,” he said.
+
+Bharat Govind, convener of Inter-Agency Group, a taskforce of young volunteers trained under the district administration, said various IT solutions will be introduced the same way China effectively utilised technology to control the spread of the pandemic.
+
+ “The app will have two versions. One version is for the people on home quarantine. The other is for ASHA workers. With the support of ASHA workers, people on home quarantine can upload the app on to their phones. The drawback of other apps is that if the people leave the phone at home, their location cannot be identified. People who use this app are asked to send pictures every 30 minutes. It will help the authorities identify their location. If there is a delay in updating pictures, ASHA workers will alert them. It will help them ensure that they stay in their homes,” he said.
+
+Moreover, the app’s features allow users to give updates on the progress of the treatment and details of the stock of essentials they have with them, among other things. 
+
+“Either the person on quarantine can update the information or the ASHA worker can do it for them,” said Govind.
+
+In addition to this, a website ‘Sahayahastam’ is being readied to update information on details of provisions and other items available in shops in the district. 
+
+The deputy collector said the traders agreed with the idea at a meeting recently held with them. The website will enable traders to log in and update availability of items.
+
+The district administration is also planning to introduce a telemedicine facility for people who suffer from various health issues. “It will help them to consult doctors via Skype so that the they can avoid visiting hospitals,” he said.
+
+If the IT-solutions are found to be effective in the pilot implementation in district, it will be extended to other districts too.
+
+Geofencing was introduced in Kottayam by the cyber wing under district police chief G Jaidev around 10 days ago. It uses GPS to track the location of people.
+
+

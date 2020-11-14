@@ -1,0 +1,33 @@
+Bengaluru scientist’s Covid-19 device to be tested in US, Mexico
+2020-03-24
+BENGALURU: A device designed by an Indian scientist in Bengaluru with the potential of containing the infectivity of SARS-CoV-2 (the virus causing Covid-19) will soon be tested in the US and Mexico for efficacy.
+
+“The device will not be a cure. It’s aimed at containing infection by disabling the virus’ mechanism. I’m glad that the US and Mexico responded with such speed to test our device. We’ll be shipping out three prototypes (two to the US) on Tuesday,” Rajah Vijay Kumar, the inventor of the device told TOI.
+
+He said he began work on the device — Scalene Hypercharge Corona Canon (SHYCOCAN) — in April 2019, after finding a dip in productive days at their campus due to common cold, and flu in 2018-19. 
+
+His team found a study by the Swedish Institute for communicable disease control and University of Linkoping, that showed promise in effective prevention of airborne transmitted Influenza A virus infection by use of active Ionisation of the infected environment. 
+
+“...We started work on these lines and developed SHYCOCAN, capable of producing a very high volume of free electrons into the environment,” Kumar said.
+
+
+What It Does
+In SARS-CoV-2, the initial attachment of the virion to the host cell is initiated by interactions between the S-protein and its receptor. And, the guiding mechanism is the negative transmembrane potential of the host cells. 
+
+“In simple terms, S-protein makes the virus to infect by seeking negative potential. For instance, our cell walls have a negative potential, which attracts the virus and the S-protein attaches the receptor. Our device is intended to disable S-protein by neutralising it with negatively charged electrons. This will effectively disable the virus’ mechanism to infect,” he explained.
+
+SHYCOCAN, that can at least produce 10 to 100 trillion ions per second, is able to provide an electron density of a minimum 6 trillion per cubic centimetre at a distance of at least 12 centimetres from the canon. “The operating current is within a safe range,” Kumar said, adding that once the device is validated, he would be providing the designs to any manufacturer at a very affordable cost.
+
+To reduce infectivity and air and surface borne propagation of Covid-19, Kumar said: “We need to build devices to pump out a large number of hypercharged electrons into the atmosphere, from wherever possible, that would lead to S-protein neutralisation and rendering the virus infectivity disabled. This kind of guidance and transmission jamming mechanisms can be easily achievable and is cost-effective. Bigger devices could also be built.”
+
+
+US & Mexico
+
+In the US, the state of Maryland will be testing the device through the Texas Southern University, while the government of Mexico’s National Council for Science and Technology will be testing it through its Technological Development, Cooperation and Innovation department. 
+
+In an official communication, Texas Southern University said: “...The specific device seems to offer a positive change in the containment of the virus, Covid-19. We would like to extend our support to have the device undergo further tests in the laboratories in Maryland; we would request you to send two devices by courier at the earliest.” TOI has the copy of this letter, and a similar letter from Mexico’s Technological Development, Cooperation and Innovation department seeking one prototype.
+
+At a public event elaborating on measures and technologies being put in place to combat Covid-19 in Maryland last week, state authorities introduced Rayol John Augustus, founder, Shreis Scalene Sciences to elaborate on SHYCOCAN. The firm has a tie-up with Kumar.
+
+“With the help of our team back in India, and with Rajah Vijay Kumar the inventor, we are bringing in this device that can be used in any forum, in any place where people gather. It can inactivate the virus. We need to test the device here in the solid ground of the United States. We will work with the US, the people of the state of Maryland,” Augustus said.
+

@@ -1,0 +1,21 @@
+Kerala: Sree Chitra’s Covid-19 detection kit fails ICMR’s quality test
+2020-05-24
+THIRUVANANTHAPURAM: The Covid-19 gene detention kit developed by Sree Chitra Tirunal Institute of Medical Sciences & Technology (SCTIMST) failed to pass ICMR’s quality test. According to the test report prepared by ICMR’s National Institute of Virology in Alappuzha, the kit couldn’t give information needed for a faultless diagnosis. 
+
+The report, sources said, was sent from NIV to ICMR headquarters in the first week of May. Earlier, NIV was given specific directives to accord high priority for the evaluation of the test kit as it could be of great benefit in the fight against the pandemic if it worked effectively. It was claimed that the kit – GeneLAMP-N SARS-CoV – could identify Covid positive and negative cases in a matter of three hours by testing samples.
+
+After a few tests, the kits were taken back by the manufacturer for fine tuning its calibration and brought back to the institute. This happened in April.
+
+“RT-LAMP developed by SCTIMST was evaluated. The evaluation required 200 confirmed positive and 200 confirmed negative samples. Since an interim evaluation midway showed that the accuracy of the test was way below the anticipated level of 95% sensitivity and specificity, the evaluation was terminated," said the final report, a copy of which TOI accessed. 
+
+While sensitivity in the research term refers to the capacity of the system to ascertain a positive case as positive, the term specificity is about its ability to identify a negative case as negative.
+
+"The analysis of data showed that the test has a low sensitivity of 55.6% and a specificity of 45.6% at the cut-off of 350 samples, as specified in the protocol. Although lowering the cut off to 300 increased the sensitivity to 81%, specificity dropped to 22.4%," the report said.
+
+The test outcome was a fluorescence reading obtained from an equipment specifically made for this purpose. "Because of the low indices of diagnostic accuracy and the low pre-test probability of Covid-19 among suspected cases, a positive test will have a low predictive value of 5.11% at a cut-off of 350 and 5.21% at a cut-off of 300. There is a wide batch-batch variation in the readings which indicates that, factors other than the presence of Covid-19 RNA in the sample influence the test values," the report said.
+
+"An ROC plot for cut-offs ranging from 250 to 800 was very close to the no-benefit line suggesting that the test, at no cut-off will give information beneficial for a diagnosis," the report concluded. 
+
+ROC curve is a graphical plot that illustrates the diagnostic ability of a binary classifier system as its discrimination threshold is varied.
+
+

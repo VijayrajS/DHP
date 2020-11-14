@@ -1,0 +1,17 @@
+Odisha: Two robots ready to lend helping hand in fight against Covid-19
+2020-04-29
+BHUBANESWAR: The government ITI in Cuttack in association with SakRobotix, a robotics start-up, has developed two robots that can help in the fight against Covid-19.
+
+
+The robots can be used in the healthcare system and help in reducing risks for doctors, nurses and attendants attending to Covid-19 patients. These can also be used for surveillance and tele-consultation by doctors, who can interact remotely with patients through live video streaming.
+
+“Our trainers have taken 20 days to complete these robots. It was challenging to work with limited resources during the lockdown. SakRobotix was our knowledge partner and helped us with advanced technology to develop these robots,” said Hrushikesh Mohanty, principal of Government ITI, Cuttack. Out of the two robots, COBOT (Corona Combat Robot) is a service robot that has a humanoid structure and moves on wheels. It can carry load up to 20 kg in its hand-like structures and used in providing food, water and medicines to Covid-19 patients in hospitals. 
+
+“It will reduce the health risks to nurses and attendants. The robots can also be controlled by using communication protocols,” Sakyasingh Mahapatra, founder of SakRobotix said. With a large number of doctors and healthcare service providers getting infected with Covid-19, the robot can be very helpful in hospitals. 
+
+The second robot NIGABOT is a telepresence robot, which can be used for surveillance and teleconsultation by doctors. This robot can interact remotely with the patients through live video streaming. 
+
+This robot is also movable and is enabled with a wheeled mobile platform and has an interactive device for video calling. It will be helpful for health workers who have to make several rounds of the patients’ bed to monitor their health. “This will reduce the risk of doctors and nurses from contracting the virus,” Mahapatra added.
+
+Earlier, several hospitals like Sawai Man Singh Hospital, Jaipur and a hospital in Kerala have used robots in providing care to Covid-19 patients. “We presented the robots to senior officers of Union MSME department and they highly appreciated it. We are working on adding some more features after discussing with doctors and asking about their needs. Now these robots are being operated through cellphones but we are working on adding computer programming to it so that it will be easy to operate. We are hopeful of hospital trails soon, said Mohanty. 
+

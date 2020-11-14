@@ -1,0 +1,19 @@
+City gets first government lab for Covid-19 test
+2020-06-09
+Ludhiana: With the number of Covid-19 cases rising and the need to ramp up testing getting more pressing by the day, the city got its first government lab for Covid-19 tests. The civil hospital here has set up its own lab in room no. 18 with an initial staff strength of 4, who have been imparted training.
+
+TrueNat machine, used for testing drug-resistant tuberculosis, can be used for screening and confirmation of Covid-19 cases, which has been recommended by the ICMR on May 19, with an added step. The test usually looks for the E gene (found in SARS and SARS-CoV2 viruses), but will now test for the RdRp gene (found only in SARS-CoV2, which causes Covid-19) as well. As part of efforts to ramp up the testing capacity, Punjab government had approved the use of True Nat system for conducting coronavirus test and two samples were tested recently, which turned out to be negative.
+
+Ludhiana has conducted 11,522 Covid tests so far. The daily average right now is about 500 tests a day, which it plans on ramping up to 700, which is where the new government lab comes in. The district has two testing options — the two private labs in the city, the CMCH and DMCH, or the government labs at PGIMER, Chandigarh and Rajindra Hospital, Patiala. Private labs are expensive. The Patiala lab is in a different city and has a backlog of samples from other districts of the state, and so reports of results take a while to come. 
+
+With a government lab within the city, both time and cost will be reduced. This becomes all the more important at a time the city is witnessing a surge in the number of cases, adding at least 70 for the past week. District has 358 cases now, of which 176 are active.
+
+Dr Rajesh Bagga, civil surgeon, said, “TrueNat system is now a comprehensive assay for screening and confirmation of COVID-19 cases. According to the ICMR guidelines, all samples of suspect COVID-19 will be first tested and all positive samples would be subjected to confirmation by another step. Step 2 is confirmatory, where sample will be sent to Rajindra Hospital, Patiala, for counter testing. However, all samples that test positive may not require further RT-PCR based confirmation.”
+
+Dr Kulwant Singh, nodal officer and in charge of laboratory, said, “We cannot exceed the capacity of holding tests of 10-12 suspects with True Nat per day. It takes one and half hour to complete the procedure for two tests. We process two samples at a time and get results in one and half hours. With the turnaround time for a single test being 90 minutes, only emergency tests will be conducted at the civil hospital.”
+
+What is TrueNat?
+
+The TrueNat is a diagnostic tool, which involves two-step step process —E gene screening assay for suspected Covid-19 samples, followed by a confirmatory assay of RdRp gene. As per the ICMR guidelines, if the E gene screening is negative, the sample will be considered as true negative. But if the sample is positive, the RdRp assay will be done, which will serve as a confirmatory test. If the sample tests positive, it will be considered as true positive and an RT-PCR test will not be required further.
+
+

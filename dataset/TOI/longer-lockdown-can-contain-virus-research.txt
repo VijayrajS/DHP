@@ -1,0 +1,21 @@
+Covid-19: Longer lockdown can contain virus, research finds
+2020-03-31
+CHENNAI: The 21-day lockdown may slow the spread of coronavirus, but it could bounce back to infect six times the number presently reported, shows a study by The Institute of Mathematical Sciences in Chennai and the University of Cambridge.
+
+The researchers warned that the elderly are at greater risk of catching infection from children if physical distancing is not practised at home, as India has a large number of households with three generations under the same roof.
+
+The study, yet to be peer-reviewed, forecasts that a single 49-day lockdown or three lockdowns -- for 21 days, 28 days and 18 days -- with a five-day break in between would work effectively to slow the virus spread. 
+
+The researchers developed a model that studied the population by age and social contacts of people at workplaces, schools and other public spheres to assess the impact of the lockdown. The results indicate that the present lockdown, which will end by April 14, may be insufficient as it may bring down the number of cases by mid-April, but the infection could resurge quickly to infect more than 6,000 by mid-May. Longer periods of lockdown could curtail the infection and bring the numbers below 10.
+
+"At present, we have no means of controlling the infection other than social distancing. Lockdown seems to be the only viable option," said Ronojoy Adhikari who conducted the study with Rajesh Singh.
+
+The model has helped the researchers predict the rate of mortality across different age groups. In the absence of social distancing, the study warns that nearly a million people in their sixties, around nine lakh in their fifties and around 3.7 lakh in their forties are at risk.
+
+With effective lockdown periods, the study estimates the mortality at eight in the three-lockdowns with five-day break and six for a 49-day lockdown.
+
+Along with lockdown and social distancing, extensive testing and mapping affected regions are lso important. "District-level testing should be started. Once infection levels are manageable, we will need to ensure that infected individuals and their contact networks are traced and quarantined," Adhikari said.
+
+But even after the lockdown period, the researchers suggest that extensive screening at various points of entry and mandatory self-isolation be continued, as a large population could still be susceptible to the virus and entry of new positive cases from across the borders could start the chain of infections again.
+
+

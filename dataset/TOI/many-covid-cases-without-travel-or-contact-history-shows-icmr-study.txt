@@ -1,0 +1,17 @@
+Many Covid cases without travel or contact history, shows ICMR study
+2020-04-11
+NEW DELHI: An ICMR study of patients admitted with Severe Acute Respiratory Illness (SARI) showed that 93% of those who tested positive for Covid-19 and for whom data on exposure was known had neither travelled abroad nor had any contact with a person known to be infected.
+
+
+According to the study, of 102 SARI patients who tested positive for Covid-19, no data was available for 59 (58%) cases regarding any contact they might have had with a Covid-19 positive person or of international travel. Of the remaining 43, about whom such details of exposure and history were known, 40 (93%) had no history of international travel or contact.
+
+Some public health experts see it as an indication of community spread. Dr T Sundararaman, a public health expert who has worked with the Indian government, said, “This is the definition of community spread even by the WHO - cases without any history of contact with infected persons or of international travel. Community transmission is just a particular stage in the disease transmission and it doesn’t mean the government has failed or that the lockdown was not a success. The reluctance to accept that community transmission has set in seems to stem from the insistence on lockdown being successful only if it has stopped community transmission. There is going to be no real change in strategy if community spread has set in.” 
+
+According to the WHO, “Community transmission is evidenced by the inability to relate confirmed cases through chains of transmission for a large number of cases, or by increasing positive tests through sentinel samples (routine systematic testing of respiratory samples from established laboratories).” The ICMR study, of which the institution’s head Balram Bhargava was a co-author, also stated that Covid-19 positivity among SARI patients has increased from zero before March 14 to 2.6% for week ending April 2. Between March 22 and April 2, when the Covid testing strategy was expanded to include all SARI patients, 102 out of 4,946 samples tested positive.
+
+Listing the limitations of the study, it cautioned that since the data on SARI patients pertained to selected sentinel hospitals, predominantly public sector ones in urban areas, it might not be representative of the entire district, state or country. However it added that the trend of Covid-19 positivity among SARI patients could provide reliable information about its spread in the area.
+
+The study also pointed out that diagnosis of some Covid-19 positive SARI patients could have been missed due to false negative results (when positive patients show negative in a test) of laboratory tests based on RT-PCR. It said antibody-based testing among those who tested negative in the RT-PCR test could have increased the number of positive cases.
+
+The study stressed the importance of testing SARI patients to help in deciding response activities including testing, containment and mitigation measures. 
+

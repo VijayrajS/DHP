@@ -1,0 +1,37 @@
+Sero survey across state to determine Covid spread
+2020-05-18
+Bhopal: A population-based district level survey to determine prevalence of Covid-19 is expected to be undertaken across the state in the next few days. It would determine and establish systematic surveillance for SARS-CoV-2 infection in all districts.
+
+According to the proposal from the Indian Council of Medical Research (ICMR) and National Centre for Disease Control (NCDC) from each district 10 hospitals, including six public and four private, would be selected. They would analyse two sets of population group. First, low-risk population, which would include outpatient attendees of non-influenza like illness patients and pregnant women. Second, high-risk population including healthcare workers, said a health department official.
+
+There is a need to establish systematic surveillance for SARS-CoV-2 infection in all districts of the country, cited the MoHFW advisory.
+
+As many as 400 samples or 100 samples per week of high-risk health workers would be collected from each district. 50 Non-ILI OPD patients would be tested per week along with 50 pregnant women. In all, 800 samples of COVID-19 would be collected for a month for the sampling.
+
+The sero-survey of a group of individuals would determine seroprevalence. It would then determine the prevailing Covid-19 condition in each district, an indicator for red, green and orange status of a district for Covid-19.
+
+This surveillance will be in addition to the routine testing as per current testing guidelines.
+
+The facility-based surveillance is backed by ICMR/NCDC in collaboration with key stakeholders and state health departments and is part of a case detection exercise across the country.
+
+In subsequent rounds, IgG ELISA-based testing of serum samples will replace RTPCR-based testing for surveillance purpose.
+
+****
+
+Testing protocol:
+
+Throat/nasal swabs to be collected for RT-PCR tests
+
+Samples to be tested in a one-time pool of 25. Results only for surveillance purposes
+
+In addition to throat/nasal swabs, blood samples to be collected for detecting IgG antibodies test
+
+Data collection and analysis:
+
+Data on demographic characteristics will be collected on a standard data collection form
+
+The data will be analyzed locally using standard indicator formats. Indicators for person, place, time and trend analysis will be made
+
+Data collation and dissemination will take place as decided jointly by ICMR and health dept
+
+

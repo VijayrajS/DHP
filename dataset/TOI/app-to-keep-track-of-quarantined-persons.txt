@@ -1,0 +1,21 @@
+App to keep track of quarantined persons in Gujarat
+2020-03-28
+AHMEDABAD/GANDHINAGAR: A smartphone application, developed initially by the Surat Municipal Corporation (SMC) to track persons under quarantine, will be used across Gujarat from Saturday. The app was launched in four other major cities of Gujarat — Ahmedabad, Vadodara, Rajkot, and Gandhinagar — on Friday.
+
+
+Jayanti Ravi, principal secretary (health & family welfare), said that the app uses Geographic Information System (GIS) to track the person’s device in real time. “The application has a ‘geo fencing’ feature, which alerts authorities if a home-quarantined person moves out of a specific area,” Ravi added.
+
+
+ 
+As on Friday evening, the state police have recorded 570 instances of violation of quarantine rules in Gujarat. The offenders have been sent to government-run quarantine facilities.
+
+Health department officials said that the app asks the users — persons under quarantine — details such as their travel history. The app detects location and records information on hourly basis. If the device is out of the house, stipulated by the distance specified in the app, health officials are alerted. The users also provide details such as symptoms of fever, cough, or difficulty in breathing twice a day.
+
+“As of now, Gujarat has 20,103 persons under quarantine including 19,377 in home quarantine and 575 at government-run facilities,” said Ravi. “Cumulatively, 236 complaints have been filed against persons for the violation of quarantine rules.”
+
+In another initiative, the ImTeCHO (Innovative Mobile-phone Technology for Community Health Operators) app will be extended to state-based doctors and health professionals. “The doctors are encouraged to report COVID-19 symptoms such as severe acute respiratory illness (SARI) to the state government for quicker identification of patients,” said the principal secretary. “So far, about 150 doctors have become part of the initiative.”
+
+For the four newly-constructed facilities for COVID-19, the state government is approaching ex-servicemen to manage and maintain discipline at the facilities, said officials.
+
+Ravi also appealed to the healthcare community to come forward to provide voluntary service for treatment or training. “While we are procuring ventilators, we will need about 3,000 experts for operating 1,000 ventilators,” she said. “Thus, we have appealed to doctors to train technicians. We will provide an email on our official Twitter handle soon for the purpose.”
+

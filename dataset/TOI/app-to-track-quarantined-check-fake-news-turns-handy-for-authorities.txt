@@ -1,0 +1,17 @@
+Madurai: App to track quarantined, check fake news turns handy for authorities
+2020-04-04
+MADURAI: From helping those under quarantine to confirm fake news to helping the district authorities keep track of such people, a mobile phone app developed by a city-based firm has been playing a supportive role in managing the Covid-19 pandemic.
+
+
+Qcare, founded by M Senthil Kumar, helps its user get an alert when he or she is more than 15 to 20 metres away from the house of a person asked to be under quarantine. “The address provided by the person to be under quarantine is marked. The officials concerned in the respective district get a message when they are 100 metres away from their house,” said Senthil Kumar who is CEO of Jiovio Healthcare.
+
+He said the app has been downloaded by nearly 5,000 people using android and iOS platforms. “It was developed in 48 hours and launched last Wednesday,” he said. “The app is also offered as an update for our apps like Madurai Kavalan, which has more than 50,000 users, and similar apps we developed for the Theni, Namakkal and Trichy police units,” he said.
+
+The respective district administrations which hold control over the app have asked those under quarantine to install it so that home quarantine can be monitored virtually. To avoid malpractices such as user leaving mobile at home and going out, the app will ask them to click selfie and send it to the officials at random times. “It is a useful app. More than 150 under quarantine have registered it,” says Tirunelveli city deputy commissioner of police (law and order) A Saravanan.
+
+One of its other key features is providing proper news updates on Covid-19 status and real time data and section to filter fake news on social media. “We have filtered 107 fake news till Friday morning. Qcare users can verify forwards in this section before forwarding it,” Senthil Kumar said.
+
+Developers are working on providing customised features based on the request of the district administrations. “On the request of the Dindigul district administration we developed a feature for those under quarantine to record 30 second videos about their health to be shared with doctors. It reduces the need to travel to a hospital,” says Senthil.
+
+Theni district administration asked a feature for users to order grocery kit for Rs 150 that is being provided by the district administration. “We are now rendering this service to nine districts. We are approaching administrations of more districts to extend this benefit to them,” Senthil added.
+

@@ -1,0 +1,13 @@
+NMC to use software to detect Covid patients
+2020-05-21
+Nashik: The Nashik Municipal Corporation and authorities in Malegaon will use a software developed by a Nashik-based IT firm to quicken the process of identifying Covid-19 patients.
+
+“I had discussed the use of the software with the special monitoring officer at Malegaon, Pankaj Ashiya. He has also decided to use it,” said Nashik municipal commissioner Radhakrishna Game.
+
+Under this new process, health personnel would take an x-ray of a person’s chest who has Covid-19 symptoms and then upload the scanned report in the software. Within a few minutes, the software will show whether the person has contracted the infection. 
+
+“If the software shows that the person has been infected, we will isolate the person and send throat swab sample for re-confirmation,” said Game. 
+
+“We had given chest x-ray reports of 500 suspected patients to the firm to carry out the test using the software. Without the knowledge of the company, we had sent the throat swab samples of the same people for testing. In over 90% of the cases, the results of the lab reports and the software matched,” added Game. The entire process takes around 15 minutes. Ashiya said the software is an artificial intelligence-based tool.
+
+

@@ -1,0 +1,11 @@
+Mobile app to track those in home quarantine in Thane
+2020-04-01
+THANE: People from Thane who have been home-quarantined will be tracked through digital surveillance. For this, the Thane civic body has devised a system to keep tabs on the movement of such people and through a mobile application. 
+
+
+This app will throw up timely updates to the municipal control room specifying a quarantined person's location when the app is installed in the person's cellphone. Given the averge size of a flat in the city, a breathing margin of 20-metre radius has been given. If the quarantined person oversteps the prescribed limit, the control room will be alerted. 
+
+At least 1,800 people in Thane have been advised home quarantine currently and tracking each one's movements is impossible, said officials.
+
+A senior municipal official said that this move will indirectly help reduce the strain on the medical workforce that would otherwise have to keep vigil on those who have been advised home quarantine. "The app would help mitigate the chances of people venturing out of home as they would then face isolation," said this official. "Currently, civic staff cannot do the rounds of homes to ensure compliance." In the same vein, officials pointed out that the system has its downside. "If the person leaves the phone at home and steps out, there is no way to know this," said the official.
+

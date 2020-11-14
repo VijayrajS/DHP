@@ -1,0 +1,84 @@
+How we can use AI in fight against Covid-19
+2020-05-26
+The Covid-19 pandemic has devastated lives and livelihoods across the world, but technology in general and artificial intelligence (AI) in particular is helping to significantly mitigate its effects, experts said on Monday at the global online conference, ‘AI Solutions for Covid’, organised by the Department of Computer Science Engineering of Bennett University.
+
+
+
+India must develop cutting-edge tech
+
+Telecom and IT minister Ravi Shankar Prasad said that the coronavirus-hit world needs to adopt technology and AI even more strongly and the efforts are required in areas such as agriculture, healthcare and education. Prasad said the government is already focused on harnessing technology to ensure inclusive growth and distribution of relief and social-sector benefits in an equitable manner. His ministry is also trying to see, for instance, how crop yields can be improved by predicting the weather. The government, he said, wants much of the cutting-edge technology to be developed within the country, for which it is also encouraging the startup ecosystem.
+
+ 
+Need to adopt AI aggressively to ensure inclusive development in corona-hit world: Ravi Shankar PrasadEmphasising that the government’s Aarogya Setu app protects individual user’s privacy, Telecom and IT Minister Ravi Shankar Prasad said on Monday that the coronavirus-hit world needs to adopt technology and artificial intelligence even more strongly and the efforts are required in areas such as agriculture, healthcare, education and innovation.
+
+
+Sandip Patel, GM for IBM’s India and South Asia business, said the world has witnessed a sudden adoption of digital across governments, businesses and individuals. IBM, he said, is deploying AI and technology for local language support on Covid queries in Andhra Pradesh. “We have been working to implement a Watson assistant which is hosted on the ICMR portal to respond to specific queries,” he said.
+
+Google Research India director 
+Manish Gupta said technology and AI were deployed to help the thousands of migrant workers who were stranded to find, on Google Maps and through Google search, where food and night shelters were available. “We even allowed voice-based queries,” he said.
+
+Nvidia South Asia MD 
+Vishal Dhupar said they are partnering with doctors to mitigate the Covid problem. AI cameras, he said, can tell if someone has high temperature. Prof RK Shevgaonkar, vice chancellor of Bennett University, said that technology has ensured that the disruptions due to Covid-19 do not destroy the world completely.
+
+ 
+
+
+
+Blended learning will be new normal
+
+
+Anant Agarwal, CEO of EdX, a learning platform founded by Harvard and MIT, said many people have now realised that online learning is okay. “These trends will stay with us into the future. Blended learning, with a combination of in-person and online classes, will become the new normal,” he said. “It’s like personalised teaching that took place in ancient times, the ones that a re mentioned in the Mahabharata and Ramayana. Princes and princesses had a chance to learn from the best sages at their own pace,” he said.
+
+ 
+‘AI will play a critical role in post-Covid recovery’Can Artificial Intelligence (AI) be deployed to rebuild the world and undo the damages caused by the coronavirus? Three global experts came together to debate the question and offer solutions to the prevailing challenges at a webinar organised by Bennett University on Monday.
+
+
+Rohini Srivathsa, national technology officer at Microsoft India, said data and AI are at the base of every new technology and these would play a critical role in accelerating the pace of recovery.
+
+
+Sanket Baraley, the founder/CEO of FIGmd, a Google Ventures backed company that manages health data for 40% of Americans, said India presents a lot of challenges when it comes to deploying AI for social good. The fact that less than a third of India’s population has smartphones also makes AI solutions less feasible, he said.
+
+
+More on Covid-19
+
+ Coronavirus pandemic: Complete Coverage
+ Lockdown 4.0: What's allowed and what's not in the three zones
+ It's time to mask up and stay safe: Join TOI's #MaskIndia campaign
+ MHA's guidelines for home isolation
+ Trust the newspaper for your daily verified news
+ 
+
+
+
+AI for contactless solutions
+
+
+Vinish Kathuria, founder, SenseAI, a venture fund, said solutions have to move towards a voice-driven or a biometric-driven contactless interaction, whether in retail, financial services, hospitality or others. “We as consumers are very used to a high-touch, high-contact environment,” he said. Startups, he said, can add a lot of value by developing indigenous Indiafocused solutions.
+
+ 
+AI will be key for contactless solutions across industries: Startups Artificial Intelligence (AI) will be a key technology to find new contactless solutions across industries like retail, financial services, healthcare, education and energy, in the post Covid-19 world, according to leading AI-focused startups and investors.
+
+
+Adarsh Natarajan, founder of healthtech startup Aindra, said it would not be possible for a country like India to test its entire population of 1.3 billion and that’s where AI can play a critical role. “What really is the need of the hour is quick triaging, quick screening, using methods that are portable,” he said.
+
+
+Amardeep Sibia, founder, Drishya.ai, which develops AI solutions for the energy sector, said contactless tests is an area where AI can add value.
+
+
+Jaydeep Singh, founder of skill development platform Empass, said language benefits from AI tremendously. “It boils down to creating content which is of great quality.”
+
+ 
+AI can be used to determine human emotions during Covid-19
+
+
+AI can help manage social crisis
+
+
+Ajay Gupta of the Western Michigan University said in this age of disinformation, AI should be used to counter false narratives of Covid-19. “If models can be developed, AI can be really handy there. It depends on how one collects data and curates it,” he said.
+
+
+Rajeev Agarwal, computer scientist at Engineer Research and Development Centre under the US Army Corps of Engineers, said graph algorithms use the relationships among network nodes to learn insights to make actionable predictions. “In the last few months, many graph-related Covid-19 projects have focused on tracing connections between people, identifying clusters of elevated activity,” he said.
+
+
+Bharat Bhargava, professor at Purdue University, said if the university does not reopen for the next session, the state of Indiana would lose about $2.1 billion, a majority from student tuition fees.
+

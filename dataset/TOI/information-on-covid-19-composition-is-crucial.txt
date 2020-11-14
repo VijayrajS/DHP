@@ -1,0 +1,19 @@
+‘Information on Covid-19 composition is crucial’
+2020-04-17
+When and how did the project start?
+
+n Ever since the outbreak, the state department of Science & Technology was active, with encouragement from the CM Vijay Rupani, in helping to fight against Covid-19. We collected the sample from a positive person’s biological sample on April 5 and started its sequencing. We could complete the genome sequencing on April 15. It was continuous work of a small team of 10 scientists.
+
+What was the process of sequencing and major findings?
+
+n We took the sequencing of Wuhan-1, the first strand, as reference. About 400 labs in the world are currently working on it. We found a total of nine mutations to the Wuhan-1 strand out of which six are reported by other labs across the world. But three are unique to our strand. Our teams are working further to find which proteins of the virus are attributing to its virulence, its origin and other structures. We are taking 100 more samples from Gujarat to further the study.
+
+Q: What do the mutations tell us about the virus?
+
+n Studies show that in human-to-human transmission, the virus can mutate even twice in 30 days. The rate of mutation is very slow in advanced life forms but when we go to level of micro-organisms, it’s very fast as they try to adapt and survive. The rate and type of mutation depends on hosts and other factors like climate.
+
+Q: How do you see the implications of the breakthrough?
+
+n We are putting our findings in public domain soon so that other researchers working on it can benefit. Such sequencing is crucial to develop recombinant vaccine and analyse treatment strategy. Sequencing is also a must to narrow down targets for use of novel molecules for treatment from the repository of pharmacists. Computer simulations could test various compounds against the structure to find the optimal treatment mix. 
+
+

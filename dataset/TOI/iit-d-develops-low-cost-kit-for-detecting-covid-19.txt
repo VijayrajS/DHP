@@ -1,0 +1,26 @@
+IIT-D develops low-cost kit for detecting Covid-19
+2020-04-24
+MUMBAI: Indian Institute of Technology Delhi (IIT-D) has developed a low-cost Covid-19 detection kit costing barely a few hundred rupees using indigenously developed technology. The kit was approved by the Indian Council of Medical Research (ICMR), the apex bio-medical research body which is at the centre of the fight to contain the Covid-19 outbreak, on Thursday.
+
+
+The institute is now in the process of identifying an industry partner and aims to get production rolling this week. The assay or procedure has been validated at ICMR with a sensitivity and specificity of 100%. This makes IIT-D the first academic institute to have obtained ICMR approval for a real-time PCR-based (Polymerase chain reaction) diagnostic assay.
+
+IIT Delhi’s team of 10, including four faculty members, identified unique regions (short stretches of RNA sequences) in the Covid-19 /SARS COV-2 genome. These regions are not present in other human coronaviruses, providing an opportunity to specifically detect Covid-19.
+
+“This method uses primers targeting unique regions of Covid-19 that were designed and tested using real-time PCR. This highly sensitive assay was developed by extensive optimisation using synthetic DNA constructs followed by in vitro generated RNA fragments,” said professor Vivekanandan Perumal, lead researcher from the Kusuma School of Biological Sciences.
+
+
+More on Covid-19
+
+
+ 
+  Coronavirus pandemic: Complete Coverage
+  21-day lockdown: What will stay open and what won't
+  How to quarantine yourself at home
+  Trust the newspaper for your daily verified news
+ 
+
+The team began working on the detection assay kit in January-end. “From the very beginning, we kept all our labs accessible for the IIT Delhi community to carry out all kinds of research for Covid-19. Close to 20 projects in this area are on at our campus,” said IIT-D director Ramagopal Rao. Regarding technology used for the detection kit, he said, “we know tests will cost a few hundred rupees and that too can come down if production volumes are higher. IIT Delhi has internally funded this research and we have applied for a patent.”
+
+This is the first probe-free assay for Covid-19 approved by ICMR. The detection assay eliminates use of fluorescent probes which slashed the cost of putting together the kit. “We instead use a fluorescent dye along with highly specific primers to detect Covid-19," said professor Manoj Menon.
+

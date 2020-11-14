@@ -1,0 +1,19 @@
+Math model predicts slow Covid win with localised lockdown
+2020-04-15
+KOLKATA: A localised lockdown of 22-29 days, in a community of 43-68 people where Covid-19 outbreaks have been reported, can help eradicate the disease in two-three years in India, predicts a mathematical model designed by four sen-ior researchers, three of them from the prestigious Indian Statistical Institute (ISI) and All India Institute of Hygiene and Public Health (AIIHPH).
+
+The yet-to-be-published paper, which is mapping state-wise findings, also predicts that any fresh infections after the eradication might not be as potent.
+
+For India, the paper says, the TEST (Temporary Eradication of Spread Time) or required lockdown period is around 29 days, and the estimated TTE (Time to Extinction, or time taken for the disease to be eradicated), is around two years. India is likely to have another wave of infection after around a year, but that will be unable to create a pandemic, according to the paper. 
+
+“These are mathematical models designed with available data,” said Indranil Mukhopadhyay, ISI professor and head of the Human Genetics Unit, who has co-authored the paper. “However, we must factor in that this is a new disease and we have little disease-specific knowledge to fall back on.” The paper makes a strong case for localised lockdowns in specific zones after a general lockdown. “...lockdown, in its truest sense, may not be feasible in a vast and diverse country like India. So, targeted or focused lockdown of selected high-risk population might be a cost-effective option compared to a generalised lockdown. This would mean saturating screening for cases and identifying the critical number of contacts”, the paper says.
+
+Bandana Sen, a senior researcher with AIIHPH, said the paper “provided evidence that even after the lockdown phase, multiple waves of the disease may recur, but it will hopefully not create a pandemic situation”. 
+
+“Even in such recurrences in future, as soon as one infected person is identified, we can implement the local quarantine policy, where a group of people, the maximum number being CCS (critical community size), may stay together in clusters. So, following lockdown rules strictly is the only way to fight out Covid-19 in absence of a specific treatment or vaccine,” Sen added.
+
+Sarmistha Das, a senior researcher at ISI, said: “If the exposed group is larger than the CCS, we can split them in subgroups, each of size at most of a CCS, and quarantine them separately. Careful and detailed surveillance is required to trace all such exposed and infected individuals. Moreover, this localised lockdown or quarantine would help maintain the flow of daily life and might prevent, at least to some extent, the economy from being weakened further.”
+
+The researchers said their finding also mirrors the ground-level observations from Bhilwara in Rajasthan, where a complete localised lockdown yielded impressive results. Available reports showed that the first case in Bhilwara was detected on March 19, and by March 30 there were 26 cases in the district. From March 20, the administration promptly implemented strict lockdown, case detection, contact-tracing, and clustering of contacts, which eventually helped restrict new cases to only one till April 9.
+
+

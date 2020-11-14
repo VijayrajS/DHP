@@ -1,0 +1,39 @@
+Saliva test could boost Covid-19 detection
+2020-05-11
+Pune: New research from the Yale School of Public Health has found that saliva samples are “preferable” indicators of Covid-19 infection than deep nasal swabs. The study conducted on 44 in-patients and 98 healthcare workers (HCWs) found that saliva samples taken from just inside the mouth had better test sensitivity (accuracy) and consistency.
+
+Testing for Covid-19 hitherto relies on deep nasal swabs which are uncomfortable for the person undergoing the test and dangerous for the tester. Insertion of the swabs can cause people to cough or sneeze. If there is infection in a person, the ejected respiratory droplets can put the lives of nearby HCWs at risk. To make matters worse, both swab tests and protective gear for HCWs remain in short supply. 
+
+The Yale research also found that saliva testing can spot infection even in the mildly ill, something that nasal swabs have missed. “In our paper, looking at matched samples of in-patients, saliva had higher viral load than the NP (nasopharyngeal) swab,” said first author Anne Wyllie, an associate research scientist at the Yale School of Public Health.
+
+The findings have the potential to boost Covid-19 testing to a whole new and reliable level. One of the most dangerous capabilities of the present coronavirus has been stealth — it rides on asymptomatic carriers to enter populations. 
+
+Interestingly, the Yale researchers reported that their saliva-based approach had detected the new virus in two asymptomatic healthcare workers who had previously been cleared as negative by NP swab tests.
+
+The study is still in pre-print and is yet to be peer-reviewed. But Wyllie explained some key features of saliva sampling. For one, the saliva can be self-collected by the patient, so there is no risk to a HCW. In NP swabbing, a HCW can be at risk if a patient sneezes or coughs. Even just the time required with the patient can be dangerous to the HCW.
+
+Second, when cities and communities emerge from lockdowns, this ease-of-use and accuracy of saliva tests could prove invaluable. In the US, these tests are already being offered in some parts of New Jersey. 
+
+Wyllie said tests using saliva samples could help countries like India, which have densely populated neighbourhoods and some handicaps in testing infrastructure, rapidly improve their Covid-19 detection.
+
+“Sampling saliva will definitely increase sample capacity. You only need something to collect it in — a tube or cup. You do not need a swab or fancy device so that already makes it cheaper. As for testing, that is different and depends on how people choose to test the saliva sample,” she said. 
+
+Box: 
+
+Swab tests often rely on the extraction technique of a healthcare worker. If not done properly, they could trigger false negatives
+
+Saliva sampling is simple. For tests, you don't even need much saliva 
+
+Remember, saliva sampling is NOT a test by itself. Studies just show saliva is a better human sample that can be used in tests for Covid-19 
+
+Clear advantages: 
+
+Saliva collection is not as invasive as nasal swabs 
+
+Saliva samples can be reliably self-collected 
+
+Saliva has exhibited comparable sensitivity to nasopharyngeal swabs in detection of other respiratory pathogens 
+
+Source: Yale School of Public Health 
+
+

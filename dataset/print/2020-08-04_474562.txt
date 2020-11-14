@@ -1,0 +1,28 @@
+Puducherry sees spike in positivity rate, displaces Maharashtra from long-held top spot
+New Delhi: New coronavirus infections Tuesday jumped by 52,050 in India, taking the nationwide tally to 18,55,746. This is the sixth consecutive day that Covid-19 cases have increased by more than half-a-lakh in the country.
+According to the health ministry’s update, there are 5,86,298 active cases and 38,938 fatalities, of which 803 deaths were reported in the last 24 hours. So far, 12,30,510 patients have been cured or discharged.
+The number of tests too have gone up in the country. On Monday, India recorded the highest single-day testing by conducting over 6.6 lakh tests to diagnose Covid-19.
+In the ThePrint’s daily State Tracker, we take a look at the data on testing and the rate at which the infection is spreading throughout India.
+For this analysis, we use three parameters:
+Rt value, known as reproduction number, is indicative of the number of new cases that are expected to emerge from a single case. An R value of less than 1 suggests that the rate of infection is slow since an infected patient will only infect less than one person.
+Positivity rate is the percentage of people who are found to be infected by the virus from those who are being tested. This parameter indicates how widespread the disease is
+Tests per million give insight into the amount of testing being conducted in relation to the population of an area.
+All data is sourced from covidtoday.in.
+Also read: Delhi, Mumbai & Chennai infection rates dip below 1, India’s overall R value now at 1.16
+
+After a consistent streak for more than a fortnight, India’s infection rate (or Rt value) was recorded at 1.13 per cent, dropping from 1.17 per cent.
+The five states with the lowest Rt values in the country remained the same from last week though their values changed.
+Sikkim displaced Delhi to come last at 0.83 per cent, Meghalaya followed at 0.84 per cent, and Delhi, which remained unchanged at 0.88 per cent, moved to the third spot. Himachal Pradesh came fourth at 0.99 per cent, followed by Uttarakhand at 1.01 per cent, the only state among the bottom five to have an Rt value over 1.
+States recording the highest Rt value in the country also remained the same as last week. Andaman and Nicobar Islands had the highest value at 1.70 per cent, followed by both Manipur and Nagaland with 1.37 per cent, Ladakh at 1.30 per cent, and Punjab at 1.27 per cent.
+
+The positivity rate in India continued its downward trend from last, dropping to 10.56 per cent from 10.86 per cent in the last 24 hours.
+Arunachal Pradesh recorded the lowest positivity rate at 1.89 per cent. This was followed by Meghalaya at 2.82 per cent, replacing Sikkim that came next at 2.83 per cent. Himachal Pradesh recorded the fourth lowest positivity rate in the country at 3.23 per cent, followed by Tripura, which moved down a spot with 3.44 per cent.
+On the highest end of the scale, Puducherry jumped to the top spot, displacing Maharashtra which held the title for more than half of July. The Union Territory saw its positivity rate increase to 20.92 per cent from 17.46 per cent in 24 hours.
+Maharashtra, which has been showing a decline, moved to the third spot with 17.81 per cent, a slight increase from the 17.69 per cent it recorded a day ago.
+Andaman and Nicobar Islands featured in the list for the first time in weeks, recording 19.49 per cent, sandwiched between Puducherry and Maharashtra.
+At fourth spot, Dadra and Nagar Haveli recorded 16.7 per cent while Karnataka rounded out the highest five at 15.78 per cent.
+
+The national tests per million conducted in India as of 4 August was 15,214.
+Bihar has the lowest (5,199), followed by Jharkhand (8,798), Madhya Pradesh (9,517), West Bengal (9,604) and Uttar Pradesh (10,650).
+Goa is still the state conducting the highest number of tests per million at 85,542. This was followed by Ladakh (70,029), Dadra and Nagar Haveli (69,378), Andaman and Nicobar Islands (58,939) and Arunachal Pradesh (58,089).
+Delhi, which on 3 August recorded the third highest number, slipped to the sixth spot with 57,389 tests per million.

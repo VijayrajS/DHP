@@ -1,0 +1,31 @@
+Covid-19: Lockdown delayed peak by a month to June-end, study says
+2020-05-04
+KOLKATA: The Covid-19 infection may peak in late June nationally, a study by the Kolkata-based Indian Association for the Cultivation of Science (IACS) showed.
+
+
+It also says that the peak itself could be halved with increased testing and stringent lockdowns in targeted zones. The study also suggests that the lockdown has successfully delayed the peak by a month, giving us more time to deal with treatment logistics.
+
+
+
+Lockdown 3.0: Latest updates
+
+
+The “bio-computational modelling” study aims to predict progress of Covid-19 in India and assess the impact of the lockdown by modifying infection rates and obtaining best- and worst-case scenarios. Going by the trend of the model’s curve and effective reproduction number (2.2), over 1.5 lakh would be infected at the peak, which could occur in late-June.
+
+
+More on Covid-19
+
+ Coronavirus pandemic: Complete Coverage
+ Lockdown 3.0: What's allowed and what's not in the three zones
+ It's time to mask up and stay safe: Join TOI's #MaskIndia campaign
+ MHA's guidelines for home isolation
+ Trust the newspaper for your daily verified news
+The effective reproduction number denotes how many people a Covid-19 positive person is currently infecting, on average. The number 2.2 means that 220 people are infected by 100 people. But the model has a silver lining — with appropriate measures (like effective testing and better lockdown management), the number of infections may be brought down to 0.7 lakh by end-June, even if the reproduction number remains the same.
+
+Santanu Bhattacharya, director of IACS, said a team of the association’s scientists led by Raja Paul and co-workers from its School of Mathematical & Computational Sciences conducted a comprehensive study — using the Susceptible-Infected-Recovery-Death (SIRD) model — to predict the progress of Covid-19 in India.
+
+SIRD is a simplified approach that considers parameters like number of people susceptible, infected, recovered and dead, and the effective reproduction number for computation, and then compares it with two other large democratic countries — Germany and the US — in the relevant time frame (January to April 2020).
+
+The model predicts that the peak would have appeared in end-May in the absence of a lockdown. Were the lockdown completely lifted after May 3, the rate of infection would rise again at a faster rate, the model shows.
+
+

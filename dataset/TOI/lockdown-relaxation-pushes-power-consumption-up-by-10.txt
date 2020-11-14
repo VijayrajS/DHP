@@ -1,0 +1,39 @@
+Lockdown relaxation pushes power consumption up by 10%
+2020-05-19
+Trichy: The lockdown relaxations introduced for commercial establishments has led to 10% increase in power consumption in the city from what it was during the initial days of the lockdown. The delay in conducting periodical maintenance at substations is a cause of concern as people oppose power shutdown while staying indoors, which has forced Tangedco to postpone the mandatory maintenance work.
+
+While major commercial streets in the city are covered by Trichy urban division of Tangedco, Trichy East covers industrial localities and a section of the residential settlements. Both the divisions have reported a 10-11% spike in the consumption post the relaxations introduced on May 4. Trichy Urban, which had daily electricity consumption of 40 MW during normal days, witnessed a fall to 35 MW during the lockdown as major commercial outlets were shut. After the relaxation, the consumption has increased to 38 MW per day. The electricity consumption in Trichy East dipped from 63 MW to 52 MW in the lockdown. As the MSMEs started functioning, the consumption has increased to 58 MW. “Consumption has increased by 10% post the relaxation. Since major textile showrooms are closed, the demand has not returned to normal,” a senior official with Tangedco told TOI.
+
+Meanwhile, there is a concern over the delay in undertaking the routine maintenance work that was previously carried out in February 2020. Scheduled shutdown is difficult as people staying indoors could not manage power cuts during summer, an official said. “It has been two months since we took up the scheduled maintenance. If there is an issue in transmission, we go for temporary power cut to rectify the problem,” another Tangedco official said. The increase in ambient summer temperature is also a worry for the proper working of electrical components including jumpers.
+
+Power stats
+
+Trichy Urban division
+
+Normal power consumption: 40 MW
+
+Power consumption during lockdown: 35 MW
+
+Power consumption after relaxation: 38 MW
+
+Surge after relaxation: 10%
+
+Trichy East division
+
+Normal power consumption: 63 MW
+
+Power consumption during lockdown: 52 MW
+
+Power consumption after relaxation: 58 MW
+
+Surge after relaxation: 10%
+
+Maintenance to be done
+
+Trimming tree branches touching live wires
+
+Electrical bus-bar maintenance in substations
+
+Maintenance of jumpers
+
+

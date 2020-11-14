@@ -1,0 +1,18 @@
+India’s overall R value steady at 1.05, but Delhi’s infection rate rises above 1
+New Delhi: Delhi’s effective reproduction number ‘R’ for Covid-19 — a key parameter to measure the rate of an infection — has risen to 1.09 after remaining under 1 for over a month.
+The R value for Chennai also rose from 0.86 around 4 August to 1.11 this week.
+The country’s overall R value, meanwhile, has been steady at 1.05 this week, according calculations made by Sitabhra Sinha, a researcher at the Institute of Mathematical Sciences in Chennai.
+An epidemic is considered to be under control when the R value remains below 1 consistently.
+Both R and R0 (basic reproduction number) are an estimate of the number of people a patient can infect.
+While R0 is calculated at the beginning of an epidemic, when the entire population is assumed to be susceptible to a disease, R changes with time and takes into account the fact that some individuals are protected from the illness — either because they have developed immunity or due to social distancing measures.
+For India, the R0 was calculated to be about 1.83 in April.
+The R0 of a disease depends on three factors — the probability of infection when a susceptible person comes in contact with an infected individual, average rate of contact between susceptible and infected individuals, and the duration during which an individual spreads an infection.
+Also read: Karnataka’s positivity rate dips to 14.92%, Jharkhand & Bihar conduct fewest tests
+Sinha also calculated the R value for states with the highest number of active Covid-19 cases. For Tamil Nadu, the R value that had gone down to 0.92 last week has risen to 1.03 this week.
+Most other states have shown a downward trend. Last week, Andhra Pradesh’s R value was at 1.14, a reduction from 1.48 around 4 August when it had the highest R among 12 worst-affected states. It has decreased further to 0.90 this week.
+Bihar’s R value was 1.22 last week and has now reduced to 1.16. Uttar Pradesh and Telangana too have witnessed a decrease in their R values.
+While Uttar Pradesh’s R value was at 1.27 around 12 August, it has decreased to 1.06 this week.
+Telangana’s R value was estimated to be around 0.9 around 22 July. It had increased to 1.18 a week later, but has since been steadily reducing. The value is now at 1.06.
+West Bengal’s R value has also been reducing over the last two weeks. It has been 1.06 this week, from last week’s 1.14. Kolkata’s R value has also dipped to 0.92 from 1.06 around 3 August.
+Maharashtra’s R value reduced to 1.10 this week, from last week’s 1.12. Mumbai, meanwhile, has a slightly increased R, from 0.81 on 3 August to 0.86 this week.
+Also read: Too early to say Indians have T cell-mediated protection against Covid infection, says ICMR

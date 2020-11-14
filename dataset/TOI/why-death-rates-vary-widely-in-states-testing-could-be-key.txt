@@ -1,0 +1,27 @@
+Why death rates vary widely in states: Testing could be key
+2020-04-11
+NEW DELHI: There is wide variation in case fatality rates (deaths as percentage of cases) between states with over 100 cases as of Friday morning, with Madhya Pradesh (7.7%) at the high end and Kerala, which recorded the first Covid-19 case in India, at just 0.6%.
+
+
+Maharashtra, with the largest number of cases, is number 4 on this list. Tamil Nadu and Delhi, despite having the second and third highest number of cases , have among the lowest mortality rates of 0.96% and 1.67% respectively.
+
+What explains this wide variation? There are no definitive answers, but public health and epidemiology experts TOI spoke to have some suggestions. They said states testing more widely would have lower mortality rates as they would pick up even mild or asymptomatic cases. 
+
+ 
+
+
+
+‘Age could be a factor in death rate’
+This would increase the denominator (the number of cases) and hence reduce the calculated value of the death rate, the experts pointed out.
+
+Dr Anant Bhan, a researcher on global health, pointed out that if only severe cases or those reporting with serious symptoms to hospitals were being tested, the case fatality rate would be high. “The data seems to indicate that in the initial stages, the death rates are higher. But once they get the hang of how to manage serious cases, then probably the death rate falls. Or maybe reports of the deaths make more patients with mild symptoms rush to the hospital and so the death rate falls,” said Dr N Devadadan, former director of Institute of Public Health, Bangalore, adding that it was not possible to make any definite statements without more data, especially clinical data.
+
+ 
+
+
+Prof Rakhal Gaitonde, a public health policy expert from the Sree Chitra Tirunal Institute for Medical Sciences and Technology, said the age structure of those being diagnosed could be a factor. “In Kerala, for example, a large proportion are young adults (travellers/workers in other countries) and hence the death rate among them will tend to be very low,” said Dr Gaitonde, adding that it was too early to speculate about the difference in death rates given the wide range of testing strategies, testing coverage and age structures in different states.
+
+Dr Giridhar Babu, epidemiologist with Public Health Foundation of India, also felt that unreported cases would have the effect of decreasing the denominator (cases) and inflating the case fatality rate above its real value.
+
+“In Maharashtra, surveillance efforts are better (than WB, Bihar, UP and MP), but there could be selection bias, meaning those with severe disease are getting preferentially tested. Also, there might be a delay in admission and availability of specialised care, which is a function of how strong your public health system is,” said Dr Babu. He added that there may be delays between onset of symptoms and death, which could lead to underestimation of the case fatality rate. Dr Babu also cautioned that it was important to distinguish between deaths of those who test positive for Covid. “Dying with the disease (association) is not the same as dying from the disease (causation),” he pointed out.
+

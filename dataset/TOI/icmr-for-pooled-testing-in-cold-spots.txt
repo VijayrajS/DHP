@@ -1,0 +1,19 @@
+ICMR for pooled testing in ‘cold spots’
+2020-04-15
+The Indian Council of Medical Research (ICMR) has issued an advisory on feasibility of using pooled samples for molecular testing for Covid-19 in areas with low prevalence of the viral infection and for community survey. By specifying low prevalence areas, ICMR has indicated that pooling can add another sting to testing strategy but is more effective under certain conditions of low disease prevalence.
+
+
+ The health ministry’s research wing has recommended pooling of samples for real time RT-PCR screening in areas with prevalence of less than 2% positivity rate. Besides, in areas with positivity of 2-5%, sample pooling for PCR screening may be considered only in community survey or surveillance among asymptomatic individuals, strictly excluding individuals with known contact with confirmed cases and healthcare workers in direct contact of patients.
+
+ However, the advisory said even low prevalence areas must be watched closely for any increase in positivity of cases. “Number of Covid-19 cases in India is rising exponentially. In view of this, it is critical to increase the numbers of tests conducted by laboratories. Positivity rate in cases is still low. Hence, it may help to use the pooled samples for screening,” the advisory said.
+
+ The recommendations are based on a study conducted in King George's University in Lucknow after the Uttar Pradesh government decided on a pilot project. The move is aimed at widening testing to areas beyond hotspots and ensure that no significant number of Covid-19 cases are left out.
+
+ 
+TOI had on Monday reported that government plans to expand testing on persons with influenza like illness (ILI) in clusters chosen in “cold spots”.
+
+ Pooled testing involves PCR screening of a specimen pool comprising multiple individual patient specimens, followed by individual testing (pool de-convolution) only if there is a positive result. As all individual samples in a negative pool are regarded as such, it results in substantial cost savings when a large proportion of pools tests negative.
+
+ The advisory is aimed at increasing capacity of the laboratories to screen increased number of samples using molecular testing for Covid-19 for the purpose of surveillance. 
+
+

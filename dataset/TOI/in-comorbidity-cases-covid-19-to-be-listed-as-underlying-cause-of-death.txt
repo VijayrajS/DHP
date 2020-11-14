@@ -1,0 +1,13 @@
+In comorbidity cases, Covid-19 to be listed as underlying cause of death
+2020-06-08
+AURANGABAD: The state directorate of health services, Pune, has issued a revised set of instructions asking the death audit committees across the state to follow the guidelines of the ICMR on ‘guidance for appropriate recording of Covid-19 related deaths in India’. It has asked the panel to mention ‘Covid-19’ in the last line of the medical certificate of cause of death (MCCD), if the viral infection is the underlying cause of death (UCOD).
+
+The MCCD has two parts subdivided into three columns. Part 1 records immediate cause, followed by antecedent cause. Part 2 comprises other significant conditions contributing to death but not related to the disease or condition causing it.
+
+As per the new guidelines, under ‘immediate cause’, doctors are expected to record ‘disease, injury or complication which caused death, not the mode of dying such as heart failure, asthenia, etc’. In the antecedent cause, doctors have to record ‘morbid conditions, if any, giving rise to the above cause stating underlying conditions last.’
+
+Doctors have also been asked to record ‘interval between onset and death’ in each column. The guidelines states that if old age was a factor that led to the person’s death, it should be entered in Part II. “Covid-19 is reported to cause pneumonia/acute respiratory distress syndrome (ARDS)/ cardiac injury/ disseminated intravascular coagulation and so on. These may lead to death. It is likely that Covid-19 is the UCOD that lead to ARDS or pneumonia in most of the deaths. . In these cases, Covid-19 must be considered as UCOD in the last line/lowest line of part-I of MCCD form,” states the health directorate’s communication. 
+
+The communication further says, “Patients may present with other pre-existing comorbid conditions such as chronic obstructive pulmonary disease or asthma, chronic bronchitis, ischemic heart disease, cancer and diabetes mellitus. These conditions increase the risk of developing respiratory infections and may lead to complications and severe disease in a Covid-19 positive individual. These conditions are not considered as UCOD as they have directly not caused death due to Covid-19. Also a patient may have many comorbid conditions but only those that have contributed to death should be recorded in part 2.”
+
+

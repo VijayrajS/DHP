@@ -1,0 +1,39 @@
+‘India cannot relax its guard; needs to ramp up testing strategy’
+2020-04-02
+Chirantan Chatterjee, ICICI Bank Chair Professor at IIM-Ahmedabad (IIM-A) is the chairperson of the Centre for Management of Healthcare Services (CMHS) at IIM-A, and is a visiting fellow at Hoover Institution, Stanford University. In conversation with Parth Shastri, Prof Chatterjee said that the current situation is both a bane and boon for India, and the need of the hour is to ramp up healthcare expenditure, not to relax guard, and to adopt an aggressive testing strategy for quicker and widespread identification of potential infectious persons. Excerpts from the interview:
+
+
+What’s your take on the projection for Covid-19 spread in India? Do you think it would follow the global pattern?
+
+n Take my thoughts with caution, since I am an economist and not an epidemiologist. Overall, I don’t see any reason why it wouldn’t. From China to Italy and Iran, we have seen sudden spikes after community or local transmission began. Everyone is attempting to flatten the curve and increase healthcare capacity alongside in preparation. Social distancing is however a short-term strategy – we are in here for a long haul and cannot relax our guard at least till May end.
+
+
+No healthcare system could be prepared for such a pandemic – but what are the lessons for India?
+
+n I think actually that healthcare systems could surely be prepared for it. Look at our health sector spending – while defence budget is going up dramatically, we are spending 1.5-2% of our budget on health. It’s also politicized. We must bring it up to 5-6% (of GDP expenditure). We also need a central public health officer (CPHO) on the lines of Canada – they have one since the SARS 2003 outbreak. It’s more important as health in India is a state subject and it will reduce coordination costs. The CPHO can function as a nodal officer for harmonizing central and state efforts like capacity building, community testing, treatment protocols and managing misinformation. We need a professional as a CPHO.
+
+
+What are the opportunities?
+
+n As I see it, the big opportunity is in research and development (R&D) for middle-income countries like India. We’ve lost focus on core competencies in bio-pharmaceuticals which was there few decades back. With firms like Shantha Biotech, we used to have a great reputation in creating vaccines. Over the last two decades, that focus has moved more towards diagnostics and prevention. Covid-19 presents the opportunity to India to create a discovery driven life-science economy with participants from Indian bio-pharmaceutical sector. And this is not just about drug re-purposing – we’re talking about new biological entities and vaccines. Institutions such as NIV, CCMB and NCBS need to be supported to be at the forefront of our Covid-19 battle and India’s national innovation system will need concentrated funding, respect for biology and not just chemistry, and attention to innovations to build tomorrow’s pandemic preparedness.
+
+
+How do you see India’s methodology of testing for Covid-19?
+
+n As time elapses, my sense is, we have go to as wide as possible – aggressive testing at community level is required. We are much bigger than Taiwan or South Korea, so it’s complex, but all potential carriers of virus should be identified through methods such as Kerala’s door-to-door surveys. USC health economist and my co-author Neeraj Sood has also recommended widespread randomized testing, which I agree with. Based on experience so far, we also need to think about dose responses within patients and not just across patients, states, and countries, following author and doctor Siddhartha Mukherjee’s recommendation the other day in a New Yorker article. Also, notable here, is to understand the host response system in fighting Covid-19. Government should study the work of former professor of medicine in University of Virginia, David Fedson, who has worked with the host response system approach to combat Ebola in Africa.
+
+
+We hear about the kits in South Korea which are cheaper and provide faster results. Can it work here?
+
+ n From what I understand, it's a situation of dealing pragmatically with uncertainty - the South Korean kits can give 90% test accuracy with 2.5 hours turnaround time. Tomorrow, if the cases increase rapidly, we may need kits with 5-minute turnaround time. We see the classic iron triangle in healthcare between cost, quality and access. What we need are kits to dynamically match our needs depending on scale, accuracy and agility to pivot by our healthcare regulators.
+
+ 
+How the current outbreak and lockdown will affect economy and society?
+
+n I hope it brings structural and systematic change in people’s behaviour. We would stop spitting on roads, wash our hands better – it could be an advantage turning the crisis into a moment of societal change like Winston Churchill had once said.
+
+
+Lastly, what would be your five suggestions for India?
+
+n Ramp up healthcare spending to 5-6% of GDP, build more hospitals and attend to human capital shortage in healthcare, depend more on real (and not voodoo) science and scientists, ponder creation of a unified health service system and engage in regular, transparent and empathetic two-way communication with citizens. 
+

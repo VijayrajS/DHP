@@ -1,0 +1,37 @@
+Maharashtra: Strong link between day temperature rise, cut in Covid-19 spread, says Study
+2020-04-29
+PUNE: A study by the National Environmental Engineering Research Institute (Neeri) in Nagpur has found a “very strong” correlation — up to 85% — between increase in the average day temperature and reduction in Covid-19 spread for select cities in India and states like Maharashtra and Karnataka as a whole.
+
+
+
+
+Neeri, a constituent laboratory of the Council of Scientific and Industrial Research (CSIR), based its research on a mathematical model. It sourced Covid-19 case data from the World Health Organisation (WHO) and temperature data from the India Meteorological Department. It studied average real time temperature and relative humidity and their relationship with the rising Covid-19 cases in Maharashtra and Karnataka. 
+
+
+
+
+The research said that when gross values of temperature and relative humidity were considered for these two states, a rise in average day temperature from 25 degrees C and above caused a reduction in Covid-19 cases.
+
+However, the study said that while India’s hot climate may be beneficial in containing the Covid-19 spread, social distancing measures far outweighed the benefits of factors like temperature and humidity.
+
+Hemant Bherwani, scientist, Centre of Strategic Urban Management, Neeri, told TOI, “We included the essential aspect of social distancing as India a very populous country. Unless rigorous social distancing is followed, the benefits of aspects like high temperature may not be visible.”
+
+Temperature data from four cities was also individually studied and correlated with the number of Covid-19 cases there. “We specifically chose Srinagar for its cooler temperatures, Kasaragod in Kerala (one of the Covid-19 hotspots in the state reporting the first few cases), Mumbai and also New York, which had seen an unprecedented growth in cases and showed similar results as Indian cities,” he said. 
+
+Bherwani said while Maharashtra and Karnataka as a whole and cities like Srinagar, Kasaragod and New York indicated strong to weak correlations between average day temperatures and number of Covid-19 cases — indicating a reduction in Covid-19 cases with the increase in average day temperature — Mumbai was different. The statistical model output showed that Covid-19 cases continued to increase in Mumbai despite the increase in average day temperatures.
+
+“This may have been because Mumbai is densely packed with a high population and land use pattern. Another reason could be that Mumbai, being the largest metropolitan city, depends largely on public commute,” he said. 
+
+Bherwani said Srinagar was chosen in the study to refer to the lower end of temperature. “It was found that an increase in temperature in Srinagar also helped in the reduction of Covid-19 cases. However, the data was very limited,” he said. 
+
+Neeri director Rakesh Kumar told TOI, “Other studies analysing the impact of temperature on Covid-19 spread have largely been done on international locations. We undertook this study to see how the high tropical temperatures of India could impact the spread of the virus. The findings of the study indirectly indicate that outdoor transmission of Covid-19, via touching surfaces in public places, may not be relevant to India as the virus attached to such surfaces (in parks, buses etc) could be losing its efficacy due to high temperatures in the country.” 
+
+Neeri scientists Ankit Gupta and Avneesh Anshul were also part of the research.
+
+In March this year, researchers from the Institute of Human Virology at the University of Maryland School of Medicine (UMSOM) and the Global Virus Network (GVN) had also referred to a temperature and humidity connection with the Covid-19 spread in other parts of the world. The study had found that global cities experiencing significant outbreaks of Covid-19 had very similar winter climates.
+
+In an email response to TOI, Mohammad Sajadi, MD, associate professor, Institute of Human Virology, Global Virus Network Center of Excellence, University of Maryland School of Medicine, said, “What we observed in our study was that the major outbreaks (as of March first week) were centred in areas 30-50 N latitude, and cities where the average monthly temperature during the outbreaks was between 5 and 11 degrees Celsius. We also noted a similarity in humidity.”
+
+Sajadi said, “We hypothesize that in this case, temperature is one of them. Temperature (and humidity) can theoretically be important in the viability of a virus (its ability to survive outside the human host), its stability in droplet form (when expectorated), and potentially in how easily it can replicate in the nasal mucosa.” 
+
+

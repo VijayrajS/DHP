@@ -1,0 +1,20 @@
+IIIT-Hyderabad professor develops simulator to predict virus transmission
+2020-03-26
+HYDERABAD: A researcher at the Institute of Information Technology, Hyderabad (IIIT-H) has developed a ‘viral spread simulator’ to show various possible scenarios of infection transmission across the world and to highlight the need for social distancing to minimise the spread.
+
+
+The study by Vikram Pudi, professor of Data Sciences and Analytics Center at IIIT-Hyderabad, highlights the fact that when people move about more, the spread of infection becomes faster. 
+
+While virus transmission is swift and across continents, the study reports that the number of people who travel abroad is much less than those who don’t travel. With community transmission being the current concern in India, the professor emphasises that high hover distance (localised movement within a neighbourhood) is the most important parameter of the study.
+
+ 
+ 
+“When the population is high, the infection can spread more easily. While there is nothing much we can do about the population of our neighbourhood, we can easily change how much we move around. Seeing how much this impacts the spread of infection, hopefully, will inspire us to restrict our movement,” said Pudi. 
+
+In the study, the professor tested variables such as population size, hover-distance, travel probability (to different parts of the world), death probability, transmission probability, transmit distance (distance within which the infection can transmit), and duration of the infection (pegged at 15 days in the experiment). Pudi said that the purpose of the simulation is to see the impact of strategies that governments can implement on containing the virus and added that the highly optimised code that can run on any android device. 
+
+“There is no server in the back-end. It runs directly on the browser. Because of that it is highly scalable and will not slow down even if several people are viewing it at the same time. It has multi-lingual support and currently displays in Hindi, Telugu or English, based on the settings in one’s browser / mobile,” he added. 
+
+Calling the simulator a basic version with scope to build on and improve further, the professor said that actual data from various websites such as the WHO Covid-19 dashboard, the Johns Hopkins Covid-19 dashboard, and others could be included in the next version. 
+
+

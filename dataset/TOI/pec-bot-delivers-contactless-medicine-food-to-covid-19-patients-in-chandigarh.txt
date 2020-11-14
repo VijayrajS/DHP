@@ -1,0 +1,23 @@
+PEC bot delivers contactless medicine, food to Covid-19 patients in Chandigarh
+2020-05-20
+CHANDIGARH: A robot designed in the cybersecurity research center of Punjab Engineering College will take food and medicine to Covid-19 patients in hospitals and save ward attendants from contracting coronavirus.
+
+
+The robot traces a marked line to the patient's bed inside the ward. Twin navigation modes allow it to follow a programed or adjusted path. Research centre head Divya Bansal said: "The robot's trial is on in Government Medical College and Hospital, Sector 32."
+
+The small tin can on wheels is given a nurse's uniform and duty along with a mannequin's head decorated with sticker eyes and lips. This machine named Swayam Sevika can carry 5 kilograms but the safe limit is 4kg. Its weight sensor commands the robot to turn back five seconds after the patient has lifted the plate. Bilingual, it speaks in Hindi and English.
+
+Bansal hopes to reduce the design cost of Rs 8,000. She said: "Curfew kept the team from getting the multiple-sensor robot's full component set but the supply will get easier once the lockdown opens."
+
+PEC director Dheeraj Sanghi said: "Campus trials are on and the purpose is to support to the health system in this crucial time (of pandemic)." The students on the project team are Ansh Chawla (BTech-1, electronics), Shreshth Aggarwal (BTech-4, electronics) Ritesh Goyal (BTech-4, computer science).
+
+The design was ready a month ago and but for the delayed supply of electronic components, the team could have come out with the prototype for real-time testing much earlier. For want of similar robots, many hospitals place food and medicines in a common hall for patients to pick up from there. But this contaminates another area, besides the ward.
+
+Delivering food and medicine by hand puts frontline health workers at a huge risk and spread the infection. The deployment of bots in hospitals can minimise this risk.
+
+Their battery time of two hours is enough to last more than three days of carrying three meals a day.
+
+Cyber security research centre assistant professor Manvjeet Kaur said: "After delivery, the robot detects the load on the tray and takes appropriate action. It can also detect obstacles and halts. The user can take control if anything goes wrong."
+
+Research centre head Divya Bansal said GMCH neurologists Dr Nishit Sawal and Dr Hargunbir had given their expert inputs to the development team on the challenges for healthcare workers in Covid-19 wards.
+

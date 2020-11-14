@@ -1,0 +1,22 @@
+Bihar’s positivity rate sees sharp drop while Goa, the highest tester, see its number climb
+New Delhi: India crossed the 18-lakh mark Monday as the health ministry reported 52,972 new cases of the novel coronavirus and 771 deaths in the last 24 hours. India, which crossed the 15-lakh mark on 29 July, has recorded over 3 lakh cases in less than a week. More than 50,000 daily cases are have been recorded for a week now.
+In the ThePrint’s daily State Tracker, we take a look at the data on testing and the rate at which the infection is spreading in throughout India.
+For this analysis, we use three parameters:
+Rt value, known as reproduction number, is indicative of the number of new cases that are expected to emerge from a single case. An R value of less than 1 suggests that the rate of infection is slow since an infected patient will only infect less than one person.
+Positivity rate is the percentage of people who are found to be infected by the virus from those who are being tested. This parameter indicates how widespread the disease is.
+Tests per million give insight into the amount of testing being conducted in relation to the population of an area.
+All data is sourced from covidtoday.in.
+Also read: Tripura records highest infection rate, Bihar is still the worst performer on testing
+
+As of 3 August, India’s Rt value was recorded at 1.17, which has remained unchanged in the last two weeks.
+The states that recorded the lowest Rt value in the country also remained the same from last week — Delhi at 0.88 per cent, followed by Nagaland at 0.90 per cent, Meghalaya at 0.96 per cent, Telangana at 1.01 per cent and both Ladakh and Haryana at 1.07 per cent.
+Similarly, states recording the highest Rt value in the country remained from last week week — Tripura at 1.52 per cent, followed by Arunachal Pradesh at 1.45 per cent, Andhra Pradesh at 1.43 per cent, Himachal Pradesh at 1.40 per cent and Uttarakhand at 1.39 per cent.
+
+The positivity rate in India, which was recording a steady decrease through last week, noted a slight increase this Monday, settling at 10.86 per cent from 10.32 per cent on 31 July 31.
+Arunachal Pradesh continued its trend of being the state with the lowest positivity rate, but noted a slight increase in value, going up to 1.83 per cent from 1.71 per cent on 31 July. Sikkim came up next, going down to 2.17 per cent from 2.54 per cent on 31 July. In the third spot was Himachal Pradesh, which displaced Tripura, by recording 3.01 per cent. Tripura settled at number four with 3.45 per cent, even though this was a sharp increase from the 2.88 per cent it recorded on 31 July. Uttar Pradesh can next at 3.71 per cent, pushing Manipur (4.79 per cent) out of the lowest five ranks.
+Among states recording highest positivity rates, Maharashtra has remained at the top without much contest. However, its Monday value of 17.69 per cent is a sharp dip from the 19.28 per cent that was recorded on 31 July.
+Puducherry remained ranked second, but noted a slight increase in value — 17.46 per cent 3 August from 17.30 per cent on 31 July. Karnataka ranked third, as it did last week, but decreased to 16 per cent from 16.11 per cent on 3 July. Goa displaced Bihar to take the fourth spot at 14.82 per cent while Andhra Pradesh stayed at number five with 14.80 per cent. Bihar, at 11.76 per cent, dropped from rank four last week to rank 10 this Monday.
+
+India conducted 14,731 national tests per million as of 3 August. Bihar, Jharkhand, Madhya Pradesh, West Bengal, and Uttar Pradesh were the five states conducting the lowest number of tests per million, same as last week.
+The lowest number of tests per million were recorded in Bihar (4,907). This was followed by Jharkhand (8,196), Madhya Pradesh (9,366) — which moved up a spot, West Bengal (9,382) — which moved down a spot, and Uttar Pradesh (10,650) at the fifth spot.
+Goa continued to be the state conducting the highest number of tests per million at 84,724. This was followed by Dadra and Nagar Haveli (69,243), Ladakh (68,714), Delhi (56,847), and Arunachal Pradesh (56,691) — which displaced Andaman and Nicobar Islands (55,671) — to rank at number five.

@@ -1,0 +1,19 @@
+Robotic ally joins duty at Covid ward
+2020-04-27
+KOCHI: A robot developed by Asimov Robotics that can minimize exposure of healthcare workers to the novel coronavirus by carrying out routine jobs like disinfection and delivery of meals and medicine to patients joined duty at the Covid ward of Government Medical College, Ernakulam, on Saturday. It will also help address the shortage of PPE kits by minimizing its use by workers. 
+
+The robot, Karmi-bot was donated by ViswaSanthi Foundation of actor Mohanlal. The robot comes attached with a UV disinfection cabinet to sanitize masks, and a nozzle that can be used to disinfect surfaces.
+
+“We have customized the robot for use in the Covid care ward after talking to healthcare personnel in the hospital regarding the routine procedures and tasks,” said Jayakrishnan T, founder and CEO of Asimov Robotics. Any installation, re-installation or upgradation that is needed can be done remotely and does not require site visits by the team. Asimov Robotics started work on customized Karrmi-bot on March 25 and came up with a prototype in 15 days.
+
+“For the 10 beds in the ward, sequencing can be done in any order by the user. It can move to each patient and inquire if they have any needs through a video call. If the patient is not responding it would move to the next bed,” Jayakrishnan said. 
+
+The company has received around 500 inquiries from private and public agencies in India, New York, Boston and Qatar. “We have completed 3D modelling for a production-friendly design taking into account availability of spare parts,” said Jayakrishnan. Apart from funding, the availability of spare parts is one of the most frustrating issues faced by startups which have innovative, market-ready products that can be scaled up. 
+
+Once configured, the robot will be able to perform its duties fully autonomously. Carrying a payload up to 25kg, the robot is capable of achieving a maximum speed of 1m/sec.
+
+“It can carry out sanitization by trashing masks and other materials from the patients in a detachable UV disinfection box. The disinfection box can be removed once the bot is back at the nursing station,” he said. The bot is fitted with a nozzle that can spray disinfectant on leaked body fluids or vomit to reduce the risk of infection before cleaning is undertaken manually.
+
+“It can even chat up the patients to keep them entertained using pre-defined setting in multiple languages,” said Jayakrishnan.
+
+

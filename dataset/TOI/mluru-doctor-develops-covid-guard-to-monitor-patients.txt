@@ -1,0 +1,11 @@
+M’luru doctor develops Covid Guard to monitor patients
+2020-06-11
+MANGALURU: A Mangaluru-based paediatrician, in association with a healthcare solutions provider, has developed Covid Guard, a wearable technology which helps the authorities monitor contacts and asymptomatic Covid-19 patients.
+
+Paediatrician Dr B Shantharam Baliga, the brain behind ‘Covid Guard Home Quarantine and Asymptomatic Case Monitoring System’, told TOI that the technology can reduce the expenditure to the government and also avoid controversies that could arise out of using smartphones for monitoring. 
+
+“Covid-19 controlling measures are predominantly surveillance. Community participation and compliance to such measures are key to the success of control measures. However, data from the daily bulletin shows that quarantine rules are not followed. An estimate done in Mysuru indicates that the treatment cost of asymptomatic person is Rs 20,000-25,000, while the ICU charge for 14 days is Rs 3.50 lakh. A large number of asymptomatic patients and contacts can be treated at home. This needs 24x7 vigilance and monitoring, which is humanly impossible. Embracing technology to ensure compliance to rules and regulations to prevent the virus spread is the way forward,” Dr Baliga added. 
+
+Covid Guard, developed by RTWO Healthcare Solutions, can be worn on wrist or leg. It helps the authorities monitor contacts and patients and those home-quarantined. “Tracking quarantined persons through mobile phones is not a mistake-proof process. There can be instances wherein people either switch off the phones, or do not carry it during the quarantine period. The tamper-proof Covid Guard cannot be removed. The device, which has geo-fencing technology, will alert the authorities when the person removes it. The device, which creates history of a patient or quarantined person, can be upgraded to monitor vital signs and oxygen levels in blood, thereby recognising possible complications early and also reduce the risk of transmission,” he said, adding that the field trials can be started if the government sanctions funds for the project.
+
+

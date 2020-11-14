@@ -1,0 +1,23 @@
+Goa has highest daily tests at 1.17 lakh per million, Gujarat positivity rate dips to 1.34%
+New Delhi: With 7,25,991 active cases of Covid-19, India has reported a total of 33,10,234 cases as of Thursday. According to the data given by Ministry of Health and Family Welfare, 60,472 people have died and 25,23,771 have recovered.
+In ThePrint’s daily State Tracker, we take a look at the data on testing and the rate at which the infection is spreading throughout India.
+For this analysis, we use three parameters:
+Rt value, known as reproduction number, is indicative of the number of new cases that are expected to emerge from a single case. An R value of less than 1 suggests that the rate of infection is slow since an infected patient will only infect less than one person.
+Positivity rate is the percentage of people who are found to be infected by the virus from those who are being tested. This parameter indicates how widespread the disease is.
+Tests per million give insight into the amount of testing being conducted in relation to the population of an area.
+All data is sourced from covidtoday.in.
+Also read: 75,760 fresh cases set new high, case fatality rate at 1.83%, positivity rate still at 8.1%
+
+India’s average Rt value remained consistent at 1.05 Thursday.
+Nagaland continued to record the lowest Rt value in the country at 0.76. This was followed by Andaman and Nicobar Islands at 0.77, Bihar at 0.87, Mizoram at 0.87, Goa at 0.90, Sikkim at 0.90, Assam at 0.93, Dadra & Nagar Haveli and Daman & Diu at 0.95 and Manipur at 0.97.
+Meghalaya, too, continued to record the highest Rt value in the country at 1.23. This was followed by Tripura at 1.25, and Ladakh, Chandigarh and Chattisgarh which all recorded 1.23.
+
+India’ positivity rate increased to 7.98 per cent Thursday from 7.87 per cent Tuesday.
+Meghalaya recorded the lowest positivity rate in India at 1.19 per cent. Mizoram replaced Gujarat in recording the second lowest positivity rate with 1.34 per cent. This was followed by Gujarat at 1.64 per cent and Bihar at 2.14 per cent.
+Gujarat witnessed a decrease in its positivity rate to 1.34 per cent Thursday from 1.74 per cent on Tuesday.
+Puducherry recorded the highest positivity rate in India at 34.8 per cent. This was followed by Chandigarh at 22.55 per cent. Maharashtra saw an increase in its positivity rate to 19.78 per cent Thursday from 19.39 per cent Tuesday.
+
+The national average for tests per million increased to 28,130 Thursday from 26,854 Tuesday.
+Madhya Pradesh continued to record the lowest tests per million in the country, with 14,620 tests. This was followed by Jharkhand at 16,675 tests, West Bengal at 16,806 tests and Chattisgarh at 17,654.
+Despite recording one of the lowest number of tests per million, West Bengal saw an increase in number of tests to 16,806 Thursday from 16,028 Tuesday.
+Goa recorded the highest test per million at 1,17,976. This was followed by Ladakh at 99,365, Arunachal Pradesh at 97,329, Dadra and Nagar Haveli and Daman and Diu at 75,883 and Delhi at 79,240.

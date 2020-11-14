@@ -9,11 +9,23 @@ from bs4 import BeautifulSoup
 
 pbar = tqdm(total=10)
 
+# Nationwide lockdown:
+
+# Phase 1: 25 March 2020 – 14 April 2020 (21 days)
+# Phase 2: 15 April 2020 – 3 May 2020 (19 days)
+# Phase 3: 4 May 2020 – 17 May 2020 (14 days)
+# Phase 4: 18 May 2020 – 31 May 2020 (14 days)
+
+# Unlock:
+
+# Unlock 1.0: 1 June 2020 – 30 June 2020 (30 days)
+# Unlock 2.0: 1 July 2020 – 31 July 2020 (31 days)
+# Unlock 3.0: 1 August 2020 – 31 August 2020 (10 days)
 
 page_number = 43800
 # <div style="font-family: arial; font-size: 12px; font-weight: bold; color: rgb(0, 102, 153); --darkreader-inline-color:#61caff;" data-darkreader-inline-color="">
 corona_terms = ['coronavirus', 'covid', 'n95', 'quarantine', 'lockdown', 'vaccine', 
-                'unlock', 'pandemic', 'wuhan', 'tablighi', 'virus', 'testing']
+                'unlock', 'pandemic', 'wuhan', 'tablighi', 'virus', 'testing', 'travel', 'reopen', 'china']
 
 while page_number <= 44058:
     pbar.update(1)
@@ -38,3 +50,4 @@ while page_number <= 44058:
                     break
 
     page_number += 1
+

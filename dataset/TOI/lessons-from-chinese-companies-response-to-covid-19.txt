@@ -1,0 +1,129 @@
+How Chinese companies responded to Covid-19
+2020-06-13
+The past four months have provided an opportunity to study a once-in-a-lifetime moment — how companies function during an unprecedented global pandemic while also navigating an accelerated shift to digital operations.
+
+China was weeks ahead of the rest of the world in dealing with the pandemic and its fallout, so their experience is of interest. We conducted a series of 20 in-depth, in-person interviews, as well as a large-scale survey of more than 350 senior executives, to ascertain how the Chinese corporate world has adapted, innovated, survived — and even thrived — through this uncertain time. The companies we looked at, which ranged from state-owned enterprises to multinational corporations to local private companies, were forced to quickly:
+
+
+
+ Leverage digital technologies so that they could adapt and innovate
+ Try out novel business models
+ Stitch together solutions to address emerging and previously unrecognized customer needs
+ Develop new business processes and practices
+ Redefine models for collaboration and teamwork.
+
+As China emerges from its Covid-19 lockdown, it is becoming clear that many of the challenges they faced are here to stay – and that some of the changes they introduced should be, as well. We identified 11 lessons to help inform business leaders throughout the rest of the world.
+
+ 
+
+
+
+1. Be transparent about your challenges.
+
+Leaders in our survey who reported their firms had successfully managed the crisis told us they regularly kept their teams up to date on the state of their organizations, as well as the priorities and principles that would guide decisions at all levels. These leaders said they plan to sustain this higher level of transparency and information sharing going forward with more frequent, direct, frank, and personal communication.
+
+
+
+ For example, when asked during a meeting with employees why his company decided to shut down one of its global R&D centers, which symbolized the future of the business, the CEO of a major engineering and technology company replied: “If we cannot survive the next three months, we will have no future at all.”
+
+The increased transparency wasn’t always easy. Multiple leaders told us that they felt their actions were under a microscope, with employees watching to see whether their behavior aligned with stated corporate values. They truly had to “walk the walk and talk the talk.” They also had to accept that not all employees would be pleased with their decisions. But ultimately these leaders reported that the majority of employees adopted a feeling of “we are all in this battle together and fighting the same enemy” that seemed to exceed localized employee dissatisfaction.
+
+
+2. Adopt new modes of communication.
+Leaders we spoke with reported that communication during the pandemic, although less “in-person,” tended to be more personal. Many avoided email and used audio apps such as Dingtalk or WeChat instead, or internal apps developed to facilitate information sharing and employee interaction. Interestingly, a number of leaders of multinational companies said that they felt handicapped by the incompatibility of their global communication channels with some of the popular local communication technologies used by Chinese companies.
+
+We were surprised to hear that virtual video meetings have continued to be the norm since the return of employees to the workplace — sometimes even when all attendees are physically present in the same office. Many of the leaders we interviewed expect to convene fewer large, in-person gatherings and are planning more virtual events, believing them to be more efficient, direct, goal-oriented, and brief than in-person meetings. Most acknowledged, however, that video meetings are more intense and reduce opportunities for personal conversations and small talk, which have traditionally served to strengthen relationship bonds among colleagues.
+
+
+3. Accelerate digital transformation.
+The sudden, unforeseen economy-wide lockdown forced firms to switch literally overnight to completely digital models. Speed was of the essence: they needed to find creative solutions for emerging customer needs, overcome process barriers imposed by the lockdown, and find cost savings. Industries that would otherwise have taken years to realize their digital transformation agendas accelerated their efforts dramatically.
+
+The crisis had the unexpected benefit of converting customers who had previously resisted innovations aimed at migrating them to digital platforms.
+
+
+
+ For example, New Oriental Group, a leading education company, had struggled for two years to convince parents, students, and educators to move to a live-streaming platform capable of supporting one million students simultaneously. The pandemic led to a rapid, widespread adoption of the platform — even in cities not previously served by the firm.
+
+
+4. Re-organize to enhance decision making
+
+Traditionally, decision making in Chinese companies has tended to be top-down with numerous reviews and approvals at many levels. During the Covid crisis, many of our respondents reported a diminished role for mid-level managers. Speeding up digital transformation led to automation of some routine activities across a broad set of business sectors.
+
+
+
+ Ping An Bank, for example, has taken its “data-oriented operation” to the next level, transforming its organization from the traditional hierarchical pyramid to a dumbbell-shaped organization by increasing the number of senior executives focused on digital transformation and IT; keeping the number of middle-level managers flat despite rapid growth; and expanding the scale of front line market-facing teams. The firm has encouraged senior leaders to directly manage larger front line teams using digital tools and data, changing their primary mode of working from “managing with experience” to “managing with data.” The firm’s business performance reached record high levels in April 2020 despite the crisis.
+
+With leaders able to directly engage the entire organization through digital channels, mid-level managers were no longer vital communication conduits between leadership and the front line. Senior managers were forced to become more deeply involved in strategy and policy decisions to ensure a speedy response to rapidly shifting business conditions. A high degree of variation in local conditions, moreover, drove more real-time execution decisions by empowered front line teams closer to customers and more familiar with the local laws and conditions.
+
+
+
+ Yili Group, a leading dairy company, faced unprecedented logistics and transportation challenges during the shutdown. It had to reach out to farmers, milk factories, transportation companies, and local governments, as well as other partners in locations across the country, to keep the supply chain moving. Regional front line employees were authorized to take action to resolve unexpected problems such as road blocks, health checks for drivers, and community shutdowns. This ensured that they were able to continue to deliver to even the most remote locations across China.
+
+Leaders we interviewed believe that this reduction in organizational bureaucracy will facilitate increased collaboration and execution, crucial enablers of innovation at speed and scale.
+
+
+5. Find new ways to collaborate.
+
+Achieving desired changes in a timely manner often required collaborating in new ways with external partners, including customers, suppliers, regulators, and even competitors.
+
+
+
+ Movie studio Huanxi Media Group stood to lose millions on “Lost in Russia,” a film timed to release in theaters during the peak Chinese New Year holiday season. With movie theaters closed, the company struck a deal within 24 hours with Bytedance (owner of TikTok and other video streaming apps in China) to livestream this movie and other content across its platforms, earning Huanxi $91 million and netting the film more than 600 million views within two days.
+
+Our respondents also noted the need for swift internal reorganizations with leaders and employees cutting across traditional silos to set up agile project teams to solve problems as they cropped up.
+
+
+
+ Trip.com Group, a leading travel agency, felt the impact of Covid-19 early, with millions of travelers cancelling their travel plans during the country’s peak travel season. Stepping up to the challenge, each department —IT, customer service, commercial, legal affairs, finance, and communications — played an important role in responding to the evolving situation. IT streamlined cancellation requests by developing a new “one-click” application, while the commercial team reached out to partners across the world to standardize cancellation policies for users. The communications department worked closely with IT to ensure the latest information and policies were made available to users in a timely fashion, while finance coordinated refunds to users. Throughout this, the facilities team worked to ensure the safety of employees who had to come into the office to access certain systems. This cross-departmental collaboration was critical in helping the firm respond, with its reputation intact.
+We heard from many firms that leadership and HR are striving to sustain their newfound agility by redefining job responsibilities and work processes to encourage collaboration across functions.
+
+
+6. Formalize and enable remote work.Remote working was rarely practiced or supported in China prior to the pandemic. Given that the 9-to-5 work day was unlikely to transfer from office to home environments, managers needed to accommodate, within reason, varying work schedules based on personal circumstances and constraints. More self-motivated and outcome-focused individuals were able to make the transition seamlessly, but others who were more comfortable operating in a traditional command-and-control mode needed training to be effective.
+
+
+
+ The Chinese division of Bosch, a global technology and services supplier, had to instill a new understanding of trust”, training its managers to work and manage remotely, and emphasizing a results-driven approach over the outmoded presence-driven model.
+
+7. Support lifelong learning at scale.Most of the leaders we interviewed believe that lifelong learning and a growth mindset will be crucial for employees of the future, especially as work continues to move on-line.
+
+Because of reduced travel and better communication tools, many of the C-suite leaders in our study reported greater involvement as teachers and change managers within their organizations. They reported being actively engaged in developing talent and ensuring organizational alignment.
+
+
+
+ New Oriental, a private education provider, moved all of its training online, allowing the CEO and other executives to share their experiences directly with trainees across the country. The change worked out well. Previously, it was challenging to schedule in-person visits to employee training groups in local settings across the country. Conducting training online from their homes or office removed this hurdle and enabled rapid scaling of this effort.
+
+8. Rethink how you evaluate employee performance.According to most of the leaders in our study, the pandemic presented a unique opportunity to observe how senior and mid-level managers responded to new challenges and allowed them to form preliminary judgments about managers’ future leadership potential.
+
+The demands of crisis leadership forced leaders to delegate routine work to teams in order to refocus their own efforts on big-picture thinking. Top management was able to see which leaders busied themselves with routine work and failed to develop broader leadership competencies.
+
+Moving down the chain, managers reported a shift to objective metrics, such as number of sales calls made, customer service calls attended, hours logged on, or tickets closed. They used online dashboards and digital data to assess staff workload and performance. However, the quest for daily objective measures risks overemphasizing short-term results. Daily dashboards should ideally be balanced with medium- to long-term, albeit perhaps less task-oriented, metrics. High levels of uncertainty and change, moreover, dictate that managers operate against agile, flexible goals rather than fixed targets.
+
+9. Identify volunteer opportunities.
+
+We heard repeatedly from leaders about the power of employing a “volunteering” approach to identify, motivate, and engage front line employees. Especially when confronting new business initiatives with social impact, they found that individuals assigned to a task did not operate with the same degree of willingness, ownership, and motivation as individuals who volunteered.
+
+
+
+ Yum China, a fast food chain that closed most of its outlets in Wuhan, decided to keep a few open to serve medical staff. Aware that some employees and their families would be concerned about the high risk of working at these outlets, the company decided to ask for volunteers, unsure whether they would get the requisite numbers. To their surprise, within two hours of putting the word out they had 900 volunteers, far exceeding requirements.
+
+Several firms reported that their younger, digitally savvy employees subsequently shared touching videos of their volunteer efforts with friends and colleagues on platforms like TikTok, helping to boost team morale and allay the oppressive mood during difficult periods.
+
+Multiple leaders reported plans to deploy future volunteer-led initiatives to identify and execute complex business model changes, enhance staff engagement, and support a more ambitious social impact agenda.
+
+10. Help your employees build resilience.
+Many of the leaders we surveyed reported that employees were experiencing high levels of anxiety and lack of motivation. This was particularly true of millennials whose careers had been fueled by the tailwinds of China’s meteoric and consistent growth over the past three decades; they are fearful that the future will be less bright, with growth opportunities significantly reduced relative to their parents’ generation.
+
+11. Foster a more connected organization.
+
+The leaders we spoke with expressed a near-universal agreement that the shared experience of coping with the pandemic had engendered higher levels of tolerance, patience, and empathy within their organizations. Seeing colleagues on video calls in their homes, dressed casually, with family members and pets making appearances, for example, made interactions more personal. Most organizations in our study anticipate greater cohesiveness and camaraderie among teams that worked together through the crisis. 
+
+
+Planning for the Post-Covid World 
+
+We identified two additional findings from our research. First, the market-leading firms in our study — which had strong reserves to weather the storm — actively invested in the short term with the sole focus of extending their long-term advantage over less endowed competitors. The leaders of these firms responded to tough times not by preserving resources, but by investing their reserves in strengthening their firms’ competitive position in the market.
+
+Our second finding is that these firms were aggressively speeding up and expanding their digitization strategies, and implementing systems to ensure that new skills, practices, and behaviors are integrated into their organization’s muscle memory. They further recognized that considerable discipline will be required to ensure that employees not revert back to pre-crisis habits.
+
+
+(Das Narayandas is the Edsel Bryant Ford Professor of Business Administration, Senior Associate Dean, HBS Publishing and External Relations, Harvard Business School. Vinay Hebbar is the Senior Vice President (International Markets) at Harvard Business Publishing. Liangliang Li is the CEO, HUBS Education & Technology Company, China).
+

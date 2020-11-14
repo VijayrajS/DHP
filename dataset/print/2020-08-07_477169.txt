@@ -1,0 +1,25 @@
+Dadra & Nagar Haveli positivity rate shoots up to India’s highest, Delhi infection rate dips
+New Delhi: India’s Covid-19 cases tally crossed the 20 lakh-mark Friday with the highest single-day spike of 62,538 cases, said the health ministry.
+The numbers rose to 20,27,075, which included 6,07,384 active cases, 13,78,106 cured/discharged/migrated cases and 41,585 deaths, according to the ministry.
+In the ThePrint’s daily State Tracker, we take a look at the data on testing and the rate at which the infection is spreading in throughout India.
+For this analysis, we use three parameters:
+Rt value, known as reproduction number, is indicative of the number of new cases that are expected to emerge from a single case. An R value of less than 1 suggests that the rate of infection is slow since an infected patient will only infect less than one person.
+Positivity rate is the percentage of people who are found to be infected by the virus from those who are being tested. This parameter indicates how widespread the disease is.
+Tests per million give insight into the amount of testing being conducted in relation to the population of an area.
+All data is sourced from covidtoday.in.
+Also read: Andaman & Nicobar Islands have highest Rt value, UP increases testing but still among lowest on 6 August
+
+As of 7 August, India’s Rt value was 1.08, decreasing 1.13 from 24 hours ago.
+The lowest Rt value in the country was witnessed in Meghalaya (0.82), followed by Delhi (0.95), which saw a decrease from 6 August, and Himachal Pradesh (0.97). Sikkim, which earlier had the lowest value, is no longer among the lowest five.
+Tamil Nadu made an entry as the state with the third lowest Rt value at 0.98, followed by Arunachal Pradesh and Chhattisgarh, both at 0.99. Six states now have an Rt value below 1.
+The highest Rt value of 1.56 was recorded in Nagaland, which rose from 1.37 in the past 24 hours. Andaman and Nicobar Islands came next at 1.52, followed by Sikkim at 1.35, Ladakh at 1.31 and Mizoram at 1.29.
+
+The positivity rate in India, which had been recording a steady decrease last week, saw a rise in the past 24 hours, going from 9.56 per cent to 9.75 per cent on 7 August.
+Arunachal Pradesh continued to record the lowest positivity rate at 2.20 per cent. This was followed by Meghalaya at 2.66 per cent, which fell from 2.82 per cent in the past 24 hours. Himachal Pradesh’s positivity rate increased to 3.40 per cent from 3.23 per cent. This was followed by Tripura with 3.79 per cent, which also increased from 3.44 per cent a day ago. Sikkim’s positivity rate also increased, but is no longer among the lowest five. Manipur displace it with 3.98 per cent. Sikkim is now ranked seventh lowest with 4.12 per cent.
+Of the states with the highest positivity rates, Dadra and Nagar Haveli shot up to 23.26 per cent, making it the highest across the country. It was 20.95 per cent on 6 August.
+Andaman and Nicobar Islands were pushed second with 22.51 per cent, clocking a decrease from 22.96 per cent a day ago.
+In third spot is Puducherry with 20.44 per cent, and then Nagaland at 17.65 per cent. Maharashtra made it back to the list at the fifth spot with 16.32 per cent, replacing Goa which slipped to the seventh rank with 15.31 per cent.
+
+The national test per million conducted in India as of 7 August was 16,617.
+The lowest number of tests per million were recorded in Bihar (6,404). This was followed by Jharkhand (9,281), Madhya Pradesh (9,916), West Bengal (10,322) and Uttar Pradesh (11,760). These five states had the lowest testing per million even Thursday.
+Goa remains the state conducting the highest number of tests per million at 89,640. Ladakh came next with 73,983 tests, which has consistently been at the second spot this week. This was followed by Dadra and Nagar Haveli at 69,716, Andaman and Nicobar Islands at 63,582 (marking an increase from 61,927 tests on 6 August), Arunachal Pradesh at 62,868 and Delhi at 59,875 tests per million.

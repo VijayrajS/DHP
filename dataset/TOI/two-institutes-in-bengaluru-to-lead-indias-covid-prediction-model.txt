@@ -1,0 +1,18 @@
+Two institutes in Bengaluru to lead India’s Covid prediction model
+2020-05-31
+BENGALURU: The department of science and technology (DST) has started ‘Covid-19 Indian National Supermodel’ for prediction and monitoring of infection patterns. The project will aid decisions on health and mitigation measures. 
+
+Two top institutes in Bengaluru — the Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) and Indian Institute of Science (IISc) — will play a crucial role in the programme.
+
+The department has initiated the project to pool in expertise in the field and create one forecast and monitoring model for the entire country. It will be subjected to rigorous tests required for evidence-based prediction, which is routinely practised in weather forecasting communities.
+
+The model will rely on data relevant to Covid-19 and have an adaptive built-in component to learn from new trends. “It will aggregate successful evidence-based mathematical and statistical forecasting models and include the best predictive analytics for robust forecasting of infectious disease spread,” the department said. “The supermodel could be used by policymakers in India and around the world to overcome difficulties in predicting the rate of spread of infection and how it would burden the healthcare sector.” 
+
+It added that JNCASR and IISc would coordinate and lead the effort, connecting with existing Covid-19 modelling projects and programmes in the country. This will help develop a set of benchmarks to assess various models and deliver ‘Covid-19 India National Supermodel’. The coordination team will consult and work with research groups active in modelling, software developers and reputed companies to ensure delivery of a suitable user interface and software.
+
+“While the government is keeping a close watch on infectivity and mortality, it is imperative to bring in a robust model for predicting the spread and enhancing disease surveillance. Numerous mathematical models for Covid-19 forecasting and surveillance are being worked out by investigators funded by DST-SERB [Science and Engineering Research Board] and other agencies,” the department said.
+
+Further, a consultative committee will work with the department, SERB, JNCASR, IISc and modellers to provide critical inputs on technical aggregation, guidance and delivery of the supermodel.
+
+“Mathematical modelling and simulations for the spread of Covid-19 and its impact are not mere academic exercises. They are critical needs for rational decision-making, planning and resource management. It is of vital importance that a robust national model, vetted by a large cross-section of the scientific community working in the area, is developed,” said professor Ashutosh Sharma, secretary, DST.
+

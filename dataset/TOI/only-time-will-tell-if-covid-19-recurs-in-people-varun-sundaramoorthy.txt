@@ -1,0 +1,38 @@
+Only time will tell if Covid-19 recurs in people: Varun Sundaramoorthy
+2020-05-14
+On the day the last active Covid-19 patient was discharged from ESI Hospital, Pratiksha Ramkumar caught up with Dr Varun Sundaramoorthy, infectious diseases expert from Kovai Medical Center and Hospital, to talk about whether the district is free of novel coronavirus and its impact on the lives of people.
+
+
+How different is Covid-19 compared to H1N1 virus and common flu in terms of symptoms and behaviour?
+While symptoms are broadly similar, their onset is different. In the case of H1N1, symptoms include high fever, nasal congestion and severe fatigue. But in the case of Covid-19, symptoms progress gradually from a low fever, fatigue, nasal congestion to pneumonia in five to seven days in senior citizens or people with comorbidity.
+
+
+How is pneumonia caused by Covid-19 different from the one that follows H1N1 or common flu?
+
+Pneumonia could be caused by any viral or bacterial infection. When a patient with pneumonia shows up, we will not know which virus caused it. We will have to diagnose it based on clinical syndrome while running tests. Whether to start antiviral, antibiotic or both depends on the severity of problem and clinical syndrome of the patient. We have specific antivirals for treating influenza. However, there is no definitive treatment options for Covid-19 for now. Randomised control trials are coming up with the best possible treatment options.
+
+
+What are the consequences of children getting infected?
+
+Infected children would have low fever, fatiguability and throat pain. Other symptoms include diarrhoea and conjunctivitis. Compared to adolescents, chances of children developing complications due to the infection is lesser. There are multiple reasons for this. One of them is that most of them remain asymptomatic or have milder infections. Then, the number of ACE-2 receptor to which Covid-19 virus binds to enter human cells is not well expressed in children. Another reason is that Bacille Calmette-Guérin (BCG) vaccination has some protective effect, which needs further study.
+
+
+Should children prone to wheezing be protected more?
+Children with a history of asthma or wheezing, if infected and develop symptoms, need to be hospitalized. This is because post viral encounters, the normal mucosal barrier, which restrains microorganisms from invading, could be breached due to non-specific inflammation. This would result in invasion and disease due to secondary bacterial infection from the community and may progress to pneumonia/sepsis and multi organ dysfunction. Also, children with wheezing who requires nebulization, which if done at houses, could easily infect caregivers because their respiratory droplets will remain in the air for longer. Caregivers need to follow precautions like wearing proper N 95 masks, physical distancing and proper hand hygiene.
+
+If symptomatic patients get some other illness, will it take them longer to recover?
+
+Definitely yes. Patients on steroids for long or immunosuppressants for other health conditions and those suffering from heart, kidney lung and liver problems, among others, if infected, will take longer time to recover, because they are vulnerable and may develop complications. If patients with chronic obstructive pulmonary disease (COPD) or other lung issues get infected, they might also develop complications like respiratory failure. They may then require ICU care.
+
+Why are people in their 50s in India dying of Covid-19?
+
+It is again because of comorbid conditions like heart diseases, COPD and diabetes that are common among the Indians in this age group. We call them vulnerable, especially if the primary disease is in poor control. In that case, there is a fair chance of them developing complications like respiratory failure, cardiac rhythm abnormality, decreased cardiac pumping ability, stroke and coagulation problems, leading to mortality. This is because diffusion of oxygen into blood is compromised resulting in hypoxia, which in turn affects hemodynamics and causes organ dysfunction. However, those without comorbidity generally recovers in a week or two. Those with complications might take three to six weeks to recover.
+
+Is Covid-19 a mutating virus? Any chances of it becoming less lethal?
+
+From the 82 strains from India that were studied at the Commonwealth Industrial and Research Organization in Australia by Indian born researcher Dr Vasan, 50 were mutated ones. Strains with D614G mutation seem very contagious and most prevalent among the mutated strains. However, studies on its behaviour is yet to come. And among the 7,000 strains from across the world, two-thirds had D614G mutation. As it is a slow mutating virus, it will take years to evolve into a newer strain unlike influenza because of its ability to proofread and correct the mistakes in the genome while replicating.
+
+Can covid-19 recur in people who have already developed antibodies to it?
+Unlike H1N1, which could easily shift its genomic sequence prone for mutations as it does not have proofreading capacity, SARS CoV-2 has a viral protein (RNA dependant RNA polymerase) that proofreads while replicating genomes and are able to fix some mistakes. Hence, the chance of a complete mutation is less likely. However, it may pick up some mutation over the years that might help to evade our immune system. But studies on it and the effectiveness of antibodies in prevention of reinfection are yet to commence. 
+
+

@@ -1,0 +1,24 @@
+Noida sets up app alert for quarantine breach
+2020-04-04
+NOIDA: Tightening the lockdown in Noida, which has the most Covid-19 cases in UP, the state government has restricted the number of people who can travel in a vehicle and turned to app-based surveillance and monitoring of people in quarantine in which alerts will go out to the local administration if a person directed to be in isolation moves out of the house. 
+
+
+Starting Friday, only one person will be allowed on a two-wheeler and only two in a four-wheeler — one in the driver’s seat and the other in the backseat, a statement issued by the director (media) for police commissioner Alok Kumar Singh said. In case of a violation, the vehicle will be seized and an FIR lodged. “If a woman is travelling with her husband, or if an elderly person is riding pillion, they will not be penalised. Those travelling in a four-wheeler for an emergency will also be exempted,” additional CP (law and order) Akhilesh Singh said. The police statement had not listed the exemptions.
+
+While vehicles carrying essential items or with passes are allowed on roads, only two people are allowed inside. “Heavy loaded vehicles can continue plying but they should only have a driver and a cleaner. Anyone else found inside the vehicle will be made to get off and sent to the nearest shelter home,” the statement said. A vehicle seized for violating these rules will not released as long as Section 144 is in effect in the district. 
+
+In addition to social distancing, imperative to efforts to contain the spread of the novel coronavirus is contact tracing. To speed this up, the administration has turned to digital solutions, launching two apps for internal use — one for surveillance and another for contact tracing. Data from all three will be channelled to an integrated platform.
+
+One app will be installed on the phones of those asked to quarantine themselves at home. A travel range will be set, which will match the size of the house. “When someone crosses the range, we will be notified,” said Dadri subdivisional magistrate Rajeev Rai. Those home quarantined will also be asked to share their photos every few hours. 
+
+The location details in the photos’ metadata will be used to make sure they are where they say they are. “The surveillance of people in home isolation may be the first of its kind. People often don’t follow guidelines and step out without informing the administration, risking themselves and others. The app will inform us the moment someone tries to leave the house,” district magistrate Suhas LY said. 
+
+The surveillance mechanism is, however, entirely dependent on the location of the phone. “To address that, the app has an auto random videocalling feature. If a person does not respond, it will be assumed quarantine is breached. For those who do not have smartphones, we will start stamping hands (this has not been done in UP before), take an undertaking that they will stay home and start cold calling them,” the DM said. 
+
+Another app will automate the process of contact tracing. “We will use a predictive software to trace primary and secondary contacts of Covid-19 patients so the administration can move fast,” the DM said.
+
+Data from both will go into an integrated platform, which will track every caller, and possible patients and their contacts. Whenever a person tests positive, all their contacts will already be at hand, instead of the process starting after a positive case comes in. All relevant departments will immediately be informed and expected to respond swiftly. With this, there is now just one helpline for Noida: 1800-419-2211. Speed of response has been cited as the reason why Noida became the state’s Covid-19 hotspot. As of Friday, 54 of the state’s 174 cases were from Noida. Chief minister Yogi Adityanath replaced both the district magistrate and the CMO earlier this week. 
+
+The administration on Friday planned a temporary reprieve — hotels will be converted into paid quarantine facilities for those who have not tested positive but asked to self-isolate. Four more hotels — Hotel Ginger in Sector 63, Mosaic and Radisson Blu in Sector 18 and Golf View in Sector 37 — and some vacant residential towers that will be used as quarantine facilities. For five-star hotels, Rs 2,500 per day has been fixed, while the rate is Rs 2,000 a day for a four-star and Rs 1,500 a day for a three-star. “We are providing people the option of paid quarantine facility at these locations at nominal charges,” the DM said.
+
+

@@ -1,0 +1,27 @@
+PCMC forms tech war room to combat Covid-19
+2020-04-18
+PIMPRI CHINCHWAD: Officials in the PCMC building’s fourth-floor office have been keeping a close watch on the eight 55-inch TV screens presenting a real-time images of the areas where Covid-19 cases have been reported.
+
+With GIS overlapping on Google Maps, the Pimpri Chinchwad Municipal Corporation (PCMC) is able to keep track of those areas that are now under containment. The place where the patient is found is mapped with a red flag, covering each household in the vicinity.
+
+The patient’s activity levels are ascertained to know the possibility of him/her having spread the infection. “Some patients are active. For instance, if they are walkers, we trace back their routine to know who could have met them on a regular-basis. In some cases, patients stay home so we trace their contacts differently,” PCMC commissioner Shravan Hardikar said. 
+
+An automated dashboard in the technology war room gives a real-time update of the positive cases — those that need attention and those who are in active (14 days) and passive (28 days) home quarantine. Also, a feed of 85 locations (in inset screens) is monitored continuously to see the effectiveness of the lockdown. 
+
+“If there is a crowd at any of the places, an alarm goes off for the police. This is the reason why we were able to enforce the restrictions on vegetable sales effectively for three days,” Hardikar said. 
+
+He said it had helped the rapid response team — comprising senior officers and doctors — take important decisions without delays. 
+
+A project for the Smart City control room was already in the works and the war room was an improvisation.
+
+“When the first few cases trickled in, the commissioner asked us if we could use the Smart City software to create a war room. He gave his inputs on what was required and our team built it up,” Saily Lad, director, Krystal Integrated Services Pvt. Ltd said. 
+
+One of the key elements was to get all the cameras connected and install more cameras at important locations. Then, the occupied and vacant hospital beds are also monitored at real time across the 10 participating hospitals. 
+
+“If during a survey, any symptomatic or high-risk patient is found, the field team makes those changes on their hand-held device and the same is reflected here, following which a serious of actions are taken according to protocols,” the civic chief said.
+
+Hardikar said the mobile application ‘PCMC Smart Sarathi’ has been a gamechanger. It aims at giving people micro-level information like how many dispensaries in their vicinity are fever clinics or can check on people in the first instance. 
+
+“The overall idea is to monitor things aggressively and keep the count really low,” Lad said.
+
+

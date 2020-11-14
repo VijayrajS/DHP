@@ -1,0 +1,14 @@
+Hackathon to develop app on Covid issues
+2020-04-23
+TRICHY: University College of Engineering, Anna University, BIT campus, Trichy is organizing a national level Covid-19 bioinformatics online hackathon from April 27 to May 6 to develop a comprehensive app covering numerous issues related to Covid-19.
+
+
+The idea is to integrate 25 problems faced by people during the lockdown such as labour shelter mapping, public healthcare locations for Covid-19, patient input data on fever and doctor’s online appointment. The solutions for these problem statements will have to be integrated into a common disaster risk management (DRM) app that can help in stamping out the pandemic.
+
+“Through this initiative, our vision is to create a common platform for national health management system,” said Puratchikody, head, department of pharmaceutical technology.
+
+Most mobile applications that are beneficial for the society are available in fragments. For instance, there are separate apps for health, one for rehabilitation and another for relief. We are trying to integrate them in such a way that they are of use even in future through upgradation, she said.
+
+ We are collaborating with staffs from IIT Bombay, Derbi Foundation, a startup accelerator from Bengaluru, Climate Smart Technologies (CST), expert in rapidly developing disaster risk management apps apart from Madras School of Social Work, Chennai. tnn
+
+

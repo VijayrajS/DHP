@@ -1,0 +1,24 @@
+Puducherry overtakes Dadra & Nagar Haveli with top positivity rate, Goa remains testing champ
+New Delhi: India’s Covid-19 tally crossed the 22 lakh mark Monday as number of reported cases rose to 2,21, 074 with 44,386 deaths and 15,35,743 recoveries, according to the Ministry of Health and Family Welfare Monday.
+Daily cases continued to cross the 60,000-mark for the fourth consecutive day with 62,064 new cases on 10 August.
+In the ThePrint’s daily State Tracker, we take a look at the data on testing and the rate at which the infection is spreading in throughout India.
+For this analysis, we use three parameters:
+Rt value, known as reproduction number, is indicative of the number of new cases that are expected to emerge from a single case. An R value of less than 1 suggests that the rate of infection is slow since an infected patient will only infect less than one person.
+Positivity rate is the percentage of people who are found to be infected by the virus from those who are being tested. This parameter indicates how widespread the disease is.
+Tests per million give insight into the amount of testing being conducted in relation to the population of an area.
+All data is sourced from covidtoday.in.
+Also read: Dadra & Nagar Haveli positivity rate shoots up to India’s highest, Delhi infection rate dips on 7 August
+
+India’s Rt value remained unchanged since 7 August at 1.08. The states with the lowest Rt values also remained unchanged over the weekend.
+Meghalaya (0.82) recorded the lowest Rt value in the country, followed by Delhi (0.95), and Himachal Pradesh (0.97). Tamil Nadu (0.98) came fourth followed by Arunachal Pradesh and Chhattisgarh (both at 0.99). Since 7 August, six states have had an Rt value below 1.
+The states with the highest Rt values were also unchanged since 7 August. Nagaland continued to record the highest Rt value in the country at 1.56. This was followed by Andaman and Nicobar Islands at 1.52, Sikkim at 1.35, Ladakh at 1.31 and Mizoram at 1.29.
+
+The positivity rate in India recorded a significant decrease from 9.75 per cent on 7 August to 8.8 per cent on 10 August.
+The lowest positivity rate in the country was recorded in Meghalaya at 2.21 per cent, which overtook Arunachal Pradesh that recorded the second-lowest value, 2.57 per cent. This was followed by Tripura at 4.01 per cent, replacing Himachal Pradesh a the third position. Himachal Pradesh moved down to the fifth spot with 4.36 per cent while Gujarat moved to the fourth spot at 4.26 per cent.
+Of the states with the highest positivity rates, Puducherry recorded 24.60 per cent, shooting up to the top position from the third. Andaman and Nicobar Islands remained at the second spot with 20.09 per cent. Dadra and Nagar Haveli, which recorded the highest positivity rate on 7 August, moved down to the third with 16.83 per cent. This was followed by Andhra Pradesh with 16.38 per cent, which replaced Nagaland at the fourth spot. Nagaland which was among the top five last week, moved down to the eighth position. Maharashtra was at the fifth position with 15.76 per cent.
+
+The national test per million conducted in India as of 10 August was 17,578. The four states recording the lowest tests per million remained the same since 7 August.
+Bihar (8,188) continued to record the lowest number of tests per million. Jharkhand (9,854) cam next, with Madhya Pradesh (10,446) and West Bengal (11,102) after it.
+Meghalaya (12,068) took the fifth spot, replacing Uttar Pradesh, which improved its testing to register the country’s seventh lowest testing number (13,109).
+Goa has been consistently recording the highest number of tests per million. On 10 August, it stood at 94,123. Ladakh came next with 76,170 tests, which has also been consistent as the region with the second highest number of tests for a week. Dadra and Nagar Haveli recorded 69,716 tests to come third, Arunachal Pradesh was fourth with 68,000, an improvement that moved it up a spot to the fourth and Delhi remained the fifth best with  63,710 tests per million.
+Andaman and Nicobar Islands, which ranked among the top five last week, moved down to the sixth position with 63,582 tests per million.

@@ -1,0 +1,17 @@
+Navy facilitates remote monitoring of Covid patients at VIMS intensive care
+2020-05-11
+Visakhapatnam: In an attempt to reduce the risk of coronavirus (Covid-19) transmission to the health staff of Visakha Institute of Medical Sciences (VIMS), the Eastern Naval Command (ENC) has devised and provided a remote monitoring facility to check on the parameters of ICU patients. 
+
+Director of VIMS Dr K Satyavaraprasad had requested to explore the feasibility of remote monitoring of vital parameters when the Indian Navy handed over the Portable Multifeed Oxygen Manifold recently. 
+
+Following the request, a core team comprising two officers and four workers of the Naval Dockyard-Visakhapatnam expeditiously designed and came up with a solution. 
+
+The audio-visual output of the bedside Patient Monitoring System was converted to HDMI (High Definition Media Interface) output and multiplexed for all 48 beds in ICU through a digital video recorder and provided on a big display outside the ICUs where the staff sits.
+
+The facility includes monitoring of all patients simultaneously or selecting as required including zooming on a patient and an audio alarm if any vitals are beyond. 
+
+Further, the same parameters through HDMI ethernet converter have also been provided to the doctors on their mobile phones. The doctor can at any time from any place, with internet connectivity, monitor his 48 patients in the ICU. 
+
+The conceptualisation to final implementation at VIMS and handing over to the VIMS director was completed in six days.
+
+

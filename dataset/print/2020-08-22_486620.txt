@@ -1,0 +1,24 @@
+This is how Karnataka’s Covid War Room is fighting the big battle, one app at a time
+Bengaluru: On Wednesday, Karnataka went online with a new time-saving application that allows people to check their Covid-19 test result. On the app, all one needs to do is enter a Specimen Referral Form (SRF) number, which is given to every patient who gets tested for Covid, and track updates.
+The SRF ID app is only the latest among eight in-house applications that Karnataka has launched as part of its pandemic management — Coronawatch, Quarantine Watch, SRF ID, Containment zone, Yatri, Health Watch, Daily Analytics and Reports Software, and Contact Tracing. The last three of these are for frontline workers.
+The man behind the development of these apps is the State Covid War Room chief Munish Moudgil, who has been at the forefront of the coronavirus battle in Karnataka.
+While the usual practice for technology-driven applications is to outsource them to IT companies, which comes at a hefty price tag, IIT-Bombay graduate Moudgil and his team of in-house developers have been working tirelessly to provide simple technological solutions at no cost to the government over the past few months.
+A special officer with the Bruhat Bengaluru Mahanagara Palike (BBMP) war room said these in-house apps have proved to be very helpful in contact-tracing and testing.
+As of Friday, Karnataka had recorded 2.56 lakh cases and 4,429 deaths — among the five worst Covid-hit states in India.
+Also read: India has cheap internet & good e-governance, but lacks good digital life quality, finds study
+Speaking to ThePrint about the government efforts to develop the apps, Moudgil said, “We first detail the problems and then come up with simple, executable solutions.”
+The Covid war room chief explains that during the pandemic, the situation changes drastically and there is a need to develop software that can grow organically.
+“If we were to give this to a private company, we would have to virtually sit down and help them with the changes. They give us a developed app, but the situation demands something that can be altered on need basis,” said the IAS officer.
+“It’s like we don’t build the whole Taj Mahal at once. We build it room by room and make changes based on what the need of the hour is,” he said, adding that his team has vast domain knowledge, and are able to put their 15-20 years’ experience to good use.
+Asked about how long the process takes, he said, “It takes around 2-3 days to develop the first cut and another week to improvise as per user inputs and go live.”
+“We are also trying to streamline the delays in testing. There are two parts. One is the physical part of actual testing in labs and the other is reporting. On the IT side, we are streamlining reports. Physical testing is also being expedited,” said Moudgil.
+Also read: How a Surat techie is making headlines for his Covid innovation — touch-free panel for lifts
+One of the applications that have been launched is called Containment Zone. This, the war room officials said, helps people and the government keep a tab on the number of containment zones and the severity of cases in the area.
+There are other applications that are being used to monitor and trace patients.
+Quarantine Watch is for those who are under home quarantine. People are expected to send selfies and their GPS locations at regular intervals on the app to prove they have been following the isolation norms. This app was developed during the early days of the pandemic when people were seen violating quarantine rules. It has largely helped the government keep a tab on the situation, though the app has faced glitches when in use.
+Coronawatch helps track the movement history of patients even before they test positive. This way people can take precautions while they are in an affected area. The app gives the date and time of visit to spots by the patients.
+Pratima K., a resident of Mahadevapura in Bengaluru, has been using the Coronawatch app regularly.
+“My area has been a hotspot for a while now and since I had to step out to pick groceries, the app has helped me trace areas that could be safer for me to visit,” she said.
+Contact-tracing is an integral step to help identify people who may have come in contact with a positive patient. This app has been part of Karnataka’s much-lauded model. But of late, it has received flak as information hasn’t been updated in its database despite data collection.
+Earlier this month, the Centre urged Karnataka to improve its contact-tracing and testing.
+Other applications developed by this team include the Yatra web app, which helps in keeping a tab on travellers by air and rail, and Health Watch that helps volunteers record door-to-door survey details and identify vulnerable households.

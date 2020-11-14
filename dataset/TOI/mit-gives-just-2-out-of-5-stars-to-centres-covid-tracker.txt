@@ -1,0 +1,11 @@
+MIT gives just 2 out of 5 stars to Centre’s Covid tracker
+2020-05-13
+NEW DELHI: Massachusetts Institute of Technology has given two out of five stars to Aarogya Setu, reigniting the debate around the privacy policies of the contact tracing app. After the Union ministry of information and technology released a new set of “guidelines” around data storage and retention on Monday, digital rights activists, too, questioned some discrepancies with the app’s existing terms and conditions.
+
+
+The new protocol, among other things, lists a “sunset clause”, which mandates that the data stored on servers would be used only for Covid-19 purposes and will be deleted after 180 days. Called Aarogya Setu Data Access and Knowledge Sharing Protocol (2020), they were developed by an “empowered group” on technology and data management.
+
+The MIT tracker documented at least 25 such apps from different countries and on parameters like type of personal data collected, its retention, minimisation, transparency, and whether or not the application is mandatory.
+
+India lost points because of lack of transparency, making the app compulsory and not defining who the data is shared with. China’s contact tracing app is rated the worst, at zero. Apps developed by Austria, Iceland, Israel, Norway, and Singapore have got 5/5. “India is currently the only democratic nation making its coronavirus tracking app mandatory for millions of people,” wrote Patrick Howell of MIT tech review.
+

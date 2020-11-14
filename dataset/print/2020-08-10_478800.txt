@@ -1,0 +1,17 @@
+How a Surat techie is making headlines for his Covid innovation — touch-free panel for lifts
+New Delhi: Bhavin Ahir, a 31-year-old software engineer based in Surat, was looking for an escape from the boredom that came with the lockdown, as well as the anxiety over the spread of Covid-19.
+With some studies showing that the novel coronavirus survives for as long as 72 hours on hard surfaces and could spread through there, the fear of using lifts gripped Ahir, who lives on the 12th floor of a 13-floor building.
+So Ahir got to work early into the lockdown and, within three months, came up with a touch-free panel for lifts.
+This infrared tech-based product has now brought him and his company, TechMax Solution, the attention of global media outlets like CNN.
+With a name that denotes how it works, ‘Sparshless’ (sparsh in Hindi means touch) is fixed parallel to the lift buttons. It allows a person to select the floor by simply pointing a finger from a distance of 10-15 mm. Outside the lift entrance, the user can bring a finger under the sensor to call the lift.
+Sparshless was launched in the first week of June, but has seen a lukewarm market response so far, with only 15 panel sales across the country, says Ahir. But the engineer is hopeful the demand will “increase in the coming months”.
+Also read: It’s not science fiction. Robots running industrial world can be hacked, remote-controlled
+Highlighting the unique nature of the product, Ahir tells ThePrint, “We saw a problem of false triggers (in the early prototype). This means the panels outside the lifts would get triggered because sunlight too contains these infrared rays. Overcoming this design flaw took us some time, and this is what makes us unique and economical.”
+The panel is compatible with 4, 8 and 14-floor buildings. For taller buildings, the company designs custom panels. The 4-floor panel costs Rs 25,000 while the 14-floor version costs up to Rs 40,000.
+Ahir says Sparshless is cheaper and more convenient than its contemporaries. “There are a few products which will get you a similar result but they are much more expensive and have limited use. There are apps which scan QR codes on the lift but the problem with these apps is that not everybody will have them,” he says.
+“Chinese made 3-D holographic panels are expensive and cost anywhere between Rs 1 lakh and 2 lakh,” he says.
+Ahir hasn’t patented Sparshless. “To build this device, it takes skill and understanding of electronics. I don’t want to patent it. If anyone feels that they have the talent to make it, let them try.”
+Talking about his firm TechMax Solution, which is now 11 years old, he says he has a team of 12 permanent employees. Additionally, he employs 25-30 on contract, depending on the product he is working on.
+“I have six engineers and six non-engineers in my team. I do not look for qualifications but for a creative bent of mind,” he says.
+“I strongly believe that college education only teaches you a small part of what goes on in the real world. I usually look for people who will respond well to training.”
+Also read: Google is missing out on the Covid e-commerce revolution Facebook, Amazon are enjoying

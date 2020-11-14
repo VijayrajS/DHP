@@ -1,0 +1,36 @@
+Repurposed drugs offer hope in India’s Covid fight
+2020-05-07
+NEW DELHI: Lopinavir/ritonavir — a fixed-dose combination of drugs used for treatment and prevention of HIV/AIDS — has been approved for use in Covid-19 patients.
+
+India’s apex body for health research, the Indian Council of Medical Research (ICMR), has issued detailed guidelines stating that the drug combination can be used to treat hospitalised patients with a moderate degree of severity, for example respiratory distress with respiratory rate =22/min or SpO2 <94% and new-onset organ dysfunction. 
+
+But this is not the only drug under consideration.
+
+ 
+
+ 
+ICMR has identified over a dozen other drugs, including remdesivir (originally developed to treat Ebola), mycobacterium W (originally developed to treat leprosy), disulfiram (drug for treatment of alcohol dependence) and resveratrol (a natural compound from grape which is under clinical trials for heart and other diseases), which could be used for treating Covid-19. Some of these drugs are undergoing clinical trials in India, sources said.
+
+Till now, ICMR says, no effective treatment has been recommended for the novel coronavirus, except meticulous supportive care.
+
+The protocol for use of lopinavir/ritonavir combination therapy released by the ICMR states their decision is based on the observational studies of clinical benefit amongst patients with SARS-CoV and MERSCoV as well as the docking studies conducted by the National Institute of Virology, Pune.
+
+SARS and MERS, two disease outbreaks that took place in 2002 and 2012, respectively, were also caused by coronaviruses.
+
+ 
+
+
+Any hospital administering the anti-HIV drug combination to Covid-19 patients will need to obtain written informed consent from the patient. Also, such patients need to be enrolled into this protocol on case-to-case basis.
+
+Hospitals will also need to monitor patients closely to generate reliable data about clinical, laboratory, as well as safety outcomes.
+
+"The treatment outcomes amongst the first few cases would be useful in providing guidance about the clinical management of Covid-19 cases in future," the ICMR says. Council director general Balram Bhargava was actively involved in developing the treatment protocol using anti-HIV drugs.
+
+Recently, the ICMR allowed the use of anti-malarial drug hydroxychloroquine (HCQ) for prophylactic use among healthcare workers. Sources said AIIMS Delhi, AIIMS Bhopal, LNJP Hospital and Sir Ganga Ram Hospital, among others, have been roped in by the ICMR to assess its efficacy in preventing the infection among healthcare workers.
+
+Dr Sarman Singh, director of AIIMS Bhopal, said developing a new drug for Covid-19 will take time. "Drug repurposing is much easier and a viable option to find a treatment for Covid-19. That’s why multiple studies are being conducted globally to identify drug combinations used for treating other coronaviruses — for example SARS and MERS, to see whether they can treat Covid-19 as well," he said. Dr Singh added they are also doing clinical trials to assess the use of mycobacteriam W to see if it can boost a patient’s immune system to help his/her body fight the disease.
+
+Scientists say most repurposed drugs have cleared Phase I trials already and it requires lower investment to prove its efficacy for a new disease or condition. "Drug repurposing strategy drastically reduces the time-frame for development," states a review article published in the Indian Journal of Medical Research.
+
+"Drug repurposing to identify candidate drug compounds centred on the target-based criteria can be distinguished into virus- and host-based therapeutics," the article adds. Antivirals can target the viral proteins or the key events in the viral life cycle, including virus-host cell interactions, replication, assembly and egress, thus reducing its growth.
+

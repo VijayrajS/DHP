@@ -1,0 +1,19 @@
+Chennai: Beware! Covid-19 churn throws up phishing racket
+2020-04-11
+CHENNAI: Criminals see an opportunity even in the Covid-19 pandemic. The moratorium on EMIs offered by banks has spawned a whole new phishing racket with scamsters posing as bank executives and calling up the unsuspecting .
+
+
+Banks have been sending out alerts that their staff will not ask for customers CVV, PIN or IPIN numbers, but the danger remains.
+
+ 
+
+According to cyber crime police the ‘bank executives’ ask for debit card details and OTP through a mobile app, Quick Support. Once the Quick Support app is downloaded, the fraudsters call customers to enter the last 6 digits of their debit or credit cards, and CVV, ATM PIN and OTP. Subsequently, money is debited fraudulently from the account.
+
+Another trick is to convince the targets to download screensharing apps to their cell phones and grant access to fraudsters. “After installing the app, as soon as they see the victims logging into their netbanking accounts, stealing the PIN and hacking the account becomes very easy for them,” said a cyber crime official.
+
+Cyber crime officials have appealed to the public not to attend calls coming from the number 8388903115 and to not share bank details. They have warned people against installing screen sharing apps such as QuickSupport, Anydesk and TeamViewer.
+
+A basic thing people should understand is that none of the bank executives will ask for the PIN number or to install apps, said a cyber crime officer.
+
+Another Covid crime is the floating of fake accounts seeking monetary contributions to the PM’s or CM’s relief fund. “When you call up the number mentioned in the advertisement on whatsapp, people respond as if it is for genuine purpose, but none of us knows whether it reaches the government,” the cyber crime official added. Chennai city police receive about 40 to 50 complaints online every day since the lockdown began, compared to 20 to 25 complaints before lockdown.
+

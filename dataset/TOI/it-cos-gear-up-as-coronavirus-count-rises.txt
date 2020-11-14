@@ -1,0 +1,23 @@
+Hyderabad: IT companies gear up as coronavirus count rises
+2020-03-15
+HYDERABAD: With the coronavirus count rising, IT companies in the city are resorting to various preventive measures like encouraging more employees to work from home (WFH), shutting down crowded places like cafeterias and gyms, suspending biometric attendance system, among others, and ensure business continuity. These is in addition to basic preventive measures temperature screening and extensive use of hand sanitisers and masks.
+
+
+Many companies have also begun conducting VPN load tests to ensure that a high number of employees can work from home if need be in the future. Most IT companies insist employees log onto VPN due to security reasons.
+
+According sources, biggies like Google, Amazon, Flipkart, Qualcomm and Cognizant have already been encouraging WFH wherever possible for the next couple of weeks. 
+
+“We continue to work closely with public and private medical experts to ensure we are taking the right precautions as the situation continues to evolve. As a result, we are now recommending that all of our employees globally, who are able to work from home, do so through the end of March,” said an Amazon spokesperson.
+
+Players like OpenText and Pegasystems have put in place odd-even and code systems to enable a part of their employees to work from home on a rotation basis. “Our organisation will be implementing an odd-even rule based on cubicle numbers from Monday,” said an employee of a company located at Raheja Mindspace.
+
+An employee of IT giant Infosys said the company has suspended biometric attendance system and has reverted to the old ID card system and is encouraging WFH. “Like all IT companies we already have a WFH policy wherein we are allowed nine days WFH in a month provided one has been allotted an office laptop. With coronavirus spreading, the company has announced WFH as feasible,” the Infosys employee said.
+
+“In the space where orginally 300 plus people were sitting at one time, we now just have one-third that number in office since March 11 after we reopened,” said a spokesperson for DSM, which shut down its offices at Raheja Mindspace and Brightspace after an employee was suspected of having contracted the virus.
+
+“Techies handling certain big projects have been divided into two groups wherein one group works from home on one day and the other group goes on WFH the next day to ensure reduced crowd at the workplace while maintaining business continuity,” said the employee of a midsized IT firm.
+
+Then there are companies like TCS who have shut down common crowded areas like gyms and cafeterias to prevent large gatherings. 
+
+A HYSEA spokesperson said that WFH is allowed as part of STPI and SEZ policy and it is up to individual companies to decide to what extent they plan to use WFH.
+

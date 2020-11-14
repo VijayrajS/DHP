@@ -1,0 +1,11 @@
+DSCL launches app for officials to track Covid-19 cases
+2020-04-12
+Dehradun: A coronavirus health monitoring system was launched by Dehradun Smart City Limited (DSCL) on Saturday for fast information transfer to the officials involved in monitoring of Covid-19-positive patients kept under isolation.
+
+The application has been designed to facilitate officials at the district, tehsil, and block levels. They can get alerts regarding the location of Covid-19 patients kept under isolation. Besides, the dashboard will also provide real-time data like the total number of coronavirus patients in the district, total suspected cases, and the age-wise distribution of patients along with the details of the hospitals where these patients are admitted. The real-time data will be updated by officials at the tehsil and block level.
+
+In addition, the IGIS Geo-Locator app (developed by DSCL) will be installed on the mobile phones of Covid-19-positive patients and suspected cases kept under quarantine. The app will help the administration in providing necessary supplies to the patients and people kept under observation. The app will also send an alert to the officials in case any patient moves out of the permitted area.
+
+Ashish Srivastava, chief executive officer of DSCL, told TOI, “The application will help in keeping a track on all the information related to the work being done to contain the virus. The real-time data will help the officials to plan their work better and provide best of the services to the people in need.”
+
+

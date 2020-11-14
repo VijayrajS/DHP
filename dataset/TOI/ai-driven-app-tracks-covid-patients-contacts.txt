@@ -1,0 +1,8 @@
+AI-driven app tracks Covid patient’s contacts
+2020-04-27
+AYODHYA: After a woman tested positive for covid-19 last week, the first coronavirus case in Ayodhya since its outbreak in India, police have swiftly tracked her contacts over a 90-day period through an Artificial Intelligence-driven ‘virus protection application’ to quickly isolate, quarantine and curb virus spread. The App saves the hassle of questioning the patient or rummaging through her phone book, unlike the case of celeb singer Kanika Kapoor, where precious time was lost in forming a 1000-strong police team to track those in her contact coupled with the infection ripple effect.
+
+Ayodhya police is running this exercise through a recently developed app developed by a team of IT professionals headed by Ayodhya SSP Ashish Tiwari, an IIT alumnus. Talking to TOI, Tiwari said, “We put the mobile number of an infected person on the app, which quickly maps areas where the patient visited along with mobile numbers of those who came in contact with the patient over a 90-day period. Also, the algorithm quickly even shows those came in proximity to the patient’s contacts.”
+
+The Virus Protection App can zero in on precise locations, coordinates, movement and other activities of an infected person’s contacts, who can be quickly quarantined.
+

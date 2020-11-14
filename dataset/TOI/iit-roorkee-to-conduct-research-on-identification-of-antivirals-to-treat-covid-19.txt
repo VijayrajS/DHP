@@ -1,0 +1,22 @@
+IIT-Roorkee to conduct research on identification of antivirals to treat Covid-19
+2020-05-29
+DEHRADUN: The Indian Institute of Technology, Roorkee, (IIT-R) will conduct research on the identification of antivirals to treat SARS-CoV2 (Covid-19). 
+
+
+A proposal in this regard, led by professor Pravindra Kumar, has been given a go-ahead by the science and engineering research board (SERB) of the Union government. 
+
+The study will be funded by the Centre's Department of Science and Technology (DST). The objective of the study, the institute sources said, is to identify antiviral molecules to combat Covid-19.
+
+They added that it will expedite the process of identification of drugs through “an in-silico approach that is based on computer-aided simulation of their molecular structures”.
+
+The study will be conducted by professor Pravindra Kumar in collaboration with professor Shailly Tomar from the department of Biotechnology, IIT Roorkee, and Dr Gaurav Sharma from the Indian Veterinary Research Institute (IVRI), Izatnagar, who will aid in the assessment of the antiviral efficacy of the identified molecule to treat SARS-CoV2. 
+
+“We are stuck in a strange situation and there is hardly any chance of a proper drug for coronavirus any time soon. Our idea is that we identify repurposing drugs, which is currently being used for some other purpose but can also be effective in the treatment of Covid-19. Hence, our study will identify small molecule inhibitors to target key viral replication enzymes—RNA dependent RNA polymerase, viral proteases and the methyltransferase. These enzymes are virus-specific that are encoded with genetic material (RNA) of the viral pathogens. We will try to find out which currently available drug will be effective in the treatment,” said Pravindra Kumar of IIT-R. 
+
+According to the scientists, the groundwork of the research has already been prepared by the completion of in silico work based on high-throughput virtual screening approach to assess the binding affinity of the Food and Drug Administration (FDA)-approved drugs targeting the main protease of the virus (M-pro).
+
+The study will leverage a computer-based high throughput virtual screening approach to identify antiviral molecules from various compound libraries that will be validated for antiviral potential.
+
+“This approach can be path-breaking in the identification of antiviral molecules to fight COVID-19.,” said Prof. Ajit K Chaturvedi, Director, IIT Roorkee.
+
+

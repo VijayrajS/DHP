@@ -1,0 +1,17 @@
+IIIT-Bhagalpur develops new software for coronavirus tests
+2020-05-16
+BHAGALPUR: The Indian Institute of Information Technology (IIIT), Bhagalpur, has developed a software that can read chest X-ray films or plates and diagnose whether a patient has contracted the Covid-19 virus or not.
+
+
+Authorities at IIIT, Bhagalpur, said that the software can read scanned chest X-ray film or plate scanned and uploaded in a computer in less than one second. They also claimed that the cost of diagnosis for Covid-19 using this software will be less than Rs 100 in comparison to conventional microbiological swab test which varies between Rs 3,500 to 5,000.
+
+IIIT director Prof Arvind Choubey, who along with assistant professor Sandip Raj have developed the software said that sample testing with the help of this technology in presence of a team of doctors and experts at Jawaharlal Nehru Medical College and Hospital (JLNMCH) was 100% successful.
+
+“Chest X-rays of more than 20 persons were uploaded in the computer and the software gave 100% result and matched with the conventional microbiological swab tests. Software analysis accuracy is expected to be around 95-96%, with only 4-5% of error or less dependent on other factors,” Prof Choubey said.
+
+He added, “We are forwarding the information regarding the software technology-based diagnosis of Covid-19 to the Indian Council of Medical Research (ICMR), Union ministry of health and ministry of human resources development. The software can be used with digital X-Ray machines, besides computed tomography imaging machine (CT Scan) for detection of the virus.”
+
+JLNMCH Superintendent Dr R C Mandal said that this new technology is ‘extraordinary’ and can be helpful in detection of Covid-19 within seconds. “We look forward to further work on this technology,” said Dr Mandal.
+
+JLNMCH principal Dr Hemant Kumar Sinha said, “We will ask our radiology department to learn the technology and utilize it.”
+

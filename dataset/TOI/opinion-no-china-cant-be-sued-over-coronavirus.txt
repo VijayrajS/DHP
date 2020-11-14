@@ -1,0 +1,35 @@
+Opinion: No, China can't be sued over coronavirus
+2020-03-26
+I wish I could join the groundswell of opinion demanding that China be held liable for allowing the coronavirus that causes Covid-19 to get out of control. The drumbeat includes, for example, a class action lawsuit filed in Florida last week and the argument that we should treat the outbreak as we would an act of terrorism, because under US law, a country that sponsors terror can’t claim sovereign immunity.
+
+
+But I cannot. If you want to argue that the government of China has behaved irresponsibly, that the country’s officials deserve the condemnation of the world for letting the novel coronavirus escape when early action could have kept it under reasonable control, you’ll get no argument from me. The Chinese authorities have chosen denial, censorship and bluster rather than the transparency that might have saved lives. The regime’s transmission of patently false information has made matters worse.
+
+Legal liability, however, is another matter. The government of China is protected by the doctrine of sovereign immunity, and the regime’s undoubted misconduct does not constitute sufficient grounds for a waiver.
+
+Sovereign immunity is not a favor courts do for foreign regimes. It’s an act of reciprocity, a peace treaty resting on a shared understanding that we will not allow our people to sue you if you will not allow your people to sue us. So broad is the traditional doctrine that a British court held in 1894 that even if a foreign ruler moves into one’s country, takes on an assumed name and conceals his true position, and enters into a contract, a lawsuit against him for breach is still barred.
+
+Until 1952, the U.S. generally took the position that the immunity of foreign sovereigns was absolute. 1 That year, the State Department took the position that it would more closely scrutinize claims of immunity where the case involved a commercial dispute. That in turn led to the Foreign Sovereign Immunities Act, known as FSIA, passed in 1976, a statute intended (in the words of one federal court) “to protect foreign sovereigns from the burdens of litigation, including the cost and aggravation of discovery.”
+
+So broad are the statute’s protections that the U.S. Supreme Court has ruled that a foreign country need not even file an answer to a complaint — what lawyers call entering an appearance — in order for immunity to apply. 2 For example, when the family of a boy allegedly killed by a malfunctioning hunting rifle sued the manufacturer, a company owned by the Chinese government, the defendant did not bother offering a response in court. Instead, the company just sent the lawsuit documents back to the plaintiff, and the company was held to be immune. 
+
+Of course, if control of a company turns out to rest in private hands, sovereign immunity offers no defense. U.S. courts have been willing to go as far as tracing the actual ownership of a foreign corporation, to be sure that a government in fact controls the majority of shares. This, too, has been applied to Chinese companies (Chinese businesses get sued a lot). 3 Even before the current outbreak, an increasing number of Chinese companies have been asserting sovereign immunity in U.S. courts. But none of this would have any application to a suit against the Chinese government itself.
+
+What about other exceptions in the statute? The Florida class action suit asserts that the exception for commercial activities applies, but it’s not easy to see how. The suit also purports to fall within the exception for death or harm “caused by the tortious act or omission of that foreign state or of any official or employee of that foreign state while acting within the scope of his office or employment.” But that section specifically bars any claim “based upon the exercise or performance or the failure to exercise or perform a discretionary function regardless of whether the discretion be abused.” It’s hard to find a way around this restriction.
+
+Yes, China’s behavior has been reckless, but that possibility is baked into the very idea of sovereign immunity. Tort law generally rests on the proposition that people will take reasonable precautions if they know they’ll be liable for the harm they cause. Theorists refer to the process as forcing people to “internalize” the costs of their behavior; that internalization avoids the problem of moral hazard.
+
+Under sovereign immunity, however, the costs of misbehavior by a government tend to lie where they fall. That concern led to the adoption a few years ago of the exception for sponsors of international terror. There, at least, a part of the costs of reckless behavior will be internalized. But beyond a handful of small islands of civil liability created by legislation, the punishment for another country’s recklessness is likely to be political.
+
+The government of China has essentially bet that it will suffer no punishment, that politics will be its protection. But one wonders whether this will turn out to be true. The world has suffered trillions of dollars in losses from the regime’s recklessness. The economic fallout might well last a long time. Perhaps world leaders will act after all.
+
+And even if they don’t, a judge might. Until FSIA went into effect in the late 1970s, the State Department adjudicated sovereign immunity claims on a case-by-case basis. Since then, courts have done so. Recent analysis has suggested that judicial decisions on whether to grant sovereign immunity are often influenced by the politics of the moment than the State Department was.
+
+If this analysis is correct, then it’s easy to imagine that no matter what world political leaders may do, a handful of U.S. judges might insist that some special aspect of the pandemic means that the Chinese regime is liable under FSIA after all. I’m skeptical that the judges would be right, but I suspect that a bipartisan coalition of elected officials would cheer them on
+
+
+
+ This remains the formal position of the Chinese government.
+ See specifically the much-quoted footnote 20.
+ At the same time, US courts have been scrupulous about barring plaintiffs from entangling Chinese corporate entities in lawsuits against the government itself. For example, a federal appellate court held in 2011 that a statute allowing lawsuits against foreign officials who engage in torture could not be used to sue a bank allegedly controlled by the Chinese government unless the plaintiff could show that bank officials who arranged his arrest in effect intended his mistreatment by police.
+

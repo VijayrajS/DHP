@@ -1,0 +1,26 @@
+Hyderabad: PCR tests to detect Covid-19 not fully reliable, says CCMB study
+2020-06-11
+HYDERABAD: In a finding that could have widespread ramifications, researchers at the Centre for Cellular and Molecular Biology (CCMB), Hyderabad, have found that about 50% of Covid-19 positive samples tested through the standard RT-qPCR test may not yield the correct result.
+
+
+Real-time quantitative reverse transcription polymerase chain reaction (RT-qPCR) test has been recommended by the WHO and Centers for Disease Control and Prevention (CDC) and is used globally to detect the virus.
+
+ 
+
+The CCMB scientists found a high percentage of false negative cases while comparing the RT-qPCR with a new test method developed by the them. The new test — RT-nPCR — is not only cost-effective but can be conducted on a large number of people in a short time, the researchers said.
+
+“We found that taking both standard RT-qPCR tests together, the RT-nPCR test was able to correctly identify 90% of samples detected as positive by RT-qPCR. It also detected 13% samples as positive among samples that were negative by the standard RT-qPCR test (likely false negatives),” the scientists said in their research paper which has been uploaded on an online pre-print repository for biological sciences ‘bioRxiv’.
+
+“Based on the experimentally measured false negative rate by RT-nPCR tests from this study, we estimated that as many as 50% of the positive samples may escape detection in single pass testing by RT-qPCR in an actual testing scenario,” they added.
+
+The new method uses RT-nested PCR and is equally sensitive as RT-qPCR. This method needs a simple PCR machine. It increases the possibility of many more labs doing Covid-19 tests, thereby expanding testing capacity. RT-qPCR requires an expensive qPCR machine, which is not found in many labs in the country.
+
+“The CCMB method is suitable for largescale surveillance,” the researchers claimed.
+
+RT-qPCR involves extraction of RNA from nasopharyngeal swab samples to measure amplification of a short segment of a viral gene in the course of a PCR reaction following reverse transcription of viral RNA.
+
+Performing the RT-qPCR test requires a real-time thermal cycler which is an expensive instrument. A majority of research laboratories are equipped with only a limited number and smaller laboratories may have none, which places constraints on the number of tests.
+
+The research team comprised corresponding author Imran Siddiqi and Jayeshkumar Narsibhai Davda, Keith Frank, Sivakumar Prakash, Gunjan Purohit, Devi Prasad Vijayashankar, Dhiviya Vedagiri, Karthik Bharadwaj Tallapaka, Krishnan Harinivas Harshan, Archana Bharadwaj Siva, Rakesh Kumar Mishra and Jyotsna Dhawan.
+
+

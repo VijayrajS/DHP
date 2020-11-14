@@ -1,0 +1,19 @@
+‘Fewer Covid-19 cases in hotter regions’
+2020-04-26
+CHENNAI: A team of researchers from IIT Madras has found that there is a lower incidence of Covid-19 in regions recording high temperatures.
+
+
+The team, which did a statistical analysis of more than 1.07 lakh cases from 85 different locations in the most affected countries, found that 90% of the total confirmed cases were recorded in regions with temperatures between 3°C and 12°C.
+
+On the surge in cases in Chennai, which records a maximum of 36°C, the researchers indicated that people’s adherence to lockdown measures and advice of medical experts also play an important role in bringing down cases.
+
+Professor Sachin S Gunthe from IIT-M’s department of civil engineering said previous studies on other influenza viruses have shown that their survival period on certain surfaces may reduce when exposed to high temperatures or high UV index. “This study for coronavirus, however, is purely based on statistical evidences. There is no physiological evidence as yet to prove this fact. Nevertheless, if what we have seen in the study is true then if people follow the lockdown rules strictly and observe the advice of medical experts, we may come out of this crisis quicker than other nations,” he said.
+
+The IIT-M study, published in Journal of Public Health, showed that an increase in the UV index, which is the strength of sunburn producing ultraviolet radiation, also correlated with a decrease in the number of cases. It led the researchers to suggest that artificial UV radiation could be one of the effective ways to sterilize builtup environments for reducing community spread. Rainfall, humidity and cloud cover have no effect on the virus, according to the statistical analysis.
+
+The researchers took into account previous studies that showed influenza-causing viruses peak during cold temperatures and gradually subside as temperatures get warmer. Since people with Covid-19 mostly exhibit flu-like symptoms, the team expected coronavirus to show similar patterns, which is physiologically to be proven.
+
+The researchers arrived at the results by preparing scatter plots or mathematical diagrams with the number of confirmed cases and the various meteorological parameters. Data on confirmed cases in cities, reported between February 2 and March 7 that contributed to 70% of the total number of cases in countries like China, South Korea, Italy, Iran, France, Germany, USA, Spain and Japan were plotted against weather parameters like maximum, minimum and average temperatures, UV index, precipitation, humidity and cloud cover.
+
+The researchers said their results are preliminary and require a detailed physiological studies involving the confirmed cases.
+

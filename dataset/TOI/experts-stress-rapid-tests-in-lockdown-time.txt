@@ -1,0 +1,9 @@
+Experts stress rapid tests in lockdown time
+2020-04-22
+Pune: Lockdown and its extension without rapid testing will only delay the spread of Covid-19 and not prevent it completely, said scientists working on an India-specific epidemiological model for the contagion. 
+
+Developed by “Indian Scientists’ Response to Covid” (ISRC), the model is called INDSCI-SIM. “The model could be used to plan health resources and interventions at the city-, district- or state-level. The model also allows comparison of the effects of different types of interventions like lockdowns, quarantining, increased testings to alter the evolution of the pandemic,’ said an official release. 
+
+The mathematical modelling component of the work is being led by SPPU scientists Snehal Shekatkar and Bhalchandra Pujari and Centre for Modeling and Simulation’s Mihir Arjunwadkar.We have taken an approximate nationwide data and written the mathematical model to run the simulation. It shows lockdown and testing are interrelated. Lockdown is a good time to rapid test people, find out the infected, treat them and quarantine the contacts. This will avoid transmission when the lockdown is lifted,” Shekatkar said.
+
+

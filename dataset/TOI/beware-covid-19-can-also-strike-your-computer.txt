@@ -1,0 +1,14 @@
+Gujarat: Beware, Covid-19 can also strike your computer
+2020-04-03
+AHMEDABAD: Due to the Covid-19 lockdown, lots of people are keeping an eye on all developments – the number of cases, deaths, states affected etc. Most turn to online sources while a few click links provided in forwarded social media messages.
+
+
+“Fraudsters are making the most of the fear factor. There’s been a spike in Covid-19 related scams in many countries experiencing the epidemic,” said Naveen Kumar Chaudhry, professor (cyber security) at Gujarat Forensic Sciences University (GFSU), pointing out that lots of people are now working from home, their environment isn’t as secure as an office setup, sans firewalls and other security features.
+
+
+
+“Double-check the authenticity of emails, SMSes or social media messages. Any hacker with simple phishing or social engineering may infect the user’s system and steal information,” he said.
+
+Sunny Vaghela, CTO of a cybersecurity firm and an ethical hacker, said that in the past few days, several ‘Covid-19 dashboards’ have been launched as have scores of websites claiming to provide latest information. “Depend only on government data and avoid clicking on these links. Another scam that has come to light is related to the PM Cares Fund for Covid-19. There are confirmed reports of fake UPI ids with similar sounding names that prod people to donate,” he said.
+
+

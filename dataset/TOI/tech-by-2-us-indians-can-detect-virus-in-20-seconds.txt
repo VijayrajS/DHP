@@ -1,0 +1,18 @@
+Tech by 2 US Indians can detect Covid-19 virus in 20 seconds
+2020-04-10
+HYDERABAD: Lack of sufficient testing kits is proving to be a great stumbling block in the fight against coronavirus.
+
+To help the world fight the pandemic on a war footing, two Indian Americans have come up with an AI-powered advanced diagnostic system which will help in quick detection of the Covid-19 virus. 
+
+ 
+
+
+Barath Narayanan
+
+Hyderabad’s Srikanth Kodeboyina and Chennai’s Barath Narayanan, who had gone to the US to pursue higher studies, are on the brink of providing the world a tool which is needed urgently. Srikanth is president and CEO of Blue Eye Soft, a Greenville SC based IT software solutions company, while Barath is a research scientist at the University of Dayton Research Institute and Adjunct faculty at University of Dayton.
+
+The software developed by Narayanan uses a deep learning algorithm that searches for markings on X-rays that indicate the presence of Covid-19. According to the University of Dalton, the software that Barath came up with has been exclusively licensed to Blue Eye Soft.
+
+Srikanth describes the diagnostic system as something that will identify the presence of the virus in 20 seconds with 96% accuracy, as of now. “I am now rushing on an FDA approval process,” Srikanth told TOI from US. “Every life matters, so for the next few days, I am focussed on getting necessary certification from international boards,” he said. “I will be thrilled once FDA approval comes,” Barath told TOI.
+
+

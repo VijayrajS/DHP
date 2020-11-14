@@ -1,0 +1,15 @@
+IIT R professor develops app to track Covid-19 suspects, positive cases
+2020-04-07
+Roorkee: An IIT Roorkee professor has developed a mobile application to keep track of all Covid-19 suspects and positive cases, during and after their quarantine period. The app sends out an alert in case a person steps out of quarantine. 
+
+“The surveillance system developed by civil engineering professor Kamal Jain will greatly help in tracking Covid-19 patients and suspects,” said Ajit K Chaturvedi, director of IIT-Roorkee. 
+
+The app, named “Covid-tracer”, will create a geo-fence around a coronavirus positive patient or a suspect. If the geo-fencing is violated by the quarantined person, the app will send out an alert. In case a device doesn’t receive GPS signal, the location will be obtained automatically through triangulation of mobile towers. 
+
+If internet is not working in a certain area, the app will let a device detect the location of a suspect or an infected person through an SMS. If the application stops working on a device, an alert will be received immediately.
+
+The app allows the sharing of photographs of quarantined persons and places using Google maps and uploading a geotag image to a server. Furthermore, administrators can view all reports on a map.
+
+“To get this application functional, a user, preferably the head of an isolation centre, can approach us and we will get him registered to our webpage with an ID and a password. Once he downloads the tracking application on his mobile, it can be shared with devices of suspects and positive cases,” Jain told TOI. 
+
+

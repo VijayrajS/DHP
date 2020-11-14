@@ -1,0 +1,15 @@
+No fresh Covid cases in Maha, Bengal after May 21: Mum Univ lab forecast
+2020-04-29
+Mumbai: Kerala, Himachal Pradesh, Assam, Odisha and Uttaranchal have already reached the end of the pandemic, according to economists from the Covid-19 data lab at the Mumbai University. And if their optimistic prediction is anything to go by, two of the states, Maharashtra and West Bengal, will stop recording fresh cases after May 21.
+
+The team has studied the slowing of the doubling rate in many regions to arrive at the projections. Predominant concentration of cases in certain urban centres has also weighed on their assessment. Using logistic curves for each state, they have generated forecasts for the date on which the incidence of new cases will stop.
+
+However, the study excludes Bihar. “Cases in Bihar are growing rapidly with a doubling period of four days. It will not be wise to estimate the point at which the curve will flatten there. But in most states, doubling rates have grown longer, and it has become possible to statistically estimate when the curve will flatten out. We have assumed doubling periods will fall even more in most states while they reach their plateaus,” said Neeraj Hatekar, head of the data lab at the Mumbai School of Economics and Public Policy.
+
+Going by present trends, in about 10 days, Delhi, Andhra Pradesh, Gujarat, Haryana, Jharkhand, Jammu and Kashmir, Madhya Pradesh, Punjab, Rajasthan, Tamil Nadu and Telangana should also stop recording new corona virus cases, says the study. A few days later, by May 10, Karnataka and Uttar Pradesh, too, will be free of new cases.
+
+“A significant factor in control of infections in India has been the fact that the pandemic has been localised to a select number of urban clusters,” said Hatekar.
+
+For example, 56% of total cases in Madhya Pradesh come from Bhopal and Indore; in Maharashtra, 55% of cases come from Mumbai, Thane, Pune, Nashik and Nagpur; in Rajasthan, 41% come from Jaipur, Jodhpur and Bharatpur; and in Gujarat, 59% come from three cities. “This has meant that the population among which the infection can spread has also been limited, which is an important factor in limiting the number of cases,” he added.
+
+

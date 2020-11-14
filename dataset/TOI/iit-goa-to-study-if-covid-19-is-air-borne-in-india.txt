@@ -1,0 +1,20 @@
+IIT-Goa to study if Covid-19 is air-borne in India
+2020-04-09
+PANAJI: At the Indian Institute of Technology (IIT), Goa, faculty members from multiple departments — mechanical engineering to physics — are collaborating to calculate and predict the extent respiratory droplets from human sneezing and coughing spread. Definitive scientific data in this direction was required as the Covid-19 pandemic is taking its toll on the world.
+
+
+Researchers said that tiny droplets from an infected person may be present even after that person has left the room. The safe distance practice to be promoted will depend on the lifespan of the droplets as well the extent of their spread.
+
+Through numerical and experimental approaches, researchers at IIT Goa are studying the effect of atmospheric conditions in defining the spread and lifetime of the respiratory droplets. 
+
+Santosh Kumar Das from the physics department is solving a differential equation (hydrodynamical-bacteriological analogy) to study the evolution of the virus (liquid drop from sneezing and coughing) in air. He said that this will enable computation of how far the droplet carrying the virus can travel in air.
+
+Similarly, faculty members Sakthi Prasad and Arindam Das are designing low-cost, high-frequency, cold plasma-based, negative ion generators for flow visualisation to check the effect on microdroplets.
+
+“IIT Goa has begun working on addressing multiple challenges related to Covid-19. They range from personal protective equipment (PPE), drug discovery, rapid detection kits, epidemiological modelling to development of contact-less interfaces,” said IIT Goa director B K Mishra.
+
+Also, researchers the world-over have noted that possibly the trajectory of spread of Covid-19 in India is different from the patterns seen in Europe or elsewhere.
+
+“On these lines, a team comprising four faculty members from computer science and mechanical engineering departments, are working on developing models and predictive algorithms on spread of Covid-19 pandemic specific to the Indian population. Based on the data available globally and locally, they will study patterns of the susceptible population and transmission dynamics of this pandemic,” Mishra said.
+
+

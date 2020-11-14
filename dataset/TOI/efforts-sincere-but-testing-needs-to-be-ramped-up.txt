@@ -1,0 +1,29 @@
+‘Efforts sincere but testing needs to be ramped up’
+2020-05-16
+Among the frontline warriors of global pandemic Covid-19 are the personnel who are carrying out testing for coronavirus. To know more about their work, risks they face and testing, TOI speaks to Krishna Khairnar, senior scientist and head of environmental virology cell at the National Environmental Engineering Research Institute, which is one of the testing laboratories of Covid-19 in the city. 
+
+How is the testing going on in Vidarbha? Do you think there is a need to scale it up?
+
+The top administrative officers of Nagpur, especially the divisional commissioner and additional divisional commissioner of the region are working very hard. The quantum of the Covid-19 attack is so big and pronounced that all the effort made towards salvaging the situation are becoming more demanding by every passing day. The population dynamics of a country like India is very large. It's a challenging time for the government to close the gap between testing vs number of people. Despite of sincere efforts, the ratio of number of tests vs number of people is still one of the lowest in the world. Many government organizations, including the Council of Scientific and Industrial Research (CSIR), have joined the war against Covid-19, but more needs to be done to ramp-up the testing so that the ratio increases. Director general of CSIR Shekhar Mande has taken this gauntlet of ramping up the council for fight against Covid-19 in a major way at the national level. Director of Neeri, Rakesh Kumar has been a great support and a key person in the involvement of the institute in this war against COVID-19. It's not just about scaling up of testing centres, but also about more institutions and organizations joining the testing efforts. More testing will help identify more cases and timely identifications will help manage the situation better.
+
+Do we need to test asymptomatic patients too? 
+
+Always better. There are many asymptomatic carriers who are posing a great threat to the susceptible population like senior citizens and persons with underlying health conditions. 
+
+How does the testing happen?
+
+Thanks for asking this! It's not just day a in our life, it's also night (pun intended). We are a small team, mostly comprising students, but we are effective. Our team is divided into sub-groups for handling the different steps involved in testing. The first personnel handles sample processing that involves maximum risk of exposure and is therefore performed in a containment room. The personnel don full PPE before entering the room. Then, viral RNA is extracted by the same personnel using ICMR-approved kits. Another personnel simultaneously handles entire reagent and mastermix preparation in a clean room using PPE. We always ensure a one-way flow and the set guidelines of a containment facility. All follow Covid distancing and use PPE in the facility at all times. Equipment, instruments and surfaces in the containment area and other workstations are cleaned thoroughly. A designated MPCB authorized biohazard and medical waste handling agency finally collects and disposes the waste.
+
+How long does it take to test a sample? Please tell the procedure in brief.
+
+The procedure involves sample receiving, sorting, documentation, assigning sample IDs, labelling, sample processing, aliquoting (storing samples in small proportions), RNA extraction, result and analysis, documentation of results, report preparation, test report generation, uploading the data in various government portals etc. It takes around 8 hours if the procedures are performed without any break. In normal course, it's done within 12 hours.
+
+Do we need more testing centres in the coming days?
+
+There has been a rapid escalation of cases in the last few weeks but not considerable in testing, isolation and contact tracing. Covid distancing measures can help in buying time for preparing the health systems to cope up with increasing cases in future. However, just distancing is not enough to tackle this pandemic. it’s the combination of all measures which will make the difference. It is important that all countries take a comprehensive approach. The most effective way to prevent infections and save lives when vaccine and drugs are not available, is by breaking the chains of transmission. To break the chain of transmission we must test and isolate. Ultimately, one cannot fight this pandemic blindfolded. We need to know who is infected to stop this pandemic. The World Health Organization’s (WHO) director has issued a simple message for all of us: Test! Test! Test!
+
+Being a hub, how is Neeri ensuring that other testing centres work effectively and scientifically?
+
+Neeri is the only CSIR institute to be designated as a hub by the Centre. Overall, there are 10 regional hubs in the country. Neeri has collected all inputs from other testing centres like AIIMS, GMCH, IGGMCH and NVC for scaling-up and capacity building. A consolidated report has already been communicated to the Department of Biotechnology (DBT). The secretary DBT is in the process of seeking necessary approvals from the central government for scaling-up and facilitation.
+
+

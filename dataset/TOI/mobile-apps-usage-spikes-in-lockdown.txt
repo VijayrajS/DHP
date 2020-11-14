@@ -1,0 +1,34 @@
+Mobile apps' usage spikes in lockdown
+2020-04-15
+BENGALURU: As India entered lockdown mode due to Covid-19 in March, more and more people logged into smartphone applications for everything, ranging from video-calls to studies to gaming and even shopping. New modes to communicate like Houseparty and Zoom saw the biggest spikes in fresh user installs, given their small base. 
+
+
+But established large social media platforms like TikTok and mobile game PUBG also witnessed a 50-80% increase in active users between February and March, according to data from US-based analytics platform SimilarWeb shared with TOI.
+
+Interestingly, online shopping applications like Flipkart, Amazon India and Myntra have seen a 40-50% spike in activity even as business crashed in March as more consumers trapped at home browsed these applications to source essentials, but were disappointed. Take for instance Delhi-based Anshul Kumar, who runs a small firm selling workwear for restaurants and hotels.
+
+ 
+
+
+“I am a tech-savvy person working on the latest design software, and yet I wasn’t aware of Zoom until recently when a friend mentioned it in our WhatsApp group for a video call. I have also told my mother about it. She is now using it with her friends for virtual pooja sessions,” said the 35-year-old Kumar. 
+
+Monthly downloads of video-calling application Zoom, which is also being used by schools to conduct classes, have increased 17 fold from 500,000 in February to over 8.7 million in March. Similarly, Houseparty, which is being used friends and family to play games and talk to each other, has seen the number of monthly active users (MAUs) increase about 16 times to 328,000 in the same period. The average time being spent increasing eightfold to 24 minutes, indicating that it is being used multiple times. 
+
+Gaming and entertainment applications are not far behind, as everyone has more time on their hands. PUBG — the last man standing in the blockbuster game — has seen MAUs increase by 80% to nearly 19 million. Casual games like Ludo King and Carrom, which many are playing with their families and friends while staying at home, have also increased by 50-75%.
+
+Additionally, these games are seeing a more significant increase in downloads as well, indicating that they are getting a lot more new users. Video streaming platform MX Player, which is owned by the publishers of this newspaper, saw a spike of 35% in MAUs. 
+
+With all schools conducting classes online, many expect the lockdown to achieve what demonetisation did for digital payments. All startups in the space, including Byju’s, Toppr and Vedantu, have announced free classes for users, resulting in record fresh sign-ups. Unacademy, an ed-tech startup backed by Facebook, said students spent a record 1 billion minutes on its platform in March with growth ramping up further in April.
+
+“We saw a significant increase in daily active users to around 500,000 per day, an increase in viewers per week for the Free Live Classes by 150%. We also saw a 110% increase in new subscribers, leading to over 1.5 million learners on the platform, since the beginning of March,” said CEO Gaurav Munjal. 
+
+Even the online retail sector, which TOI reported on March 30 is expected to take a $1-billion hit in sales due to the lockdown, are seeing increased user engagement by focusing on just essentials like grocery and infection-control items. But business remains a fraction of the usual size as consumers are searching more for electronics, which accounts for the majority of the online retail business in India. 
+
+According to data sourced from the leading online retailer keyword search trends, consumers over the last week (April 4-11 vs March 23-30) are searching for mobiles more than Maggi. While the volume of searches has increased for mobiles and laptops, there is a rise in search for trimmers, earphones, fashion, electronics, books, personal care, and sexual wellness products.
+
+Even after lockdown, industry experts feel that social distancing will remain a longer-term phenomenon that could increase the adoption of these applications by both new and existing users. “The whole digital adoption of services by consumers has been a secular trend for the last 5 years. But the lockdown is going to make a step-change and significantly accelerate the trend by 3-5 years,” said Nimisha Jain, MD at Boston Consulting Group and in charge of consumer insights centre.
+
+Besides bringing new consumers to internet commerce, the lockdown will also increase the overall online shopping base, pegged at about 100 million, in addition to encouraging existing shoppers to buy more, including in new categories. Some of these changes may appear small, but they are likely to be significant for some startups. For instance, Grofers said last week online grocery could reach 0.5% of the overall $800-billion retail market after the crisis from 0.2%, which would mean doubling of the industry segment even along with the grim outlook for the economy.
+
+Take for instance Asmita Gupta, a teacher in Delhi, who installed two new grocery apps to get essentials at her doorstep as the lockdown was imposed. She said she has got essentials from Bigbasket two-three times already while she gets the breakfast essentials like milk, bread and eggs from Bigbasket’s daily morning delivery platform BBDaily. “I used to largely get my grocery offline by calling the neighbourhood stores. Since the lockdown, I have tried not to go out. I tried Amazon also but they did not have enough stock,” Gupta said, who ends up checking these apps twice or thrice daily before placing the orders.
+

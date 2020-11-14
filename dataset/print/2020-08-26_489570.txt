@@ -1,0 +1,26 @@
+R value dips to 1.04 this week — lowest India has recorded since Covid pandemic began
+New Delhi: India’s effective reproduction number ‘R’ for Covid-19 — a key parameter to measure the rate of spread of an infection — has decreased to 1.04 this week from 1.05 last week. In Assam, Tamil Nadu, West Bengal and Bihar, the metric has dipped below 1.
+An epidemic is considered to be under control when the R value remains below 1 consistently.
+Sitabhra Sinha, a researcher at the Institute of Mathematical Sciences in Chennai, told ThePrint that this is the lowest value of R India has reported since the pandemic began.
+“We have bought a lot of time by lowering the R value for states to prepare in case there is a localised surge in the future,” Sinha said. However, a close eye should be kept on states to bring the epidemic to a halt, he added.
+According to Sinha’s calculations, the R value for Tamil Nadu went down to 0.97 this week from 1.03 last week.
+Similarly, for West Bengal and Bihar, the values have decreased to 0.96 and 0.77 from 1.06 and 1.16 respectively last week. For Assam, the value decreased to 0.80 this week from 1.36.
+Sinha said that the R value may increase if new cluster outbreaks happen in states, pointing out that it had previously surged in July to 1.19 after steadily decreasing for three months.
+Speaking to ThePrint, Aritra Das, a Kolkata-based epidemiologist, said, “India’s current epidemic curve is flatter than what we saw in the earlier stages. So that means the number of active cases are not rising too quickly. R being this close to 1 reflects the same trend.”
+R value as well as R0 (basic reproduction number) are an estimate of the number of people a patient can infect.
+While R0 is calculated at the beginning of an epidemic, when the entire population is assumed to be susceptible to a disease, R changes with time and takes into account the fact that some individuals are protected from the illness — either because they have developed immunity or due to social distancing measures.
+For India, the R0 was calculated to be about 1.83 in April.
+“We are not very sure what will happen if the restrictions that are currently keeping the value of R low are removed,” Das said.
+However, even if the restrictions are lifted, Das said that there may be a rise in the value, but it will not remain on an upward trajectory. “From what we have understood from this epidemic so far is that the value of R may go up, but then it will again flatten.”
+This was witnessed after Unlock 2 in July when, despite a rise in the R value, it started dipping again in the weeks that followed.
+Also read: Three low-cost, indigenous ventilators win Rs 85-lakh grant from Marico Foundation
+The R0 of a disease depends on three factors — the probability of infection when a susceptible person comes in contact with an infected individual, average rate of contact between susceptible and infected people, and the duration during which an individual spreads an infection.
+R can rise above 1 if restrictions imposed to curb the spread of an illness are relaxed.
+For example, Andhra Pradesh’s R value was at 0.90 last week — a decrease from 1.14 the week before. However, this week it has increased to 1.04 with the easing of restrictions.
+Telangana’s R value was estimated to be 0.90 around 22 July. It had increased to 1.18 a week later, and reduced steadily for a few weeks after that. However, the value has again shown an upward trend this week, increasing to 1.08 from last week’s 1.06.
+Among other worst-affected states for which Sinha has reported R values, there has been a decrease.
+While Uttar Pradesh’s R value was at 1.06 around 18 August, it has decreased to 1.04 this week. Maharashtra’s R value reduced to 1.08 this week, from last week’s 1.10.
+Karnataka and Odisha also reported a dip in their R values to 1.03 and 1.23 this week from 1.11 and 1.27 last week respectively.
+Also read: New study says flushing urinals can also release clouds of coronavirus-laden aerosols
+ 
+Subscribe to our channels on YouTube & Telegram 

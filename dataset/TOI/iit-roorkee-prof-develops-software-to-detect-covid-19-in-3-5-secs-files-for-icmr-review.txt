@@ -1,0 +1,16 @@
+IIT Roorkee professor develops software to detect Covid-19 in 3-5 seconds, files for ICMR review
+2020-04-24
+DEHRADUN: A professor at IIT-Roorkee has claimed to have developed a Covid-19 test software that can detect the virus infection in 3-5 seconds. Professor Kamal Jain of the civil engineering department claimed over 60,000 chest x-rays were analysed to create an artificial intelligence database for the software, which detects presence of the virus on the basis of chest congestion, similar to how tuberculosis is detected. He has approached Indian Council of Medical Research (ICMR) for its review.
+
+
+Talking to TOI, professor Jain said it took him over 40 days to develop the software, which he alleged can not only save time, as it will give the result in seconds, but also reduce costs, like that of traditional testing kits, manpower used in testing, as well as deployment of personal protection equipment (PPE) kits.
+
+“This kind of software is first-of-a-kind in the country. I’ve approached ICMR to get it ratified. To develop the software, I analysed over 60,000 chest x-ray images that include those of Covid-19 patients, bacterial pneumonia, normal chest x-rays, as well as the chest x-ray database of NIH Clinical Center in the US,” Jain said.
+
+He added, “The usual cause of death in the sample cases I have analysed were severe pneumonia. Most types of pneumonia we know of, for which patients need hospitalisation, are bacterial in origin, and respond to antibiotics. Pneumonia caused by Covid-19 is particularly severe, and tends to affect all of the lungs, instead of small parts. Identifying bilateral opacities, pattern of fluid build-up in lungs, nature of clumps and its overall arrangement is the main source of identification, but it takes time and experience for physicians who know how to look at the data. But with our AI-based app, we can quantitatively classify such patterns in no time, and that too for thousands of patients.”
+
+Using the app, Jain said, doctors can simply upload or click the picture of a patient’s x-ray, and the app will process it to classify whether the patient has any sign of pneumonia, classify whether it is induced by bacteria or Covid-19, and measure the severity of the infection.
+
+“The main advantage of this app is that it is able to process lakhs of x-ray images in a matter of minutes, and classify a patient according to the level of coronal infection, to help hospital administration decide which patient needs to be put on ventilator first. Thus, with this app, we can not only identify which patients is corona-infected, but also determine the severity of infection with visualisation of those parts of the lungs that are infected, and add a level of smart management by automatically arranging patients who need to be ventilated in a queue,” added the professor.
+
+

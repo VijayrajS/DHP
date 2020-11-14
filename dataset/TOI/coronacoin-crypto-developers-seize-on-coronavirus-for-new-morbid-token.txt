@@ -1,0 +1,35 @@
+CoronaCoin: crypto developers seize on coronavirus for new, morbid token
+2020-03-01
+NEW YORK: Cryptocurrency developers have created a digital coin that allows traders to bet on the coronavirus epidemic, based on how many people fall ill or die. 
+
+
+Called the "CoronaCoin," its supply will diminish every two days based on the rate of new cases, according to its website - suggesting its price could move higher the more people the virus kills. 
+
+The coronavirus epidemic is becoming global, with six new countries reporting their first cases on Friday and the World Health Organization raising its global spread and impact alert to "very high." 
+
+Latest WHO figures indicate more than 82,000 people have been infected, with more than 2,700 deaths in China and 57 deaths in 46 other countries. 
+
+The rapid spread of the virus, which emerged in China in December, has stoked a frenzied selloff in global markets, with the three major US stock indexes on track for their worst week since the 2008 financial crisis. 
+
+Total supply for the CoronaCoin is based on the world population, and tokens will be burnt once every 48 hours based on the number of those that have been infected or have died, according to its website. 
+
+"Some people speculate a large portion of the supply will be burned due to the spread of the virus, so they invest," Sunny Kemp, a user who identified himself as one of the developers, said in a chat on messaging app Telegram. 
+
+Kemp said the team comprised seven developers with more coming on board. He declined to identify others, but said they were located mostly in Europe. 
+
+Cryptocurrencies like bitcoin are digital currencies that rely on advanced cryptography to validate their transactions. The nascent asset class has been plagued by frequent price crashes and scams. 
+
+Transactions are recorded through a digital ledger called blockchain. The CoronaCoin blockchain documents the spread of the virus and the token can be bought and sold on some online exchanges, such as Saturn.Network, according to Kemp. 
+
+Around 20% of supply of supply will be allocated for donation monthly to the Red Cross using a well-known cryptocurrency payments processor, Kemp said. 
+
+Some users of social media platform Reddit users criticized the token. 
+
+"Frankly, this is amoral," said one. 
+
+"Tasteless," commented another. 
+
+"This is why we can’t have nice things," wrote a third. 
+
+Asked whether the token could be seen as morbid, Kemp said: "There are currently active pandemic bonds issued by the WHO. How is that different?" 
+

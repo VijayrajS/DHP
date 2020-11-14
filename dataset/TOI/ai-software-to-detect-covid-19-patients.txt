@@ -1,0 +1,20 @@
+AI software to detect Covid-19 patients
+2020-04-30
+COIMBATORE: The students of Sri Ramakrishna Engineering College have come up with an artificial intelligence (AI) software that could find out if one is positive for Covd-19 with a chest x-ray. It could also detect severe acute respiratory syndrome (SARS) and pneumonia.
+
+
+According to the students, the software could identify distinct patterns that coronavirus cause in a patient’s lungs. “So, it can easily detect if one is positive before symptoms manifest.”
+
+They say the novel coronavirus usually enters through a person’s nose or mouth, then attaches itself to his/her throat and travels down to lungs, before entering bronchioles and alveoli. Sometimes, symptoms take 14 to 18 days to manifest that too when the patient’s immune system starts reacting.
+
+Kirupasankar, a student who was part of the team that developed the software, says, “When the virus enters the lungs, it causes certain changes. The patches have distinct notches and nodes, which could be picked up in the x-ray. The AI software will examine a picture in every x-ray 224 times and identify if it is Covid-19 or not.”
+
+He said the software was developed with deep learning technology, which is advanced and could be improved to have an accuracy rate of 99.25%.
+
+Doctors, however, say the new technologies have to be studied for years before using as a testing or screening method. Dr Nirmala, dean, ESI Hospital, says, “From close to 250 patients that we have seen, only 1%-2% of them had changes in the lung x-rays before symptoms manifest. In fact, a majority of asymptomatic and some symptomatic patients do not have changes in their lung x-ray.”
+
+Referring to the AI software, she said such a technology has to be proven by successfully identifying thousands of patients over a period of time, before they could use that. “As of now, only real time polymerase chain reaction antigen test is recommended for screening or diagnosis of Covid-19.”
+
+The students say they have also developed an android app named Mithran, which if allowed, would use geo mapping technology to tell you the places you have been, if you have been in contact with a Covid-19 patient and if you need to quarantine yourself.
+
+

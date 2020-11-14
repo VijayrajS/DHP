@@ -1,0 +1,9 @@
+City startup’s app monitoring virus
+2020-04-07
+Hyderabad: As the world races against time to find solutions to fight COVID-19, an eight-month-old Hyderabad-based startup, Vera Smart Healthcare, has developed an automated `COVID-19 Monitoring System’ in three days flat.
+
+The centralised system, which can be accessed through a super lite mobile app, has been deployed by Telangana’s public health and family welfare department to identify, carry out live surveillance, track, monitor, and provide real-time analytics to the chief minister’s office and health department.
+
+It also uses chatbots to interact daily with symptomatic or confirmed positive patients and enables each health-caller to handle over 1500 calls to remind patients to self-administer the prescribed treatment. “One of the key features is Geotagging and GPS tracking of the home quarantined person, to ensure that they are not breaching the quarantine. In case of any breach, accurate information is pushed to the authorities. Every detail reported reaches the CMO through various updaters like ASHA workers, doctors, police and the concerned bureaucrat,” said Dharma Teja Nukarapu, founder & CEO, Vera Smart Healthcare. Telangana’s director of public health Dr G Srinivas Rao said the system has helped the government track and monitor foreign returnees as well as community spread. It has also helped track those who were hospitalised for SARS earlier. 
+
+

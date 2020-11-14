@@ -1,0 +1,23 @@
+Meet ‘Captain Arjun’, Pune railway station’s frontline Covid fighter
+2020-06-13
+PUNE: ‘Captain Arjun’ has nothing to avenge like the popular Captain America, but it has a stellar role to play in the battle against coronavirus.
+
+
+This artificial intelligence-based robot stationed at the Pune railway station conducts thermal scanning of passengers, educates them on preventing the Covid-19 spread and displays utmost sensitivity to suspicious and abnormal activity.
+
+The robot, which costs around Rs70,000, is an important member of the railway protection force (RPF) and was deployed at the station by senior officials of the Central Railway, including general manager Sanjeev Mittal.
+
+“Captain Arjun is equipped with a motion sensor, a ‘Pan, Tilt, Zoom’ (PTZ) camera and a dome camera. The cameras use artificial intelligence algorithms to track suspicious activities and also have an inbuilt siren system. 
+
+
+Covid warrior for the railways
+
+There is also an inbuilt internal storage for recording, in case of network failure. The robot can conduct thermal screening and recording temperature in a digital display panel with a response time of 0.5 seconds. If any person’s temperature is more than the reference range, an ‘abnormal’ automatic alarm will go off,” an RPF official said.. 
+
+The robot has a two-way communication mode — voice as well as video — and also speaks the local language. It has speakers to play awareness messages on Covid-19. It also has a sensor-based sanitiser and mask dispenser. “The robot has a floor sanitisation facility with battery backup. It has rugged wheels that support all surfaces,” the official said. 
+
+An RPF official said the robot cannot move on its own and has to be remote controlled. “Our staff will operate the robot with the help of a tablet. However, the camera can tilt, zoom and move in all directions by itself. If the robot sees a crowd, the alarm starts immediately to alert the staff,” the official said. The robot will soon also be able to answer passengers’ queries about arriving trains with the help of a person operating it. 
+
+“The high infection rate of the contagion across the world has hampered the efforts to tackle Covid-19, which made us consider robotic screening. The robot can be deployed for multiple uses and is an effective element in station access control. It will augment the station’s security plan,” said Bohra, deputy inspector general (RPF) of the Central Railway, who has developed the robot. 
+
+

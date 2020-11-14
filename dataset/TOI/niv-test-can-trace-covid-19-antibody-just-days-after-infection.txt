@@ -1,0 +1,27 @@
+NIV test can trace Covid-19 antibody just days after infection
+2020-05-17
+PUNE: The blood test based on enzyme-linked immunosorbent assay (or Elisa), recently developed by the Indian Council of Medical Research-National Institute of Virology (ICMR-NIV) in Pune, can pick up the antibody capable of neutralizing SARS-CoV-2 virus in as little as seven to 14 days of Covid-19 infection.
+
+Using the NIV's diagnostic tool during mass screenings across the country can determine the extent of community spread far more accurately than rapid test kits.
+
+The ICMR-NIV has now handed over the diagnostic technology to Ahmedabad-based pharma major Zydus Cadila for quick large-scale production.
+
+"Our Elisa-based blood test detects a key antibody called immunoglobulin G or IgG, which is capable of inhibiting virus replication from an infected person's blood sample in as early as seven days post-infection and in the majority of cases, within 14 days of infection or exposure to the virus, very reliably," scientist Priya Abraham, director of ICMR-NIV told TOI.
+
+The antibody test determines if there was ever infection in a body. "The test does not look for the current, but past infection or exposure to the virus. For the sick, a molecular test called PCR continues to be the gold standard," Abraham told TOI.
+
+But does the detection of the IgG antibody mean the person is now resistant to reinfection? "No, it is solely dependent on the concentration of the antibody in the blood - it's called the 'antibody titer'. It is yet to be studied for Covid-19," Abraham said.
+
+The presence of some antibodies in the blood does not guarantee protection from recurrence. There has to be that optimum concentration of the antibodies in the blood. In other words, it is the strength and longevity of the antibody in the person's blood that will determine protection against the virus to some extent, experts said. 
+
+"That longevity of the antibody can be determined by our Elisa test. We can fairly predict how long the Covid-19 antibodies will last in the human body. However, the strength of the antibody needs to be determined by other assays. It is yet to be studied for Covid-19," Abraham said.
+
+One reason the development of serological or blood tests for Covid-19 has lagged behind molecular (PCR) tests is that the process requires a supply of blood from recovered (convalescent) patients. But the team of ICMR-NIV researchers, led by scientists Gajanan Sapkal and Pragya Yadav, developed the Elisa-based blood test in a record one month.
+
+The collection of blood samples from recovered patients (and negative patients) was a challenge. "Scientists at ICMR-NIV took efforts by personally interacting with Covid-19 patients in the hospital to collect blood samples," Abraham said.
+
+The Elisa test can help answer big public health questions - including how many people have actually been infected - by carrying out mass testing/surveillance activity in hotspots or particular demographics. "It was an urgent national priority to develop the Elisa test for Covid-19 and hand over the technology to an Indian firm for mass production after many imported rapid test kits were found faulty. The specificity of the ELISA test is generally higher than the rapid tests," Abraham said.
+
+One of the main challenges in containing the spread of SARS-CoV-2 is the diagnosis of a large population. "The majority of asymptomatic cases might have remained undetected due to limited resources for molecular (PCR) diagnosis. Random screenings using our Elisa test, even at specific locations that are still naive to the disease, will help determine the actual burden of the disease. It will help estimate the virus spread in the community," Abraham said.
+
+

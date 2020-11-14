@@ -1,0 +1,23 @@
+Mohali: Quarantined? Post selfie every hour for app tracker
+2020-04-06
+By: 
+Piyush Sarna
+
+MOHALI: The Mohali police have launched an app for android users by the name 'Covid Control'. Those who are quarantined, have to click a selfie every hour and upload it on the app, which is mandatory for people under quarantine. 
+
+The unique thing about the app is whenever a home quarantined person uploads his selfie every one-hour the system will update their location. Also, the quarantined persons cannot switch off their phones as the control room will be notified about the same.
+
+ 
+
+
+This app will make it easier for the health as well as the police department to track the quarantined persons through their mobile phone number location and also with the help of the telecom service providers.
+
+According to the Mohali police officials, the mobile application has been developed to identify and mark quarantined areas as well as people by using geo-fencing technology.
+
+"Any lapse or unauthorised movement will immediately be alerted through a message to the administration control room as well as the person concerned," said an official. 
+
+Mohali senior superintendent of police Kuldeep Singh Chahal, while having a word with TOI, said, "If any person breaches the protocol, he or she will get a warning message and the administration will get a buzzer in the control room. The police control room will be alerted even in case the phone is switched off and strict action will be taken."
+
+Not only for the quarantined, but public can also login to this application and they will be able to see all "red zones" and quarantined or infected areas live on the app. The officials further claimed that the public will also get a notification if they enter an infected area and an alert will be sent to them. 
+
+

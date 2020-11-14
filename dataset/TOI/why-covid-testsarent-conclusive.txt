@@ -1,0 +1,19 @@
+Why Covid testsaren’t conclusive
+2020-05-08
+CHENAI: On Wednesday, 15 of the 25 samples tested by the lab at the Government Villupuram Medical College turned negative in the confirmatory test hours after the lab technicians had confirmed that the screening tests were positive. At the Covid-19 control room, officials were already suspecting technical errors when districts such as Chengalpet, Cuddalore and Ariyalur were reporting a sudden spike as a spill over from the Koyambedu cluster.
+
+For instance, cases in Ariyalur went up from 34 on May 5 to 222 on Wednesday and 246 on Thursday. Cuddalore, where there were 39 cases on May 3, touched 356 cases and Villupuram, which had 53 cases, had 205 cases. "In some cases, positivity rate was higher than 70% of the samples tested," said a public health official.
+
+When the announcement about mismatch came in, there was a loud murmur. "It used to happen earlier but the numbers weren’t this large," said health minister C Vijayabaskar. "We are now seeing a wave of new cases. Labs are also seeing variations. Yet, we told the lab not the declare sample negative, but to repeat the test for the second time," he said. The department is planning to send a team of senior microbiologists and virologists to labs for standardisation of testing.
+
+Senior virologists and doctors say a number of factors from sample collections, technical issues with the kit or machine and inexperienced staff can cause ‘errors’.
+
+The RT-PCR test available in the market follows two methods -- one-step and two-step protocols. In the two-step testing kit used by government labs in Tamil Nadu, the first step called ‘screening’ looks for one antigen-coding gene envelope from the patient’s nasal or throat swab sample. If this turns out to be positive, the same sample is moved for a confirmatory test which looks for another antigen-coding gene - RdRp. If RdRp is also positive, the patient is declared positive. Else the virologist declares the sample negative.
+
+"In our tests RdRp turned negative in several cases," said a senior doctor at Villupuram Medical College. "We were not able to conclusively declare them as negative because almost all patients are asymptomatic," the doctor said.
+
+Though rare, National Institute of Virology (NIV), an apex referral lab for Covid-19, says it has received such complaints. "If confirmatory tests are negative, after screening shows positive, we ask labs to collect the second specimen from the same individual and repeat the tests," said the lab’s senior virologist. An internal control or ‘house-keeping gene’ plays a very decisive role in confirming the test results. "The gene RNAseP (RP) is like a host cell or house-keeping gene. This serves as an internal control in each test. PCR is valid only if this returns positive. Else test is declared inconclusive," he said.
+
+The problem, virologists say, may be due to combination of reasons. The simplest reason that doctors point to is the case of false negatives. "Sometimes healthcare workers may not have collected enough material (nasal or throat secretions) on the swab. If this happens, the machine may spin a false negative result at the time of discharge. There is up to 30% chance of false negative or missing out on detection of an infected patient due to error in drawing throat or nasal samples," said infectious diseases expert Dr Subramanian Swaminathan.
+
+

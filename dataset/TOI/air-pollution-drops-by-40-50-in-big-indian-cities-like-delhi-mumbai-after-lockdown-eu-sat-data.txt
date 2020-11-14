@@ -1,0 +1,14 @@
+Air pollution drops by 40-50% in big Indian cities like Delhi, Mumbai after lockdown: EU sat data
+2020-04-27
+The 32-day national lockdown has started showing its positive effect on air quality across the country as big cities like Delhi and Mumbai see pollution levels drop by around 40-50%, according to data received from a European satellite system.
+
+New satellite maps, produced using data from the Copernicus Sentinel-5P satellite, show averaged nitrogen dioxide concentrations over India from January 1 to March 24 and March 25 (the first day of the lockdown) to April 20 and compared them to the same time-frame as last year. “The significant reduction in the NO2 concentrations can be seen over major cities across India. Mumbai and Delhi saw drops of around 40-50% compared to the same time last year,” according to the European Space Agency (ESA).
+
+Claus Zehner, ESA’s Copernicus Sentinel-5P mission manager, says, “Thanks to the Tropomi instrument on the Sentinel-5P satellite, we are able to observe such high reductions in concentrations in Europe, China and now India because of the national quarantine measures put in place. The significant reduction in the concentrations can be seen over major cities across India.”
+
+“What is interesting in these new maps are the high values of NO2 concentrations over northeast India. Our analysis shows that these clusters are directly linked with the locations of the ongoing coal-based power plants. The largest power station in India, the Vindhyachal Super Thermal Power Station, shows a reduction of only around 15% compared to the same time last year.”
+
+ESA’s director of earth observation programmes, Josef Aschbacher, says, “Another interesting feature we can see from these images is the maritime traffic across the Indian Ocean. We can clearly see a faint trail of NO2 emissions left in the atmosphere as commercial ship traffic appears almost the same as last year. The shipping lanes appear as a straight line because the ships follow more or less the exact same route.”
+
+Nitrogen dioxide is usually emitted into the atmosphere as a result from power plants, industrial facilities and vehicles – increasing the likelihood of developing respiratory problems. According to the World Health Organization (WHO), air pollution kills an estimated 70 lakh people worldwide each year. According to data from World Air Quality Report from IQAir, Indian cities make up six of the world’s 10 most-polluted urban areas. Air pollution in Delhi, considered the world’s most polluted city, is caused by fumes from vehicular traffic, the burning of fossil fuels and industrial activity.
+

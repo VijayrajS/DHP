@@ -1,0 +1,28 @@
+Covid-19: HIV drugs can be used in severe cases, says ICMR
+2020-03-15
+NEW DELHI: Anti-HIV drugs, Lopinavir and Ritonavir, can be used to treat Covid-19 patients in severe cases.
+
+India’s top health research body, the Indian Council of Medical Research (ICMR), has suggested this in the treatment protocol for Covid-19 published by it in IJMR, a medical journal.
+
+Lopinavir and Ritonavir, the protocol suggests, can be used in adults over 18 years of age who are confirmed positive for Covid-19 and have complications such as: severe respiratory distress, very low blood pressure and new-onset organ dysfunction. It has fixed parameters to decide how severe the respiratory distress should be for the fixed dose combination to be used on a patient.
+
+ 
+ 
+
+Similar parameters have been fixed for other possible complications as well, upon which the drug can be used to save the patients.
+
+According to ICMR experts, the inclusion of the anti-HIV drugs for treating Covid-19 was based on earlier evidence about their effectiveness against SARS and MERS coronaviruses that led to outbreaks in different parts of the world in 2002-03 and 2012, respectively, as well as the docking studies conducted by National Institute of Virology, Pune.
+
+“Use of IFN-B1b (a drug used for treating multiple sclerosis) and Ribavarin (an antiviral medication used to treat certain respiratory infections, hepatitis C and some viral haemorrhagic fevers) was not considered due to their reported toxicity whereas Oseltamivir (used to treat swine flu) was not considered due to its unproven efficacy against CoVs (coronaviruses),” states the treatment protocol published in Indian Journal of Medical Research (IJMR). The fixed dose drug combination (Lopinavir/Ritonavir 200 mg/50 mg) is to be given two tablets every 12 hours for 14 days or for seven days after becoming symptomatic, whichever is earlier, as per the protocol.
+
+The anti-HIV drugs have been tried on some Covid-19 patients in India already, including the Italian national admitted at Sawai Man Singh hospital in Jaipur, with promising results, said sources.
+
+Recently, in a draft report made public by World Health Organisation, the experts claimed Lopinavir and Ritonavir — either alone or in combination with IFNbeta was the suitable second option for rapid implementation in clinical trials among the repurposed drugs under consideration for Covid-19.
+
+WHO experts claimed that Remdesivir, a drug developed for use against Ebola, is most promising for treating Covid-19.
+
+“This is because the in-vitro (tests performed in test tube) and in-vivo (tests performed in living organism) data for the drug are available for coronaviruses.” 
+
+“Further, studies in mice using Remdesivir showed superior efficacy over Kaletra+IFNbeta,” they stated in the draft report. Remdesivir slows the infection of healthy cells by blocking viral replication.
+
+

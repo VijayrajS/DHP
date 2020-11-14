@@ -1,0 +1,15 @@
+Robot to serve food to Covid-19 patients
+2020-05-21
+Belagavi: To minimise the risk of Covid-19 spread among health workers, Belagavi Institute of Medical Sciences (BIMS) has deployed an IOT (Internet of Things) based robot to serve food, water and medicines to novel coronavirus patients. 
+
+The robot has been developed by members of the Rashtriya Swayamsevak Sangha (RSS) and trial operations were started three days ago at the hospital. The hospital staff were given necessary training. 
+
+The robot, named Annapurna, has several compartments, a sensor-based water dispenser, a camera, a speaker and other features. The machine was developed by a team of four engineers who are members of Bharatiya Vichar Manch, an offshoot of the RSS. The team members – Shailendra Parikh, Tulsidas Salunke, Bharat Kurpe and Banudas Salunke - said they developed Annapurna in line with Prime Minister Narendra Modi’s Make in India call. The cost incurred to develop the robot was Rs 40,000 as some of the required materials were either donated or available with the team. 
+
+BIMS director Vinay Dastikop told TOI the machine is being tested and has started trial operations in non-Covid wards. “Once the staff become perfect in operating it, we will start sending the bot to coronavirus wards,” he said. 
+
+Shailendra Parikh, the lead of the team that developed Annapurna, said the robot is can be using a mobile phone sitting anywhere inside BIMS. A camera and speaker are installed on the machine for navigation and communication. The image captured by the camera can be seen on the mobile. The bot, which runs on wheels, has compartments for food packets and medicines. It can run continuously for seven hours once fully charged. 
+
+Parikh said a patient can communicate with the staff through the camera and must collect food by himself/herself. To draw water, the person only needs to simply place a glass under the sensor-based tap. The team is currently developing and an advanced machine which will have facilities to check BP and pulse. It will also be handed over to BIMS, he added. 
+
+

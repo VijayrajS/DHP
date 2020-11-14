@@ -1,0 +1,19 @@
+Lockdown till May 31 can stall coronavirus pandemic, says study
+2020-05-10
+NEW DELHI: A possible maximum of three million people will be infected by October if the ongoing third phase of lockdown till May 17 is "implemented with full vigour" but the absence of the two lock downs may have seen a projected maximum that would be as high as a staggering 171 million cases, a study of the Mumbai-based International Institute for Population Sciences has said.
+
+
+
+The study makes its projections while noting that the lockdown has succeeded in significantly reducing the burden of infections in India. The analysis shows that if the ongoing third phase is implemented effectively and the lockdown is extended until May 24 the reproduction rate is likely to become less than one (0.975) and if further extended till May 31, the RO will be 0.945. In this scenario, the Covid-19 pandemic may begin to recede and infected cases shall start to decline and less than 0.01% (0.14 million) of the India’s population is likely to be infected by July 2020.
+
+“These estimates clearly suggest that the two lockdowns have played a key role in reducing the number of (maximum projected) peak infections by about 140 million,” said Professor Abhishek Singh from IIPS. The researchers arrive at this conclusion after analysing data on RO of infection prior to the lockdown and the following two phases of lockdown from March 25-April 14 and April 15 to May 3.
+
+However, if the third phase does not deliver requisite results and the RO of infections remains at what it was in the second phase of lockdown from April 15 to May 3, then the number of people estimated to be infected with Covid-19 could go up to a high 20 million by October.
+
+These are the findings of a study on the future projections of Covid-19 infections in India based on RO of infections till May 3. In the study steered by researchers at the department of public health and mortality studies at IIPS, it is pointed that the strategy of lockdown has contributed in flattening the curve of infection and is also likely to reduce the burden of infection tremendously in India.
+
+Covid-19 infection started in India by the end of January 2020 and spread across all the states by April 2020. As on May 5, 2020, the total number of active cases was 32,138, cured and discharged were 12,726, deaths were 1,568, and one person had migrated.
+
+The infection was spreading at a much faster rate before the lockdown (R0 = 1.862) and if the same situation would have prevailed then an estimated maximum 12.9 % of India’s population would have got infected by the first week of June 2020. The R0 1.862 declined to 1.455 and 1.200 during the first and second lockdown periods respectively. The combined R0 for the two lockdown periods was 1.258. “For a given recovery rate (0.363), as R0 reduces from 1.862 to 1.200, highest estimated prevalence reduces from 12.9% to 1.5%. At the same time, the corresponding duration of pandemic increased from two months to more than 6 months,” it is pointed by the authors of the research paper.
+
+However, Covid-19 case recovery rate in India is a matter of concern as it is comparatively very low. This may be due to the early stage of the infection in the country. However, the researchers point that the government must take measures to try to push the case recovery rate, in the absence of which the chance of re-occurrence of infection is very high.

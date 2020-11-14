@@ -1,0 +1,22 @@
+Kerala startup identifies potential anti-Covid drug molecules
+2020-03-06
+KOCHI: A Kerala-based startup has identified two commercially available antiviral drug molecules that may hold some potential in the battle against Covid-19, through computational modelling.
+
+
+The identified molecules also has biomarker property and could have possible future use in developing kit that can easily detect Covid-19.
+
+A small team of ‘OpenMind’ researchers at the artificial intelligence lab of Accubit Technologies, based in Thiruvananthapuram, which is in the process of setting up bio research and development lab, identified molecules that interacts with the COVID-19 protease (a type of enzyme) through virtual molecular docking analysis. The study was done using the software called Discovery Studio at department of computational biology and bioinformatics of University of Kerala.
+
+Computational drug discovery is an effective strategy used by pharmaceutical firms worldwide for accelerating research and reducing the cost of drug discovery.
+
+Nidhin said they only have computational expertise regarding drug development because they dont have a lab yet. "This is purely computational work. We haven't taken even a single test tube in our hand. This is not a validated drug as well," said Nidhin Sreekumar, chief research scientist, Accubits Invent, adding that what they have identified is lead molecule which could have a potential effect.
+
+"The drug molecule is having an interaction but we dont know whether it will suppress corona virus or go for a stasis. This has to be proved from experiments," he said.
+
+The team zeroed in on two commerically available antiviral molecules - Ara-A (Vidarabine), which is active against herpes simplex and Ara-C (Cytarabine) used to treat acute myeloid leukemia (AML). These antivirals are sources from sponges and seaweeds, he said. "We knew that starting from scratch is not going to work because drug development is a long process that requires lengthy clinical trials and human trials. These molecules, which are commercially available, have already passed clinical trials," said Nidhin.
+
+Aharsh M S, co-founder and CMO, Accubits, said their primary focus is on artificial intelligence and blockchain technologies from a development perspective. “This research stemmed from the Invent, the AI research lab of Accubits,” he said.
+
+“Now humanity is facing such a big issue. People should be willing to undertake such initiatives and open it up for the benefit of all,” said Nidhin.
+
+

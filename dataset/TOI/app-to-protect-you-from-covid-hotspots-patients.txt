@@ -1,0 +1,11 @@
+App to protect you from Covid hotspots, patients
+2020-05-13
+Surat: With Covid fears topmost on people’s minds, a city-based start-up has developed a android mobile application that will protect people from straying into hotspots or from coming in close contact of positive patients.
+
+Yash Sanghavi, 28, and his team developed the named ‘Avira-19’, a mobile application for Surat citizens that can be downloaded from a web portal, responscity.com. Sanghvi’s firm develops solutions for civic bodies, early warning system on floods for districts among others.
+
+“Avira-19’ app is a hyper local app designed for Surat City. It is a location-based and time-enabled data that is visually represented on a map and keeps track of Covid-19 infections across the city. The system is designed in a manner that it can alert citizens in advance, if they get too near to any red zones. It also allows citizens to create an alert for a particular zone, and to know if any new cases have been registered near them. The positive patient’s data is collected from the Surat Municipal Corporation,” said Sanghavi while explaining to TOI about the app’s functionality. 
+
+“We have over 3,000 active users of the city and aim to maximize our outreach. The idea is to stop spread of the deadly contagion by sensitizing people and help in flattening the curve,’’ he said. While its homepage will show all the registered active (Red), recovered (Green) and deceased (Black) cases of Surat on a map, users can also get info on total number of cases in the city, he added. 
+
+

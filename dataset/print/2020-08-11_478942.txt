@@ -1,0 +1,23 @@
+Why stopping ‘super-spreading’ events may be key to arresting the Covid pandemic
+New Delhi: The ill-timed presence of just a few infected people in crowded places helped spread the novel coronavirus to almost every corner of the world, US scientists have said in a study. 
+Yet to be peer-reviewed, the study by researchers from Fred Hutchinson Cancer Research Center, US, says stopping such “superspreading” events may be key to arresting the Covid-19 pandemic. 
+Drawing a comparison between SARS-CoV-2, which causes Covid-19, and influenza, the researchers said the former may be more amenable to “super-spreading events”.
+The study, which is based on mathematical modelling, has been published on medRxiv (pronounced ‘Med Archive’), a portal where researchers post unpublished but complete work that hasn’t been peer-reviewed yet.
+According to the researchers’ findings, most people infected with SARS-CoV-2 do not transmit the virus to anybody. However, a small percentage of those infected spread the virus to large numbers of people, the researchers said.
+Super-spreading events usually occur when one person — who is at the stage of infection when the body sheds the largest amounts of virus — ventures into a large gathering, the researchers said.
+Such events have been associated with large surges in coronaviruses cases around the world. In India, a religious gathering in Delhi this March by members of the Tablighi Jamaat led to a rise in the number of cases. The famous Tirupati temple in Andhra Pradesh, which reopened on 11 June after the lockdown, is now emerging as a super-spreader site. 
+The findings of the researchers at Fred Hutchinson Cancer Research Center are in line with a June study that had reportedly said 20 per cent of coronavirus cases accounted for over 80 per cent of transmissions. 
+Also Read: Preacher who was Punjab’s 1st Covid-19 death could have been a ‘super-spreader’
+At the heart of the new study is a comparison between SARS-CoV-2 and influenza, and the difference in their shedding patterns.
+“We designed mathematical models of SARS-CoV-2 and influenza which link observed viral shedding patterns with key epidemiologic features of each virus, including distributions of the number of secondary cases attributed to each infected person and the duration between symptom onset in the transmitter and secondarily infected person,” the authors wrote in the study.
+They found that, for both influenza and SARS-CoV-2, infected people are usually contagious for less than two days, when they are at the peak viral load several days after infection. 
+In both cases, transmission is unlikely below a certain viral load, the team says. 
+However, in that small window when a person is most contagious, those infected with SARS-CoV-2 are likely to spread the virus to a larger number of people than those infected with influenza — even if both come in contact with the same number of susceptible people. 
+“The higher predisposition of SARS-CoV-2 towards super-spreading events is not due to its 1-2 additional weeks of viral shedding relative to influenza,” the authors wrote. 
+Rather it may have to do with the difference in the way the two viruses travel when an infected persons coughs or sneezes. 
+Joshua Schiffer, one of the study authors, was quoted by The New York Times as saying that “SARS-CoV-2 may be amenable to super-spreading than flu viruses because it is better at persisting in contagious clouds, which can ferry pathogens over relatively long distances”.
+Thus a mix of the wrong circumstances — a person venturing into a packed crowd in the two-day period when their viral shedding is at the peak — is what helped the virus find such a large number of victims.
+However, the researchers cautioned that the virus can spread outside the high-risk window as well. 
+Since a number of patients show no symptoms, it remains difficult to identify those who are infectious. For this reason, people should not stop wearing masks or taking hygiene precautions like frequent hand-washing and social distancing. 
+The study reiterates that limiting crowd sizes in indoor spaces — a measure that has been imposed by a number of countries — can indeed help prevent super-spreading events. 
+The researchers also said that based on their findings, policy-makers can determine the viral load benchmarks beyond which a person is less likely to spread the virus. 

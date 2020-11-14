@@ -1,0 +1,26 @@
+Karnataka’s positivity rate dips to 14.92%, Jharkhand & Bihar conduct fewest tests
+States Tracker — a daily comprehensive look at how much each state is testing for Covid-19, and how fast and widely the infection is spreading.
+New Delhi: India crossed the 24-lakh mark in coronavirus cases Friday with 24,61,190 cases, 48,040 deaths and 17,51,555 recoveries according to the Ministry of Health and Family Welfare. India crossed the 24-lakh mark just two days after it crossed the 23-lakh mark on Wednesday. India also recorded the highest single-day spike in daily cases with 66,553 new cases Friday.
+In the ThePrint’s daily State Tracker, we take a look at the data on testing and the rate at which the infection is spreading in throughout India.
+For this analysis, we use three parameters:
+Rt value, known as reproduction number, is indicative of the number of new cases that are expected to emerge from a single case. An R value of less than 1 suggests that the rate of infection is slow since an infected patient will only infect less than one person.
+Positivity rate is the percentage of people who are found to be infected by the virus from those who are being tested. This parameter indicates how widespread the disease is.
+Tests per million give insight into the amount of testing being conducted in relation to the population of an area.
+All data is sourced from covidtoday.in.
+Also read: Andaman & Nicobar Islands retain highest positivity rate, Tripura records lowest infection rate on 12 August
+
+India’s Rt value changed to 1.08 in the last 24 hours, dipping from 1.09 Wednesday.
+Tripura continued to record the lowest Rt value in the country at 1.08, its value slightly decreasing from Wednesday. This was followed by Nagaland at 0.93, Mizoram at 0.95, Sikkim at 0.98) and Jammu and Kashmir at 1.03.
+Apart from Tripura and Jammu & Kashmir, which maintained their low Rt values, the other states — Andhra Pradesh, Tamil Nadu, Madhya Pradesh and Gujarat — saw their Rt values increase.
+The states with the highest Rt values also changed since Wednesday. Puducherry joined Chandigarh in recording the highest Rt value at 1.31. This was followed by Uttarakhand at 1.25, replacing Andaman and Nicobar Islands which moved down to the third spot with 1.24. This position was also shared by Assam and Goa. Ladakh came fourth with 1.20 while Punjab and Arunachal Pradesh shared the fifth spot with an Rt value of 1.19.
+
+The positivity rate in India recorded a decrease, settling at 8.85 per cent on 14 August from 9.49 per cent on 12 August.
+The lowest positivity rate in the country was recorded in Meghalaya at 1.88 per cent. This was followed by Arunachal Pradesh at 2.80 per cent, which moved down a spot from Wednesday. Mizoram came next with 2.88 per cent, Gujarat at 3 per cent, and Sikkim with 3.49 per cent.
+Of the states with the highest positivity rates, Andaman and Nicobar Islands remained at the top spot with 63.27 per cent. Puducherry, too, retained its position at number two with  29.74 per cent. This was followed by Goa at 16.97 per cent, replacing Andhra Pradesh that recorded 16.58 per cent. Maharashtra was next with 16.43 per cent while Karnataka, which had earlier been among the top five last week, moved down to the sixth spot at 14.92 per cent.
+
+The national test per million conducted in India as of 14 August 20,194.
+Jharkhand’s testing, on the one hand, decreased as it recorded the lowest tests per million at 10,650. This was followed by Bihar, which improved its testing marginally to become the state with the second-lowest tests per million at 11,037. Madhya Pradesh came next with 11,387. This was followed by Meghalaya with 12,068 tests per million and West Bengal with 12,217 tests per million.
+The states conducting the highest number of states remained the same, with Goa maintaining its lead by conducting 1,00,336 tests per million. Ladakh came next with 81,066 tests. This was followed by Arunachal Pradesh, which moved up a position with 75,698 tests per million. Dadra and Nagar Haveli moved down a spot to number four with 72,722 tests per million. Delhi remained at the fifth position with 67,238 tests per million.
+Also read: Covid transmission rate drops to 1.05 but daily deaths a worry as tally crosses 1,000 again
+ 
+Subscribe to our channels on YouTube & Telegram 

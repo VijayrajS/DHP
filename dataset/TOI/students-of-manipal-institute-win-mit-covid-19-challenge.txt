@@ -1,0 +1,17 @@
+Students of Manipal Institute win MIT Covid-19 challenge
+2020-04-09
+Manipal: A team of three students of Manipal Institute of Technology students has won the Massachusetts Institute of Technology Covid-19 Challenge event.
+
+The ‘Beat the Pandemic’ was a 48-hour virtual event to help tackle the most critical needs caused by the Covid-19 outbreak. 
+
+The hackathon that began on April 4 had participants from across the world. Three students of Manipal Institute of Technology — Akshatha Kamath (third year CSE), Shubham Rateria (CCE batch of 2019) and Adri Rajaraman (ECE batch of 2019) participated in the event and pitched their ideas in the initial session. 
+
+They teamed up with Melia Watson, Washington DC (Respiratory therapist, MBA), Hsiang Wei Hu, Taiwan (cofounder of Acusense Biomed) and Mariane Melo, UK.
+
+They narrowed down to the problem of overcrowded hospitals with inappropriate admissions, whereas less than 5% of the average population under 50 years of age require hospitalisation. 
+
+Their solution was to build a telehealth platform for non-contact monitoring of vital signs, such as heart rate, respiratory rate and blood oxygen concentration using just a phone camera, or web cam at home. Over the weekend, they worked on the proof of concepts, prototypes, and preliminary vision for execution. Throughout the hackathon, several mentors across the US with diverse expertise were available to improve the idea and business proposal. On Sunday, the team reconvened to present their work in the form of a 3-minute long pitch followed by a Question and Answer session with the judges.
+
+The event saw 1,500 participants from 75 plus countries and over 250 mentors. The team were declared as winners of their Track- ‘Who to test and when’. They will now have an opportunity to co-develop and implement their solution with the support of partners. The team looks forward to improve the accuracy of their solution, and incorporate it into telemedicine platforms.
+
+

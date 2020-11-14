@@ -1,0 +1,23 @@
+IISc equipment to make testing faster, cheaper
+2020-03-30
+Bengaluru: Indian Council for Medical Research (ICMR) has given Indian Institute of Science (IISc) the all clear to join the war against the global pandemic more aggressively by allowing its test equipment to be used by diagnostic centres accredited to National Accreditation Board for Testing and Calibration Laboratories (NABL). 
+
+The clearance means the number of Covid-19 detection tests in Karnataka will rise drastically, with test results being provided the same day. Besides being faster, tests will also become cheaper. 
+
+The World Health Organisation (WHO) rules state laboratories should be capable of conducting real time polymerase chain reaction (RT- PCR) that involves converting virus RNA into complementary DNA (cDNA). This requires skilled technicians with knowledge of molecular biology and a number of lab accessories along with approved testing-kits. However, India has a limited number of RT-PCR instruments and only large government and private diagnostic labs have access to them currently.
+
+“We have received approval from competent authorities to allow us to work on Covid-19. To begin with, we will help NABL-approved laboratories to use our equipment to conduct tests,” said Prof Umesh Varshney, chairman of biological sciences division, IISc.
+
+With the scale of infrastructure available at IISc, the number of Covid-19 tests conducted in a day can be ramped up by 1,000. It is expected to boost the government’s ongoing efforts to curb the spread of the virus.
+
+Currently, eight labs in the state conduct about 600 tests per day, which experts say is too little to judge the gravity of the pandemic. So far, the government has conducted about 3,000 tests of which about 82 have returned positive. Experts say more testing is needed.
+
+“We suspect there are many more infected people. The only way to get them under the scanner is to scale up the number of tests,” said Dr CN Manjunath, director, Jayadeva Institute of Cardiology and nodal officer for Covid-19 lab tests. 
+
+Manjunath said the government’s efforts to procure indigenously developed reagents (chemical compounds required to conduct tests) and rapid test kits is among other initiatives aimed at ramping up tests. He said with these rapid kits, test results would be known in 15 minutes, while the conventional polymerase chain reaction (PCR)-based tests take a much longer time.
+
+In another initiative, IISc’s instrumentation of applied physics division has proposed to develop mobile diagnostic laboratories capable of collecting and processing samples (BSL-2) and perform Covid-19 tests. 
+
+“The turnaround time for 12 samples would be three hours. Also, it substantially reduces costs,” said Prof Sai Siva Gorti, associate professor at instrumentation and applied sciences division. 
+
+

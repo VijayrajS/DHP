@@ -1,0 +1,26 @@
+#LifeintheLockdown: Academics and admissions now go online
+2020-04-14
+When the Coronavirus pandemic forced schools to close in early March, most students were thrilled about the extra holidays they were getting. But those slated to appear for Board exams next year will now begin to cover portions over online classes. This week, many schools sent out schedules for online classes, with Zoom meeting IDs for students to log in, giving distance education a new meaning.
+Asha Dinesh’s* daughter’s summer school for Class 10, was cut short in March, but is all set to resume this week. “A lot of parents have concerns about the reported security breaches associated with this app. But going by the situation now, it is uncertain when normal school will resume and my priority is for my daughter Ramya to be able to finish the portions by November, as per schedule. Attendance is compulsory and the chapters covered in these classes will not be repeated,” she says.
+But there are concerns that can’t be ignored. For instance, class 12 teacher Geetha Narayan* found 68 students in attendance during her first Zoom class this week, for a batch strength of only 45. “Some students sent class details to outsiders. During the session, an obscene comment appeared in the chat section, so I had to disable the option,” she shares.
+It is not only classes that have gone online, even admission processes — including entrance exams and one-one-one interviews — are now on the web. Rosh K Joy, public relations officer from Christ (deemed-to-be) University, says, “For undergraduate courses, the entrance tests and interviews will be online from April 15.” At Jain (deemed-to-be) University too, online tests have begun for fresh admissions. Dinesh Nilkanth, admissions director, says that the administration will take a final call only after the results of Class 12 and Pre-University exams are published.
+
+
+Keep your online class safe
+Vijay Raj, cyber security risk evangelist, shares a few pointers on how teachers and parents can ensure that the online classrooms are safe for students...
+
+
+ Do not make meetings or classrooms public. In online meeting services, there are two options to make a meeting private — a meeting password or the waiting room feature to control the admittance of guests. Some platforms also provide settings to disable attendees joning the meeting before the host; leverage that. Also, as host, you can disable file-sharing options during the session.
+ When there is a possibility, use a co-host who can monitor the list of attendees and their activities.
+ Do not share a link to a teleconference or classroom on an unrestricted publicly available social media post. Share the link directly to specific people. Do not maintain a distribution list (DL) to send invites. Always choose who needs to be a part of the meeting and include them. 
+ In a classroom kind of atmosphere, ensure that you set up the screen sharing permission to ‘Host-Only’.
+ As an attendee, ensure you’re attending the right meeting. Phishing is a potential threat — you may click on a link, that could land up in some other website which could potentially steal your data.
+ Ensure you are using the latest version of the application either on mobile or desktop.
+ Try to use a virtual background so that, your environment and others at home do not appear in the meetings.
+ Although it is more of an old-school practice, use a webcam cover for your laptops and use video only when required.
+
+— with inputs from Sunayana.Suresh@timesgroup.com
+
+
+
+
