@@ -54,6 +54,6 @@ srsly==1.0.2
 thinc==7.4.1
 toml==0.10.1
 tqdm==4.48.2
-urllib3==1.25.10
+urllib3==1.26.5
 wasabi==0.8.0
 webencodings==0.5.1
